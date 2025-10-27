@@ -13,9 +13,11 @@ import re
 
 
 class ICAJSONGenerator:
-    def __init__(self):
+    def __init__(self, input_dir: str, output_dir: str):
         # self.input_dir = "ICAS"
-        self.input_dir = r"C:\Coding\AirData\RepositorioSemantico\ICA_Extractor"
+        # self.input_dir = r"C:\Coding\AirData\RepositorioSemantico\ICA_Extractor"
+        self.input_dir = input_dir
+        self.output_dir = output_dir
 
     def get_caminhos(self) -> list[str]:
         """Retorna uma lista com os caminhos completos de todos os arquivos dentro de um diretório."""
@@ -59,7 +61,7 @@ class ICAJSONGenerator:
 
             salvar_artigos_json(
                 artigos_estruturados,
-                fr"C:\Coding\AirData\RepositorioSemantico\ICA_Extractor\{numero_ica}.json",
+                os.path.join(self.output_dir, fr"\{numero_ica}.json"),
                 'legivel'
             )
 
@@ -198,6 +200,7 @@ def extrair_numero_ica(texto: str) -> str:
     match = padrao.search(texto)
     if match:
         return f"ICA {match.group(1)}"
+    raise Exception("Número do ICA não encontrado por texto")
     return "ICA Desconhecido"
 
 
@@ -397,10 +400,10 @@ def salvar_artigos_json(artigos: List[Dict], caminho_saida: str, formato: str = 
         formato: 'compacto', 'legivel' ou 'estruturado'
     """
     # Garantir que o diretório de saída existe
+    print(caminho_saida)
     diretorio = os.path.dirname(caminho_saida)
     if diretorio and not os.path.exists(diretorio):
         os.makedirs(diretorio)
-
     if formato == 'compacto':
         # Formato compacto (sem indentação, economiza espaço)
         with open(caminho_saida, 'w', encoding='utf-8') as f:
@@ -429,8 +432,10 @@ def salvar_artigos_json(artigos: List[Dict], caminho_saida: str, formato: str = 
 
 
 if __name__ == '__main__':
-
-    ica_json_generator = ICAJSONGenerator()
+    ica_json_generator = ICAJSONGenerator(
+        input_dir='ICAS',
+        output_dir="Repositorio-Semantico/JSONs/ICA"
+    )
     ica_json_generator.process_documents()
 
 
