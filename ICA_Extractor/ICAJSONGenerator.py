@@ -1,30 +1,26 @@
 import hashlib
 import json
-import sys
 from datetime import datetime
 from typing import List, Tuple, Dict
-
-import unicodedata
-from pypdf import PdfReader
-import pytesseract
-import pdfplumber
 import os
 import re
 
 
 class ICAJSONGenerator:
     def __init__(self, input_dir: str, output_dir: str):
-        # self.input_dir = "ICAS"
-        # self.input_dir = r"C:\Coding\AirData\RepositorioSemantico\ICA_Extractor"
-        self.input_dir = input_dir
-        self.output_dir = output_dir
+        """
+        Classe que cria JSONs contendo os textos dos artigos a partir do
+        texto extraido do arquivo, em .txt
+        """
+        print('Instância criada!')
+        self.input_dir = os.path.join(os.getcwd(), input_dir)
+        self.output_dir = os.path.join(os.getcwd(), output_dir)
+        print(f'Caminho de entrada: {self.input_dir}')
+        print(f'Caminho de saida: {self.output_dir}')
 
     def get_caminhos(self) -> list[str]:
         """Retorna uma lista com os caminhos completos de todos os arquivos dentro de um diretório."""
-        # return [r'C:\Coding\AirData\RepositorioSemantico\ICA_Extractor\test.pdf']
-        # return [r'C:\Coding\AirData\RepositorioSemantico\ICA_Extractor\ICA_grande.pdf']
-        # return [r'C:\Coding\AirData\RepositorioSemantico\ICA_Extractor\ICA_medio.pdf']
-        extensoes = [".pdf"]
+        extensoes = [".txt"]
         caminhos = []
         for raiz, _, arquivos in os.walk(self.input_dir):
             for arquivo in arquivos:
@@ -47,12 +43,13 @@ class ICAJSONGenerator:
             print(f'Caminho de arquivo: {file_path}')
 
             # Textos separados por página
-            textos = extrair_texto_pdf(file_path)
-
+            with open(file_path, 'r', encoding='utf-8') as arquivo:
+                textos = arquivo.read().split('--- PÁGINA ---')
+            print(textos)
             primeira_pagina = textos[0]
             # revogada = get_ica_revogado(primeira_pagina)
 
-            numero_ica = extrair_numero_ica(primeira_pagina)
+            numero_ica = extrair_numero_ica(file_path)
 
             # Extrair data de publicação (você pode criar uma função específica para isso)
             data_publicacao = extrair_data_publicacao(primeira_pagina)
@@ -61,58 +58,13 @@ class ICAJSONGenerator:
 
             salvar_artigos_json(
                 artigos_estruturados,
-                os.path.join(self.output_dir, fr"\{numero_ica}.json"),
+                os.path.join(self.output_dir, fr"{numero_ica}.json"),
                 'legivel'
             )
 
             print('-'*20)
-            break
         print('PROCESSO DE CRIAÇÂO DE JSONS ENCERRADO')
         print('-'*40)
-
-
-def extract_text_pypdf2(pdf_path):
-    reader = PdfReader(pdf_path)
-    extracted_text = ""
-    for page in reader.pages:
-        extracted_text += page.extract_text()
-    return extracted_text
-
-
-def extrair_texto_pdf(caminho_pdf: str) -> List[str]:
-    """Extrai todo o texto de um arquivo PDF e retorna como uma única string."""
-    textos = []
-    with pdfplumber.open(caminho_pdf) as pdf:
-        for pagina in pdf.pages:
-            texto = pagina.extract_text() + "\n"
-            textos.append(texto)
-            # print(texto)
-    return textos
-
-
-def extrair_texto_com_ocr(caminho_pdf: str) -> list[str]:
-    """Extrai texto de um PDF, mesmo se as páginas forem imagens."""
-    texto_total = ""
-    textos = []
-    with pdfplumber.open(caminho_pdf) as pdf:
-        for i, pagina in enumerate(pdf.pages):
-            texto = pagina.extract_text()
-            if texto and texto.strip():
-                texto_total += texto + "\n"
-                textos.append(texto + "\n")
-            else:
-                # Faz OCR na imagem da página
-                imagem = pagina.to_image().original
-                # --psm 6 é pra ler livros, páginas bem padronizadas e com muito texto
-                # -c load_freq_dawg=1 -c load_system_dawg=1 faz o tesseract usar o dicionário.
-                config_tesseract_str = "-c preserve_interword_spaces=1 --psm 3 -c load_freq_dawg=1 -c load_system_dawg=1"
-                texto_ocr = pytesseract.image_to_string(imagem, lang='por', config=config_tesseract_str)
-                texto_total += texto_ocr + "\n"
-                textos.append(texto_ocr + '\n')
-            print(f"Página {i+1} processada.")
-    # return texto_total
-    return textos
-
 
 def get_ica_revogado(texto: str):
     # print(texto)
@@ -192,16 +144,15 @@ def get_articles_simplificado(texto: str, debug=False) -> list[str]:
     return artigos
 
 
-def extrair_numero_ica(texto: str) -> str:
+def extrair_numero_ica(caminho_completo: str) -> str:
     """
-    Extrai o número do ICA da primeira página.
+    Extrai o número do ICA do nome do arquivo.
     """
-    padrao = re.compile(r'ICA\s+(\d+-\d+)', re.IGNORECASE)
-    match = padrao.search(texto)
-    if match:
-        return f"ICA {match.group(1)}"
-    raise Exception("Número do ICA não encontrado por texto")
-    return "ICA Desconhecido"
+    nome_arquivo = os.path.basename(caminho_completo)
+    print(nome_arquivo)
+    nome_sem_ext = os.path.splitext(nome_arquivo)[0]
+    print(nome_sem_ext)
+    return nome_sem_ext
 
 
 def extrair_data_publicacao(texto: str) -> str:
@@ -285,7 +236,7 @@ def extrair_artigos_estruturados(textos: List[str], numero_ica: str, data_public
 
     capitulos = [(m.start(), m.group(1), m.group(2).strip()) for m in padrao_capitulo.finditer(texto_completo)]
     print(f'\n📌 Capítulos extraídos ({len(capitulos)}):')
-    for pos, num, nome in capitulos:
+    for pos, num, nome in capitulos[:5]:
         print(f'   Posição {pos}: CAPÍTULO {num} - {nome[:50]}...')
 
     secoes = [(m.start(), m.group(1), m.group(2).strip()) for m in padrao_secao.finditer(texto_completo)]
@@ -400,7 +351,6 @@ def salvar_artigos_json(artigos: List[Dict], caminho_saida: str, formato: str = 
         formato: 'compacto', 'legivel' ou 'estruturado'
     """
     # Garantir que o diretório de saída existe
-    print(caminho_saida)
     diretorio = os.path.dirname(caminho_saida)
     if diretorio and not os.path.exists(diretorio):
         os.makedirs(diretorio)
@@ -431,10 +381,35 @@ def salvar_artigos_json(artigos: List[Dict], caminho_saida: str, formato: str = 
     print(f"✅ {len(artigos)} artigos salvos em: {caminho_saida}")
 
 
+def garantir_cwd_para(pasta_alvo):
+    """
+    Sobe diretórios até encontrar a pasta alvo e define o cwd nela.
+    """
+    caminho_atual = os.getcwd()
+
+    while True:
+        # Caminho potencial
+        candidato = os.path.join(caminho_atual, pasta_alvo)
+        if os.path.isdir(candidato):
+            os.chdir(candidato)
+            print(f"✅ CWD alterado para: {os.getcwd()}")
+            return
+
+        # Sobe um nível
+        novo = os.path.dirname(caminho_atual)
+        if novo == caminho_atual:
+            break  # chegou na raiz
+        caminho_atual = novo
+
+    print(f"⚠️ Pasta '{pasta_alvo}' não encontrada em nenhum nível acima.")
+
+
 if __name__ == '__main__':
+    garantir_cwd_para("Repositorio-Semantico")
+
     ica_json_generator = ICAJSONGenerator(
-        input_dir='ICAS',
-        output_dir="Repositorio-Semantico/JSONs/ICA"
+        input_dir=r'ICA_Extractor\textos_extraidos',
+        output_dir=r"JSONs\ICA"
     )
     ica_json_generator.process_documents()
 

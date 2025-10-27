@@ -139,7 +139,7 @@ class PDFOCRProcessor:
 
                     if texto_nativo and texto_nativo.strip() and not force_ocr:
                         # Texto nativo encontrado e válido
-                        textos_paginas.append(f"--- PÁGINA {i} ---\n{texto_nativo}\n")
+                        textos_paginas.append(f"--- PÁGINA ---\n{texto_nativo}\n")
                         print("✅ (texto nativo)")
                     else:
                         # Precisa de OCR
