@@ -1,4 +1,4 @@
---- PÁGINA 1 ---
+--- PÁGINA ---
 MINISTÉRIODADEFESA
 COMANDODAAERONÁUTICA
 DEPARTAMENTODECONTROLEDOESPAÇOAÉREO
@@ -21,7 +21,7 @@ Diretor-GeraldoDECEA
 --- PÁGINA 2 ---
 
 
---- PÁGINA 3 ---
+--- PÁGINA ---
 MINISTÉRIO DA DEFESA
 COMANDO DA AERONÁUTICA
 DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
@@ -33,7 +33,7 @@ CARTAS AERONÁUTICAS
 --- PÁGINA 4 ---
 
 
---- PÁGINA 5 ---
+--- PÁGINA ---
 ANEXOI
 CARTASAERONÁUTICAS(ICA96-1)
 SUMÁRIO
@@ -64,7 +64,7 @@ CAPÍTULOXX-PROCESSOS...........................................................
 CAPÍTULOXXI-DISPOSIÇÕESTRANSITÓRIAS............................................................................... 619
 CAPÍTULOXXII-DISPOSIÇÕESFINAIS........................................................................................... 620/622
 
---- PÁGINA 6 ---
+--- PÁGINA ---
 CAPÍTULOI
 PREFÁCIO
 Art.1° Com a finalidade de estabelecer os requisitos e os processos para padronizar a
@@ -98,7 +98,7 @@ XI- CGNA:CentrodeGerenciamentodaNavegaçãoAérea;
 XII- CIAP:CartaImagemAeronáuticadePilotagem;
 XIII- CINAV:CartaImagemdeNavegaçãoAéreaVisual(1:500.000);
 
---- PÁGINA 7 ---
+--- PÁGINA ---
 XIV- CINDACTA:CentroIntegradodeDefesaAéreaeControledeTráfegoAéreo;
 XV- CIRCEA:CircularNormativadoControledoEspaçoAéreo;
 XVI- COMAER:ComandodaAeronáutica;
@@ -135,7 +135,7 @@ XLV- TMA:ÁreadeControleTerminal;
 XLVI- UTC:TempoUniversalCoordenado;
 XLVII- UTM:UniversalTransversadeMercator;
 
---- PÁGINA 8 ---
+--- PÁGINA ---
 XLVIII- VAC:CartadeAproximaçãoVisual;
 XLIX- VFR:RegrasdeVooVisual;
 L- WGS-84:SistemaGeodésicoMundial(1984);
@@ -177,7 +177,7 @@ deobstáculosdentrodeumaáreaespecífica,geralmenteformadaporparalelosemeridiano
 XI- Altitude Mínima de Setor: Menor altitude utilizável em que é garantida uma margem
 de separação de obstáculos de 300 m (1.000 pés) acima de todos os objetos localizados em uma área
 
---- PÁGINA 9 ---
+--- PÁGINA ---
 contida dentro de um setor circular de 46 km (25 NM) de raio com centro no auxílio à navegação aérea
 ounopontodereferênciadoaeródromo(ARP),ounopontodereferênciadoheliporto(HRP),conforme
 ocaso;
@@ -222,7 +222,7 @@ XXVII- Áreas Restritas: Espaço aéreo de dimensões definidas sobre o territó
 jurisdicionais de um Estado, dentro do qual está restrito o voo de aeronaves, sob certas condições
 especificadas;
 
---- PÁGINA 10 ---
+--- PÁGINA ---
 XXVIII- Auxílios à Navegação Aérea: Equipamentos destinados a proporcionar apoio à
 navegaçãoaéreadasaeronaves;
 XXIX- Cabeceira: O início da parcela da pista utilizável para a operação de pouso ou
@@ -267,7 +267,7 @@ XLIII- Geoide: O geoide é limitado por uma superfície equipotencial do campo d
 gravidade da Terra, que coincide com o nível médio não perturbado dos mares. Em cada ponto o vetor
 gravidadeseráperpendicularàsuperfície;
 
---- PÁGINA 11 ---
+--- PÁGINA ---
 XLIV- Guia Vetorial: Orientação às aeronaves para a navegação na forma de rotas
 específicas,combasenousodeumsistemadevigilânciaATS;
 XLV- Heliporto: Área delimitada em uma estrutura artificial destinada total ou
@@ -313,7 +313,7 @@ superfíciesanálogaspordeterminadosintervalosdepressão;
 LVII- Obstáculo: Todo objeto de natureza permanente ou temporária, fixo ou móvel, ou
 parte dele, que esteja localizado em uma área destinada à movimentação de aeronaves no solo, ou que
 
---- PÁGINA 12 ---
+--- PÁGINA ---
 se estendaacimadassuperfíciesdestinadasàproteçãodasaeronavesem voo,ouainda,queestejafora
 ouabaixodessassuperfíciesdefinidasecauseefeitoadversoàsegurançaouregularidadedasoperações
 aéreas;
@@ -359,7 +359,7 @@ LXVII- Ponto de Espera Intermediário: Ponto destinado para controle de tráfego
 as aeronaves em taxiamento e os veículos serão parados e aguardarão até receberem uma nova
 autorizaçãodatorredecontroledoaeródromo;
 
---- PÁGINA 13 ---
+--- PÁGINA ---
 LXVIII- Ponto de Notificação: Lugar geográfico especificado, em relação ao qual uma
 aeronave pode notificar sua posição onde existem três categorias de pontos de notificação: auxílio à
 navegação em terra, interseção e waypoint. No contexto desta definição, a interseção é um ponto
@@ -405,7 +405,7 @@ around);
 LXXXII- ProcedimentodeEspera:Manobrapadrãoquemantémaaeronavedentrodeum
 espaçoaéreoespecificado,enquantoaguardaporposteriorautorização;
 
---- PÁGINA 14 ---
+--- PÁGINA ---
 LXXXIII- Procedimento de Reversão: Procedimento previsto para permitir à aeronave
 inverter a direção no segmento de aproximação inicial de um procedimento de aproximação por
 instrumentos.Essasequênciademanobraspodeexigircurvasdeprocedimentosoucurvasdebase;
@@ -449,7 +449,7 @@ determinadoparaorientaçãoverticaldaaeronaveduranteumaaproximaçãofinalparauma
 XCIX- Variação Magnética: A diferença angular entre o norte verdadeiro e o norte
 magnético,ondeovalorfornecidoindicaseadiferençaangularélesteouoestedonorteverdadeiro;
 
---- PÁGINA 15 ---
+--- PÁGINA ---
 C- Vetoração: Provisão de orientação para navegação às aeronaves, em forma de proas
 específicasbaseadasnousodeumSistemadeVigilânciaATS;
 CI- Zona de Identificação de Defesa Aérea: Espaço aéreo de designação especial e de
@@ -487,7 +487,7 @@ a carta ou folha será disponibilizada. Essa determinação deve ser tomada com 
 aos acordos regionais de navegação aérea e a qualquer programa de alocação estabelecido pelo
 ConselhodaOACI.
 
---- PÁGINA 16 ---
+--- PÁGINA ---
 Parágrafo único. A frase “acordos regionais de navegação aérea” refere-se aos acordos
 aprovados pelo Conselho da OACInormalmentesob recomendação de reuniõesregionais de navegação
 aérea.
@@ -525,7 +525,7 @@ IV- fase4:Descidaatéaaproximação;
 V- fase5:Aproximaçãoparapousoouperdida;e
 VI- fase6:Pousoetáxiatéopontodeestacionamento.
 
---- PÁGINA 17 ---
+--- PÁGINA ---
 Art.12. Cada tipo de carta fornece a informação correspondente a sua função e
 apropriadaàfasedovoocorrespondente,afimdegarantiraoperaçãodaaeronavedemaneirarápidae
 segura.
@@ -564,7 +564,7 @@ SeçãoIV
 AtualizaçãoePublicação
 Art.23. As cartas aeronáuticas serão atualizadas sempre que houver alterações nas
 
---- PÁGINA 18 ---
+--- PÁGINA ---
 informaçõesnelascontidas.
 Art.24. O ciclo de atualização para as cartas não deve ser inferior a 28 dias e sua
 disponibilizaçãoparaosusuáriosdevesempreserfeitadeacordocomoSistemaAIRAC.
@@ -611,7 +611,7 @@ posição
 (2) ObrigatóriaparaosADregularmenteutilizadospelaaviaçãocivilINTL.
 (3) ObrigatóriaparaADdeprecisão.
 
---- PÁGINA 19 ---
+--- PÁGINA ---
 Parágrafo único. O Brasil não disponibiliza Cartas de Obstáculos de Aeródromo – Tipo B,
 display para cartas aeronáuticas eletrônicas, cartas de navegação aeronáutica em pequena escala e
 cartasdeplotagem,preconizadaspelaOACI,dedisponibilidadenãoobrigatória.
@@ -653,7 +653,7 @@ Art.32. O título de uma carta ou série de cartas elaborado de acordo com as
 especificações contidas nesta ICA e destinado a satisfazer a sua função deverá ser o do cabeçalho do
 capítuloreferenteàcarta.
 
---- PÁGINA 20 ---
+--- PÁGINA ---
 SeçãoVII
 Símbolos
 Art.33. Os símbolos utilizados deverão estar em conformidade com a legislação
@@ -692,7 +692,7 @@ referidas unidades de medidas são utilizadas. As escalas de conversão deverão
 preferencialmente,nafrentede cadacarta,exceto seimpraticávelporquestõesdeespaçoútil, caso em
 quepoderãoserpublicadasseparadamente.
 
---- PÁGINA 21 ---
+--- PÁGINA ---
 SeçãoIX
 EscalaeProjeção
 Art.43. Para cartas que representem áreas extensas, deverão ser indicados o nome, os
@@ -720,7 +720,7 @@ alfabetoromanoserãoaceitos,incluindoautilizaçãodeacentosesinaisdiacríticos.
 Art.49. Quando nomes geográficos tais como “cabo”, “ponta”, “golfo”, “rio” forem
 abreviados em uma dada carta, a palavra será dada inteiramente com relação aos exemplos mais
 
---- PÁGINA 22 ---
+--- PÁGINA ---
 importantes de cada tipo. Nas abreviações dentro do corpo da carta não serão usados sinais de
 pontuação.
 Art.50. Recomenda-se que nas áreas em que não foram adotados oficialmente nomes
@@ -758,7 +758,7 @@ usoaquesedestinacadatipodecarta.
 Art.58. Recomenda-se que, nos casos em que o relevo for representado com
 hipsometria.ascoresusadasdevamtomarcomobaseascoresapresentadasnoMCAcorrespondente.
 
---- PÁGINA 23 ---
+--- PÁGINA ---
 Art.59. Quandoforemusadospontoscotados,deverãoserrepresentadosapenaspontos
 críticospreviamenteselecionados.
 Art.60. Os valores das cotas de precisão duvidosa serão seguidos pelo sinal ± ou outro
@@ -786,7 +786,7 @@ TabelasdeCodificação
 Art.65. As tabelas de codificação, quando aplicadas, serão disponibilizadas na AISWEB,
 conformeexemploaseguir(IACdoaeródromoSBGL):
 
---- PÁGINA 24 ---
+--- PÁGINA ---
 Figura2
 SeçãoXIX
 VariaçãoMagnética
@@ -812,7 +812,7 @@ Art.71. Cada Estado signatário tomará as medidas necessárias para introduzir 
 sistemadequalidade,devidamenteorganizadocomosprocedimentos,processoserecursosnecessários
 para implementar a gestão da qualidade em cada uma das etapas funcionais, conforme legislação
 
---- PÁGINA 25 ---
+--- PÁGINA ---
 específica. A execução da gestão de qualidade deve ser demonstrada, quando necessária, em relação a
 cadaumadasetapasfuncionais.Alémdisso,osestadosassegurarãoaexistênciadeprocedimentospara
 garantirqueosdadosaeronáuticospossamserrastreadosaqualquermomentoatésuaorigem,afimde
@@ -849,7 +849,7 @@ dereferênciatemporal.
 Art.84. Quando nas cartas for usado um sistema de referência temporal diferente, esse
 fatoseráindicadonaparteGENdaspublicaçõesdeinformaçãoaeronáutica(AIP).
 
---- PÁGINA 26 ---
+--- PÁGINA ---
 CAPÍTULOIV
 CARTADEOBSTÁCULOSDEAERÓDROMO–TIPOA
 SeçãoI
@@ -886,7 +886,7 @@ Art.94. Aescalaverticalserá10vezesaescalahorizontal.
 Art.95. As escalas lineares horizontais e verticais aparecerão nos planos em metros e
 empés.
 
---- PÁGINA 27 ---
+--- PÁGINA ---
 SeçãoIV
 Formato
 Art.96. Os planos representarão a carta e o perfil de cada pista, sua correspondente
@@ -923,7 +923,7 @@ uma superfície plana com uma inclinação de 1,2% e tendo uma origem comum com 
 trajetória de decolagem deverão ser considerados obstáculos e, portanto, deverão ser representados,
 exceto se os obstáculos se situarem totalmente abaixo da sombra de outros obstáculos definidos em
 
---- PÁGINA 28 ---
+--- PÁGINA ---
 Art. 104. , caso em que não serão representados. Objetos móveis como barcos, trens e caminhões, que
 podem se projetar acima do plano de 1,2%, deverão ser considerados obstáculos, mas não deverão ser
 consideradoscomocapazesdecriarsombra.
@@ -964,7 +964,7 @@ II- distânciadisponívelparaaceleraçãoeparadadedecolagem;
 III- distânciadisponívelparadecolagem;e
 IV- distânciadisponívelparapouso.
 
---- PÁGINA 29 ---
+--- PÁGINA ---
 Art.109. Quando não for fornecida uma distância declarada, recomenda-se, em virtude
 de uma pista ser utilizável em apenas uma direção, que esta seja identificada como “não utilizável para
 decolagem,pousoouambas”.
@@ -1005,7 +1005,7 @@ b) aidentificaçãodecadaobstáculo;e
 c) os limites dos obstáculos de grande extensão de uma maneira distinta identificada na
 legenda.
 
---- PÁGINA 30 ---
+--- PÁGINA ---
 Parágrafo único. Referente à alínea acima, o perfil dos obstáculospode ser representado
 por uma linha que une os topos dos obstáculos e representa a sombra produzida por obstáculos
 sucessivos.
@@ -1043,7 +1043,7 @@ SeçãoII
 Escala
 Art.120. Recomenda-se que a escala horizontal utilizada seja de 1: 2.500 e a escala
 
---- PÁGINA 31 ---
+--- PÁGINA ---
 vertical,de1:500.
 Art.121. Quandoa carta incluirum perfil deterreno até uma distância demais de900 m
 (3.000pés)dolimitedapista,recomenda-sequeaescalahorizontalsejade1:5.000.
@@ -1080,7 +1080,7 @@ navegação.
 Art.127. A ENRC será confeccionada para todas as áreasem que Regiões de Informação
 deVoo(FIR)tenhamsidoestabelecidas.
 
---- PÁGINA 32 ---
+--- PÁGINA ---
 Parágrafo único. As informações contidas nas ENRC podem ser complementadas pela
 disponibilizaçãodecartasderotas–ARC,quandosejulgarconveniente.
 Art.128. Onde existirem diferentes rotas de serviços de tráfego aéreo, requisitos de
@@ -1115,7 +1115,7 @@ SeçãoIV
 Identificação
 Art.138. Cadafolhaseráidentificadapelasérieepelonúmerodacarta.
 
---- PÁGINA 33 ---
+--- PÁGINA ---
 SeçãoV
 ConstruçõeseTopografia
 Art.139. Serão indicadas as linhas costeiras de todas as áreas de mar aberto, grandes
@@ -1154,7 +1154,7 @@ Art.146. Será indicado claramente se os azimutes, rumos ou radiais estão utili
 como referência onorteverdadeiro ou odaquadrícula.Se onortedaquadrículaforusado, omeridiano
 daquadrículadereferênciaseráindicado.
 
---- PÁGINA 34 ---
+--- PÁGINA ---
 SeçãoVIII
 InformaçãoAeronáutica
 SubseçãoI
@@ -1191,7 +1191,7 @@ b) o rumo até o décimo de grau mais próximo e a distância até os dois déci
 próximosdeumquilômetro(décimodemilhanáutica)dareferênciaVOR/DME,seopontodereferência
 nãoforcolocadocomele;
 
---- PÁGINA 35 ---
+--- PÁGINA ---
 VII- uma indicação de todos os pontos de referência obrigatórios e opcionais, bem como
 ospontosdeinformaçãodoATS/MET;
 VIII- as distâncias entre os pontos significativos que constituem os pontos de inflexão ou
@@ -1227,7 +1227,7 @@ geralmenteterminamnopontoemqueseiniciaaaproximaçãoporinstrumentos.
 Art.151. Quando estabelecidas, serão indicadas e identificadas as regiões de ajuste do
 altímetro.
 
---- PÁGINA 36 ---
+--- PÁGINA ---
 CAPÍTULOVII
 CARTADEÁREA-ARC
 SeçãoI
@@ -1264,7 +1264,7 @@ linharetarepresenta,aproximadamente,umcírculomáximo.
 Parágrafo único. As projeções do tipo “Conforme” têm como aplicação desejada a
 propriedade de representar, sem deformação, todos os ângulos em torno de quaisquer pontos, e
 
---- PÁGINA 37 ---
+--- PÁGINA ---
 decorrentesdessapropriedadenãodeformampequenasregiões.
 Art.160. Osparalelosemeridianosserãoindicadosaintervalosapropriados.
 Art.161. Quando apropriado, as indicações de graduação serão colocadas em intervalos
@@ -1300,7 +1300,7 @@ DeclinaçãoMagnética
 Art.165. Indicar-se-á a declinação magnética média da área de cobertura da carta,
 arredondadaparaograumaispróximo.
 
---- PÁGINA 38 ---
+--- PÁGINA ---
 SeçãoVII
 Azimutes,RumoseRadiais
 Art.166. Os azimutes, rumos e radiais serão magnéticos, exceto nos casos previstos em
@@ -1336,7 +1336,7 @@ consideradas montanhosas, sobre todos os obstáculos localizados no quadriláter
 montanhosaaáreacujoperfildoterrenosoframodificaçõesqueexcedam3000pésdeelevação,dentro
 deumraiode10NM.
 
---- PÁGINA 39 ---
+--- PÁGINA ---
 SeçãoIV
 SistemadeServiçodeTráfegoAéreo–ATS
 Art.172. Deverão ser representados os componentes do sistema de serviços de tráfego
@@ -1377,7 +1377,7 @@ XIII- as altitudes mínimas de guia vetorial estabelecidas, arredondadas para os
 XIV- quandoestabelecidas,asrestriçõesdevelocidadeenível/altitudeporzonasdeverão
 serrepresentadas;
 
---- PÁGINA 40 ---
+--- PÁGINA ---
 XV- asinstalaçõesdecomunicaçãolistadascomseuscanaise,seaplicável,oendereçode
 conexãoeonúmerodecomunicaçãoporsatélite(SATVOICE);e
 XVI- umaindicaçãodepontosde“sobrevoo”significativos.
@@ -1417,7 +1417,7 @@ Art.177. Recomenda-sequeacartasejafeitaemescala.
 Art.178. Ao se confeccionar a carta em escala, uma escala gráfica será representada na
 mesma.
 
---- PÁGINA 41 ---
+--- PÁGINA ---
 Art.179. Quando a carta não for desenhada em escala, será colocada uma anotação
 apropriada e o símbolo da interrupção da escala será usado nas rotas e outros elementos da carta que,
 devidoàssuasgrandesdimensões,nãoserãorepresentadosemescala.
@@ -1457,7 +1457,7 @@ quaisserábaseadaaaplicaçãodahipsometria,estádisponívelconformelegislaçãoe
 §3° As cotas e os obstáculos correspondem àqueles fornecidos pelo especialista em
 procedimentos.
 
---- PÁGINA 42 ---
+--- PÁGINA ---
 SeçãoVI
 DeclinaçãoMagnética
 Art.186. Deverá ser indicada a declinação magnética utilizada para determinar os
@@ -1492,7 +1492,7 @@ Art.193. Será representada a altitude mínima de setor estabelecida, indicando
 claramenteosetoraoqualseráaplicada.
 Art.194. Quando a altitude mínima do setor não tiver sido estabelecida, serão
 
---- PÁGINA 43 ---
+--- PÁGINA ---
 representadas nas cartas a escala e as altitudes mínimas da área, que serão indicadas dentro dos
 quadriláteros formados pelos paralelos e meridianos. As altitudes mínimas da área também serão
 indicadasnaspartesdacartaquenãoestãocobertaspelaaltitudemínimadosetor.
@@ -1537,7 +1537,7 @@ navegaçãodeárea:
 1. nomeemlinguagemclara;e
 2. identificação;
 
---- PÁGINA 44 ---
+--- PÁGINA ---
 III- pontossignificativosnãomarcadospelaposiçãodeumauxílio,incluindo:
 a) quandoopontosignificativoforutilizadoparanavegaçãoconvencional:
 1. nome-código;
@@ -1576,7 +1576,7 @@ Art.196. Recomenda-se que seja fornecido um texto descritivo da(s) Rota(s) de Sa
 Padrão por Instrumentos (SID) – e os procedimentos relevantes em caso de falha de comunicação. O
 textodeverá,quandopossível,serincluídonacartaounapáginaemqueseencontraacarta.
 
---- PÁGINA 45 ---
+--- PÁGINA ---
 SubseçãoV
 RequisitosdeBancodeDadosAeronáuticos
 Art.197. Osdadosapropriadosparaapoiaracodificaçãodabasededadosdenavegação
@@ -1614,7 +1614,7 @@ Art.204. Quando a carta não for desenhada em escala, será colocada uma anotaç
 apropriada e o símbolo da interrupção da escala será usado nas rotas e outros elementos da carta que,
 devidoàssuasgrandesdimensões,nãoserãorepresentadosemescala.
 
---- PÁGINA 46 ---
+--- PÁGINA ---
 SeçãoIII
 Projeção
 Art.205. Recomenda-se que se utilize uma projeção do tipo “Conforme”, na qual uma
@@ -1651,7 +1651,7 @@ quaisserábaseadaaaplicaçãodahipsometria,estádisponívelnaspublicaçõesemvig
 §3° As cotas e os obstáculos correspondem àqueles fornecidos pelo especialista em
 procedimentos.
 
---- PÁGINA 47 ---
+--- PÁGINA ---
 SeçãoVI
 DeclinaçãoMagnética
 Art.211. Deverá ser indicada a declinação magnética utilizada para determinar os
@@ -1686,7 +1686,7 @@ AltitudeMínimadeSetor
 Art.218. Será representada a altitude mínima de setor estabelecida, indicando
 claramenteosetoraoqualseráaplicada.
 
---- PÁGINA 48 ---
+--- PÁGINA ---
 Art.219. Quando a altitude mínima do setor não tiver sido estabelecida, serão
 representadas nas cartas a escala e as altitudes mínimas da área, que serão indicadas dentro dos
 quadriláteros formados pelos paralelos e meridianos. As altitudes mínimas da área também serão
@@ -1731,7 +1731,7 @@ deárea:
 1. nomeemlinguagemclara;e
 2. identificação;
 
---- PÁGINA 49 ---
+--- PÁGINA ---
 III- pontossignificativosnãomarcadospelaposiçãodeumauxílio,incluindo:
 a) quandoopontosignificativoforutilizadoparanavegaçãoconvencional:
 1. nome-código;
@@ -1773,7 +1773,7 @@ Art.222. Osdadosapropriadosparaapoiaracodificaçãodabasededadosdenavegação
 serão publicados no verso da carta ou em folha separada, com referências apropriadas, conforme
 legislaçãoespecífica.
 
---- PÁGINA 50 ---
+--- PÁGINA ---
 Parágrafo único. Dados apropriados são aqueles fornecidos pelo elaborador de
 procedimentos.
 CAPÍTULOX
@@ -1813,7 +1813,7 @@ SeçãoII
 CoberturaeEscala
 Art.230. A cobertura da carta será suficiente para incluir todos os segmentos do
 
---- PÁGINA 51 ---
+--- PÁGINA ---
 procedimentodeaproximaçãoporinstrumentoseasáreasadicionaisquesãonecessáriasparaotipode
 aproximaçãoaserrealizada.
 Art.231. Aescalaselecionadagarantirásuaótimalegibilidadeeserácompatívelcom:
@@ -1851,7 +1851,7 @@ visual (em circuito), quando forem estabelecidas. O nome da informação topogr�
 somente quando necessário e para facilitar a compreensão de tal informação, e no mínimo será
 indicadoumdelineamentodoperímetrourbano,lagoseriosimportantes.
 
---- PÁGINA 52 ---
+--- PÁGINA ---
 Art.238. O relevo será indicado na forma que melhor se adapte às características
 especiaisdaelevaçãodaárea.Emáreasondeorelevoexcede1.200m(4.000pés)acimadaelevaçãodo
 aeródromo e dentro da cobertura do mapa, ou 600 m (2.000 pés) dentro de 11 km (6 NM) do ponto de
@@ -1892,7 +1892,7 @@ Art.243. Será indicado claramente se os azimutes, rumos ou radiais estão utili
 como referência onorteverdadeiro ou odaquadrícula.Se onortedaquadrículaforusado, omeridiano
 daquadrículadereferênciaseráindicado.
 
---- PÁGINA 53 ---
+--- PÁGINA ---
 SeçãoIX
 InformaçõesAeronáuticas
 SubseçãoI
@@ -1931,7 +1931,7 @@ seráindicadoemumlugardedestaquenacarta.
 Art.254. Quando apropriado, serão indicadas as áreas livres de obstáculos que não
 foramestabelecidasparaaspistasdeaproximaçãodeprecisãodaCategoriaI.
 
---- PÁGINA 54 ---
+--- PÁGINA ---
 Art.255. Quando apropriado, os obstáculos que entram na superfície da secção visual
 serãoidentificadosnacarta.
 Art.256. Nas publicações específicas que trata do assunto, há orientações sobre a
@@ -1970,7 +1970,7 @@ AltitudeMínimadeSetorouAltitudedeChegadaemTerminal
 Art.264. Deverá ser indicada a altitude mínima do setor ou a altitude de chegada em
 terminalestabelecidapelaautoridadecompetente,demodoaficarclaroaqualsetorserãoaplicadas.
 
---- PÁGINA 55 ---
+--- PÁGINA ---
 SubseçãoVI
 RepresentaçãodosRumosRegulatórios
 Art.265. Conformeindicado,avistadaplantaforneceráasseguintesinformações:
@@ -2010,7 +2010,7 @@ necessáriosparaoprocedimento;
 VI- as altitudes/alturas exigidas pelos procedimentos, incluindo a altitude de transição e
 asaltitudes/alturasdoprocedimentoeaalturalivredoheliporto,ondeforestabelecido;
 
---- PÁGINA 56 ---
+--- PÁGINA ---
 VII- adistâncialimitenogiroregulatório,seespecificado,arredondadaparaoquilômetro
 oumilhanáuticamaispróximo;
 VIII- Nos procedimentos em que não é autorizada a reversão da posição, o ponto de
@@ -2050,7 +2050,7 @@ I- umadistânciadopontodereferênciadaaproximaçãofinal;ou
 II- uma instalação ou um fixo e a correspondente distância do ponto de aproximação
 final, deverá ser indicada distância arredondada aos dois décimos de quilômetro ou décimo de milha
 
---- PÁGINA 57 ---
+--- PÁGINA ---
 náutica mais próximo e uma tabela indicando a velocidade em relação ao solo e ao tempo, desde o
 pontodereferênciadaaproximaçãofinalatéopontodeaproximaçãoperdida.
 Art.273. Caso o DME seja necessário no segmento de aproximação final, será incluída
@@ -2090,7 +2090,7 @@ legislaçãoespecífica.
 Parágrafo único. Os dados apropriados são aqueles fornecidos pelo especialista em
 procedimentos.
 
---- PÁGINA 58 ---
+--- PÁGINA ---
 CAPÍTULOXI
 CARTADEAPROXIMAÇÃOVISUAL–VAC
 SeçãoI
@@ -2123,7 +2123,7 @@ polegadas).
 Parágrafo único. Seria benéfico imprimir as cartas em várias cores, escolhidas de modo a
 permitir,tantoquantopossível,aleituraemdiferentesgrausetiposdeiluminação.
 
---- PÁGINA 59 ---
+--- PÁGINA ---
 SeçãoIV
 Projeção
 Art.290. Deverá ser utilizada uma projeção do tipo conforme, na qual uma linha reta
@@ -2156,7 +2156,7 @@ SeçãoVII
 DeclinaçãoMagnética
 Art.299. Adeclinaçãomagnéticadeveráserindicada.
 
---- PÁGINA 60 ---
+--- PÁGINA ---
 SeçãoVIII
 Azimutes,RumoseRadiais
 Art.300. Os azimutes, rumos e radiais serão magnéticos, exceto nos casos previstos em
@@ -2190,7 +2190,7 @@ SubseçãoIII
 Art.308. As áreas proibidas, restritas e perigosas estarão representadas com sua
 identificaçãoelimitesverticais.
 
---- PÁGINA 61 ---
+--- PÁGINA ---
 SubseçãoIV
 EspaçoAéreoDesignado
 Art.309. Onde for aplicável, deverão ser descritas as zonas de controle e as zonas de
@@ -2223,7 +2223,7 @@ inicialatéaáreadeaproximaçãofinalededecolagem;
 II- da área de aproximação final e da área de decolagem até a área inicial de contato e
 elevaçãoinicialatéopontodeestacionamentodehelicópteros;
 
---- PÁGINA 62 ---
+--- PÁGINA ---
 III- ao longo da pista de taxiamento para helicópteros e ao longo da pista de taxiamento;
 e
 IV- aolongodasrotasdetráfegoaéreo.
@@ -2259,7 +2259,7 @@ Art.325. Nestacarta,serãoindicadososeguinte:
 I- as coordenadas geográficas do ponto de referência do aeródromo/heliporto em graus,
 minutosesegundos;
 
---- PÁGINA 63 ---
+--- PÁGINA ---
 II- as elevações do aeródromo/heliporto, a elevação e a ondulação do geoide das
 cabeceiras, o centro geométrico da área de toque, a elevação inicial das pistas para aproximações de
 não precisão e a elevação do pátio (localização dos pontos de verificação do altímetro), quando
@@ -2304,7 +2304,7 @@ XVI- osobstáculosparataxiar;
 XVII- áreasdeserviçoparaaeronaveseedifícios,significativos,paraasoperações;
 XVIII- opontodeverificaçãodoVORearadiofrequênciadoauxíliocorrespondente;e
 
---- PÁGINA 64 ---
+--- PÁGINA ---
 XIX- qualquer parte da área de movimento representada que seja permanentemente
 inadequadaparaotrânsitodeaeronaves,claramenteidentificadacomotal.
 §1° Referente ao inciso IV, as resistências podem ser indicadas na forma de uma
@@ -2341,7 +2341,7 @@ c) distânciadisponívelparapouso.
 Parágrafo único. Referente ao inciso I, os tipos de heliporto estão listados em legislação
 específica.
 
---- PÁGINA 65 ---
+--- PÁGINA ---
 CAPÍTULOXIII
 CARTADEMOVIMENTOEMSOLOPARAAERONAVES–AGMC
 SeçãoI
@@ -2372,7 +2372,7 @@ próximoesuavariaçãoanual:
 Parágrafo único. A carta não precisa estar necessariamente orientada segundo o norte
 verdadeiro.
 
---- PÁGINA 66 ---
+--- PÁGINA ---
 SeçãoV
 InformaçõesAeronáuticas
 Art.336. Nesta carta serão indicadas, de maneira similar, todas as informações que
@@ -2408,7 +2408,7 @@ Art.337. Recomenda-se que, para aeródromos que acomodam aeronaves com pontas
 de asas dobráveis, as áreas onde é seguro para aeronaves com pontas de asas dobráveis operarem com
 aspontasdasasasestendidasdevemserindicadasnacarta.
 
---- PÁGINA 67 ---
+--- PÁGINA ---
 CAPÍTULOXIV
 CARTADEESTACIONAMENTODEAERONAVES-PDC
 SeçãoI
@@ -2443,7 +2443,7 @@ Art.346. Nesta carta deverão ser indicadas todas as informações que figuram n
 de aeródromo/heliporto e na carta de movimento em solo de aeródromo, correspondentes à área
 representada,incluindo:
 
---- PÁGINA 68 ---
+--- PÁGINA ---
 I- aelevaçãodopátio,arredondadaparaometrooupémaispróximo;
 II- os pátios, com suas posições de estacionamento de aeronaves, sua resistência ou
 restrições devido ao tipo de aeronave, iluminação, sinais e outros auxílios visuais para orientação e
@@ -2482,7 +2482,7 @@ escala de1:500.000 ou cartas aeronáuticas,em escala menorque ada WAC,qualquer u
 serfornecidaemsubstituiçãoaWAC.
 Art.348. Recomenda-se que, para garantir a cobertura total de todas as áreas terrestres
 
---- PÁGINA 69 ---
+--- PÁGINA ---
 e a continuidade adequada de qualquer série coordenada, a seleção de uma escala diferente da escala
 de1:1.000.000sejadeterminadapordecisãocolaborativa.
 Art.349. O ciclo de atualização da WAC não deve ultrapassar dois anos para as
@@ -2522,7 +2522,7 @@ WAC-OACI e para a correspondente no Mapa Internacional Mundial (IMW), desde que 
 comosrequisitosaeronáuticos.
 Art.358. Recomenda-se que a área representada na carta se estenda tanto na parte
 
---- PÁGINA 70 ---
+--- PÁGINA ---
 superior como no lado direito, a fim de que haja sobreposição com as cartas adjacentes de pelo menos
 28 km (15 MN). Nessa área de sobreposição deverão ser incluídas todas as informações aeronáuticas,
 planimétricas,hipsométricasehidrográficas.
@@ -2567,7 +2567,7 @@ dobra,excetonasdobrasfinaisdacarta.
 Parágrafoúnico. Osmeridianospodemsernumeradosdentrodocorpodacarta.
 Art.364. Serão indicados na margem da carta o nome e os parâmetros básicos da
 
---- PÁGINA 71 ---
+--- PÁGINA ---
 projeção.
 SeçãoV
 Identificação
@@ -2599,7 +2599,7 @@ construídas,amenosquesejapossíveldistingui-lasdoar,comoreferênciasbemdefinida
 Parágrafoúnico. Osnúmerosounomesderodoviasouestradasimportantespoderãoser
 indicados.
 
---- PÁGINA 72 ---
+--- PÁGINA ---
 SubseçãoIV
 PontosdeReferência
 Art.372. Quando consideradosimportantes para anavegação aéreavisual,os pontosde
@@ -2633,7 +2633,7 @@ será regida pela necessidade de representar claramente as características do r
 navegaçãoaérea.
 Art.378. Serãorepresentadososvaloresdascurvasdenívelutilizadas.
 
---- PÁGINA 73 ---
+--- PÁGINA ---
 SubseçãoVIII
 CoresHipsométricas
 Art.379. Ao se utilizar cores hipsométricas serão indicados os intervalos de cores
@@ -2668,7 +2668,7 @@ SubseçãoXII
 ExtensãodeFlorestas
 Art.387. Quandopossível,recomenda-seindicarasextensõesdeflorestas.
 
---- PÁGINA 74 ---
+--- PÁGINA ---
 Parágrafo único. Nas cartas de latitude alta, poderão ser indicados os limites norte e sul
 aproximadosdocrescimentoflorestal.
 Art.388. Quando indicados, os limites norte e sul aproximados do crescimento florestal
@@ -2702,7 +2702,7 @@ Parágrafo único. Os objetos com altura de 100 m (300 pés) ou mais acima do so
 geralmenteconsideradosobstáculosdestacados.
 Art.397. Serão indicadas, quando forem consideradas importantes para o voo visual,
 
---- PÁGINA 75 ---
+--- PÁGINA ---
 linhas de alta tensão proeminentes, instalações de teleféricos permanentes e turbinas eólicas que
 constituamobstáculos.
 SubseçãoIII
@@ -2735,7 +2735,7 @@ II- quando forem facilmente distinguíveis de outros faróis marítimos ou outro
 luzesnavizinhançadeáreascosteiraspovoadas;e
 III- quandoforemasúnicasluzesimportantesdisponíveis.
 
---- PÁGINA 76 ---
+--- PÁGINA ---
 CAPÍTULOXVI
 CARTADENAVEGAÇÃOAÉREAVISUAL–CNAV1:500.000
 SeçãoI
@@ -2772,7 +2772,7 @@ daOACI.
 Parágrafo único. Além dos idiomas de trabalho da OACI, o idioma do país que publica as
 cartasouqualqueroutralínguapoderáserusada.
 
---- PÁGINA 77 ---
+--- PÁGINA ---
 Art.411. As informações relativas às cartas adjacentes e à unidade de medida para
 expressarelevaçõesserãoindicadasdemodoaficarembemvisíveisquandoafolhaestiverdobrada.
 Art.412. Recomenda-seque cadacarta seja dobrada de acordo com o seguinte método:
@@ -2812,7 +2812,7 @@ Identificação
 Art.423. Cadafolhaseráidentificadaporumnomequedeveserodacidadeprincipalou
 doacidentegeográficomaisimportantequeaparecernacarta.
 
---- PÁGINA 78 ---
+--- PÁGINA ---
 Art.424. Quando aplicável, as cartas também deverão ser identificadas pelo
 correspondente número de referência da WAC, acrescentando um dos seguintes sufixos indicadores de
 quadrantes,conformedescritoabaixo:
@@ -2847,7 +2847,7 @@ RodoviaseEstradas
 Art.429. Arederodoviáriaserárepresentadaemdetalhesuficienteparaquesevisualize
 suascaracterísticasduranteovoo.
 
---- PÁGINA 79 ---
+--- PÁGINA ---
 Parágrafoúnico. Asestradasemconstruçãopoderãoserrepresentadas.
 Art.430. Recomenda-se que as estradas não sejam representadas em áreas construídas,
 amenosquesejapossíveldistingui-lasdoar,comoreferênciasbemdefinidas.
@@ -2884,7 +2884,7 @@ CurvasdeNível
 Art.437. As curvas de nível serão representadas. A seleção de intervalos (equidistância)
 será regida pela necessidade de representar claramente as características do relevo exigidas à
 
---- PÁGINA 80 ---
+--- PÁGINA ---
 navegaçãoaérea.
 Art.438. Serãorepresentadososvaloresdascurvasdeníveisutilizadas.
 SubseçãoVIII
@@ -2918,7 +2918,7 @@ Penhascos
 Art.446. Recomenda-se que os penhascos sejam indicados quando constituírem pontos
 dereferêncianotáveisouquandoosdetalhesdasconstruçõesapareçammuitodispersos.
 
---- PÁGINA 81 ---
+--- PÁGINA ---
 SubseçãoXII
 ExtensãodeFlorestas
 Art.447. Recomenda-sequeasextensõesdeflorestassejamindicadas.
@@ -2952,7 +2952,7 @@ SubseçãoII
 Obstáculos
 Art.456. Osobstáculosserãoindicados.
 
---- PÁGINA 82 ---
+--- PÁGINA ---
 Parágrafo único. Os objetos com altura de 100 metros (300 pés) ou mais acima do solo
 sãogeralmenteconsideradosobstáculosdestacados.
 Art.457. Quandoforconsideradoimportanteparaovoovisual,serãoindicadasaslinhas
@@ -2988,7 +2988,7 @@ II- quando forem facilmente distinguíveis de outros faróis marítimos ou outro
 luzesnavizinhançadeáreascosteiraspovoadas;e
 III- quandoforemasúnicasluzesimportantesdisponíveis.
 
---- PÁGINA 83 ---
+--- PÁGINA ---
 CAPÍTULOXVII
 CARTADEALTITUDEMÍNIMADEVIGILÂNCIAATC –ATCSMAC
 SeçãoI
@@ -3025,7 +3025,7 @@ linharetarepresenteaproximadamenteumalinhageodésica.
 Art.472. Quando apropriado, recomenda-se que sejam colocados indicadores de
 graduaçãoemintervalosregularesaolongodasbordasdacarta.
 
---- PÁGINA 84 ---
+--- PÁGINA ---
 SeçãoIV
 Identificação
 Art.473. A carta será identificada pelo nome correspondente ao aeródromo para o qual
@@ -3056,7 +3056,7 @@ Art.479. Quando aplicável, será indicado claramente se os azimutes, rumos ou r
 estão utilizando como referência o norte verdadeiro ou da quadrícula. Se o norte da quadrícula for
 usado,omeridianodaquadrículadereferênciaseráindicado.
 
---- PÁGINA 85 ---
+--- PÁGINA ---
 SeçãoVIII
 InformaçõesAeronáuticas
 SubseçãoI
@@ -3093,7 +3093,7 @@ d) seaplicável,notasrelacionadasàcorreçãoparaosefeitosdebaixastemperaturas;
 VI- os procedimentos de comunicação, incluindo sinais de chamada e os canais dos
 órgãosATCrelevantes.
 
---- PÁGINA 86 ---
+--- PÁGINA ---
 §1° Referente ao inciso III, poderão ser indicadas as rotas usadas na guia vetorial de
 aeronavesparaoswaypointseapartirdeles.
 §2° Referente à alínea ‘b’ do inciso V, em áreas congestionadas, as coordenadas
@@ -3130,7 +3130,7 @@ SeçãoIII
 Formato
 Art.490. Otítuloeasnotasmarginaisserãodadosemportuguês(Brasil).
 
---- PÁGINA 87 ---
+--- PÁGINA ---
 Parágrafo único. Poderá ser utilizado, caso necessário, além do idioma do país que
 publicaascartas,qualqueroutroidioma.
 Art.491. As informações relativas às cartas adjacentes e à unidade de medida para
@@ -3170,7 +3170,7 @@ Identificação
 Art.502. Cadafolhaseráidentificadaporumnomequedeveserodacidadeprincipalou
 doacidentegeográficomaisimportantequeaparecernacarta.
 
---- PÁGINA 88 ---
+--- PÁGINA ---
 Art.503. Quando aplicável, as cartas também deverão ser identificadas pelo
 correspondentenúmerodereferênciadaWAC,seguidodocorrespondentedaCNAV,acrescentandoum
 dosseguintessufixosindicadoresdequadrantes,conformedescritoabaixo:
@@ -3201,7 +3201,7 @@ referência.
 Parágrafo único. Caso necessário, uma nota descritiva poderá ser adicionada para
 destacarostúneis.
 
---- PÁGINA 89 ---
+--- PÁGINA ---
 SubseçãoIII
 RodoviaseEstradas
 Art.508. Arederodoviáriaserárepresentadaemdetalhesuficienteparaquesevisualize
@@ -3237,7 +3237,7 @@ Art.515. Recomenda-se que os arrecifes baixos, incluindo os bancos rochosos, as
 superfícies expostas pela maré baixa, as rochas isoladas e áreas similares, sejam indicados com um
 símboloquandoforemidentificadoscomopontodereferência.
 
---- PÁGINA 90 ---
+--- PÁGINA ---
 Parágrafo único. Os grupos de rochas representados poderão ser indicados por símbolos
 derochasdentrodeumaáreadelimitada.
 SubseçãoVII
@@ -3274,7 +3274,7 @@ Art.524. As cartas em que os valores das cotas e pontos cotados não são confi�
 deverãoapresentarnotadeadvertênciainformandoqueorelevorepresentadonacartaéduvidosoeas
 cotasdeelevaçãodeverãoserusadascomprudência.
 
---- PÁGINA 91 ---
+--- PÁGINA ---
 SubseçãoXI
 Penhascos
 Art.525. Recomenda-se que os penhascos sejam indicados quando constituírem pontos
@@ -3308,7 +3308,7 @@ pista e o comprimento da pista de forma abreviada em relação a cada aeródromo
 carreguedesnecessariamenteacarta.
 Art.533. Serão representados os aeródromos abandonados desde que, do ar,
 
---- PÁGINA 92 ---
+--- PÁGINA ---
 conservemsuaaparência.
 SubseçãoII
 Obstáculos
@@ -3343,7 +3343,7 @@ característicasisoladas,cujoalcancenãosejainferiora28km(15NM):
 I- quando não forem menos distintos do que os mais potentes faróis marítimos
 instaladosnasproximidades;
 
---- PÁGINA 93 ---
+--- PÁGINA ---
 II- quando forem facilmente distinguíveis de outros faróis marítimos ou outros tipos de
 luzesnavizinhançadeáreascosteiraspovoadas;e
 III- quandoforemasúnicasluzesimportantesdisponíveis.
@@ -3377,7 +3377,7 @@ ProjeçãoeSistemadeReferência
 Art.548. A projeção e o sistema de referência utilizados estarão de acordo com a carta
 utilizadaparaaconfecçãodabasecartográfica(WAC,CNAV,CAPecartastopográficas).
 
---- PÁGINA 94 ---
+--- PÁGINA ---
 SeçãoIII
 TítuloeIdentificação
 Art.549. Ascartasserãoidentificadasconsiderando-seoindicativodaterminal(TMA)na
@@ -3411,7 +3411,7 @@ porsuasimbologiacorrespondente.
 Art.556. Caso formem um aglomerado de dados, terão prioridade aqueles de maior
 importânciaaeronáutica.
 
---- PÁGINA 95 ---
+--- PÁGINA ---
 SubseçãoII
 Obstáculos
 Art.557. Obstáculosqueapresentemperigoparaovooserãorepresentados.
@@ -3444,7 +3444,7 @@ Art.564. Semprequenecessário,serãoindicadososfaróisaeronáuticosemarítimos.
 Art.565. Os requisitos técnicos e operacionais para a confecção dessas cartas são
 aquelesestabelecidosnoMCA96-2“ManualdeConfecçãodasCartasdeCorredoresVisuais”.
 
---- PÁGINA 96 ---
+--- PÁGINA ---
 Art.566. Uma Carta de Corredores Visuais poderá possuir uma AIC explicativa, quando
 nãoforpossívelrepresentarasinformaçõesnecessáriasnaprópriacarta.
 CAPÍTULOXX
@@ -3485,7 +3485,7 @@ partir da construção de um novo aeródromo, o processo somente seguirá, confo
 deliberações favoráveis do COMAER acerca da inscrição do aeródromo no cadastro, conforme as
 diretrizes estabelecidas na publicação específica sobre os processos da Área de Aeródromos (AGA),
 
---- PÁGINA 97 ---
+--- PÁGINA ---
 conformealegislaçãoemvigor,edamanifestaçãodaANAC.
 Art.572. No caso de a necessidade de elaboração de uma nova carta ou modificação ter
 sido originada a partir da modificação das características físicas ou operacionais de um aeródromo,
@@ -3529,7 +3529,7 @@ partir da modificação das características físicas ou operacionais de um aer�
 diretrizes estabelecidas na publicação específica sobre os processos da Área de Aeródromos (AGA), o
 processosomenteseguirá,conformeoAnexoV,apósdeliberaçõesfavoráveisdoCOMAERedaANAC.
 
---- PÁGINA 98 ---
+--- PÁGINA ---
 Parágrafo único. Mesmo que a modificação de características físicas ou operacionais de
 um aeródromo não requeira análise do COMAER, o processo só seguirá, conforme o Anexo V, após
 parecerfavoráveldaANAC.
@@ -3572,7 +3572,7 @@ partir da construção de um novo aeródromo, o processo somente seguirá, confo
 deliberações favoráveis do COMAER acerca da inscrição do aeródromo no cadastro, conforme as
 diretrizesestabelecidasna publicação específicasobre osprocessosda Área de Aeródromos(AGA), e da
 
---- PÁGINA 99 ---
+--- PÁGINA ---
 manifestaçãodaANAC.
 Art.585. Nocasodeanecessidadedeelaboraçãodeumanovacartatersidooriginadaa
 partir da modificação das características físicas ou operacionais de um aeródromo, conforme as
@@ -3612,7 +3612,7 @@ Art.591. Caso o Procedimento dependa da ativação de auxílio à navegação a�
 deverá ser monitorada a emissão de uma Solicitação de Divulgação de Informação Aeronáutica (SDIA)
 paraquesejaemitidoNOTAMsobreaativaçãodoauxílioànavegação.
 
---- PÁGINA 100 ---
+--- PÁGINA ---
 SubseçãoIII
 GEIV
 Art.592. Receberá os projetos das IAC, Cartas de Saída por Instrumentos, STAR, VAC ou
@@ -3652,7 +3652,7 @@ ATCSMAC,deveráclassificá-ladeacordocomoscritériosabaixo:
 a) crítica: qualquer modificação em informação relacionada com a construção de
 procedimentodenavegaçãoaérea;e
 
---- PÁGINA 101 ---
+--- PÁGINA ---
 b) não crítica: qualquer modificação em informação aeronáutica que não esteja listada
 em “a”. A modificação não crítica é incorporada nas publicações aeronáuticas de acordo com o
 CalendárioUnificadodePublicaçõesdoDECEA.
@@ -3694,7 +3694,7 @@ ou ATCSMAC, alguns casos não estão sujeitos a voo de inspeção, dependendo da
 modificação. O GEIV será́ consultado sempre que forem realizadas modificações permanentes e
 consideradascríticasemprocedimentodenavegaçãoaérea.
 
---- PÁGINA 102 ---
+--- PÁGINA ---
 SeçãoV
 ENRCeARC
 Art.604. O ICA é responsável por elaborar, corrigir, revisar e publicar as ENRC e ARC,
@@ -3734,7 +3734,7 @@ legislaçãoespecífica.
 Art.612. Para o recebimento da informação e dos dados aeronáuticos que serão
 responsáveis pela elaboração, correção, revisão das WAC, CNAV ou CINAV e CAP ou CIAP, o ICA deverá
 
---- PÁGINA 103 ---
+--- PÁGINA ---
 atentar para as competências e as atribuições definidas na ICA 53-4 “Solicitação de Divulgação de
 InformaçãoAeronáutica”enaTCA53-2“CatálogodeRequisitosdeDadoseInformaçõesAeronáuticas”.
 Art.613. O ICA tomará as seguintes medidas para a publicação das WAC, CNAV ou
@@ -3772,7 +3772,7 @@ Art.619. As WAC em vigor há mais de quatro anos permanecerão vigentes até que
 complete o primeiro ciclo de atualização, segundo os critérios estabelecidos no item Art. 349. desta
 Instrução.
 
---- PÁGINA 104 ---
+--- PÁGINA ---
 CAPÍTULOXXII
 DISPOSIÇÕESFINAIS
 Art.620. As sugestões, para o contínuo aperfeiçoamento desta publicação, deverão ser
@@ -3812,38 +3812,38 @@ XIII- CANADÁ.OrganizaçãodaAviaçãoCivilInternacional. IndicadoresdeLocalidad
 XIV- CANADÁ. Organização da Aviação Civil Internacional. Serviços de Informação
 AeronáuticaFornecidospelosEstados.Doc7383.Montreal,2014.
 
---- PÁGINA 105 ---
+--- PÁGINA ---
 ANEXOII
 PROCESSOPARAELABORAÇÃO,MODIFICAÇÃO,HOMOLOGAÇÃOEPUBLICAÇÃODEADCEPDC
 
---- PÁGINA 106 ---
+--- PÁGINA ---
 ANEXOIII
 CROQUIADC
 
---- PÁGINA 107 ---
+--- PÁGINA ---
 ANEXOIV
 CROQUIPDC
 
---- PÁGINA 108 ---
+--- PÁGINA ---
 ANEXOV
 PROCESSOPARAELABORAÇÃO,MODIFICAÇÃO,HOMOLOGAÇÃOEPUBLICAÇÃODEAGMC
 
---- PÁGINA 109 ---
+--- PÁGINA ---
 ANEXOVI
 PROCESSOPARAELABORAÇÃO,HOMOLOGAÇÃOEPUBLICAÇÃODEIAC,CARTADESAÍDAPOR
 INSTRUMENTOS,STAR,VACEATCSMAC
 
---- PÁGINA 110 ---
+--- PÁGINA ---
 ANEXOVII
 PROCESSOPARAMODIFICAÇÃO,HOMOLOGAÇÃOEPUBLICAÇÃODEIAC,CARTADESAÍDAPOR
 INSTRUMENTOS,STAR,VACEATCSMAC
 
---- PÁGINA 111 ---
+--- PÁGINA ---
 ANEXOVIII
 PROCESSOPARAELABORAÇÃO,MODIFICAÇÃO,HOMOLOGAÇÃOEPUBLICAÇÃODASREA,REH,REAST
 EREUL
 
---- PÁGINA 112 ---
+--- PÁGINA ---
 ANEXOIX
 FICHADESOLICITAÇÃODECARTASAERONÁUTICAS–CARTASDESOLO(ADC,PDC,AGMC,AOC)
 FichadeSolicitaçãodeCartasAeronáuticas–CartasdeSolo(ADC,PDC,AGMC,AOC)

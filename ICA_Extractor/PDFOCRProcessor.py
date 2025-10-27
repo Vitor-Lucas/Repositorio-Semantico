@@ -1,4 +1,3 @@
-import os
 import json
 import numpy as np
 from pathlib import Path
@@ -8,6 +7,8 @@ import pdfplumber
 from paddleocr import PaddleOCR
 from PIL import Image
 import io
+import os
+import utils
 
 
 class PDFOCRProcessor:
@@ -151,7 +152,7 @@ class PDFOCRProcessor:
                         # Extrai texto com OCR
                         texto_ocr = self.extract_text_from_page(img)
 
-                        textos_paginas.append(f"--- PÁGINA {i} ---\n{texto_ocr}\n")
+                        textos_paginas.append(f"--- PÁGINA ---\n{texto_ocr}\n")
                         print("✅")
 
             # Salva texto completo em arquivo .txt
@@ -259,8 +260,9 @@ class PDFOCRProcessor:
 
 if __name__ == "__main__":
     # Configuração
-    INPUT_DIR = r"C:\Coding\AirData\RepositorioSemantico\ICAS"
-    OUTPUT_DIR = r"C:\Coding\AirData\RepositorioSemantico\textos_extraidos"
+    utils.garantir_cwd_para("Repositorio-Semantico")
+    INPUT_DIR = os.path.join(os.getcwd(), "ICA_Extractor", "ICAS")
+    OUTPUT_DIR = os.path.join(os.getcwd(), "ICA_Extractor", "textos_extraidos")
 
     # Cria instância do processador
     processor = PDFOCRProcessor(
@@ -269,48 +271,4 @@ if __name__ == "__main__":
         use_gpu=False  # Mude para True se tiver GPU CUDA disponível
     )
 
-    # OPÇÃO 1: Processar apenas 1 arquivo para teste
-    # pdf_path = Path(INPUT_DIR) / "ICA_medio.pdf"
-    # processor.process_single_pdf(pdf_path)
-
-    # OPÇÃO 2: Processar todos os PDFs (modo produção)
     processor.process_all_pdfs()
-
-    # OPÇÃO 3: Processar apenas os primeiros 5 PDFs (para teste)
-    # processor.process_all_pdfs(max_files=5)
-
-    # OPÇÃO 4: Forçar OCR mesmo em PDFs com texto nativo (útil se o texto nativo estiver ruim)
-    # processor.process_all_pdfs(force_ocr=True)
-
-    # ========================================================================
-    # EXEMPLO: Como usar o texto extraído no seu ICAJSONGenerator
-    # ========================================================================
-
-    # # No seu ICAJSONGenerator.py, substitua a função extrair_texto_pdf por:
-    #
-    # def extrair_texto_pdf(caminho_pdf: str) -> List[str]:
-    #     """
-    #     Carrega texto já processado pelo PDFOCRProcessor.
-    #     """
-    #     pdf_name = Path(caminho_pdf).stem
-    #
-    #     # Caminho do texto processado
-    #     txt_path = Path(r"C:\Coding\AirData\RepositorioSemantico\ICA_Extractor\textos_extraidos") / f"{pdf_name}.txt"
-    #
-    #     if not txt_path.exists():
-    #         raise FileNotFoundError(f"Texto processado não encontrado: {txt_path}")
-    #
-    #     # Carrega o texto
-    #     with open(txt_path, 'r', encoding='utf-8') as f:
-    #         texto_completo = f.read()
-    #
-    #     # Divide por páginas (o processador adiciona marcadores "--- PÁGINA X ---")
-    #     paginas = texto_completo.split("--- PÁGINA")
-    #     textos = []
-    #
-    #     for pagina in paginas[1:]:  # Pula o primeiro (vazio)
-    #         # Remove o número da página e pega só o conteúdo
-    #         conteudo = "\n".join(pagina.split("\n")[1:])
-    #         textos.append(conteudo.strip() + "\n")
-    #
-    #     return textos

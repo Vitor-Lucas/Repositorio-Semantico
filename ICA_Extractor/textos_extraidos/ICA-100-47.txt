@@ -1,4 +1,4 @@
---- PÁGINA 1 ---
+--- PÁGINA ---
 MINISTÉRIODADEFESA
 COMANDODAAERONÁUTICA
 DEPARTAMENTODECONTROLEDOESPAÇOAÉREO
@@ -20,7 +20,7 @@ TenBrigArMAURÍCIOAUGUSTOSILVEIRADEMEDEIROS
 Diretor-GeraldoDECEA
 (PublicadanoBCAn°074,de22deabrilde2025)
 
---- PÁGINA 2 ---
+--- PÁGINA ---
 MINISTÉRIO DA DEFESA
 COMANDO DA AERONÁUTICA
 DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
@@ -31,7 +31,7 @@ INSTITUIÇÃODEFORMAÇÃODE
 CONTROLADORDETRÁFEGOAÉREO
 2025
 
---- PÁGINA 3 ---
+--- PÁGINA ---
 ANEXOI–HABILITAÇÃOTÉCNICAPARAINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE
 CONTROLADORDETRÁFEGOAÉREO(ICA100-47)
 SUMÁRIO
@@ -64,7 +64,7 @@ ANEXOII–CLASSIFICAÇÃODOCONCEITOOPERACIONALDEINSTRUÇÃO
 ANEXOIII–FORMULÁRIODEAVALIAÇÃODEINSTRUTORESNÃOORGÂNICOS
 ANEXOIV–INSTRUÇÕESPARAOSAVALIADORESDEINSTRUTORESNÃOORGÂNICOS
 
---- PÁGINA 4 ---
+--- PÁGINA ---
 CAPÍTULOI
 DISPOSIÇÕESPRELIMINARES
 SeçãoI
@@ -99,7 +99,7 @@ XVI- EPLIS:ExamedeProficiênciaeminglêsAeronáuticodoSISCEAB;
 XVII- HT:HabilitaçãoTécnica;
 XVIII- ICA:InstruçãodeComandodaAeronáutica;
 
---- PÁGINA 5 ---
+--- PÁGINA ---
 XIX- ICEA:InstitutodeControledoEspaçoAéreo;
 XX- ICEAEST:EstagiárioparafunçãodeInstrutordoICEA;
 XXI- ICEAIN:HabilitaçãoTécnicaparaInstrutordoICEA;
@@ -138,7 +138,7 @@ pertencenteaoefetivodaIFCTA;
 IX- Instrutor Não Orgânico: ATCO designado para ministrar instrução prática ou teórica,
 nãopertencenteaoefetivodaIFCTA;e
 
---- PÁGINA 6 ---
+--- PÁGINA ---
 X- Organização Regional do DECEA: Organização Militar, subordinada ao DECEA,
 responsável pela prestação de serviços à navegação aérea em uma determinada área do território
 nacional,eédenominadaconformeaseguir:
@@ -175,7 +175,7 @@ Parágrafo único. Poderá ser indicado um ATCO que possua a HT, conforme dispos
 inciso I, do caput, cuja validade não tenha expirado há mais de três anos, relativa à disciplina ou
 instruçãocorrespondente.
 
---- PÁGINA 7 ---
+--- PÁGINA ---
 CAPÍTULOIII
 CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE
 CONTROLADORDETRÁFEGOAÉREO
@@ -208,7 +208,7 @@ II- possuir o Conceito Operacional de Instrução “Não Satisfatório” (NS),
 IIdestaInstrução;e
 III- perderavalidadedaHTdeórgãoATCouOCOAM.
 
---- PÁGINA 8 ---
+--- PÁGINA ---
 Art.14. AHTdoATCOinstrutordeIFCTAperderáavalidadequando:
 I- ficar afastado das atividades de instrução ou coordenação de instrução por período
 igualousuperioradoissemestresconsecutivos;e
@@ -242,7 +242,7 @@ sistemáticadodesempenhodessesprofissionaispelosChefes,EncarregadoseInstrutores.
 Art.23. A avaliação prática deverá ser objeto de registro em formulário definido em
 normainternadaInstituiçãodeFormação.
 
---- PÁGINA 9 ---
+--- PÁGINA ---
 SeçãoII
 Conceitooperacionaldeinstrução
 Art.24. O conceito operacional de instrução será emitido a cada dois anos, no mês de
@@ -278,7 +278,7 @@ constantenoArt.14;ou
 IV- a necessidade de realização de um Programa Específico de Instrução para a
 revalidaçãodaHTdoinstrutordeIFCTA.
 
---- PÁGINA 10 ---
+--- PÁGINA ---
 Parágrafo único. Após aavaliação dos casos tratados no inciso II, do caput, o Conselho de
 Instruçãopoderádecidirsobreoretornodasatividadesdo instrutordeIFCTA.
 Art.30. O Conselho de Instrução será composto pelo Presidente, pelos membros
@@ -318,7 +318,7 @@ suplentecomasatribuiçõesinerentesaomembroefetivonaausênciadeste.
 Parágrafo único. No caso de número insuficiente de profissionais com as qualificações
 inerentes a suplente individual, um mesmo profissional poderá ser suplente de mais de um membro
 
---- PÁGINA 11 ---
+--- PÁGINA ---
 efetivo.
 Art.40. A instituição de formação deve estabelecer, por meio de norma interna, o
 detalhamentodaativaçãoedofuncionamentodeseusrespectivosConselhosdeInstrução.
@@ -353,7 +353,7 @@ I- BRASIL. Ministério da Defesa. Comando da Aeronáutica. Gabinete do Comandant
 Aeronáutica. NSCA 5-2: Norma de Sistema para Atos normativos no Âmbito do Comando da
 Aeronáutica.PortariaGABAER/GC3n°661,de21dedezembrode2023;
 
---- PÁGINA 12 ---
+--- PÁGINA ---
 II- BRASIL.MinistériodaDefesa.ComandodaAeronáutica.DepartamentodeControledo
 Espaço Aéreo. ICA 100-18: Habilitação Técnica de Controlador de Tráfego Aéreo. Portaria DECEA n°
 270/DGCEA,de13denovembrode2020;
@@ -364,7 +364,7 @@ IV- BRASIL. Ministério da Defesa. Comando da Aeronáutica. Departamento de Cont
 do Espaço Aéreo. CIRCEA 100-72: Sistema de Gerenciamento de Pessoal Operacional (SGPO). Portaria
 n°249/DGCEA,de26dedezembrode2019.
 
---- PÁGINA 13 ---
+--- PÁGINA ---
 ANEXOII–CLASSIFICAÇÃODOCONCEITOOPERACIONALDEINSTRUÇÃO
 CONCEITO APROVEITAMENTO/RENDIMENTO
 O–Ótimo Acima90%
@@ -372,7 +372,7 @@ B–Bom de80até89,99%
 R–Regular de70até79,99%
 NS–NãoSatisfatório Abaixode70%
 
---- PÁGINA 14 ---
+--- PÁGINA ---
 ANEXOIII–FORMULÁRIODEAVALIAÇÃODEINSTRUTORESNÃOORGÂNICOS
 DEPARTAMENTODECONTROLEDOESPAÇOAÉREO
 ESCOLADEESPECIALISTASDEAERONÁUTICA
@@ -426,7 +426,7 @@ Coordenação cordialidade e receptividade,considerandoo [ ]3
 respeitoàhierarquiafuncional. [ ]4
 [ ]5
 
---- PÁGINA 15 ---
+--- PÁGINA ---
 COMENTÁRIOS
 ________________________________________________________________________________________________
 ________________________________________________________________________________________________
@@ -462,7 +462,7 @@ AVALIADOR
 ____________________________________________________
 CHEFEDOGBCT
 
---- PÁGINA 16 ---
+--- PÁGINA ---
 ANEXOIV–INSTRUÇÕESPARAOSAVALIADORESDEINSTRUTORESNÃOORGÂNICOS
 I- Responsabilidade:
 a) 0–Nãoobservado;
@@ -498,7 +498,7 @@ osaplicacomperfeição;
 IV- CondutanaEEAR:
 a) 0–Nãoobservado;
 
---- PÁGINA 17 ---
+--- PÁGINA ---
 b) 1–Nãocumpreoprevistonaslegislações.Nãosegueasorientações.Éprecisoorientá-
 losempre;
 c) 2–Geralmentenãocumpreoprevistonaslegislaçõesenasorientações;
