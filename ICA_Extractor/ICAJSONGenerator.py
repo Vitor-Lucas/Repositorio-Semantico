@@ -385,6 +385,9 @@ def salvar_artigos_json(artigos: List[Dict], caminho_saida: str, formato: str = 
 if __name__ == '__main__':
     utils.garantir_cwd_para("Repositorio-Semantico")
 
+    # TODO  criar um sistema de comparação entre a data de inicio de vigor do
+    #  ICA pelo nome do arquivo e a data no texto mesmo
+
     ica_json_generator = ICAJSONGenerator(
         input_dir=r'ICA_Extractor\textos_extraidos',
         output_dir=r"JSONs\ICA"
