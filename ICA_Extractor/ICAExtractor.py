@@ -176,7 +176,7 @@ class ICAExtrator:
             print_info(f'ICAs encontrados: {len(icas_list)}')
 
             print_green('PROCESSO INCIALIZADO PARA DOWNLOAD DE TODOS OS IGAS (REVOGADOS TAMBÉM)')
-            for ica_number, data_vigor, categoria, revogado in icas_list[:30]:
+            for ica_number, data_vigor, categoria, revogado in icas_list:
                 print_delimiter(20)
                 print_info(f'ICA analizado: {ica_number}', bright=True)
                 print_info("Informações:", bright=True)
@@ -205,6 +205,7 @@ class ICAExtrator:
         numero = numero.replace(' ', '-')
         print_green(f'Inicializando download do {numero}')
         url = fr'https://publicacoes.decea.mil.br/publicacao/{numero}'
+        # url = "https://publicacoes.decea.mil.br/publicacao/ICA-63-40"
         print(f'URL utilizado: {url}')
 
         # if not kwargs['revogado']:
@@ -214,6 +215,7 @@ class ICAExtrator:
 
         try:
             # Espera até que uma <table> esteja presente na página (por até 6s)
+            # TODO ver se daria pra fazer ele esperar a criação de uma tabela com o xpath
             WebDriverWait(driver, 6).until(
                 ec.presence_of_element_located((By.TAG_NAME, "table"))
             )
@@ -268,13 +270,20 @@ class ICAExtrator:
                     "providenciado".upper())
                 return
 
+            # /html/body/div[3]/div/div[1]/div/div[3]/div[1]/a
+            # /html/body/div[3]/div/div[1]/div/div[3]/div[1]/a
+            # TODO Tentar fazer esse código pelo webdriver do selenium (evitar mais dependências)
             with sync_playwright() as p:
                 browser = p.chromium.launch(headless=False)
                 page = browser.new_page()
                 page.goto(url)
+                time.sleep(3)
+                # Espera o elemento <a> estar disponível na página
+                page.wait_for_selector("xpath=/html/body/div[3]/div/div[1]/div/div[3]/div[1]/a")
 
+                # Quando o clique abre uma nova aba/janela
                 with page.expect_popup() as popup_info:
-                    page.click("a.mui-14foh53")  # clica no link "Visualizar"
+                    page.click("xpath=/html/body/div[3]/div/div[1]/div/div[3]/div[1]/a")
 
                 popup = popup_info.value
                 print("🔗 URL do arquivo:", popup.url)
@@ -297,7 +306,7 @@ class ICAExtrator:
                         print(f"Link do documento: {link}")
                         file_name = "_".join([numero, data_vigencia_inicio, data_vigencia_fim, categoria]) + ".pdf"
                         file_path = os.path.join(self.icas_download_dir, file_name)
-                        download_file(link, file_path)
+                        # download_file(link, file_path)
                     # print(f'{td.getText()}', end='| ')
                 # print()
         # print_delimiter(20)
