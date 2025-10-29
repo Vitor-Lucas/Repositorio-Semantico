@@ -5,15 +5,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.1º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.1º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": null,
         "secao": null,
         "subsecao": null
-      }
+      },
+      "revogado": false
     }
   },
   {
@@ -22,32 +26,40 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.2º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.2º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": null,
         "secao": null,
         "subsecao": null
-      }
+      },
+      "revogado": false
     }
   },
   {
     "id": "ccf4663d7a9a1e271c138b1468918026",
-    "texto": "Art.3º EstaPortariaentraemvigorem5demaiode2025. TenBrigArMAURÍCIOAUGUSTOSILVEIRADEMEDEIROS Diretor-GeraldoDECEA (PublicadanoBCAn°074,de22deabrilde2025) --- PÁGINA 2 --- MINISTÉRIO DA DEFESA COMANDO DA AERONÁUTICA DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO TRÁFEGO AÉREO ICA 100-47 HABILITAÇÃOTÉCNICAPARAINSTRUTORDE INSTITUIÇÃODEFORMAÇÃODE CONTROLADORDETRÁFEGOAÉREO 2025 --- PÁGINA 3 --- ANEXOI–HABILITAÇÃOTÉCNICAPARAINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE CONTROLADORDETRÁFEGOAÉREO(ICA100-47) SUMÁRIO Art. CAPÍTULOI–DISPOSIÇÕESPRELIMINARES SeçãoI–Finalidadeeâmbito...................................................................................................................... 1°/2° SeçãoII–Abreviaturasedefinições............................................................................................................ 3°/4° CAPÍTULOII–PERFILDOINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODECONTROLADORDETRÁFEGO AÉREO SeçãoI–Critériosgerais............................................................................................................................. 5°/6° SeçãoII–Critériosespecíficosparainstrutornãoorgânico....................................................................... 7° CAPÍTULOIII–CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃO DECONTROLADORDETRÁFEGOAÉREO SeçãoI–Concessão.................................................................................................................................... 8° SeçãoII–Autoridadecompetente............................................................................................................. 9° SeçãoIII–Critériosespecíficos................................................................................................................... 10/11 SeçãoIV–ValidadedaHTparainstrutordeIFCTA..................................................................................... 12/16 SeçãoV–AtribuiçõesinerentesaHTdeinstrutordeIFCTA....................................................................... 17/18 CAPÍTULOIV–AVALIAÇÃOINSTRUCIONAL SeçãoI–Avaliaçãodeinstrutororgânico.................................................................................................. 19/23 SeçãoII–Conceitooperacionaldeinstrução……………………………………………………………………………............. 24/25 SeçãoIII–Avaliaçãodeinstrutornãoorgânico…………………………………………………………………….................. 26/27 CAPÍTULOV–CONSELHODEINSTRUÇÃO SeçãoI–Criaçãoecomposição.................................................................................................................. 28/33 SeçãoII–Designaçãoeconvocação........................................................................................................... 34/40 SeçãoIII–AtribuiçõesdoConselhodeInstrução........................................................................................ 41 CAPÍTULOVI–DISPOSIÇÕESTRANSITÓRIAS ............................................................................................ 42 CAPÍTULOVII–DISPOSIÇÕESFINAIS........................................................................................................... 43/44 ANEXOII–CLASSIFICAÇÃODOCONCEITOOPERACIONALDEINSTRUÇÃO ANEXOIII–FORMULÁRIODEAVALIAÇÃODEINSTRUTORESNÃOORGÂNICOS ANEXOIV–INSTRUÇÕESPARAOSAVALIADORESDEINSTRUTORESNÃOORGÂNICOS --- PÁGINA 4 --- CAPÍTULOI DISPOSIÇÕESPRELIMINARES SeçãoI Finalidadeeâmbito",
+    "texto": "Art.3º EstaPortariaentraemvigorem5demaiode2025. TenBrigArMAURÍCIOAUGUSTOSILVEIRADEMEDEIROS Diretor-GeraldoDECEA (PublicadanoBCAn°074,de22deabrilde2025) MINISTÉRIO DA DEFESA COMANDO DA AERONÁUTICA DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO TRÁFEGO AÉREO ICA 100-47 HABILITAÇÃOTÉCNICAPARAINSTRUTORDE INSTITUIÇÃODEFORMAÇÃODE CONTROLADORDETRÁFEGOAÉREO 2025 ANEXOI–HABILITAÇÃOTÉCNICAPARAINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE CONTROLADORDETRÁFEGOAÉREO(ICA100-47) SUMÁRIO Art. CAPÍTULOI–DISPOSIÇÕESPRELIMINARES SeçãoI–Finalidadeeâmbito...................................................................................................................... 1°/2° SeçãoII–Abreviaturasedefinições............................................................................................................ 3°/4° CAPÍTULOII–PERFILDOINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODECONTROLADORDETRÁFEGO AÉREO SeçãoI–Critériosgerais............................................................................................................................. 5°/6° SeçãoII–Critériosespecíficosparainstrutornãoorgânico....................................................................... 7° CAPÍTULOIII–CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃO DECONTROLADORDETRÁFEGOAÉREO SeçãoI–Concessão.................................................................................................................................... 8° SeçãoII–Autoridadecompetente............................................................................................................. 9° SeçãoIII–Critériosespecíficos................................................................................................................... 10/11 SeçãoIV–ValidadedaHTparainstrutordeIFCTA..................................................................................... 12/16 SeçãoV–AtribuiçõesinerentesaHTdeinstrutordeIFCTA....................................................................... 17/18 CAPÍTULOIV–AVALIAÇÃOINSTRUCIONAL SeçãoI–Avaliaçãodeinstrutororgânico.................................................................................................. 19/23 SeçãoII–Conceitooperacionaldeinstrução……………………………………………………………………………............. 24/25 SeçãoIII–Avaliaçãodeinstrutornãoorgânico…………………………………………………………………….................. 26/27 CAPÍTULOV–CONSELHODEINSTRUÇÃO SeçãoI–Criaçãoecomposição.................................................................................................................. 28/33 SeçãoII–Designaçãoeconvocação........................................................................................................... 34/40 SeçãoIII–AtribuiçõesdoConselhodeInstrução........................................................................................ 41 CAPÍTULOVI–DISPOSIÇÕESTRANSITÓRIAS ............................................................................................ 42 CAPÍTULOVII–DISPOSIÇÕESFINAIS........................................................................................................... 43/44 ANEXOII–CLASSIFICAÇÃODOCONCEITOOPERACIONALDEINSTRUÇÃO ANEXOIII–FORMULÁRIODEAVALIAÇÃODEINSTRUTORESNÃOORGÂNICOS ANEXOIV–INSTRUÇÕESPARAOSAVALIADORESDEINSTRUTORESNÃOORGÂNICOS CAPÍTULOI DISPOSIÇÕESPRELIMINARES SeçãoI Finalidadeeâmbito",
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.3º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.3º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": null,
         "secao": null,
         "subsecao": null
-      }
+      },
+      "revogado": false
     }
   },
   {
@@ -56,15 +68,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.1º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.1º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO I - DISPOSIÇÕESPRELIMINARES",
-        "secao": null,
+        "secao": "SEÇÃO I - Finalidadeeâmbito",
         "subsecao": null
-      }
+      },
+      "revogado": false
     }
   },
   {
@@ -73,49 +89,61 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.2º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.2º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO I - DISPOSIÇÕESPRELIMINARES",
-        "secao": null,
+        "secao": "SEÇÃO I - Finalidadeeâmbito",
         "subsecao": null
-      }
+      },
+      "revogado": false
     }
   },
   {
     "id": "ccf4663d7a9a1e271c138b1468918026",
-    "texto": "Art.3º AsabreviaturaspresentesnestaInstruçãotêmoseguintesignificado: I- ACC:CentrodeControledeÁrea(AreaControlCentre); II- AFIS :Serviço de Informação de Voo de Aeródromo (Aerodrome Flight Information Service); III- APP:ControledeAproximação(ApproachControl); IV- ATC:ControledeTráfegoAéreo(AirTrafficControl); V- ATCO:ControladordeTráfegoAéreo(AirTrafficController); VI- ATS:ServiçosdeTráfegoAéreo(AirTrafficServices); VII- CEMAL:CentrodeMedicinaAeroespacial; VIII- CINDACTA:CentroIntegradodeDefesaAéreaeControledeTráfegoAéreo; IX- CMA:CertificadoMédicoAeronáutico; X- COMAER:ComandodaAeronáutica; XI- CRCEA-SE:CentroRegionaldeControledoEspaçoAéreoSudeste; XII- DECEA:DepartamentodeControledoEspaçoAéreo; XIII- EEAR:EscoladeEspecialistasdeAeronáutica; XIV- EEAREST:EstagiárioparafunçãodeInstrutordaEEAR; XV- EEARIN:HabilitaçãoTécnicaparaInstrutordaEEAR; XVI- EPLIS:ExamedeProficiênciaeminglêsAeronáuticodoSISCEAB; XVII- HT:HabilitaçãoTécnica; XVIII- ICA:InstruçãodeComandodaAeronáutica; --- PÁGINA 5 --- XIX- ICEA:InstitutodeControledoEspaçoAéreo; XX- ICEAEST:EstagiárioparafunçãodeInstrutordoICEA; XXI- ICEAIN:HabilitaçãoTécnicaparaInstrutordoICEA; XXII- IFCTA:InstituiçãodeFormaçãodeControladordeTráfegoAéreo; XXIII- JES:JuntaEspecialdeSaúde; XXIV- JSS:JuntaSuperiordeSaúde; XXV- LPNA:LicençadePessoaldaNavegaçãoAérea; XXVI- OEA:OperadordeEstaçãoAeronáutica; XXVII- SDOP:SubdepartamentodeOperaçõesdoDECEA; XXVIII- SGPO:SistemadeGerenciamentodoPessoalOperacional; XXIX- SISCEAB:SistemadeControledoEspaçoAéreoBrasileiro;e XXX- TWR:TorredeControledeAeródromo(AerodromeControlTower). SubseçãoII Definições",
+    "texto": "Art.3º AsabreviaturaspresentesnestaInstruçãotêmoseguintesignificado: I- ACC:CentrodeControledeÁrea(AreaControlCentre); II- AFIS :Serviço de Informação de Voo de Aeródromo (Aerodrome Flight Information Service); III- APP:ControledeAproximação(ApproachControl); IV- ATC:ControledeTráfegoAéreo(AirTrafficControl); V- ATCO:ControladordeTráfegoAéreo(AirTrafficController); VI- ATS:ServiçosdeTráfegoAéreo(AirTrafficServices); VII- CEMAL:CentrodeMedicinaAeroespacial; VIII- CINDACTA:CentroIntegradodeDefesaAéreaeControledeTráfegoAéreo; IX- CMA:CertificadoMédicoAeronáutico; X- COMAER:ComandodaAeronáutica; XI- CRCEA-SE:CentroRegionaldeControledoEspaçoAéreoSudeste; XII- DECEA:DepartamentodeControledoEspaçoAéreo; XIII- EEAR:EscoladeEspecialistasdeAeronáutica; XIV- EEAREST:EstagiárioparafunçãodeInstrutordaEEAR; XV- EEARIN:HabilitaçãoTécnicaparaInstrutordaEEAR; XVI- EPLIS:ExamedeProficiênciaeminglêsAeronáuticodoSISCEAB; XVII- HT:HabilitaçãoTécnica; XVIII- ICA:InstruçãodeComandodaAeronáutica; XIX- ICEA:InstitutodeControledoEspaçoAéreo; XX- ICEAEST:EstagiárioparafunçãodeInstrutordoICEA; XXI- ICEAIN:HabilitaçãoTécnicaparaInstrutordoICEA; XXII- IFCTA:InstituiçãodeFormaçãodeControladordeTráfegoAéreo; XXIII- JES:JuntaEspecialdeSaúde; XXIV- JSS:JuntaSuperiordeSaúde; XXV- LPNA:LicençadePessoaldaNavegaçãoAérea; XXVI- OEA:OperadordeEstaçãoAeronáutica; XXVII- SDOP:SubdepartamentodeOperaçõesdoDECEA; XXVIII- SGPO:SistemadeGerenciamentodoPessoalOperacional; XXIX- SISCEAB:SistemadeControledoEspaçoAéreoBrasileiro;e XXX- TWR:TorredeControledeAeródromo(AerodromeControlTower). SubseçãoII Definições",
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.3º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.3º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO I - DISPOSIÇÕESPRELIMINARES",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Abreviaturasedefinições",
+        "subsecao": "SUBSEÇÃO I - Abreviaturas"
+      },
+      "revogado": false
     }
   },
   {
     "id": "5fc29d1de8534f2c1c70cef9fed28b86",
-    "texto": "Art.4º Os termos e expressões abaixo relacionados, empregados nesta Instrução, têm os seguintessignificados: I- Certificado Médico Aeronáutico: Documento médico emitidopor uma JES, pelo CEMAL ou pela JSS, conforme modelo e procedimentos previstos em legislação específica do COMAER, após umainspeçãodesaúderealizadaemATCOouOEAcujoparecersejadeaptidão; II- Conselho de Instrução: Comissão permanente, formalmente constituída, composta porpessoaltécnicoespecializadoparadeliberarquantoaodesempenhodo instrutordaIFCTA; III- Estágio para Instrutor de IFCTA: Atividade de treinamento que visa preparar e avaliar o instrutor em relação ao emprego das técnicas e dos meios disponíveis, os quais são necessários à consecuçãodosobjetivospedagógicosestabelecidosparaoconteúdoespecializado aserministradoem umaIFCTA; IV- InstituiçãodeFormação:ExpressãogenéricaparasereferiraumaIFCTA; V- Instituição de Formação de Controlador de Tráfego Aéreo (IFCTA): Instituição de formaçãodeATCO,reconhecidapeloDECEA; VI- Instrução Especializada: Instruções relacionadas às disciplinas contidas no Projeto PedagógicodeCurso–PPCouCurrículoMínimo–CMdoscursosdeformaçãodeATCO; VII- Instrutor de IFCTA: ATCO com habilitação específica para ministrar instrução especializada inerente à prestação dos serviços de controle de tráfego aéreo em curso de formação de ATCO; VIII- Instrutor Orgânico: ATCO designado para ministrar instrução prática ou teórica, pertencenteaoefetivodaIFCTA; IX- Instrutor Não Orgânico: ATCO designado para ministrar instrução prática ou teórica, nãopertencenteaoefetivodaIFCTA;e --- PÁGINA 6 --- X- Organização Regional do DECEA: Organização Militar, subordinada ao DECEA, responsável pela prestação de serviços à navegação aérea em uma determinada área do território nacional,eédenominadaconformeaseguir: a) CINDACTAI,II,IIIeIV;e b) CRCEA-SE. CAPÍTULOII PERFILDOINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODECONTROLADORDETRÁFEGOAÉREO SeçãoI Critériosgerais",
+    "texto": "Art.4º Os termos e expressões abaixo relacionados, empregados nesta Instrução, têm os seguintessignificados: I- Certificado Médico Aeronáutico: Documento médico emitidopor uma JES, pelo CEMAL ou pela JSS, conforme modelo e procedimentos previstos em legislação específica do COMAER, após umainspeçãodesaúderealizadaemATCOouOEAcujoparecersejadeaptidão; II- Conselho de Instrução: Comissão permanente, formalmente constituída, composta porpessoaltécnicoespecializadoparadeliberarquantoaodesempenhodo instrutordaIFCTA; III- Estágio para Instrutor de IFCTA: Atividade de treinamento que visa preparar e avaliar o instrutor em relação ao emprego das técnicas e dos meios disponíveis, os quais são necessários à consecuçãodosobjetivospedagógicosestabelecidosparaoconteúdoespecializado aserministradoem umaIFCTA; IV- InstituiçãodeFormação:ExpressãogenéricaparasereferiraumaIFCTA; V- Instituição de Formação de Controlador de Tráfego Aéreo (IFCTA): Instituição de formaçãodeATCO,reconhecidapeloDECEA; VI- Instrução Especializada: Instruções relacionadas às disciplinas contidas no Projeto PedagógicodeCurso–PPCouCurrículoMínimo–CMdoscursosdeformaçãodeATCO; VII- Instrutor de IFCTA: ATCO com habilitação específica para ministrar instrução especializada inerente à prestação dos serviços de controle de tráfego aéreo em curso de formação de ATCO; VIII- Instrutor Orgânico: ATCO designado para ministrar instrução prática ou teórica, pertencenteaoefetivodaIFCTA; IX- Instrutor Não Orgânico: ATCO designado para ministrar instrução prática ou teórica, nãopertencenteaoefetivodaIFCTA;e X- Organização Regional do DECEA: Organização Militar, subordinada ao DECEA, responsável pela prestação de serviços à navegação aérea em uma determinada área do território nacional,eédenominadaconformeaseguir: a) CINDACTAI,II,IIIeIV;e b) CRCEA-SE. CAPÍTULOII PERFILDOINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODECONTROLADORDETRÁFEGOAÉREO SeçãoI Critériosgerais",
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.4º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.4º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO I - DISPOSIÇÕESPRELIMINARES",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Abreviaturasedefinições",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -124,15 +152,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.5º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.5º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO II - PERFILDOINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODECONTROLADORDETRÁFEGOAÉREO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Critériosgerais",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -141,32 +173,40 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.6º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.6º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO II - PERFILDOINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODECONTROLADORDETRÁFEGOAÉREO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Critériosgerais",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
     "id": "a9e7ccca24023dc80d6382a8184d85db",
-    "texto": "Art.7º Além dos critérios gerais previstos no Art. 5° e no Art. 6°, os instrutores designados a ministrar instrução, não pertencentes ao corpo docente orgânico da IFCTA, deverão cumprirosrequisitosdescritosaseguir: I- possuir HT válida em órgão ATC correspondente à disciplina ou à instrução a ser ministrada;e II- possuir conceito operacional “Bom” ou “Ótimo” na última avaliação operacional de ATCO,conformelegislaçãoqueversasobreoassunto. Parágrafo único. Poderá ser indicado um ATCO que possua a HT, conforme disposto no inciso I, do caput, cuja validade não tenha expirado há mais de três anos, relativa à disciplina ou instruçãocorrespondente. --- PÁGINA 7 --- CAPÍTULOIII CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE CONTROLADORDETRÁFEGOAÉREO SeçãoI Concessão",
+    "texto": "Art.7º Além dos critérios gerais previstos no Art. 5° e no Art. 6°, os instrutores designados a ministrar instrução, não pertencentes ao corpo docente orgânico da IFCTA, deverão cumprirosrequisitosdescritosaseguir: I- possuir HT válida em órgão ATC correspondente à disciplina ou à instrução a ser ministrada;e II- possuir conceito operacional “Bom” ou “Ótimo” na última avaliação operacional de ATCO,conformelegislaçãoqueversasobreoassunto. Parágrafo único. Poderá ser indicado um ATCO que possua a HT, conforme disposto no inciso I, do caput, cuja validade não tenha expirado há mais de três anos, relativa à disciplina ou instruçãocorrespondente. CAPÍTULOIII CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE CONTROLADORDETRÁFEGOAÉREO SeçãoI Concessão",
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.7º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.7º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO II - PERFILDOINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODECONTROLADORDETRÁFEGOAÉREO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Critériosespecíficosparainstrutornãoorgânico",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -175,15 +215,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.8º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.8º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO III - CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Concessão",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -192,15 +236,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.9º",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.9º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO III - CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Autoridadecompetente",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -209,15 +257,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.10.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.10.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO III - CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO III - Critériosespecíficos",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -226,15 +278,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.11.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.11.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO III - CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO III - Critériosespecíficos",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -243,32 +299,40 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.12.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.12.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO III - CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO IV - ValidadedaHTparainstrutordeIFCTA",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
     "id": "a923b6c06520af69bed517ba44162597",
-    "texto": "Art.13. OATCOinstrutordeIFCTAteráavalidadedasuaHTsuspensaquando: I- deixar de ministrar instrução especializada ou atuar como coordenador de disciplina, emperíodoecargahoráriadefinidosemnormainternada IFTCA; II- possuir o Conceito Operacional de Instrução “Não Satisfatório” (NS), segundo o Anexo IIdestaInstrução;e III- perderavalidadedaHTdeórgãoATCouOCOAM. --- PÁGINA 8 ---",
+    "texto": "Art.13. OATCOinstrutordeIFCTAteráavalidadedasuaHTsuspensaquando: I- deixar de ministrar instrução especializada ou atuar como coordenador de disciplina, emperíodoecargahoráriadefinidosemnormainternada IFTCA; II- possuir o Conceito Operacional de Instrução “Não Satisfatório” (NS), segundo o Anexo IIdestaInstrução;e III- perderavalidadedaHTdeórgãoATCouOCOAM.",
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.13.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.13.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO III - CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO IV - ValidadedaHTparainstrutordeIFCTA",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -277,15 +341,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.14.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.14.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO III - CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO IV - ValidadedaHTparainstrutordeIFCTA",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -294,15 +362,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.15.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.15.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO III - CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO IV - ValidadedaHTparainstrutordeIFCTA",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -311,15 +383,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.16.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.16.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO III - CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO IV - ValidadedaHTparainstrutordeIFCTA",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -328,15 +404,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.17.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.17.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO III - CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO V - AtribuiçõesinerentesaHTdeinstrutordeIFTCA",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -345,15 +425,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.18.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.18.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO III - CONCESSÃODEHABILITAÇÃOTÉCNICADEINSTRUTORDEINSTITUIÇÃODEFORMAÇÃODE",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO V - AtribuiçõesinerentesaHTdeinstrutordeIFTCA",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -362,15 +446,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.19.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.19.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO IV - AVALIAÇÃOINSTRUCIONAL",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Avaliaçãodeinstrutororgânico",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -379,15 +467,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.20.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.20.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO IV - AVALIAÇÃOINSTRUCIONAL",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Avaliaçãodeinstrutororgânico",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -396,15 +488,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.21.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.21.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO IV - AVALIAÇÃOINSTRUCIONAL",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Avaliaçãodeinstrutororgânico",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -413,32 +509,40 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.22.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.22.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO IV - AVALIAÇÃOINSTRUCIONAL",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Avaliaçãodeinstrutororgânico",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
     "id": "07609f01410d0ddd8cc05aaa9a935e3f",
-    "texto": "Art.23. A avaliação prática deverá ser objeto de registro em formulário definido em normainternadaInstituiçãodeFormação. --- PÁGINA 9 --- SeçãoII Conceitooperacionaldeinstrução",
+    "texto": "Art.23. A avaliação prática deverá ser objeto de registro em formulário definido em normainternadaInstituiçãodeFormação. SeçãoII Conceitooperacionaldeinstrução",
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.23.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.23.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO IV - AVALIAÇÃOINSTRUCIONAL",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Avaliaçãodeinstrutororgânico",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -447,15 +551,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.24.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.24.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO IV - AVALIAÇÃOINSTRUCIONAL",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Conceitooperacionaldeinstrução",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -464,15 +572,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.25.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.25.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO IV - AVALIAÇÃOINSTRUCIONAL",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Conceitooperacionaldeinstrução",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -481,15 +593,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.26.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.26.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO IV - AVALIAÇÃOINSTRUCIONAL",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO III - Avaliaçãodeinstrutornãoorgânico",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -498,15 +614,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.27.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.27.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO IV - AVALIAÇÃOINSTRUCIONAL",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO III - Avaliaçãodeinstrutornãoorgânico",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -515,32 +635,40 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.28.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.28.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Criaçãoecomposição",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
     "id": "4391da3bc0d70b1808c2fc624624b80f",
-    "texto": "Art.29. OConselhodeInstruçãotemporfinalidadedeliberarsobre: I- odesempenhodoinstrutordeIFCTA; II- os casos em que a HT do instrutor de IFCTA será suspensa, conforme disposto no Art. 13; III- os casos em que a HT do instrutor de IFCTA perderá a validade, de acordo com o constantenoArt.14;ou IV- a necessidade de realização de um Programa Específico de Instrução para a revalidaçãodaHTdoinstrutordeIFCTA. --- PÁGINA 10 --- Parágrafo único. Após aavaliação dos casos tratados no inciso II, do caput, o Conselho de Instruçãopoderádecidirsobreoretornodasatividadesdo instrutordeIFCTA.",
+    "texto": "Art.29. OConselhodeInstruçãotemporfinalidadedeliberarsobre: I- odesempenhodoinstrutordeIFCTA; II- os casos em que a HT do instrutor de IFCTA será suspensa, conforme disposto no Art. 13; III- os casos em que a HT do instrutor de IFCTA perderá a validade, de acordo com o constantenoArt.14;ou IV- a necessidade de realização de um Programa Específico de Instrução para a revalidaçãodaHTdoinstrutordeIFCTA. Parágrafo único. Após aavaliação dos casos tratados no inciso II, do caput, o Conselho de Instruçãopoderádecidirsobreoretornodasatividadesdo instrutordeIFCTA.",
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.29.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.29.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Criaçãoecomposição",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -549,15 +677,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.30.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.30.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Criaçãoecomposição",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -566,15 +698,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.31.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.31.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Criaçãoecomposição",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -583,15 +719,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.32.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.32.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Criaçãoecomposição",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -600,15 +740,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.33.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.33.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO I - Criaçãoecomposição",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -617,15 +761,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.34.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.34.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Designaçãoeconvocação",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -634,15 +782,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.35.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.35.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Designaçãoeconvocação",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -651,15 +803,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.36.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.36.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Designaçãoeconvocação",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -668,15 +824,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.37.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.37.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Designaçãoeconvocação",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -685,32 +845,40 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.38.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.38.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Designaçãoeconvocação",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
     "id": "947925bde2e74718c7f808c6d1cd276e",
-    "texto": "Art.39. Para cada membro efetivo do Conselho de Instrução haverá um membro suplentecomasatribuiçõesinerentesaomembroefetivonaausênciadeste. Parágrafo único. No caso de número insuficiente de profissionais com as qualificações inerentes a suplente individual, um mesmo profissional poderá ser suplente de mais de um membro --- PÁGINA 11 --- efetivo.",
+    "texto": "Art.39. Para cada membro efetivo do Conselho de Instrução haverá um membro suplentecomasatribuiçõesinerentesaomembroefetivonaausênciadeste. Parágrafo único. No caso de número insuficiente de profissionais com as qualificações inerentes a suplente individual, um mesmo profissional poderá ser suplente de mais de um membro efetivo.",
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.39.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.39.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Designaçãoeconvocação",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -719,15 +887,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.40.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.40.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO II - Designaçãoeconvocação",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -736,15 +908,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.41.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.41.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO V - CONSELHODEINSTRUÇÃO",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO III - AtribuiçõesdoConselhodeInstrução",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -753,15 +929,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.42.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.42.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO VI - DISPOSIÇÕESTRANSITÓRIAS",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO III - AtribuiçõesdoConselhodeInstrução",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
@@ -770,32 +950,40 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.43.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.43.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO VII - DISPOSIÇÕESFINAIS",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO III - AtribuiçõesdoConselhodeInstrução",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   },
   {
     "id": "5ee0a1948381654ebeeb199ffffff5e4",
-    "texto": "Art.44. AredaçãodessaInstruçãotevecomoparâmetroasseguintesnormas: I- BRASIL. Ministério da Defesa. Comando da Aeronáutica. Gabinete do Comandante da Aeronáutica. NSCA 5-2: Norma de Sistema para Atos normativos no Âmbito do Comando da Aeronáutica.PortariaGABAER/GC3n°661,de21dedezembrode2023; --- PÁGINA 12 --- II- BRASIL.MinistériodaDefesa.ComandodaAeronáutica.DepartamentodeControledo Espaço Aéreo. ICA 100-18: Habilitação Técnica de Controlador de Tráfego Aéreo. Portaria DECEA n° 270/DGCEA,de13denovembrode2020; III- BRASIL. Ministério da Defesa. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. CIRCEA 100-51: Processo de Habilitação de Controlador de Tráfego Aéreo em Órgão ATC.PortariaDECEAn°56/DGCEA,de25deabrilde2019;e IV- BRASIL. Ministério da Defesa. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. CIRCEA 100-72: Sistema de Gerenciamento de Pessoal Operacional (SGPO). Portaria n°249/DGCEA,de26dedezembrode2019. --- PÁGINA 13 --- ANEXOII–CLASSIFICAÇÃODOCONCEITOOPERACIONALDEINSTRUÇÃO CONCEITO APROVEITAMENTO/RENDIMENTO O–Ótimo Acima90% B–Bom de80até89,99% R–Regular de70até79,99% NS–NãoSatisfatório Abaixode70% --- PÁGINA 14 --- ANEXOIII–FORMULÁRIODEAVALIAÇÃODEINSTRUTORESNÃOORGÂNICOS DEPARTAMENTODECONTROLEDOESPAÇOAÉREO ESCOLADEESPECIALISTASDEAERONÁUTICA Nome: OM: ItemAvaliado Descrição Grau Graude compromissodoinstrutor, [ ]0 considerandosuapontualidade, [ ]1 envolvimentocomainstruçãoe [ ]2 Responsabilidade demonstraçãode interesse namelhoriados [ ]3 processosde ensino.Considerara [ ]4 participaçãoembriefingse debriefings. [ ]5 Nível de conhecimentodaLegislaçãode [ ]0 Ensino(PDE,CM,PUDe PAVL)e Material de [ ]1 AdesãoàLegislação Apoio(apostilas,slidese exercíciospráticos), [ ]2 de Ensino bemcomosuaaplicaçãonainstruçãoe nas [ ]3 avaliações.Considerarapadronizaçãonos [ ]4 briefingse oPAVL. [ ]5 Nível demonstradode domíniodasnormase [ ]0 procedimentosrelacionadosaosServiçosde [ ]1 Conhecimento TráfegoAéreo,bemcomosuasaplicaçõesno [ ]2 Profissional ATC.Destaca-se que tempode serviçoou [ ]3 antiguidade nãorefletemoconhecimento [ ]4 profissional. [ ]5 [ ]0 Graude comprometimentoquantoàs [ ]1 legislaçõesdaFABe àsorientaçõesdaEEAR. [ ]2 CondutanaEEAR Considerarapresentaçãopessoal,posturanos [ ]3 ambientesde instrução,socialização, [ ]4 descansoe orientaçõesnobriefinginicial. [ ]5 [ ]0 Modocomooinstrutorinterage comos [ ]1 alunos,tantodurante asinstruçõesquanto Relacionamentocom [ ]2 nosintervalos.Considerarainteraçãoem osdiscentes [ ]3 debriefingsnoconsole e otratonos [ ]4 intervalos. [ ]5 [ ]0 Formacomooinstrutorinterage coma [ ]1 Relacionamentocoma equipe de CoordenadoresdaEEAR.Graude [ ]2 Coordenação cordialidade e receptividade,considerandoo [ ]3 respeitoàhierarquiafuncional. [ ]4 [ ]5 --- PÁGINA 15 --- COMENTÁRIOS ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ____________________________________________________ AVALIADOR ____________________________________________________ CHEFEDOGBCT --- PÁGINA 16 --- ANEXOIV–INSTRUÇÕESPARAOSAVALIADORESDEINSTRUTORESNÃOORGÂNICOS I- Responsabilidade: a) 0–Nãoobservado; b) 1–Nãodemonstraqualquercompromisso; c) 2 – Demonstra pouquíssima responsabilidade (só faz quando solicitado, sempre é orientado); d) 3 – Faz somente o básico (só faz o que é o previsto, mas não interage, não sugere mudanças,nãoseenvolve); e) 4–Demonstramuitaresponsabilidadeeenvolvimento,masdeixaalgum(ns)aspecto(s) adesejar;e f) 5 – Foi além do esperado (sempre pontual, envolve-se nos processos de ensino e demonstrainteresseemmelhorá-los); II- AdesãoàLegislaçãodeEnsino: a) 0–Nãoobservado; b) 1–DesconheceounãoexecutaoprevistonaLegislaçãodeEnsino/padronização; c) 2 – Conhece o previsto na Legislação de Ensino/padronização, mas sempre precisa ser orientado; d) 3 – Conhece o previsto na Legislação de Ensino/padronização, mas por vezes precisa serorientado; e) 4 – Conhece o previsto na Legislação de Ensino/padronização e raramente precisa ser orientado;e f) 5–Compreendeeaplicaintegralerigorosamentetudooqueéprevisto/padronizado; III- ConhecimentoProfissional: a) 0–Nãoobservado; b) 1–Desconheceounãosabeaplicarnormaseprocedimentos; c) 2–Conhecenormaseprocedimentosdesatualizadosounãoosaplicacorretamente; d) 3 – Possui conhecimento suficiente de normas e procedimentos, mas geralmente os executademaneiraincorreta; e) 4 – Conhece normas e procedimentos atualizados, mas eventualmente é orientado quantoàexecução;e f) 5 – Demonstra conhecimento pleno de normas, procedimentos e questões técnicas, e osaplicacomperfeição; IV- CondutanaEEAR: a) 0–Nãoobservado; --- PÁGINA 17 --- b) 1–Nãocumpreoprevistonaslegislações.Nãosegueasorientações.Éprecisoorientá- losempre; c) 2–Geralmentenãocumpreoprevistonaslegislaçõesenasorientações; d) 3–Eventualmentedeixadecumpriralgumaprescrição; e) 4–Normalmentecumpreoprevistonaslegislaçõeseorientações;e f) 5 – Sempre cumpre rigorosamente o previsto e aplica integralmente o previsto em legislaçõeseorientações.Podesugerirmelhorias.Éumexemploparaosalunoseacoordenação; V- Relacionamentocomosdiscentes: a) 0–Nãoobservado; b) 1–Nãosegueasorientações.Relaciona-seinadequadamentecomosalunos.Sempreé necessárioorientá-lo; c) 2–Porvezes,énecessárioserorientadoquantoàcondutacomosalunos; d) 3–Raramenteéorientadoquantoaomododeinteragircomosalunos; e) 4–Normalmentecumpreoorientado.Atitudeprofissionalnamaioriadotempo;e f) 5 – Sempre cumpre rigorosamente o orientado e a interação é totalmente profissional. Podeemitiralertaaoutrosmilitaresquantoàatitudeperanteosalunos; VI- RelacionamentocomaCoordenação a) 0–Nãoobservado; b) 1 – Não segue as orientações. Sempre questiona os procedimentos. Não aplica o padronizado.Nãoéreceptivoenãoentendeahierarquiafuncional; c) 2 – Por vezes, precisa ser orientado a seguir as instruções. É pouco receptivo e descortês; d) 3–Raramenteéorientadoaajustar-seafimdecumpriropadronizado; e) 4–Normalmentecumpreopadronizado.Atitudeprofissionalnamaioriadotempo;e f) 5 – Sempre cumpre rigorosamente o orientado e a interação com os coordenadores é totalmenteprofissional.Podehaversugestãodemelhoriadosprocessos. NOTA: Em todos os itens avaliados, o avaliador deverá descrever os fatos ou atos observados (positivos ou negativos) que merecem atenção. Ao se atribuir os graus 1, 2 e 5 aos militares que estão sendo avaliados, as respectivas justificativas deverão obrigatoriamente ser registradas no campo “Comentários”doAnexoIII.",
+    "texto": "Art.44. AredaçãodessaInstruçãotevecomoparâmetroasseguintesnormas: I- BRASIL. Ministério da Defesa. Comando da Aeronáutica. Gabinete do Comandante da Aeronáutica. NSCA 5-2: Norma de Sistema para Atos normativos no Âmbito do Comando da Aeronáutica.PortariaGABAER/GC3n°661,de21dedezembrode2023; II- BRASIL.MinistériodaDefesa.ComandodaAeronáutica.DepartamentodeControledo Espaço Aéreo. ICA 100-18: Habilitação Técnica de Controlador de Tráfego Aéreo. Portaria DECEA n° 270/DGCEA,de13denovembrode2020; III- BRASIL. Ministério da Defesa. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. CIRCEA 100-51: Processo de Habilitação de Controlador de Tráfego Aéreo em Órgão ATC.PortariaDECEAn°56/DGCEA,de25deabrilde2019;e IV- BRASIL. Ministério da Defesa. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. CIRCEA 100-72: Sistema de Gerenciamento de Pessoal Operacional (SGPO). Portaria n°249/DGCEA,de26dedezembrode2019. ANEXOII–CLASSIFICAÇÃODOCONCEITOOPERACIONALDEINSTRUÇÃO CONCEITO APROVEITAMENTO/RENDIMENTO O–Ótimo Acima90% B–Bom de80até89,99% R–Regular de70até79,99% NS–NãoSatisfatório Abaixode70% ANEXOIII–FORMULÁRIODEAVALIAÇÃODEINSTRUTORESNÃOORGÂNICOS DEPARTAMENTODECONTROLEDOESPAÇOAÉREO ESCOLADEESPECIALISTASDEAERONÁUTICA Nome: OM: ItemAvaliado Descrição Grau Graude compromissodoinstrutor, [ ]0 considerandosuapontualidade, [ ]1 envolvimentocomainstruçãoe [ ]2 Responsabilidade demonstraçãode interesse namelhoriados [ ]3 processosde ensino.Considerara [ ]4 participaçãoembriefingse debriefings. [ ]5 Nível de conhecimentodaLegislaçãode [ ]0 Ensino(PDE,CM,PUDe PAVL)e Material de [ ]1 AdesãoàLegislação Apoio(apostilas,slidese exercíciospráticos), [ ]2 de Ensino bemcomosuaaplicaçãonainstruçãoe nas [ ]3 avaliações.Considerarapadronizaçãonos [ ]4 briefingse oPAVL. [ ]5 Nível demonstradode domíniodasnormase [ ]0 procedimentosrelacionadosaosServiçosde [ ]1 Conhecimento TráfegoAéreo,bemcomosuasaplicaçõesno [ ]2 Profissional ATC.Destaca-se que tempode serviçoou [ ]3 antiguidade nãorefletemoconhecimento [ ]4 profissional. [ ]5 [ ]0 Graude comprometimentoquantoàs [ ]1 legislaçõesdaFABe àsorientaçõesdaEEAR. [ ]2 CondutanaEEAR Considerarapresentaçãopessoal,posturanos [ ]3 ambientesde instrução,socialização, [ ]4 descansoe orientaçõesnobriefinginicial. [ ]5 [ ]0 Modocomooinstrutorinterage comos [ ]1 alunos,tantodurante asinstruçõesquanto Relacionamentocom [ ]2 nosintervalos.Considerarainteraçãoem osdiscentes [ ]3 debriefingsnoconsole e otratonos [ ]4 intervalos. [ ]5 [ ]0 Formacomooinstrutorinterage coma [ ]1 Relacionamentocoma equipe de CoordenadoresdaEEAR.Graude [ ]2 Coordenação cordialidade e receptividade,considerandoo [ ]3 respeitoàhierarquiafuncional. [ ]4 [ ]5 COMENTÁRIOS ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ________________________________________________________________________________________________ ____________________________________________________ AVALIADOR ____________________________________________________ CHEFEDOGBCT ANEXOIV–INSTRUÇÕESPARAOSAVALIADORESDEINSTRUTORESNÃOORGÂNICOS I- Responsabilidade: a) 0–Nãoobservado; b) 1–Nãodemonstraqualquercompromisso; c) 2 – Demonstra pouquíssima responsabilidade (só faz quando solicitado, sempre é orientado); d) 3 – Faz somente o básico (só faz o que é o previsto, mas não interage, não sugere mudanças,nãoseenvolve); e) 4–Demonstramuitaresponsabilidadeeenvolvimento,masdeixaalgum(ns)aspecto(s) adesejar;e f) 5 – Foi além do esperado (sempre pontual, envolve-se nos processos de ensino e demonstrainteresseemmelhorá-los); II- AdesãoàLegislaçãodeEnsino: a) 0–Nãoobservado; b) 1–DesconheceounãoexecutaoprevistonaLegislaçãodeEnsino/padronização; c) 2 – Conhece o previsto na Legislação de Ensino/padronização, mas sempre precisa ser orientado; d) 3 – Conhece o previsto na Legislação de Ensino/padronização, mas por vezes precisa serorientado; e) 4 – Conhece o previsto na Legislação de Ensino/padronização e raramente precisa ser orientado;e f) 5–Compreendeeaplicaintegralerigorosamentetudooqueéprevisto/padronizado; III- ConhecimentoProfissional: a) 0–Nãoobservado; b) 1–Desconheceounãosabeaplicarnormaseprocedimentos; c) 2–Conhecenormaseprocedimentosdesatualizadosounãoosaplicacorretamente; d) 3 – Possui conhecimento suficiente de normas e procedimentos, mas geralmente os executademaneiraincorreta; e) 4 – Conhece normas e procedimentos atualizados, mas eventualmente é orientado quantoàexecução;e f) 5 – Demonstra conhecimento pleno de normas, procedimentos e questões técnicas, e osaplicacomperfeição; IV- CondutanaEEAR: a) 0–Nãoobservado; b) 1–Nãocumpreoprevistonaslegislações.Nãosegueasorientações.Éprecisoorientá- losempre; c) 2–Geralmentenãocumpreoprevistonaslegislaçõesenasorientações; d) 3–Eventualmentedeixadecumpriralgumaprescrição; e) 4–Normalmentecumpreoprevistonaslegislaçõeseorientações;e f) 5 – Sempre cumpre rigorosamente o previsto e aplica integralmente o previsto em legislaçõeseorientações.Podesugerirmelhorias.Éumexemploparaosalunoseacoordenação; V- Relacionamentocomosdiscentes: a) 0–Nãoobservado; b) 1–Nãosegueasorientações.Relaciona-seinadequadamentecomosalunos.Sempreé necessárioorientá-lo; c) 2–Porvezes,énecessárioserorientadoquantoàcondutacomosalunos; d) 3–Raramenteéorientadoquantoaomododeinteragircomosalunos; e) 4–Normalmentecumpreoorientado.Atitudeprofissionalnamaioriadotempo;e f) 5 – Sempre cumpre rigorosamente o orientado e a interação é totalmente profissional. Podeemitiralertaaoutrosmilitaresquantoàatitudeperanteosalunos; VI- RelacionamentocomaCoordenação a) 0–Nãoobservado; b) 1 – Não segue as orientações. Sempre questiona os procedimentos. Não aplica o padronizado.Nãoéreceptivoenãoentendeahierarquiafuncional; c) 2 – Por vezes, precisa ser orientado a seguir as instruções. É pouco receptivo e descortês; d) 3–Raramenteéorientadoaajustar-seafimdecumpriropadronizado; e) 4–Normalmentecumpreopadronizado.Atitudeprofissionalnamaioriadotempo;e f) 5 – Sempre cumpre rigorosamente o orientado e a interação com os coordenadores é totalmenteprofissional.Podehaversugestãodemelhoriadosprocessos. NOTA: Em todos os itens avaliados, o avaliador deverá descrever os fatos ou atos observados (positivos ou negativos) que merecem atenção. Ao se atribuir os graus 1, 2 e 5 aos militares que estão sendo avaliados, as respectivas justificativas deverão obrigatoriamente ser registradas no campo “Comentários”doAnexoIII.",
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-100-47",
-      "artigo": "Art.44.",
-      "data_publicacao": "19-12-1986",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art.44.",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "05-05-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Tráfego Aéreo",
       "contexto": {
         "titulo": null,
         "capitulo": "CAPÍTULO VII - DISPOSIÇÕESFINAIS",
-        "secao": null,
-        "subsecao": null
-      }
+        "secao": "SEÇÃO III - AtribuiçõesdoConselhodeInstrução",
+        "subsecao": "SUBSEÇÃO II - Definições"
+      },
+      "revogado": false
     }
   }
 ]

@@ -35,12 +35,12 @@ class PDFOCRProcessor:
         # Inicializa PaddleOCR
         print("🔧 Inicializando PaddleOCR...")
         self.ocr = PaddleOCR(
-            use_angle_cls=True,  # Detecta e corrige rotação de texto
+            use_textline_orientation=True,  # Detecta e corrige rotação de texto
             lang='pt',  # Português
             # use_gpu=use_gpu,  # GPU ou CPU
             # show_log=False,  # Não mostra logs verbosos
-            det_db_thresh=0.3,  # Threshold de detecção (0.3 é bom para docs limpos)
-            det_db_box_thresh=0.5  # Threshold de confiança da caixa
+            text_det_thresh=0.3,  # Threshold de detecção (0.3 é bom para docs limpos)
+            text_det_box_thresh=0.5  # Threshold de confiança da caixa
         )
         print("✅ PaddleOCR inicializado!")
 

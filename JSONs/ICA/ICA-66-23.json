@@ -5,15 +5,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-66-23",
-      "artigo": "Art. 1º",
-      "data_publicacao": "22-08-2025",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art. 1º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "04-09-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Manutenção",
       "contexto": {
         "titulo": null,
         "capitulo": null,
         "secao": null,
         "subsecao": null
-      }
+      },
+      "revogado": false
     }
   },
   {
@@ -22,15 +26,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-66-23",
-      "artigo": "Art. 2º",
-      "data_publicacao": "22-08-2025",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art. 2º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "04-09-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Manutenção",
       "contexto": {
         "titulo": null,
         "capitulo": null,
         "secao": null,
         "subsecao": null
-      }
+      },
+      "revogado": false
     }
   },
   {
@@ -39,15 +47,19 @@
     "metadados": {
       "tipo_documento": "ICA",
       "nome": "ICA-66-23",
-      "artigo": "Art. 3º",
-      "data_publicacao": "22-08-2025",
-      "data_acesso": "27-10-2025",
+      "identificação": "Art. 3º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "04-09-2025",
+      "data_vigencia_fim": "",
+      "data_acesso": "29-10-2025",
+      "categoria": "Manutenção",
       "contexto": {
         "titulo": null,
         "capitulo": null,
         "secao": null,
         "subsecao": null
-      }
+      },
+      "revogado": false
     }
   }
 ]

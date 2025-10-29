@@ -1,0 +1,65 @@
+[
+  {
+    "id": "e441e30510ae369f951bc1797efbccec",
+    "texto": "Art. 1º Aprovar a reedição da ICA 105-3 “Verificação Operacional”, que com esta baixa.",
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome": "ICA-105-3",
+      "identificação": "Art. 1º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "02-08-2021",
+      "data_vigencia_fim": "03-07-2023",
+      "data_acesso": "29-10-2025",
+      "categoria": "Meteorologia",
+      "contexto": {
+        "titulo": null,
+        "capitulo": null,
+        "secao": null,
+        "subsecao": null
+      },
+      "revogado": true
+    }
+  },
+  {
+    "id": "0bf57136ef8377549bc6442b2a9f4f3b",
+    "texto": "Art. 2º Esta Instrução entra em vigor em 2 de agosto de 2021.",
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome": "ICA-105-3",
+      "identificação": "Art. 2º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "02-08-2021",
+      "data_vigencia_fim": "03-07-2023",
+      "data_acesso": "29-10-2025",
+      "categoria": "Meteorologia",
+      "contexto": {
+        "titulo": null,
+        "capitulo": null,
+        "secao": null,
+        "subsecao": null
+      },
+      "revogado": true
+    }
+  },
+  {
+    "id": "b27f90d3da6566956b5aa678d0d727ee",
+    "texto": "Art. 3º Revogar a Portaria DECEA nº 26/DGCEA, de 20 de fevereiro de 2017, publicada no Boletim do Comando da Aeronáutica nº 046, de 21 de março de 2017. Ten Brig Ar JOÃO TADEU FIORENTINI Diretor-Geral do DECEA (Publicada no BCA n° 137, de 27 de julho de 2021)",
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome": "ICA-105-3",
+      "identificação": "Art. 3º",
+      "data_publicacao": "29-10-2025",
+      "data_vigencia_inicio": "02-08-2021",
+      "data_vigencia_fim": "03-07-2023",
+      "data_acesso": "29-10-2025",
+      "categoria": "Meteorologia",
+      "contexto": {
+        "titulo": null,
+        "capitulo": null,
+        "secao": null,
+        "subsecao": null
+      },
+      "revogado": true
+    }
+  }
+]

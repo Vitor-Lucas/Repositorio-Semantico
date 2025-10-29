@@ -1,9 +1,10 @@
 import hashlib
 import json
 from datetime import datetime
-from typing import List, Tuple, Dict
+from typing import List, Tuple, Dict, Optional
 import utils
 import os
+import sys
 import re
 
 
@@ -46,16 +47,43 @@ class ICAJSONGenerator:
             # Textos separados por página
             with open(file_path, 'r', encoding='utf-8') as arquivo:
                 textos = arquivo.read().split('--- PÁGINA ---')
-            print(textos)
+            # print(textos)
+
+
+            # TODO testar essa parte depois de fazer os arquivos .txt terem essa formatação também
+            numero_ica, data_vigencia_inicio, data_vigencia_fim, categoria = separar_caminho_arquivo(file_path)
+            # print(f"Caminho separado: {separar_caminho_arquivo(file_path)}")
+
+
+            # Assumindo que a formatação da data seja dd/MM/yyyy
+            if data_vigencia_inicio:
+                data_vigencia_inicio = data_vigencia_inicio[:2] + '-' + data_vigencia_inicio[2:4] + '-' + data_vigencia_inicio[4:]
+            if data_vigencia_fim:
+                data_vigencia_fim = data_vigencia_fim[:2] + '-' + data_vigencia_fim[2:4] + '-' + data_vigencia_fim[4:]
+
             primeira_pagina = textos[0]
             # revogada = get_ica_revogado(primeira_pagina)
 
-            numero_ica = extrair_numero_ica(file_path)
-
-            # Extrair data de publicação (você pode criar uma função específica para isso)
             data_publicacao = extrair_data_publicacao(primeira_pagina)
 
-            artigos_estruturados = extrair_artigos_estruturados(textos, numero_ica, data_publicacao)
+            if not data_vigencia_inicio:
+                data_vigencia_inicio = extrair_data_vigencia(
+                    textos=textos[:min(4, len(textos))],
+                    data_publicacao=data_publicacao
+                )
+                print(f'Data de publicação: {data_publicacao}')
+                print(f"Data vigencia determinada!: {data_vigencia_inicio}")
+
+            # continue
+
+            artigos_estruturados = extrair_artigos_estruturados(
+                textos=textos,
+                numero_ica=numero_ica,
+                data_publicacao=data_publicacao,
+                data_vigor_inicio=data_vigencia_inicio,
+                data_vigor_fim=data_vigencia_fim,
+                categoria=categoria
+            )
 
             salvar_artigos_json(
                 artigos_estruturados,
@@ -66,6 +94,7 @@ class ICAJSONGenerator:
             print('-'*20)
         print('PROCESSO DE CRIAÇÂO DE JSONS ENCERRADO')
         print('-'*40)
+
 
 def get_ica_revogado(texto: str):
     # print(texto)
@@ -156,6 +185,13 @@ def extrair_numero_ica(caminho_completo: str) -> str:
     return nome_sem_ext
 
 
+def separar_caminho_arquivo(file_path: str, sep: str = '_') -> list:
+    file_name = os.path.basename(file_path)
+    print(file_name)
+    caminho_sem_extensao = file_name.split('.')[0]
+    return caminho_sem_extensao.split(sep)
+
+
 def extrair_data_publicacao(texto: str) -> str:
     """
     Extrai a data de publicação do documento.
@@ -181,7 +217,8 @@ def extrair_data_publicacao(texto: str) -> str:
     return datetime.now().strftime("%d-%m-%Y")
 
 
-def extrair_artigos_estruturados(textos: List[str], numero_ica: str, data_publicacao: str) -> List[Dict]:
+def extrair_artigos_estruturados(textos: List[str], numero_ica: str, data_publicacao: str,
+                                 data_vigor_inicio: str, data_vigor_fim: str, categoria: str) -> List[Dict]:
     """
     Extrai todos os artigos de um documento ICA com seu contexto hierárquico completo.
 
@@ -193,6 +230,8 @@ def extrair_artigos_estruturados(textos: List[str], numero_ica: str, data_public
     Returns:
         Lista de dicionários com a estrutura padronizada dos artigos
     """
+
+
 
     # Juntar todas as páginas em um único texto
     texto_completo = "\n".join(textos)
@@ -209,12 +248,12 @@ def extrair_artigos_estruturados(textos: List[str], numero_ica: str, data_public
     )
 
     padrao_secao = re.compile(
-        r'(?m)^SE[CcGg][ÇçCcGg]?[ÃãAaOo][Oo]?\s*([IVXLCDM|]+|[0-9]+)\s*[-–—]?\s*(.*?)$',
+        r'(?m)^S[Ee][ÇcCc]?[ÃãAaOo][Oo]?\s*([IVXLCDM]+|[0-9]+)\s*[-–—]?\s*(.*?)$',
         re.IGNORECASE
     )
 
     padrao_subsecao = re.compile(
-        r'(?m)^SUBSE[CcGg][ÇçCcGg]?[ÃãAaOo][Oo]?\s*([IVXLCDM|]+|[0-9]+)\s*[-–—]?\s*(.*?)$',
+        r'(?ms)^SUBS[Ee][ÇCc]?[ÃãAaOo][Oo]?\s*(?:[-–—]?\s*)?([IVXLCDM]+|[0-9]+)\s*[-–—]?\s*(.*?)(?=\n\S|$)',
         re.IGNORECASE
     )
 
@@ -325,15 +364,19 @@ def extrair_artigos_estruturados(textos: List[str], numero_ica: str, data_public
             "metadados": {
                 "tipo_documento": "ICA",
                 "nome": numero_ica,
-                "artigo": numero_artigo,
+                "identificação": numero_artigo,
                 "data_publicacao": data_publicacao,
+                "data_vigencia_inicio": data_vigor_inicio,
+                "data_vigencia_fim": data_vigor_fim,
                 "data_acesso": data_acesso,
+                "categoria": categoria,
                 "contexto": {
                     "titulo": titulo_atual,
                     "capitulo": capitulo_atual,
                     "secao": secao_atual,
                     "subsecao": subsecao_atual
-                }
+                },
+                "revogado": True if data_vigor_fim else False
             }
         }
 
@@ -341,6 +384,82 @@ def extrair_artigos_estruturados(textos: List[str], numero_ica: str, data_public
 
     return artigos_estruturados
 
+
+def extrair_data_vigencia(textos: list[str], data_publicacao: str) -> Optional[str]:
+    """
+    Extrai a data de vigência de documentos ICA/Portarias a partir do texto.
+
+    Args:
+        textos: Lista de strings contendo o texto do documento (por página)
+        data_publicacao: Data de publicação no formato "DD-MM-YYYY"
+
+    Returns:
+        String com a data de vigência no formato "DD-MM-YYYY" ou None se não encontrada
+
+    Exemplos de padrões capturados:
+        - "entra em vigor na data de sua publicação"
+        - "entra em vigor no ato de sua publicação"
+        - "entra em vigor em 6 de janeiro de 2025"
+        - "entra em vigor em 30 de abril de 2025"
+    """
+
+    # Juntar todo o texto
+    texto_completo = "\n".join(textos)
+
+    # Remover espaços extras que podem existir (como "EstaPortariaentraemvigorem")
+    texto_limpo = re.sub(r'(?<=[a-z])(?=[A-Z])', ' ', texto_completo)
+
+    # Padrão para capturar artigos que falam sobre vigência
+    # Captura todo o artigo que menciona "entra em vigor"
+    padrao_artigo_vigencia = re.compile(
+        r'Art\.?\s*\d{1,3}[ºº°]?\s*(.{0,200}?entra\s+em\s+vigor.{0,200}?)(?=Art\.|$)',
+        re.IGNORECASE | re.DOTALL
+    )
+
+    match_artigo = padrao_artigo_vigencia.search(texto_limpo)
+
+    if not match_artigo:
+        return None
+
+    texto_vigencia = match_artigo.group(1)
+
+    # Padrão 1: "na data de sua publicação" ou "no ato de sua publicação"
+    padrao_data_publicacao = re.compile(
+        r'entra\s+em\s+vigor\s+(?:na\s+data|no\s+ato)\s+de\s+sua\s+publicação',
+        re.IGNORECASE
+    )
+
+    if padrao_data_publicacao.search(texto_vigencia):
+        print('ICA em vigor na data de publicação!')
+        return data_publicacao
+
+    # Padrão 2: Data específica "em DD de MMMM de AAAA"
+    padrao_data_especifica = re.compile(
+        r'entra\s+em\s+vigor\s+em\s+(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})',
+        re.IGNORECASE
+    )
+
+    match_data = padrao_data_especifica.search(texto_vigencia)
+
+    if match_data:
+        dia = match_data.group(1).zfill(2)
+        mes_texto = match_data.group(2).lower()
+        ano = match_data.group(3)
+
+        # Dicionário de meses (com possíveis variações de acentuação)
+        meses = {
+            'janeiro': '01', 'fevereiro': '02', 'março': '03', 'marco': '03',
+            'abril': '04', 'maio': '05', 'junho': '06',
+            'julho': '07', 'agosto': '08', 'setembro': '09',
+            'outubro': '10', 'novembro': '11', 'dezembro': '12'
+        }
+
+        mes = meses.get(mes_texto, '01')
+        print('ICA entra em vigor por data própria!')
+        return f"{dia}-{mes}-{ano}"
+
+    # Se chegou aqui, não conseguiu extrair a data
+    return None
 
 def salvar_artigos_json(artigos: List[Dict], caminho_saida: str, formato: str = 'compacto'):
     """
