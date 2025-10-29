@@ -68,6 +68,7 @@ class ICAJSONGenerator:
 
             if not data_vigencia_inicio:
                 data_vigencia_inicio = extrair_data_vigencia(
+                    # TODO fazer o minimo de páginas ser 5 ou 6, por conta daqueles ICAS mistos
                     textos=textos[:min(4, len(textos))],
                     data_publicacao=data_publicacao
                 )
