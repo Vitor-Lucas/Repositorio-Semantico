@@ -196,13 +196,27 @@ def extrair_todas_secoes_numeradas(texto: str) -> List[Tuple[int, str, str]]:
         re.MULTILINE
     )
 
+    # padrao = re.compile(
+    #     r'^(\d+(?:\.\d+)*)\s+([A-ZÀÂÃÇÉÊÍÓÔÕÚÇ0-9\s\-,–/()]+)$',  # funciona bem
+    #     re.MULTILINE
+    # )
+
+    # padrao = re.compile(
+    #     r'^\s*(\d+(?:\.\d+)*)\s+([A-ZÀ-ÝÇ0-9\s\-,–/()]+?)\s*$', # funciona melhor, pega os que tem acentos
+    #     re.MULTILINE
+    # )
+
     secoes = []
     for match in padrao.finditer(texto):
         posicao = match.start()
         numero = match.group(1).strip()
         titulo = match.group(2).strip()
+        # subseções sem titulo estão com o texto do lado do numero minuscula
+        if not titulo.isupper():
+            titulo = ""
         secoes.append((posicao, numero, titulo))
-
+        # (7469, '1.5.5', 'PRAZO DE VALIDADE DE CALIBRAÇÃO')
+    # print("\n".join([str(val) for val in secoes]))
     return secoes
 
 
@@ -234,22 +248,39 @@ def extrair_texto_secao(
     # Encontrar posição final
     posicao_fim = len(texto_completo)
 
+    print("-"*40)
+    # for pos, num, _ in todas_secoes:
+    #     if pos > posicao_inicio:
+    #         # print(f'pos: {pos}, num: {num}, texto: {_[:30]}')
+    #         nivel_candidato = calcular_nivel_hierarquico(num)
+    #         if nivel_candidato <= nivel_atual:
+    #             posicao_fim = pos
+    #             print(f'Encontrado o fim da seção: {pos}, {num}, {_}')
+    #             break
+
+    # Pega o trecho entre a seção atual e a mais próxima
+    menor_pos = posicao_fim
     for pos, num, _ in todas_secoes:
-        if pos > posicao_inicio:
-            nivel_candidato = calcular_nivel_hierarquico(num)
-            if nivel_candidato <= nivel_atual:
-                posicao_fim = pos
-                break
+        if posicao_inicio < pos < menor_pos:
+            menor_pos = pos
+    posicao_fim = menor_pos
 
     # Extrair texto completo da seção
     texto_bruto = texto_completo[posicao_inicio:posicao_fim].strip()
-
+    # print("-"*30)
+    # print(texto_bruto)
+    # print('-'*30)
     # Remove primeira linha (cabeçalho)
     linhas = texto_bruto.split('\n')
 
+    # se existe linha e ela começa com algum numero ("2.1 FINALIDADE")
     if linhas and re.match(r'^\d+(?:\.\d+)*\s+.+', linhas[0]):
+        # print('Sessão nova!')
+        # print('\n'.join(linhas[1:]).strip())
         return '\n'.join(linhas[1:]).strip()
     else:
+        # print('Não é sessão')
+        # print(texto_bruto)
         return texto_bruto
 
 
@@ -284,8 +315,10 @@ def extrair_secoes_flat_para_rag(
 
     texto_completo = "\n".join(textos)
 
-    todas_secoes = extrair_todas_secoes_numeradas(texto_completo)
+    # TODO pensar em talvez deletar as paginas que tem referências
+    # TODO talvez deletar os anexos ou arrumar um jeito de fazer um JSON deles?
 
+    todas_secoes = extrair_todas_secoes_numeradas(texto_completo)
     print(f'\n📋 Total de seções numeradas encontradas: {len(todas_secoes)}')
     print('\n🔍 Primeiras 10 seções detectadas:')
     for pos, num, titulo in todas_secoes[:10]:
