@@ -171,7 +171,7 @@ class ICAExtrator:
                     driver=driver
                 )
         elif mode == ICADownloadMode.AllICAS:
-            icas_list = self.get_all_icas(verbose=False)
+            icas_list = self.get_all_icas(verbose=True)
 
             print_info(f'ICAs encontrados: {len(icas_list)}')
 

@@ -15,11 +15,11 @@ class ICAJSONGenerator:
         Classe que cria JSONs contendo os textos dos artigos a partir do
         texto extraido do arquivo, em .txt
         """
-        print('Instância criada!')
+        print_info('Instância criada!')
         self.input_dir = os.path.join(os.getcwd(), input_dir)
         self.output_dir = os.path.join(os.getcwd(), output_dir)
-        print(f'Caminho de entrada: {self.input_dir}')
-        print(f'Caminho de saida: {self.output_dir}')
+        print_info(f'Caminho de entrada: {self.input_dir}')
+        print_info(f'Caminho de saida: {self.output_dir}')
 
     def get_caminhos(self) -> list[str]:
         """Retorna uma lista com os caminhos completos de todos os arquivos dentro de um diretório."""
@@ -44,14 +44,14 @@ class ICAJSONGenerator:
             - hibrido: usa ambas funções (artigos + seções)
             - auto: detecta automaticamente (TODO: implementar)
         """
-        print('-' * 40)
-        print(f'INICIANDO PROCESSO DE CRIAÇÃO DE JSONS - MODO: {modo.upper()}')
-        print(f'Busca por caminhos iniciada no diretório: {self.input_dir}')
-        print('Caminhos obtidos: ')
-        print(self.get_caminhos())
+        print_delimiter(40)
+        print_green(f'INICIANDO PROCESSO DE CRIAÇÃO DE JSONS - MODO: {modo.upper()}', bright=True)
+        print_info(f'Busca por caminhos iniciada no diretório: {self.input_dir}')
+        print_info('Caminhos obtidos: ')
+        print_info(f"{self.get_caminhos()}")
 
         for i, file_path in enumerate(self.get_caminhos()):
-            print('-' * 20)
+            print_delimiter(20)
             print(f'Repetição {i}')
             print(f'Caminho de arquivo: {file_path}')
 
@@ -75,8 +75,8 @@ class ICAJSONGenerator:
                     textos=textos[:min(4, len(textos))],
                     data_publicacao=data_publicacao
                 )
-                print(f'Data de publicação: {data_publicacao}')
-                print(f"Data vigencia determinada!: {data_vigencia_inicio}")
+                print_info(f'Data de publicação: {data_publicacao}')
+                print_info(f"Data vigencia determinada!: {data_vigencia_inicio}")
 
             citacoes_estruturadas = []
 
@@ -120,7 +120,7 @@ class ICAJSONGenerator:
                 #     categoria=categoria
                 # )
 
-                secoes = extrair_secoes_flat_para_rag(
+                secoes = extrair_secoes_flat(
                     texto_cru=texto_cru,
                     numero_ica=numero_ica,
                     data_publicacao=data_publicacao,
@@ -132,7 +132,7 @@ class ICAJSONGenerator:
                 citacoes_estruturadas = artigos + secoes
 
             elif modo == 'auto':
-                print("⚠️ Modo AUTO ainda não implementado. Usando modo HÍBRIDO.")
+                print_mid_warning("⚠️ Modo AUTO ainda não implementado. Usando modo HÍBRIDO.")
                 citacoes_estruturadas = self._processar_modo_hibrido(
                     textos, numero_ica, data_publicacao,
                     data_vigencia_inicio, data_vigencia_fim, categoria
@@ -144,9 +144,9 @@ class ICAJSONGenerator:
                 'legivel'
             )
 
-            print('-' * 20)
-        print('PROCESSO DE CRIAÇÃO DE JSONS ENCERRADO')
-        print('-' * 40)
+            print_delimiter(20)
+        print_green('PROCESSO DE CRIAÇÃO DE JSONS ENCERRADO', bright=True)
+        print_delimiter(40)
 
 
 def separar_caminho_arquivo(file_path: str, sep: str = '_') -> list:
@@ -248,7 +248,7 @@ def extrair_texto_secao(
     # Encontrar posição final
     posicao_fim = len(texto_completo)
 
-    print("-"*40)
+
     # for pos, num, _ in todas_secoes:
     #     if pos > posicao_inicio:
     #         # print(f'pos: {pos}, num: {num}, texto: {_[:30]}')
@@ -284,7 +284,7 @@ def extrair_texto_secao(
         return texto_bruto
 
 
-def extrair_secoes_flat_para_rag(
+def extrair_secoes_flat(
         texto_cru: str,
         numero_ica: str,
         data_publicacao: str,
@@ -296,9 +296,9 @@ def extrair_secoes_flat_para_rag(
     ✅ FUNÇÃO PRINCIPAL - Arquitetura FLAT para RAG
     Extrai todas as seções/subseções em estrutura achatada otimizada.
     """
-    print(f'\n{"=" * 50}')
-    print(f'EXTRAÇÃO DE SEÇÕES FLAT (RAG): {numero_ica}')
-    print(f'{"=" * 50}')
+    print_delimiter(50, '=')
+    print_green(f'EXTRAÇÃO DE SEÇÕES FLAT (RAG): {numero_ica}', bright=True)
+    print_delimiter(50, '=')
 
     textos = texto_cru.split('--- PÁGINA ---')
 
@@ -311,7 +311,7 @@ def extrair_secoes_flat_para_rag(
         textos.pop(0)  # pagina em branco
         textos.pop(3)  # remover o sumário
         # del textos[7]
-        print('Sumário removido!!')
+        print_info('Sumário e paginas em branco removidos!!')
 
     texto_completo = "\n".join(textos)
 
@@ -319,11 +319,11 @@ def extrair_secoes_flat_para_rag(
     # TODO talvez deletar os anexos ou arrumar um jeito de fazer um JSON deles?
 
     todas_secoes = extrair_todas_secoes_numeradas(texto_completo)
-    print(f'\n📋 Total de seções numeradas encontradas: {len(todas_secoes)}')
-    print('\n🔍 Primeiras 10 seções detectadas:')
+    print_info(f'\n📋 Total de seções numeradas encontradas: {len(todas_secoes)}', bright=True)
+    print_info('\n🔍 Primeiras 10 seções detectadas:')
     for pos, num, titulo in todas_secoes[:10]:
         nivel = calcular_nivel_hierarquico(num)
-        print(f'   {"  " * (nivel - 1)}├─ {num} - {titulo[:60]}...')
+        print_info(f'   {"  " * (nivel - 1)}├─ {num} - {titulo[:60]}...')
 
     secoes_flat = []
     data_acesso = datetime.now().strftime("%d-%m-%Y")
@@ -406,7 +406,7 @@ def extrair_secoes_flat_para_rag(
 
         secoes_flat.append(secao_flat)
 
-    print(f'\n✅ Total de seções flat estruturadas: {len(secoes_flat)}')
+    print_info(f'\n✅ Total de seções flat estruturadas: {len(secoes_flat)}')
     return secoes_flat
 
 
@@ -696,9 +696,9 @@ def extrair_secoes_estruturadas(
     ✅ FUNÇÃO PRINCIPAL CORRIGIDA
     Extrai todas as seções/subseções com estrutura completa.
     """
-    print(f'\n{"=" * 50}')
-    print(f'EXTRAÇÃO DE SEÇÕES NUMERADAS: {numero_ica}')
-    print(f'{"=" * 50}')
+    print_delimiter(50, '=')
+    print_green(f'EXTRAÇÃO DE SEÇÕES NUMERADAS: {numero_ica}', bright=True)
+    print_delimiter(50, '=')
     textos = texto_cru.split('--- PÁGINA ---')
 
     # ✅ FILTRO: Remover seção SUMÁRIO
@@ -709,11 +709,11 @@ def extrair_secoes_estruturadas(
     # sys.exit()
     todas_secoes = extrair_todas_secoes_numeradas(texto_completo)
 
-    print(f'\n📋 Total de seções numeradas encontradas: {len(todas_secoes)}')
-    print('\n🔍 Primeiras 10 seções detectadas:')
+    print_info(f'\n📋 Total de seções numeradas encontradas: {len(todas_secoes)}', bright=True)
+    print_info('\n🔍 Primeiras 10 seções detectadas:')
     for pos, num, titulo in todas_secoes[:10]:
         nivel = calcular_nivel_hierarquico(num)
-        print(f'   {"  " * (nivel - 1)}├─ {num} - {titulo[:60]}...')
+        print_info(f'   {"  " * (nivel - 1)}├─ {num} - {titulo[:60]}...')
 
     secoes_estruturadas = []
     data_acesso = datetime.now().strftime("%d-%m-%Y")
@@ -770,7 +770,7 @@ def extrair_secoes_estruturadas(
 
         secoes_estruturadas.append(secao_estruturada)
 
-    print(f'\n✅ Total de seções estruturadas: {len(secoes_estruturadas)}')
+    print_info(f'\n✅ Total de seções estruturadas: {len(secoes_estruturadas)}')
     return secoes_estruturadas
 
 
@@ -826,7 +826,9 @@ def salvar_artigos_json(artigos: List[Dict], caminho_saida: str, formato: str = 
     """Salva a lista de artigos em arquivo JSON."""
     diretorio = os.path.dirname(caminho_saida)
     if diretorio and not os.path.exists(diretorio):
+        print_info(f"Diretório {diretorio} não existia, criando ele agora")
         os.makedirs(diretorio)
+        print_info("Diretório criado!")
 
     if formato == 'compacto':
         with open(caminho_saida, 'w', encoding='utf-8') as f:
@@ -846,7 +848,7 @@ def salvar_artigos_json(artigos: List[Dict], caminho_saida: str, formato: str = 
         with open(caminho_saida, 'w', encoding='utf-8') as f:
             json.dump(documento_completo, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ {len(artigos)} artigos salvos em: {caminho_saida}")
+    print_green(f"✅ {len(artigos)} artigos salvos em: {caminho_saida}", bright=True)
 
 
 if __name__ == '__main__':
