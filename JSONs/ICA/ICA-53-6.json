@@ -1,0 +1,2701 @@
+[
+  {
+    "id": "551b1f751e396edabbe93500af938a30",
+    "texto": "Art. 1 o Aprovar a reedição da ICA 53-6 \"Suplemento AIP\", que com esta baixa.",
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome": "ICA-53-6",
+      "identificação": "Art. 1",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "categoria": "Informação Aeronáutica",
+      "contexto": {
+        "titulo": null,
+        "capitulo": null,
+        "secao": null,
+        "subsecao": null
+      },
+      "revogado": false
+    }
+  },
+  {
+    "id": "7c0bb0947f896947aca322e006ae09da",
+    "texto": "Art. 2 o Esta Instrução entra em vigor em 1 de julho de 2022.",
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome": "ICA-53-6",
+      "identificação": "Art. 2",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "categoria": "Informação Aeronáutica",
+      "contexto": {
+        "titulo": null,
+        "capitulo": null,
+        "secao": null,
+        "subsecao": null
+      },
+      "revogado": false
+    }
+  },
+  {
+    "id": "95e880208277125fad86dbb69d38bcc4",
+    "texto": "Art. 3 o Revoga-se a Portaria DECEA no 204/DGCEA, de 14 de setembro de 2016, publicada no Boletim do Comando da Aeronáutica no 167, de 29 de setembro de 2016. Ten Brig Ar JOÃO TADEU FIORENTINI Diretor-Geral do DECEA (Publicado no BCA n° 103 de 2 de junho de 2022) ICA 53-6/2022 SUMÁRIO 1 DISPOSIÇÕES PRELIMINARES .................................................................................. 9 1.1 FINALIDADE ..................................................................................................................... 9 1.2 ABREVIATURA E SIGLAS .............................................................................................. 9 1.3 CONCEITUAÇÃO.............................................................................................................. 9 1.4 ÂMBITO ........................................................................................................................... 10 2 GERERALIDADES ........................................................................................................ 11 2.1 FINALIDADE ................................................................................................................... 11 2.2 ORIGEM ........................................................................................................................... 11 2.3 CLASSIFICAÇÃO ............................................................................................................ 11 2.4 PRAZOS ............................................................................................................................ 11 2.5 CARACTERÍSTICAS ....................................................................................................... 11 2.6 VERIFICAÇÃO E VALIDAÇÃO .................................................................................... 12 3 ESPECIFICAÇÕES ........................................................................................................ 13 3.1 IDENTIFICAÇÃO ............................................................................................................ 13 3.2 CANCELAMENTO .......................................................................................................... 13 3.3 DIVULGAÇÃO ................................................................................................................ 13 3.4 LISTA DE VERIFICAÇÃO.............................................................................................. 14 3.5 CONFECÇÃO ................................................................................................................... 14 3.6 PRIMEIRA PARTE – CABEÇALHO .............................................................................. 15 3.7 SEGUNDA PARTE – TEXTO ......................................................................................... 15 4 DISPOSIÇÕES TRANSITÓRIAS ................................................................................. 18 5 DISPOSIÇÕES FINAIS .................................................................................................. 19 REFERÊNCIAS ..................................................................................................................... 20 ANEXO A - Modelo de Suplemento AIP não AIRAC .................................................... 21 ANEXO B - Modelo de Suplemento AIP AIRAC ........................................................... 22 ICA 53-6/2022 PREFÁCIO A Publicação de Informação Aeronáutica (AIP) está sujeita a modificações frequentes e as Emendas AIP são utilizadas para essas atualizações. Além disso, mudanças temporárias que afetam o conteúdo da AIP são frequentemente necessárias para divulgar circunstâncias imprevistas ou, em alguns casos, modificações planejadas de um serviço ou instalação. Com a finalidade de regulamentar os procedimentos para a divulgação das mudanças temporárias nas informações contidas na AIP, o DECEA editou a presente Instrução, que deverá ser utilizada por todos aqueles que, no desempenho de suas funções, necessitam utilizar os critérios e procedimentos para a divulgação da informação aeronáutica por meio de Suplemento AIP. Esta publicação foi reeditada em 2022 com o objetivo de: a) Definir que cada Suplemento AIP deverá ser divulgado em páginas diferentes, para que possa ser facilmente distinguido do conteúdo da AIP; b) Modificar o cabeçalho de identificação do Suplemento AIP; e c) Estabelecer que as informações a serem divulgadas por meio de Suplemento AIP são as modificações temporárias contidas na AIP, bem como as de aeródromos que operem IFR ou com operações da aviação regular. Ademais, foram introduzidas melhorias editoriais na publicação. ICA 53-6/2022 1 DISPOSIÇÕES PRELIMINARES 1.1 FINALIDADE A presente Instrução tem por finalidade estabelecer os procedimentos para a divulgação da informação aeronáutica por Suplemento AIP. 1.2 ABREVIATURA E SIGLAS AD - Aeródromo AIC - Circular de Informação Aeronáutica AIP - Publicação de Informação Aeronáutica AIRAC - Regulação e Controle de Informação Aeronáutica AISWEB - Informações Aeronáuticas Oficiais na WEB ANAC - Agência Nacional de Aviação Civil CGNA - Centro de Gerenciamento da Navegação Aérea CINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo CRCEA-SE - Centro Regional de Controle do Espaço Aéreo Sudeste DECEA - Departamento de Controle do Espaço Aéreo ENR - Em rota GEN - Generalidades ICA - Instituto de Cartografia Aeronáutica NIL - Nada ou Nada tenho a transmitir-lhe NOTAM - Aviso aos Aeronavegantes NOTAMR - NOTAM Substituidor OACI - Organização de Aviação Civil Internacional PAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro ROTAER - Publicação Auxiliar de Rotas Aéreas SDOP - Subdepartamento de Operações do DECEA SISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro UTC - Tempo Universal Coordenado 1.3 CONCEITUAÇÃO 1.3.1 INFORMAÇÃO PERMANENTE Informação cujo período de vigência seja igual ou superior a três anos. 1.3.2 INÍCIO DE EFETIVAÇÃO Informa a data e hora de início de efetivação da informação. 10/22 ICA 53-6/2022 1.3.3 PERÍODO DE VIGÊNCIA Período compreendido entre o início de efetivação e o término de validade da informação. 1.3.4 PRODUTOS DE INFORMAÇÃO AERONÁUTICA Dados e informações aeronáuticas fornecidos na forma de um conjunto de dados digitais ou em uma apresentação padrão em papel ou em formato eletrônico, que incluem: AIP, Emendas AIP, Suplementos AIP, AIC, NOTAM, Cartas Aeronáuticas, ROTAER, Emenda Digital (D-AMDT), INFOTEMP, AIXM e Conjunto de Dados Digitais. Os produtos de informação aeronáutica destinam-se principalmente a satisfazer os requisitos internacionais para o intercâmbio de informações aeronáuticas. 1.3.5 SOLICITAÇÃO DE DIVULGAÇÃO DE INFORMAÇÃO AERONÁUTICA Todo documento emitido por autoridade competente com a intenção de incluir, excluir ou modificar dado ou informação aeronáutica contida nos Produtos de Informação Aeronáutica. 1.4 ÂMBITO A presente Instrução, de observância obrigatória, aplica-se a todos aqueles que, no desempenho de suas funções, necessitem divulgar informação aeronáutica por meio de Suplemento AIP. ICA 53-6/2022 11/22 2 GERERALIDADES 2.1 FINALIDADE Modificar temporariamente as informações contidas na AIP, além das informações de aeródromos que operem IFR ou com operações da aviação regular. 2.2 ORIGEM 2.2.1 Todo Suplemento AIP deverá ser originado de uma Solicitação de Divulgação de Informação Aeronáutica (SDIA). 2.2.2 Quando a SDIA contiver informação permanente, a AIP deverá ser atualizada por meio de uma Emenda AIP. Caso contenha informação temporária, deverá ser atualizada por meio de Suplemento AIP. 2.3 CLASSIFICAÇÃO 2.3.1 Os Suplementos AIP são classificados quanto ao sistema de distribuição como “AIRAC” ou “Não AIRAC”. 2.3.2 Os Suplementos AIP são classificados quanto à série como “N” ou “A”: a) N – Nacional – Contém informação divulgada em português; ou b) A – Internacional – Contém informação divulgada em inglês. 2.4 PRAZOS O prazo para divulgação de Informação Aeronáutica por meio de Suplemento AIP deverá se adequar ao Calendário AIRAC, conforme previsto na ICA 53-4 “Solicitação de Divulgação de Informação Aeronáutica”. 2.5 CARACTERÍSTICAS 2.5.1 A informação temporária divulgada por meio de Suplemento AIP deverá ter pelo menos uma das seguintes características básicas: a) ser de longa duração, ou seja, três meses ou mais; b) ser de curta duração, mas conter textos longos; e c) conter desenhos que afetem uma ou mais Partes da AIP. 12/22 ICA 53-6/2022 2.5.2 Além das características básicas, a informação temporária divulgada por meio de Suplemento AIP deverá: a) ser publicada 28 ou 56 dias antes da data de efetivação para o Suplemento AIP AIRAC; b) ser publicada 7 ou 14 dias antes da data de efetivação para o Suplemento AIP não AIRAC; c) não sofrer alteração durante o período de vigência, a menos que as circunstâncias a serem alteradas sejam temporárias e não subsistam por todo o período; e d) ter caráter operacional. 2.5.3 No caso de informações que requeiram um ciclo AIRAC, os Suplementos AIP AIRAC deverão possuir um intervalo de 28 dias entre a data de publicação e a data de efetivação. 2.5.4 No caso de informações que requeiram dois ciclos AIRAC, os Suplementos AIP AIRAC deverão possuir um intervalo de 56 dias entre a data de publicação e a data de efetivação. 2.6 VERIFICAÇÃO E VALIDAÇÃO A informação contida na SDIA e seus respectivos metadados deverão estar de acordo com os requisitos especificados na TCA 53-2 “Catálogo de Requisitos de Dados e Informações Aeronáuticas”. ICA 53-6/2022 13/22 3 ESPECIFICAÇÕES 3.1 IDENTIFICAÇÃO 3.1.1 A numeração dos Suplementos AIP deverá ser crescente e independente, dentro de cada série, e será reiniciada na primeira edição de cada ano civil. 3.1.2 Os Suplementos AIP, AIRAC ou Não AIRAC, N ou A, deverão ser publicados em edições distintas. 3.1.3 Os Suplementos AIP deverão ser disponibilizados em páginas na cor amarela. 3.2 CANCELAMENTO 3.2.1 Quando ocorrer um erro em um Suplemento AIP ou seu período de vigência for alterado, um novo Suplemento AIP deverá ser publicado em substituição. 3.2.2 Os requisitos de NOTAM deverão ser aplicados, quando não houver tempo suficiente para a divulgação da informação aeronáutica por meio de Suplemento AIP. 3.2.3 As informações temporárias, previstas para permanecer em vigor por um período menor do que três meses, deverão ser divulgadas por meio de NOTAM. Quando este período for excedido, um Suplemento AIP deverá ser publicado em substituição ao NOTAM. 3.2.4 Quando um Suplemento AIP for publicado em substituição a um NOTAM, deverão ser mantidos o indicador de localidade e o assunto contidos no NOTAM. 3.2.5 No Suplemento AIP publicado em substituição a um NOTAM deverá ser incluída uma referência a este NOTAM. 3.2.6 O Suplemento AIP cancelado por um NOTAM deixará de ter validade no momento da expedição do NOTAM. 3.2.7 O Suplemento AIP cancelado deverá ser retirado da próxima edição da Lista de Suplementos AIP Válidos. 3.3 DIVULGAÇÃO 3.3.1 Cada Suplemento AIP deverá ser divulgado em páginas diferentes, para que possa ser facilmente distinguido do conteúdo da AIP. 14/22 ICA 53-6/2022 3.3.2 Um Suplemento AIP AIRAC será divulgado, quando o tipo de informação constar da lista “Quando empregar o Sistema AIRAC”, previsto na ICA 53-4 “Solicitação de Divulgação de Informação Aeronáutica”. 3.3.3 Os Suplementos AIP deverão ser disponibilizados em formato digital no AISWEB. 3.3.4 Quando um Suplemento AIP for publicado, um NOTAM chamado “Iniciador” deverá ser expedido, fornecendo uma breve descrição do conteúdo do Suplemento AIP, bem como a sua identificação e a data e hora de efetivação. 3.3.5 No caso de um Suplemento AIP com o período de vigência superior a 14 dias, o NOTAM “Iniciador” terá um período de vigência de 14 dias. 3.3.6 No caso de um Suplemento AIP com o período de vigência inferior a 14 dias, o NOTAM “Iniciador” terá um período de vigência igual ao publicado no Suplemento AIP. 3.3.7 A formatação das páginas do Suplemento AIP deverá ser, preferencialmente, a mesma da AIP. 3.3.8 Todo Suplemento AIP deverá conter uma data de início de efetivação e de término de validade da informação. 3.3.9 Os horários indicados nos Suplementos AIP deverão ser referenciados à hora UTC. 3.4 LISTA DE VERIFICAÇÃO 3.4.1 Deverá ser publicada, mensalmente, uma Lista de Suplementos AIP válidos como parte da Lista de Verificação de NOTAM. 3.4.2 Uma Lista de Suplementos AIP Válidos poderá ser consultada também a qualquer momento no AISWEB, por meio dos endereços eletrônicos http://aisweb.decea.intraer/ ou https://aisweb.decea.mil.br/, acessando o link específico do Produto de Informação Aeronáutica. 3.5 CONFECÇÃO 3.5.1 O formato do Suplemento AIP tem por objetivo padronizar a apresentação dos diversos tipos de informação, bem como facilitar a compreensão pelos usuários, conforme o Anexo A. ICA 53-6/2022 15/22 3.5.2 Os Suplementos AIP AIRAC deverão ser confeccionados da mesma forma que os Suplementos AIP Não AIRAC, seguindo a mesma numeração, e identificados pelo acrônimo AIRAC, colocado em lugar de destaque, conforme o Anexo B. 3.5.3 O Suplemento AIP deverá ser composto por duas partes: cabeçalho e texto. 3.6 PRIMEIRA PARTE – CABEÇALHO 3.6.1 Cada edição do Suplemento AIP deverá começar com cabeçalho padrão de identificação, conforme a figura abaixo: Suplemento AIP AIP Contato: Ministério da Defesa Brasil Comando da Aeronáutica N XXX / YY Departamento de Controle do Espaço Data de publicação Aéreo – DECEA DD MMM YY Av. Gen. Justo, 160 CEP 20021-130 Efetivação Rio de Janeiro, RJ – Brasil DD MMM YY AFS: SBRJZXIC AIM || Brasil http://www.decea.gov.br Título do Suplemento AIP Figura 1 – Cabeçalho 3.6.2 Um título curto que indique a informação que está sendo divulgada deverá complementar o cabeçalho. 3.7 SEGUNDA PARTE – TEXTO Contém informações que alteram as contidas na AIP e é composto pelos seguintes campos: a) município/instalação; b) período de vigência; c) conteúdo da informação; e d) referências. 3.7.1 MUNICÍPIO/INSTALAÇÃO 3.7.1.1 Nome do município seguido do nome da instalação, seguido da unidade da federação e do indicador de localidade. Exemplo: RIO DE JANEIRO/Galeão – Antônio Carlos Jobim, RJ (SBGL). 16/22 ICA 53-6/2022 3.7.1.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e maiúsculas. 3.7.2 PERÍODO DE VIGÊNCIA 3.7.2.1 Todo Suplemento AIP deverá conter neste campo a data e a hora de início de efetivação e de término de validade da informação. Exemplo: De 20 de julho de 2021, 1100 UTC até 21 de outubro de 2021, 2100 UTC. 3.7.2.2 O período de vigência deverá ser posicionado antes do texto. 3.7.2.3 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e maiúsculas. 3.7.2.4 Quando o período de vigência da informação não for suficiente para expressar todos os períodos de atividade da informação, estes deverão ser representados após o texto do Suplemento AIP. Exemplo: Dias e horários: JUL 20 1100 TIL JUL 22 2100 OCT 19 1100 TIL OCT 21 2100 3.7.3 CONTEÚDO DA INFORMAÇÃO 3.7.3.1 Contém informações que alteram as contidas na AIP. Exemplo: Pista 15 / 33 fechada devido serviço de manutenção. 3.7.3.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e maiúsculas. 3.7.3.3 3.7.4 REFERÊNCIAS 3.7.4.1 Este campo deverá conter referência à AIP, ao Suplemento AIP, em caso de substituição, ou ao NOTAM que divulgou a informação, se houver. ICA 53-6/2022 17/22 3.7.4.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e maiúsculas. 3.7.4.3 A referência à AIP deverá conter a parte, a seção e a subseção modificada pelo Suplemento AIP. Exemplo: Ref.: AD SBGL 2.12 3.7.4.4 A referência a um Suplemento AIP deverá conter a série, o número e o ano do Suplemento AIP substituído entre parênteses. Exemplo: (RPLC SUP N125/22) 3.7.4.5 A referência a um NOTAM deverá conter a série, o número e o ano do NOTAM substituído pelo Suplemento AIP entre parênteses. Exemplo: (RPLC NOTAM G0420/22) 18/22 ICA 53-6/2022 4 DISPOSIÇÕES TRANSITÓRIAS O ICA terá um prazo de dois anos, a partir da data de entrada em vigor desta Intrução, para concluir a nova estrutura do Suplemento AIP, conforme previsto nos itens 3.6 e 3.7. ICA 53-6/2022 19/22 5 DISPOSIÇÕES FINAIS 5.1 As sugestões para o contínuo aperfeiçoamento desta publicação deverão ser enviadas por meio dos endereços eletrônicos http://publicacoes.decea.intraer/ ou http://publicacoes.decea.mil.br/, acessando o link específico da publicação. 5.2 Os casos não previstos serão submetidos à apreciação do Sr. Chefe do Subdepartamento de Operações do Departamento de Controle do Espaço Aéreo. 20/22 ICA 53-6/2022 REFERÊNCIAS BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Solicitação de Divulgação de Informação Aeronáutica: ICA 53-4. Rio de Janeiro, RJ, 2019. BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Catálogo de Requisitos de dados e Informações Aeronáuticas: TCA 53-2. Rio de Janeiro, RJ, 2019. CANADÁ. Organização da Aviação Civil Internacional. Serviços de Informação Aeronáutica: Anexo 15. Montreal, 2018. CANADÁ. Organização da Aviação Civil Internacional. Manual para os Serviços de Informação Aeronáutica: Doc 8126. Montreal, 2003. CANADÁ. Organização da Aviação Civil Internacional. Procedimentos para os Serviços de Navegação Aérea – Gestão da Informação Aeronáutica: PANS-AIM, Doc. 10066. Montreal, 2018. ICA 53-6/2022 21/22 ANEXO A - Modelo de Suplemento AIP não AIRAC Suplemento AIP AIP Contato: Ministério da Defesa Brasil Comando da Aeronáutica N XX/22 Departamento de Controle do Espaço Data de publicação Aéreo – DECEA 17 MAY 22 Av. Gen. Justo, 160 CEP 20021-130 Data de efetivação Rio de Janeiro, RJ – Brasil 31 MAY 22 AFS: SBRJZXIC AIM || Brasil http://www.decea.gov.br Fechamento de Pista BELO HORIZONTE/Tancredo Neves, MG (SBCF) Período: De 31 de maio de 2022, 0455 UTC até 15 de outubro de 2022, 0745 UTC. Pista 16/34 fechada devido serviço de manutenção. Dias e horários: MAY 31 0455-0745 JUN 01 02 28 TIL 30 0455-0745 JUL 26 TIL 28 0455-0745 AUG 23 TIL 25 0435-0745 SEP 12 20 TIL 22 0435-0745 OCT 13 TIL 15 0435-0745 Ref.: AIP SBCF AD 2.12 22/22 ICA 53-6/2022 ANEXO B - Modelo de Suplemento AIP AIRAC Suplemento AIP AIRAC AIP Contato: Ministério da Defesa Brasil Comando da Aeronáutica N XXX / 22 Departamento de Controle do Espaço Data de publicação Aéreo – DECEA 18 MAR 22 Av. Gen. Justo, 160 CEP 20021-130 Data de efetivação Rio de Janeiro, RJ – Brasil 15 ABR 22 AFS: SBRJZXIC AIM || Brasil http://www.decea.gov.br CATEGORIA DE AERÓDROMO NATAL/ São Gonçalo do Amarante – Governador Aluizio Alves, RN (SBSG) Período: De 15 de abril de 2022, 0141 UTC até 22 de abril de 2022, 2359 UTC AD CATEGORIA MODIFICADA PARA INTL Ref. : AIP SBSG AD 2.1",
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome": "ICA-53-6",
+      "identificação": "Art. 3",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "categoria": "Informação Aeronáutica",
+      "contexto": {
+        "titulo": null,
+        "capitulo": null,
+        "secao": null,
+        "subsecao": null
+      },
+      "revogado": false
+    }
+  },
+  {
+    "id": "7066c18aca3c2a04bac27554b1aa148e",
+    "tipo_conteudo": "secao",
+    "identificacao": "1",
+    "titulo": "DISPOSIÇÕES PRELIMINARES",
+    "nivel_hierarquico": 1,
+    "texto_completo": "1.1 FINALIDADE\nA presente Instrução tem por finalidade estabelecer os procedimentos para a\ndivulgação da informação aeronáutica por Suplemento AIP.\n1.2 ABREVIATURA E SIGLAS\nAD - Aeródromo\nAIC - Circular de Informação Aeronáutica\nAIP - Publicação de Informação Aeronáutica\nAIRAC - Regulação e Controle de Informação Aeronáutica\nAISWEB - Informações Aeronáuticas Oficiais na WEB\nANAC - Agência Nacional de Aviação Civil\nCGNA - Centro de Gerenciamento da Navegação Aérea\nCINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo\nCRCEA-SE - Centro Regional de Controle do Espaço Aéreo Sudeste\nDECEA - Departamento de Controle do Espaço Aéreo\nENR - Em rota\nGEN - Generalidades\nICA - Instituto de Cartografia Aeronáutica\nNIL - Nada ou Nada tenho a transmitir-lhe\nNOTAM - Aviso aos Aeronavegantes\nNOTAMR - NOTAM Substituidor\nOACI - Organização de Aviação Civil Internacional\nPAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro\nROTAER - Publicação Auxiliar de Rotas Aéreas\nSDOP - Subdepartamento de Operações do DECEA\nSISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro\nUTC - Tempo Universal Coordenado\n1.3 CONCEITUAÇÃO\n1.3.1 INFORMAÇÃO PERMANENTE\nInformação cujo período de vigência seja igual ou superior a três anos.\n1.3.2 INÍCIO DE EFETIVAÇÃO\nInforma a data e hora de início de efetivação da informação.\n\n\n\n10/22 ICA 53-6/2022\n1.3.3 PERÍODO DE VIGÊNCIA\nPeríodo compreendido entre o início de efetivação e o término de validade da\ninformação.\n1.3.4 PRODUTOS DE INFORMAÇÃO AERONÁUTICA\nDados e informações aeronáuticas fornecidos na forma de um conjunto de dados\ndigitais ou em uma apresentação padrão em papel ou em formato eletrônico, que incluem: AIP,\nEmendas AIP, Suplementos AIP, AIC, NOTAM, Cartas Aeronáuticas, ROTAER, Emenda\nDigital (D-AMDT), INFOTEMP, AIXM e Conjunto de Dados Digitais. Os produtos de\ninformação aeronáutica destinam-se principalmente a satisfazer os requisitos internacionais\npara o intercâmbio de informações aeronáuticas.\n1.3.5 SOLICITAÇÃO DE DIVULGAÇÃO DE INFORMAÇÃO AERONÁUTICA\nTodo documento emitido por autoridade competente com a intenção de incluir,\nexcluir ou modificar dado ou informação aeronáutica contida nos Produtos de Informação\nAeronáutica.\n1.4 ÂMBITO\nA presente Instrução, de observância obrigatória, aplica-se a todos aqueles que,\nno desempenho de suas funções, necessitem divulgar informação aeronáutica por meio de\nSuplemento AIP.\n\n\n\nICA 53-6/2022 11/22",
+    "texto_com_subsecoes": "1.1 FINALIDADE\nA presente Instrução tem por finalidade estabelecer os procedimentos para a\ndivulgação da informação aeronáutica por Suplemento AIP.\n1.2 ABREVIATURA E SIGLAS\nAD - Aeródromo\nAIC - Circular de Informação Aeronáutica\nAIP - Publicação de Informação Aeronáutica\nAIRAC - Regulação e Controle de Informação Aeronáutica\nAISWEB - Informações Aeronáuticas Oficiais na WEB\nANAC - Agência Nacional de Aviação Civil\nCGNA - Centro de Gerenciamento da Navegação Aérea\nCINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo\nCRCEA-SE - Centro Regional de Controle do Espaço Aéreo Sudeste\nDECEA - Departamento de Controle do Espaço Aéreo\nENR - Em rota\nGEN - Generalidades\nICA - Instituto de Cartografia Aeronáutica\nNIL - Nada ou Nada tenho a transmitir-lhe\nNOTAM - Aviso aos Aeronavegantes\nNOTAMR - NOTAM Substituidor\nOACI - Organização de Aviação Civil Internacional\nPAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro\nROTAER - Publicação Auxiliar de Rotas Aéreas\nSDOP - Subdepartamento de Operações do DECEA\nSISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro\nUTC - Tempo Universal Coordenado\n1.3 CONCEITUAÇÃO\n1.3.1 INFORMAÇÃO PERMANENTE\nInformação cujo período de vigência seja igual ou superior a três anos.\n1.3.2 INÍCIO DE EFETIVAÇÃO\nInforma a data e hora de início de efetivação da informação.\n\n\n\n10/22 ICA 53-6/2022\n1.3.3 PERÍODO DE VIGÊNCIA\nPeríodo compreendido entre o início de efetivação e o término de validade da\ninformação.\n1.3.4 PRODUTOS DE INFORMAÇÃO AERONÁUTICA\nDados e informações aeronáuticas fornecidos na forma de um conjunto de dados\ndigitais ou em uma apresentação padrão em papel ou em formato eletrônico, que incluem: AIP,\nEmendas AIP, Suplementos AIP, AIC, NOTAM, Cartas Aeronáuticas, ROTAER, Emenda\nDigital (D-AMDT), INFOTEMP, AIXM e Conjunto de Dados Digitais. Os produtos de\ninformação aeronáutica destinam-se principalmente a satisfazer os requisitos internacionais\npara o intercâmbio de informações aeronáuticas.\n1.3.5 SOLICITAÇÃO DE DIVULGAÇÃO DE INFORMAÇÃO AERONÁUTICA\nTodo documento emitido por autoridade competente com a intenção de incluir,\nexcluir ou modificar dado ou informação aeronáutica contida nos Produtos de Informação\nAeronáutica.\n1.4 ÂMBITO\nA presente Instrução, de observância obrigatória, aplica-se a todos aqueles que,\nno desempenho de suas funções, necessitem divulgar informação aeronáutica por meio de\nSuplemento AIP.\n\n\n\nICA 53-6/2022 11/22",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES",
+      "secao_raiz": "1",
+      "secao_pai": null,
+      "subsecoes_diretas": [
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "038c3e06041d329c3904840c22941962",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.1",
+    "titulo": "FINALIDADE",
+    "nivel_hierarquico": 2,
+    "texto_completo": "A presente Instrução tem por finalidade estabelecer os procedimentos para a\ndivulgação da informação aeronáutica por Suplemento AIP.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > FINALIDADE",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "1a8baf642c146216737717f6bb99eea9",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.2",
+    "titulo": "ABREVIATURA E SIGLAS",
+    "nivel_hierarquico": 2,
+    "texto_completo": "AD - Aeródromo\nAIC - Circular de Informação Aeronáutica\nAIP - Publicação de Informação Aeronáutica\nAIRAC - Regulação e Controle de Informação Aeronáutica\nAISWEB - Informações Aeronáuticas Oficiais na WEB\nANAC - Agência Nacional de Aviação Civil\nCGNA - Centro de Gerenciamento da Navegação Aérea\nCINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo\nCRCEA-SE - Centro Regional de Controle do Espaço Aéreo Sudeste\nDECEA - Departamento de Controle do Espaço Aéreo\nENR - Em rota\nGEN - Generalidades\nICA - Instituto de Cartografia Aeronáutica\nNIL - Nada ou Nada tenho a transmitir-lhe\nNOTAM - Aviso aos Aeronavegantes\nNOTAMR - NOTAM Substituidor\nOACI - Organização de Aviação Civil Internacional\nPAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro\nROTAER - Publicação Auxiliar de Rotas Aéreas\nSDOP - Subdepartamento de Operações do DECEA\nSISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro\nUTC - Tempo Universal Coordenado",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.2",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > ABREVIATURA E SIGLAS",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "de6a05051e126abba3dc0e89acfc0f21",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3",
+    "titulo": "CONCEITUAÇÃO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "1.3.1 INFORMAÇÃO PERMANENTE\nInformação cujo período de vigência seja igual ou superior a três anos.\n1.3.2 INÍCIO DE EFETIVAÇÃO\nInforma a data e hora de início de efetivação da informação.\n\n\n\n10/22 ICA 53-6/2022\n1.3.3 PERÍODO DE VIGÊNCIA\nPeríodo compreendido entre o início de efetivação e o término de validade da\ninformação.\n1.3.4 PRODUTOS DE INFORMAÇÃO AERONÁUTICA\nDados e informações aeronáuticas fornecidos na forma de um conjunto de dados\ndigitais ou em uma apresentação padrão em papel ou em formato eletrônico, que incluem: AIP,\nEmendas AIP, Suplementos AIP, AIC, NOTAM, Cartas Aeronáuticas, ROTAER, Emenda\nDigital (D-AMDT), INFOTEMP, AIXM e Conjunto de Dados Digitais. Os produtos de\ninformação aeronáutica destinam-se principalmente a satisfazer os requisitos internacionais\npara o intercâmbio de informações aeronáuticas.\n1.3.5 SOLICITAÇÃO DE DIVULGAÇÃO DE INFORMAÇÃO AERONÁUTICA\nTodo documento emitido por autoridade competente com a intenção de incluir,\nexcluir ou modificar dado ou informação aeronáutica contida nos Produtos de Informação\nAeronáutica.",
+    "texto_com_subsecoes": "1.3.1 INFORMAÇÃO PERMANENTE\nInformação cujo período de vigência seja igual ou superior a três anos.\n1.3.2 INÍCIO DE EFETIVAÇÃO\nInforma a data e hora de início de efetivação da informação.\n\n\n\n10/22 ICA 53-6/2022\n1.3.3 PERÍODO DE VIGÊNCIA\nPeríodo compreendido entre o início de efetivação e o término de validade da\ninformação.\n1.3.4 PRODUTOS DE INFORMAÇÃO AERONÁUTICA\nDados e informações aeronáuticas fornecidos na forma de um conjunto de dados\ndigitais ou em uma apresentação padrão em papel ou em formato eletrônico, que incluem: AIP,\nEmendas AIP, Suplementos AIP, AIC, NOTAM, Cartas Aeronáuticas, ROTAER, Emenda\nDigital (D-AMDT), INFOTEMP, AIXM e Conjunto de Dados Digitais. Os produtos de\ninformação aeronáutica destinam-se principalmente a satisfazer os requisitos internacionais\npara o intercâmbio de informações aeronáuticas.\n1.3.5 SOLICITAÇÃO DE DIVULGAÇÃO DE INFORMAÇÃO AERONÁUTICA\nTodo documento emitido por autoridade competente com a intenção de incluir,\nexcluir ou modificar dado ou informação aeronáutica contida nos Produtos de Informação\nAeronáutica.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": [
+        "1.3.1",
+        "1.3.2",
+        "1.3.3",
+        "1.3.4",
+        "1.3.5"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "871c8ca201686f60654d9e8edff36e09",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3.1",
+    "titulo": "INFORMAÇÃO PERMANENTE",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Informação cujo período de vigência seja igual ou superior a três anos.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3 > 1.3.1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO > INFORMAÇÃO PERMANENTE",
+      "secao_raiz": "1",
+      "secao_pai": "1.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "6091b5318e5a9ce4d02f82105124ca32",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3.2",
+    "titulo": "INÍCIO DE EFETIVAÇÃO",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Informa a data e hora de início de efetivação da informação.\n\n\n\n10/22 ICA 53-6/2022",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3 > 1.3.2",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO > INÍCIO DE EFETIVAÇÃO",
+      "secao_raiz": "1",
+      "secao_pai": "1.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "c678760850212d15eabd2fe1b9563c6d",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3.3",
+    "titulo": "PERÍODO DE VIGÊNCIA",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Período compreendido entre o início de efetivação e o término de validade da\ninformação.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3 > 1.3.3",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO > PERÍODO DE VIGÊNCIA",
+      "secao_raiz": "1",
+      "secao_pai": "1.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "b93524960966ef674221b5ee26985962",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3.4",
+    "titulo": "PRODUTOS DE INFORMAÇÃO AERONÁUTICA",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Dados e informações aeronáuticas fornecidos na forma de um conjunto de dados\ndigitais ou em uma apresentação padrão em papel ou em formato eletrônico, que incluem: AIP,\nEmendas AIP, Suplementos AIP, AIC, NOTAM, Cartas Aeronáuticas, ROTAER, Emenda\nDigital (D-AMDT), INFOTEMP, AIXM e Conjunto de Dados Digitais. Os produtos de\ninformação aeronáutica destinam-se principalmente a satisfazer os requisitos internacionais\npara o intercâmbio de informações aeronáuticas.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3 > 1.3.4",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO > PRODUTOS DE INFORMAÇÃO AERONÁUTICA",
+      "secao_raiz": "1",
+      "secao_pai": "1.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "0ddb449547d806ebbd9dacd8a75f9496",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3.5",
+    "titulo": "SOLICITAÇÃO DE DIVULGAÇÃO DE INFORMAÇÃO AERONÁUTICA",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Todo documento emitido por autoridade competente com a intenção de incluir,\nexcluir ou modificar dado ou informação aeronáutica contida nos Produtos de Informação\nAeronáutica.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3 > 1.3.5",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO > SOLICITAÇÃO DE DIVULGAÇÃO DE INFORMAÇÃO AERONÁUTICA",
+      "secao_raiz": "1",
+      "secao_pai": "1.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "763339a24d942861831fde3b7a14ca4f",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.4",
+    "titulo": "ÂMBITO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "A presente Instrução, de observância obrigatória, aplica-se a todos aqueles que,\nno desempenho de suas funções, necessitem divulgar informação aeronáutica por meio de\nSuplemento AIP.\n\n\n\nICA 53-6/2022 11/22",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.4",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > ÂMBITO",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "2bbef0043521b5467510c97127838325",
+    "tipo_conteudo": "secao",
+    "identificacao": "2",
+    "titulo": "GERERALIDADES",
+    "nivel_hierarquico": 1,
+    "texto_completo": "2.1 FINALIDADE\nModificar temporariamente as informações contidas na AIP, além das\ninformações de aeródromos que operem IFR ou com operações da aviação regular.\n2.2 ORIGEM\n2.2.1 Todo Suplemento AIP deverá ser originado de uma Solicitação de Divulgação de\nInformação Aeronáutica (SDIA).\n2.2.2 Quando a SDIA contiver informação permanente, a AIP deverá ser atualizada por meio\nde uma Emenda AIP. Caso contenha informação temporária, deverá ser atualizada por meio de\nSuplemento AIP.\n2.3 CLASSIFICAÇÃO\n2.3.1 Os Suplementos AIP são classificados quanto ao sistema de distribuição como “AIRAC”\nou “Não AIRAC”.\n2.3.2 Os Suplementos AIP são classificados quanto à série como “N” ou “A”:\na) N – Nacional – Contém informação divulgada em português; ou\nb) A – Internacional – Contém informação divulgada em inglês.\n2.4 PRAZOS\nO prazo para divulgação de Informação Aeronáutica por meio de Suplemento\nAIP deverá se adequar ao Calendário AIRAC, conforme previsto na ICA 53-4 “Solicitação de\nDivulgação de Informação Aeronáutica”.\n2.5 CARACTERÍSTICAS\n2.5.1 A informação temporária divulgada por meio de Suplemento AIP deverá ter pelo menos\numa das seguintes características básicas:\na) ser de longa duração, ou seja, três meses ou mais;\nb) ser de curta duração, mas conter textos longos; e\nc) conter desenhos que afetem uma ou mais Partes da AIP.\n\n\n\n12/22 ICA 53-6/2022\n2.5.2 Além das características básicas, a informação temporária divulgada por meio de\nSuplemento AIP deverá:\na) ser publicada 28 ou 56 dias antes da data de efetivação para o Suplemento\nAIP AIRAC;\nb) ser publicada 7 ou 14 dias antes da data de efetivação para o Suplemento AIP\nnão AIRAC;\nc) não sofrer alteração durante o período de vigência, a menos que as\ncircunstâncias a serem alteradas sejam temporárias e não subsistam por todo\no período; e\nd) ter caráter operacional.\n2.5.3 No caso de informações que requeiram um ciclo AIRAC, os Suplementos AIP AIRAC\ndeverão possuir um intervalo de 28 dias entre a data de publicação e a data de efetivação.\n2.5.4 No caso de informações que requeiram dois ciclos AIRAC, os Suplementos AIP AIRAC\ndeverão possuir um intervalo de 56 dias entre a data de publicação e a data de efetivação.\n2.6 VERIFICAÇÃO E VALIDAÇÃO\nA informação contida na SDIA e seus respectivos metadados deverão estar de\nacordo com os requisitos especificados na TCA 53-2 “Catálogo de Requisitos de Dados e\nInformações Aeronáuticas”.\n\n\n\nICA 53-6/2022 13/22",
+    "texto_com_subsecoes": "2.1 FINALIDADE\nModificar temporariamente as informações contidas na AIP, além das\ninformações de aeródromos que operem IFR ou com operações da aviação regular.\n2.2 ORIGEM\n2.2.1 Todo Suplemento AIP deverá ser originado de uma Solicitação de Divulgação de\nInformação Aeronáutica (SDIA).\n2.2.2 Quando a SDIA contiver informação permanente, a AIP deverá ser atualizada por meio\nde uma Emenda AIP. Caso contenha informação temporária, deverá ser atualizada por meio de\nSuplemento AIP.\n2.3 CLASSIFICAÇÃO\n2.3.1 Os Suplementos AIP são classificados quanto ao sistema de distribuição como “AIRAC”\nou “Não AIRAC”.\n2.3.2 Os Suplementos AIP são classificados quanto à série como “N” ou “A”:\na) N – Nacional – Contém informação divulgada em português; ou\nb) A – Internacional – Contém informação divulgada em inglês.\n2.4 PRAZOS\nO prazo para divulgação de Informação Aeronáutica por meio de Suplemento\nAIP deverá se adequar ao Calendário AIRAC, conforme previsto na ICA 53-4 “Solicitação de\nDivulgação de Informação Aeronáutica”.\n2.5 CARACTERÍSTICAS\n2.5.1 A informação temporária divulgada por meio de Suplemento AIP deverá ter pelo menos\numa das seguintes características básicas:\na) ser de longa duração, ou seja, três meses ou mais;\nb) ser de curta duração, mas conter textos longos; e\nc) conter desenhos que afetem uma ou mais Partes da AIP.\n\n\n\n12/22 ICA 53-6/2022\n2.5.2 Além das características básicas, a informação temporária divulgada por meio de\nSuplemento AIP deverá:\na) ser publicada 28 ou 56 dias antes da data de efetivação para o Suplemento\nAIP AIRAC;\nb) ser publicada 7 ou 14 dias antes da data de efetivação para o Suplemento AIP\nnão AIRAC;\nc) não sofrer alteração durante o período de vigência, a menos que as\ncircunstâncias a serem alteradas sejam temporárias e não subsistam por todo\no período; e\nd) ter caráter operacional.\n2.5.3 No caso de informações que requeiram um ciclo AIRAC, os Suplementos AIP AIRAC\ndeverão possuir um intervalo de 28 dias entre a data de publicação e a data de efetivação.\n2.5.4 No caso de informações que requeiram dois ciclos AIRAC, os Suplementos AIP AIRAC\ndeverão possuir um intervalo de 56 dias entre a data de publicação e a data de efetivação.\n2.6 VERIFICAÇÃO E VALIDAÇÃO\nA informação contida na SDIA e seus respectivos metadados deverão estar de\nacordo com os requisitos especificados na TCA 53-2 “Catálogo de Requisitos de Dados e\nInformações Aeronáuticas”.\n\n\n\nICA 53-6/2022 13/22",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2",
+      "caminho_titulos": "GERERALIDADES",
+      "secao_raiz": "2",
+      "secao_pai": null,
+      "subsecoes_diretas": [
+        "2.1",
+        "2.2",
+        "2.3",
+        "2.4",
+        "2.5",
+        "2.6"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "8dd36b87b91a9d5ca458c7bf21103737",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.1",
+    "titulo": "FINALIDADE",
+    "nivel_hierarquico": 2,
+    "texto_completo": "Modificar temporariamente as informações contidas na AIP, além das\ninformações de aeródromos que operem IFR ou com operações da aviação regular.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.1",
+      "caminho_titulos": "GERERALIDADES > FINALIDADE",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "acffd0e8c42679f0343cad48fb148eaf",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.2",
+    "titulo": "ORIGEM",
+    "nivel_hierarquico": 2,
+    "texto_completo": "2.2.1 Todo Suplemento AIP deverá ser originado de uma Solicitação de Divulgação de\nInformação Aeronáutica (SDIA).\n2.2.2 Quando a SDIA contiver informação permanente, a AIP deverá ser atualizada por meio\nde uma Emenda AIP. Caso contenha informação temporária, deverá ser atualizada por meio de\nSuplemento AIP.",
+    "texto_com_subsecoes": "2.2.1 Todo Suplemento AIP deverá ser originado de uma Solicitação de Divulgação de\nInformação Aeronáutica (SDIA).\n2.2.2 Quando a SDIA contiver informação permanente, a AIP deverá ser atualizada por meio\nde uma Emenda AIP. Caso contenha informação temporária, deverá ser atualizada por meio de\nSuplemento AIP.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.2",
+      "caminho_titulos": "GERERALIDADES > ORIGEM",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": [
+        "2.2.1",
+        "2.2.2"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "4db5dfd369ad6f52499c187c961edf93",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.2.1",
+    "titulo": "Todo Suplemento AIP deverá ser originado de uma Solicitação de Divulgação de",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Informação Aeronáutica (SDIA).",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.2 > 2.2.1",
+      "caminho_titulos": "GERERALIDADES > ORIGEM > Todo Suplemento AIP deverá ser originado de uma Solicitação de Divulgação de",
+      "secao_raiz": "2",
+      "secao_pai": "2.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "57cd2b0ee676d727c639a215fa2ee2d6",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.2.2",
+    "titulo": "Quando a SDIA contiver informação permanente, a AIP deverá ser atualizada por meio",
+    "nivel_hierarquico": 3,
+    "texto_completo": "de uma Emenda AIP. Caso contenha informação temporária, deverá ser atualizada por meio de\nSuplemento AIP.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.2 > 2.2.2",
+      "caminho_titulos": "GERERALIDADES > ORIGEM > Quando a SDIA contiver informação permanente, a AIP deverá ser atualizada por meio",
+      "secao_raiz": "2",
+      "secao_pai": "2.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "ab133642fabf213d48bcfbd04d2737a5",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.3",
+    "titulo": "CLASSIFICAÇÃO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "2.3.1 Os Suplementos AIP são classificados quanto ao sistema de distribuição como “AIRAC”\nou “Não AIRAC”.\n2.3.2 Os Suplementos AIP são classificados quanto à série como “N” ou “A”:\na) N – Nacional – Contém informação divulgada em português; ou\nb) A – Internacional – Contém informação divulgada em inglês.",
+    "texto_com_subsecoes": "2.3.1 Os Suplementos AIP são classificados quanto ao sistema de distribuição como “AIRAC”\nou “Não AIRAC”.\n2.3.2 Os Suplementos AIP são classificados quanto à série como “N” ou “A”:\na) N – Nacional – Contém informação divulgada em português; ou\nb) A – Internacional – Contém informação divulgada em inglês.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.3",
+      "caminho_titulos": "GERERALIDADES > CLASSIFICAÇÃO",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": [
+        "2.3.1",
+        "2.3.2"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "d5c62709d62b7724fdc94ee5251e0945",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.3.1",
+    "titulo": "Os Suplementos AIP são classificados quanto ao sistema de distribuição como “AIRAC”",
+    "nivel_hierarquico": 3,
+    "texto_completo": "ou “Não AIRAC”.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.3 > 2.3.1",
+      "caminho_titulos": "GERERALIDADES > CLASSIFICAÇÃO > Os Suplementos AIP são classificados quanto ao sistema de distribuição como “AIRAC”",
+      "secao_raiz": "2",
+      "secao_pai": "2.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "be3f486243d8579308711caffd62d750",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.3.2",
+    "titulo": "Os Suplementos AIP são classificados quanto à série como “N” ou “A”:",
+    "nivel_hierarquico": 3,
+    "texto_completo": "a) N – Nacional – Contém informação divulgada em português; ou\nb) A – Internacional – Contém informação divulgada em inglês.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.3 > 2.3.2",
+      "caminho_titulos": "GERERALIDADES > CLASSIFICAÇÃO > Os Suplementos AIP são classificados quanto à série como “N” ou “A”:",
+      "secao_raiz": "2",
+      "secao_pai": "2.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "743bc8bf8d4cfed1f7bd78f2bd6659ed",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.4",
+    "titulo": "PRAZOS",
+    "nivel_hierarquico": 2,
+    "texto_completo": "O prazo para divulgação de Informação Aeronáutica por meio de Suplemento\nAIP deverá se adequar ao Calendário AIRAC, conforme previsto na ICA 53-4 “Solicitação de\nDivulgação de Informação Aeronáutica”.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.4",
+      "caminho_titulos": "GERERALIDADES > PRAZOS",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "b8fd6d0dc445a94a779dd9af0cd49a95",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.5",
+    "titulo": "CARACTERÍSTICAS",
+    "nivel_hierarquico": 2,
+    "texto_completo": "2.5.1 A informação temporária divulgada por meio de Suplemento AIP deverá ter pelo menos\numa das seguintes características básicas:\na) ser de longa duração, ou seja, três meses ou mais;\nb) ser de curta duração, mas conter textos longos; e\nc) conter desenhos que afetem uma ou mais Partes da AIP.\n\n\n\n12/22 ICA 53-6/2022\n2.5.2 Além das características básicas, a informação temporária divulgada por meio de\nSuplemento AIP deverá:\na) ser publicada 28 ou 56 dias antes da data de efetivação para o Suplemento\nAIP AIRAC;\nb) ser publicada 7 ou 14 dias antes da data de efetivação para o Suplemento AIP\nnão AIRAC;\nc) não sofrer alteração durante o período de vigência, a menos que as\ncircunstâncias a serem alteradas sejam temporárias e não subsistam por todo\no período; e\nd) ter caráter operacional.\n2.5.3 No caso de informações que requeiram um ciclo AIRAC, os Suplementos AIP AIRAC\ndeverão possuir um intervalo de 28 dias entre a data de publicação e a data de efetivação.\n2.5.4 No caso de informações que requeiram dois ciclos AIRAC, os Suplementos AIP AIRAC\ndeverão possuir um intervalo de 56 dias entre a data de publicação e a data de efetivação.",
+    "texto_com_subsecoes": "2.5.1 A informação temporária divulgada por meio de Suplemento AIP deverá ter pelo menos\numa das seguintes características básicas:\na) ser de longa duração, ou seja, três meses ou mais;\nb) ser de curta duração, mas conter textos longos; e\nc) conter desenhos que afetem uma ou mais Partes da AIP.\n\n\n\n12/22 ICA 53-6/2022\n2.5.2 Além das características básicas, a informação temporária divulgada por meio de\nSuplemento AIP deverá:\na) ser publicada 28 ou 56 dias antes da data de efetivação para o Suplemento\nAIP AIRAC;\nb) ser publicada 7 ou 14 dias antes da data de efetivação para o Suplemento AIP\nnão AIRAC;\nc) não sofrer alteração durante o período de vigência, a menos que as\ncircunstâncias a serem alteradas sejam temporárias e não subsistam por todo\no período; e\nd) ter caráter operacional.\n2.5.3 No caso de informações que requeiram um ciclo AIRAC, os Suplementos AIP AIRAC\ndeverão possuir um intervalo de 28 dias entre a data de publicação e a data de efetivação.\n2.5.4 No caso de informações que requeiram dois ciclos AIRAC, os Suplementos AIP AIRAC\ndeverão possuir um intervalo de 56 dias entre a data de publicação e a data de efetivação.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.5",
+      "caminho_titulos": "GERERALIDADES > CARACTERÍSTICAS",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": [
+        "2.5.1",
+        "2.5.2",
+        "2.5.3",
+        "2.5.4"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "5aabf6903f25e9df683f28ce5044bc7f",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.5.1",
+    "titulo": "A informação temporária divulgada por meio de Suplemento AIP deverá ter pelo menos",
+    "nivel_hierarquico": 3,
+    "texto_completo": "uma das seguintes características básicas:\na) ser de longa duração, ou seja, três meses ou mais;\nb) ser de curta duração, mas conter textos longos; e\nc) conter desenhos que afetem uma ou mais Partes da AIP.\n\n\n\n12/22 ICA 53-6/2022",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.5 > 2.5.1",
+      "caminho_titulos": "GERERALIDADES > CARACTERÍSTICAS > A informação temporária divulgada por meio de Suplemento AIP deverá ter pelo menos",
+      "secao_raiz": "2",
+      "secao_pai": "2.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "a11b5dc16f6d3d6039a95803d8590527",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.5.2",
+    "titulo": "Além das características básicas, a informação temporária divulgada por meio de",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Suplemento AIP deverá:\na) ser publicada 28 ou 56 dias antes da data de efetivação para o Suplemento\nAIP AIRAC;\nb) ser publicada 7 ou 14 dias antes da data de efetivação para o Suplemento AIP\nnão AIRAC;\nc) não sofrer alteração durante o período de vigência, a menos que as\ncircunstâncias a serem alteradas sejam temporárias e não subsistam por todo\no período; e\nd) ter caráter operacional.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.5 > 2.5.2",
+      "caminho_titulos": "GERERALIDADES > CARACTERÍSTICAS > Além das características básicas, a informação temporária divulgada por meio de",
+      "secao_raiz": "2",
+      "secao_pai": "2.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "3b67935ecd177778c708b34794fccd05",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.5.3",
+    "titulo": "No caso de informações que requeiram um ciclo AIRAC, os Suplementos AIP AIRAC",
+    "nivel_hierarquico": 3,
+    "texto_completo": "deverão possuir um intervalo de 28 dias entre a data de publicação e a data de efetivação.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.5 > 2.5.3",
+      "caminho_titulos": "GERERALIDADES > CARACTERÍSTICAS > No caso de informações que requeiram um ciclo AIRAC, os Suplementos AIP AIRAC",
+      "secao_raiz": "2",
+      "secao_pai": "2.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "c0c335a3c1c3636db88d675012e469f7",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.5.4",
+    "titulo": "No caso de informações que requeiram dois ciclos AIRAC, os Suplementos AIP AIRAC",
+    "nivel_hierarquico": 3,
+    "texto_completo": "deverão possuir um intervalo de 56 dias entre a data de publicação e a data de efetivação.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.5 > 2.5.4",
+      "caminho_titulos": "GERERALIDADES > CARACTERÍSTICAS > No caso de informações que requeiram dois ciclos AIRAC, os Suplementos AIP AIRAC",
+      "secao_raiz": "2",
+      "secao_pai": "2.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "6a483c1fb0acb487b366d42927368651",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.6",
+    "titulo": "VERIFICAÇÃO E VALIDAÇÃO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "A informação contida na SDIA e seus respectivos metadados deverão estar de\nacordo com os requisitos especificados na TCA 53-2 “Catálogo de Requisitos de Dados e\nInformações Aeronáuticas”.\n\n\n\nICA 53-6/2022 13/22",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.6",
+      "caminho_titulos": "GERERALIDADES > VERIFICAÇÃO E VALIDAÇÃO",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "b77276a15535c9a7326e11638ee94738",
+    "tipo_conteudo": "secao",
+    "identificacao": "3",
+    "titulo": "ESPECIFICAÇÕES",
+    "nivel_hierarquico": 1,
+    "texto_completo": "3.1 IDENTIFICAÇÃO\n3.1.1 A numeração dos Suplementos AIP deverá ser crescente e independente, dentro de cada\nsérie, e será reiniciada na primeira edição de cada ano civil.\n3.1.2 Os Suplementos AIP, AIRAC ou Não AIRAC, N ou A, deverão ser publicados em\nedições distintas.\n3.1.3 Os Suplementos AIP deverão ser disponibilizados em páginas na cor amarela.\n3.2 CANCELAMENTO\n3.2.1 Quando ocorrer um erro em um Suplemento AIP ou seu período de vigência for alterado,\num novo Suplemento AIP deverá ser publicado em substituição.\n3.2.2 Os requisitos de NOTAM deverão ser aplicados, quando não houver tempo suficiente\npara a divulgação da informação aeronáutica por meio de Suplemento AIP.\n3.2.3 As informações temporárias, previstas para permanecer em vigor por um período menor\ndo que três meses, deverão ser divulgadas por meio de NOTAM. Quando este período for\nexcedido, um Suplemento AIP deverá ser publicado em substituição ao NOTAM.\n3.2.4 Quando um Suplemento AIP for publicado em substituição a um NOTAM, deverão ser\nmantidos o indicador de localidade e o assunto contidos no NOTAM.\n3.2.5 No Suplemento AIP publicado em substituição a um NOTAM deverá ser incluída uma\nreferência a este NOTAM.\n3.2.6 O Suplemento AIP cancelado por um NOTAM deixará de ter validade no momento da\nexpedição do NOTAM.\n3.2.7 O Suplemento AIP cancelado deverá ser retirado da próxima edição da Lista de\nSuplementos AIP Válidos.\n3.3 DIVULGAÇÃO\n3.3.1 Cada Suplemento AIP deverá ser divulgado em páginas diferentes, para que possa ser\nfacilmente distinguido do conteúdo da AIP.\n\n\n\n14/22 ICA 53-6/2022\n3.3.2 Um Suplemento AIP AIRAC será divulgado, quando o tipo de informação constar da lista\n“Quando empregar o Sistema AIRAC”, previsto na ICA 53-4 “Solicitação de Divulgação de\nInformação Aeronáutica”.\n3.3.3 Os Suplementos AIP deverão ser disponibilizados em formato digital no AISWEB.\n3.3.4 Quando um Suplemento AIP for publicado, um NOTAM chamado “Iniciador” deverá ser\nexpedido, fornecendo uma breve descrição do conteúdo do Suplemento AIP, bem como a sua\nidentificação e a data e hora de efetivação.\n3.3.5 No caso de um Suplemento AIP com o período de vigência superior a 14 dias, o NOTAM\n“Iniciador” terá um período de vigência de 14 dias.\n3.3.6 No caso de um Suplemento AIP com o período de vigência inferior a 14 dias, o NOTAM\n“Iniciador” terá um período de vigência igual ao publicado no Suplemento AIP.\n3.3.7 A formatação das páginas do Suplemento AIP deverá ser, preferencialmente, a mesma da\nAIP.\n3.3.8 Todo Suplemento AIP deverá conter uma data de início de efetivação e de término de\nvalidade da informação.\n3.3.9 Os horários indicados nos Suplementos AIP deverão ser referenciados à hora UTC.\n3.4 LISTA DE VERIFICAÇÃO\n3.4.1 Deverá ser publicada, mensalmente, uma Lista de Suplementos AIP válidos como parte\nda Lista de Verificação de NOTAM.\n3.4.2 Uma Lista de Suplementos AIP Válidos poderá ser consultada também a qualquer\nmomento no AISWEB, por meio dos endereços eletrônicos http://aisweb.decea.intraer/ ou\nhttps://aisweb.decea.mil.br/, acessando o link específico do Produto de Informação\nAeronáutica.\n3.5 CONFECÇÃO\n3.5.1 O formato do Suplemento AIP tem por objetivo padronizar a apresentação dos diversos\ntipos de informação, bem como facilitar a compreensão pelos usuários, conforme o Anexo A.\n\n\n\nICA 53-6/2022 15/22\n3.5.2 Os Suplementos AIP AIRAC deverão ser confeccionados da mesma forma que os\nSuplementos AIP Não AIRAC, seguindo a mesma numeração, e identificados pelo acrônimo\nAIRAC, colocado em lugar de destaque, conforme o Anexo B.\n3.5.3 O Suplemento AIP deverá ser composto por duas partes: cabeçalho e texto.\n3.6 PRIMEIRA PARTE – CABEÇALHO\n3.6.1 Cada edição do Suplemento AIP deverá começar com cabeçalho padrão de identificação,\nconforme a figura abaixo:\nSuplemento AIP\nAIP\nContato:\nMinistério da Defesa Brasil\nComando da Aeronáutica N XXX / YY\nDepartamento de\nControle do Espaço\nData de publicação\nAéreo – DECEA\nDD MMM YY\nAv. Gen. Justo, 160\nCEP 20021-130 Efetivação\nRio de Janeiro, RJ – Brasil DD MMM YY\nAFS: SBRJZXIC AIM || Brasil\nhttp://www.decea.gov.br\nTítulo do Suplemento AIP\nFigura 1 – Cabeçalho\n3.6.2 Um título curto que indique a informação que está sendo divulgada deverá complementar\no cabeçalho.\n3.7 SEGUNDA PARTE – TEXTO\nContém informações que alteram as contidas na AIP e é composto pelos\nseguintes campos:\na) município/instalação;\nb) período de vigência;\nc) conteúdo da informação; e\nd) referências.\n3.7.1 MUNICÍPIO/INSTALAÇÃO\n3.7.1.1 Nome do município seguido do nome da instalação, seguido da unidade da federação\ne do indicador de localidade.\nExemplo: RIO DE JANEIRO/Galeão – Antônio Carlos Jobim, RJ (SBGL).\n\n\n\n16/22 ICA 53-6/2022\n3.7.1.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.2 PERÍODO DE VIGÊNCIA\n3.7.2.1 Todo Suplemento AIP deverá conter neste campo a data e a hora de início de efetivação\ne de término de validade da informação.\nExemplo: De 20 de julho de 2021, 1100 UTC até 21 de outubro de 2021, 2100\nUTC.\n3.7.2.2 O período de vigência deverá ser posicionado antes do texto.\n3.7.2.3 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.2.4 Quando o período de vigência da informação não for suficiente para expressar todos\nos períodos de atividade da informação, estes deverão ser representados após o texto do\nSuplemento AIP.\nExemplo: Dias e horários:\nJUL 20 1100 TIL JUL 22 2100\nOCT 19 1100 TIL OCT 21 2100\n3.7.3 CONTEÚDO DA INFORMAÇÃO\n3.7.3.1 Contém informações que alteram as contidas na AIP.\nExemplo: Pista 15 / 33 fechada devido serviço de manutenção.\n3.7.3.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.3.3\n3.7.4 REFERÊNCIAS\n3.7.4.1 Este campo deverá conter referência à AIP, ao Suplemento AIP, em caso de\nsubstituição, ou ao NOTAM que divulgou a informação, se houver.\n\n\n\nICA 53-6/2022 17/22\n3.7.4.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.4.3 A referência à AIP deverá conter a parte, a seção e a subseção modificada pelo\nSuplemento AIP.\nExemplo: Ref.: AD SBGL 2.12\n3.7.4.4 A referência a um Suplemento AIP deverá conter a série, o número e o ano do\nSuplemento AIP substituído entre parênteses.\nExemplo: (RPLC SUP N125/22)\n3.7.4.5 A referência a um NOTAM deverá conter a série, o número e o ano do NOTAM\nsubstituído pelo Suplemento AIP entre parênteses.\nExemplo: (RPLC NOTAM G0420/22)\n\n\n\n18/22 ICA 53-6/2022",
+    "texto_com_subsecoes": "3.1 IDENTIFICAÇÃO\n3.1.1 A numeração dos Suplementos AIP deverá ser crescente e independente, dentro de cada\nsérie, e será reiniciada na primeira edição de cada ano civil.\n3.1.2 Os Suplementos AIP, AIRAC ou Não AIRAC, N ou A, deverão ser publicados em\nedições distintas.\n3.1.3 Os Suplementos AIP deverão ser disponibilizados em páginas na cor amarela.\n3.2 CANCELAMENTO\n3.2.1 Quando ocorrer um erro em um Suplemento AIP ou seu período de vigência for alterado,\num novo Suplemento AIP deverá ser publicado em substituição.\n3.2.2 Os requisitos de NOTAM deverão ser aplicados, quando não houver tempo suficiente\npara a divulgação da informação aeronáutica por meio de Suplemento AIP.\n3.2.3 As informações temporárias, previstas para permanecer em vigor por um período menor\ndo que três meses, deverão ser divulgadas por meio de NOTAM. Quando este período for\nexcedido, um Suplemento AIP deverá ser publicado em substituição ao NOTAM.\n3.2.4 Quando um Suplemento AIP for publicado em substituição a um NOTAM, deverão ser\nmantidos o indicador de localidade e o assunto contidos no NOTAM.\n3.2.5 No Suplemento AIP publicado em substituição a um NOTAM deverá ser incluída uma\nreferência a este NOTAM.\n3.2.6 O Suplemento AIP cancelado por um NOTAM deixará de ter validade no momento da\nexpedição do NOTAM.\n3.2.7 O Suplemento AIP cancelado deverá ser retirado da próxima edição da Lista de\nSuplementos AIP Válidos.\n3.3 DIVULGAÇÃO\n3.3.1 Cada Suplemento AIP deverá ser divulgado em páginas diferentes, para que possa ser\nfacilmente distinguido do conteúdo da AIP.\n\n\n\n14/22 ICA 53-6/2022\n3.3.2 Um Suplemento AIP AIRAC será divulgado, quando o tipo de informação constar da lista\n“Quando empregar o Sistema AIRAC”, previsto na ICA 53-4 “Solicitação de Divulgação de\nInformação Aeronáutica”.\n3.3.3 Os Suplementos AIP deverão ser disponibilizados em formato digital no AISWEB.\n3.3.4 Quando um Suplemento AIP for publicado, um NOTAM chamado “Iniciador” deverá ser\nexpedido, fornecendo uma breve descrição do conteúdo do Suplemento AIP, bem como a sua\nidentificação e a data e hora de efetivação.\n3.3.5 No caso de um Suplemento AIP com o período de vigência superior a 14 dias, o NOTAM\n“Iniciador” terá um período de vigência de 14 dias.\n3.3.6 No caso de um Suplemento AIP com o período de vigência inferior a 14 dias, o NOTAM\n“Iniciador” terá um período de vigência igual ao publicado no Suplemento AIP.\n3.3.7 A formatação das páginas do Suplemento AIP deverá ser, preferencialmente, a mesma da\nAIP.\n3.3.8 Todo Suplemento AIP deverá conter uma data de início de efetivação e de término de\nvalidade da informação.\n3.3.9 Os horários indicados nos Suplementos AIP deverão ser referenciados à hora UTC.\n3.4 LISTA DE VERIFICAÇÃO\n3.4.1 Deverá ser publicada, mensalmente, uma Lista de Suplementos AIP válidos como parte\nda Lista de Verificação de NOTAM.\n3.4.2 Uma Lista de Suplementos AIP Válidos poderá ser consultada também a qualquer\nmomento no AISWEB, por meio dos endereços eletrônicos http://aisweb.decea.intraer/ ou\nhttps://aisweb.decea.mil.br/, acessando o link específico do Produto de Informação\nAeronáutica.\n3.5 CONFECÇÃO\n3.5.1 O formato do Suplemento AIP tem por objetivo padronizar a apresentação dos diversos\ntipos de informação, bem como facilitar a compreensão pelos usuários, conforme o Anexo A.\n\n\n\nICA 53-6/2022 15/22\n3.5.2 Os Suplementos AIP AIRAC deverão ser confeccionados da mesma forma que os\nSuplementos AIP Não AIRAC, seguindo a mesma numeração, e identificados pelo acrônimo\nAIRAC, colocado em lugar de destaque, conforme o Anexo B.\n3.5.3 O Suplemento AIP deverá ser composto por duas partes: cabeçalho e texto.\n3.6 PRIMEIRA PARTE – CABEÇALHO\n3.6.1 Cada edição do Suplemento AIP deverá começar com cabeçalho padrão de identificação,\nconforme a figura abaixo:\nSuplemento AIP\nAIP\nContato:\nMinistério da Defesa Brasil\nComando da Aeronáutica N XXX / YY\nDepartamento de\nControle do Espaço\nData de publicação\nAéreo – DECEA\nDD MMM YY\nAv. Gen. Justo, 160\nCEP 20021-130 Efetivação\nRio de Janeiro, RJ – Brasil DD MMM YY\nAFS: SBRJZXIC AIM || Brasil\nhttp://www.decea.gov.br\nTítulo do Suplemento AIP\nFigura 1 – Cabeçalho\n3.6.2 Um título curto que indique a informação que está sendo divulgada deverá complementar\no cabeçalho.\n3.7 SEGUNDA PARTE – TEXTO\nContém informações que alteram as contidas na AIP e é composto pelos\nseguintes campos:\na) município/instalação;\nb) período de vigência;\nc) conteúdo da informação; e\nd) referências.\n3.7.1 MUNICÍPIO/INSTALAÇÃO\n3.7.1.1 Nome do município seguido do nome da instalação, seguido da unidade da federação\ne do indicador de localidade.\nExemplo: RIO DE JANEIRO/Galeão – Antônio Carlos Jobim, RJ (SBGL).\n\n\n\n16/22 ICA 53-6/2022\n3.7.1.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.2 PERÍODO DE VIGÊNCIA\n3.7.2.1 Todo Suplemento AIP deverá conter neste campo a data e a hora de início de efetivação\ne de término de validade da informação.\nExemplo: De 20 de julho de 2021, 1100 UTC até 21 de outubro de 2021, 2100\nUTC.\n3.7.2.2 O período de vigência deverá ser posicionado antes do texto.\n3.7.2.3 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.2.4 Quando o período de vigência da informação não for suficiente para expressar todos\nos períodos de atividade da informação, estes deverão ser representados após o texto do\nSuplemento AIP.\nExemplo: Dias e horários:\nJUL 20 1100 TIL JUL 22 2100\nOCT 19 1100 TIL OCT 21 2100\n3.7.3 CONTEÚDO DA INFORMAÇÃO\n3.7.3.1 Contém informações que alteram as contidas na AIP.\nExemplo: Pista 15 / 33 fechada devido serviço de manutenção.\n3.7.3.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.3.3\n3.7.4 REFERÊNCIAS\n3.7.4.1 Este campo deverá conter referência à AIP, ao Suplemento AIP, em caso de\nsubstituição, ou ao NOTAM que divulgou a informação, se houver.\n\n\n\nICA 53-6/2022 17/22\n3.7.4.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.4.3 A referência à AIP deverá conter a parte, a seção e a subseção modificada pelo\nSuplemento AIP.\nExemplo: Ref.: AD SBGL 2.12\n3.7.4.4 A referência a um Suplemento AIP deverá conter a série, o número e o ano do\nSuplemento AIP substituído entre parênteses.\nExemplo: (RPLC SUP N125/22)\n3.7.4.5 A referência a um NOTAM deverá conter a série, o número e o ano do NOTAM\nsubstituído pelo Suplemento AIP entre parênteses.\nExemplo: (RPLC NOTAM G0420/22)\n\n\n\n18/22 ICA 53-6/2022",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3",
+      "caminho_titulos": "ESPECIFICAÇÕES",
+      "secao_raiz": "3",
+      "secao_pai": null,
+      "subsecoes_diretas": [
+        "3.1",
+        "3.2",
+        "3.3",
+        "3.4",
+        "3.5",
+        "3.6",
+        "3.7"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "97d9e4b3251643f869e2d62238036fe5",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.1",
+    "titulo": "IDENTIFICAÇÃO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "3.1.1 A numeração dos Suplementos AIP deverá ser crescente e independente, dentro de cada\nsérie, e será reiniciada na primeira edição de cada ano civil.\n3.1.2 Os Suplementos AIP, AIRAC ou Não AIRAC, N ou A, deverão ser publicados em\nedições distintas.\n3.1.3 Os Suplementos AIP deverão ser disponibilizados em páginas na cor amarela.",
+    "texto_com_subsecoes": "3.1.1 A numeração dos Suplementos AIP deverá ser crescente e independente, dentro de cada\nsérie, e será reiniciada na primeira edição de cada ano civil.\n3.1.2 Os Suplementos AIP, AIRAC ou Não AIRAC, N ou A, deverão ser publicados em\nedições distintas.\n3.1.3 Os Suplementos AIP deverão ser disponibilizados em páginas na cor amarela.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > IDENTIFICAÇÃO",
+      "secao_raiz": "3",
+      "secao_pai": "3",
+      "subsecoes_diretas": [
+        "3.1.1",
+        "3.1.2",
+        "3.1.3"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "ac5a275261a6cf8d64836c0f6532a2be",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.1.1",
+    "titulo": "A numeração dos Suplementos AIP deverá ser crescente e independente, dentro de cada",
+    "nivel_hierarquico": 3,
+    "texto_completo": "série, e será reiniciada na primeira edição de cada ano civil.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.1 > 3.1.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > IDENTIFICAÇÃO > A numeração dos Suplementos AIP deverá ser crescente e independente, dentro de cada",
+      "secao_raiz": "3",
+      "secao_pai": "3.1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "0b81f927c5f25b2f4ba21620a22f85e3",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.1.2",
+    "titulo": "Os Suplementos AIP, AIRAC ou Não AIRAC, N ou A, deverão ser publicados em",
+    "nivel_hierarquico": 3,
+    "texto_completo": "edições distintas.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.1 > 3.1.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > IDENTIFICAÇÃO > Os Suplementos AIP, AIRAC ou Não AIRAC, N ou A, deverão ser publicados em",
+      "secao_raiz": "3",
+      "secao_pai": "3.1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "5f4bfaf4f5563f2eade5997120735459",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.1.3",
+    "titulo": "Os Suplementos AIP deverão ser disponibilizados em páginas na cor amarela.",
+    "nivel_hierarquico": 3,
+    "texto_completo": "",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.1 > 3.1.3",
+      "caminho_titulos": "ESPECIFICAÇÕES > IDENTIFICAÇÃO > Os Suplementos AIP deverão ser disponibilizados em páginas na cor amarela.",
+      "secao_raiz": "3",
+      "secao_pai": "3.1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "6656be69e7c263015fbe8901b89b2c19",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.2",
+    "titulo": "CANCELAMENTO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "3.2.1 Quando ocorrer um erro em um Suplemento AIP ou seu período de vigência for alterado,\num novo Suplemento AIP deverá ser publicado em substituição.\n3.2.2 Os requisitos de NOTAM deverão ser aplicados, quando não houver tempo suficiente\npara a divulgação da informação aeronáutica por meio de Suplemento AIP.\n3.2.3 As informações temporárias, previstas para permanecer em vigor por um período menor\ndo que três meses, deverão ser divulgadas por meio de NOTAM. Quando este período for\nexcedido, um Suplemento AIP deverá ser publicado em substituição ao NOTAM.\n3.2.4 Quando um Suplemento AIP for publicado em substituição a um NOTAM, deverão ser\nmantidos o indicador de localidade e o assunto contidos no NOTAM.\n3.2.5 No Suplemento AIP publicado em substituição a um NOTAM deverá ser incluída uma\nreferência a este NOTAM.\n3.2.6 O Suplemento AIP cancelado por um NOTAM deixará de ter validade no momento da\nexpedição do NOTAM.\n3.2.7 O Suplemento AIP cancelado deverá ser retirado da próxima edição da Lista de\nSuplementos AIP Válidos.",
+    "texto_com_subsecoes": "3.2.1 Quando ocorrer um erro em um Suplemento AIP ou seu período de vigência for alterado,\num novo Suplemento AIP deverá ser publicado em substituição.\n3.2.2 Os requisitos de NOTAM deverão ser aplicados, quando não houver tempo suficiente\npara a divulgação da informação aeronáutica por meio de Suplemento AIP.\n3.2.3 As informações temporárias, previstas para permanecer em vigor por um período menor\ndo que três meses, deverão ser divulgadas por meio de NOTAM. Quando este período for\nexcedido, um Suplemento AIP deverá ser publicado em substituição ao NOTAM.\n3.2.4 Quando um Suplemento AIP for publicado em substituição a um NOTAM, deverão ser\nmantidos o indicador de localidade e o assunto contidos no NOTAM.\n3.2.5 No Suplemento AIP publicado em substituição a um NOTAM deverá ser incluída uma\nreferência a este NOTAM.\n3.2.6 O Suplemento AIP cancelado por um NOTAM deixará de ter validade no momento da\nexpedição do NOTAM.\n3.2.7 O Suplemento AIP cancelado deverá ser retirado da próxima edição da Lista de\nSuplementos AIP Válidos.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > CANCELAMENTO",
+      "secao_raiz": "3",
+      "secao_pai": "3",
+      "subsecoes_diretas": [
+        "3.2.1",
+        "3.2.2",
+        "3.2.3",
+        "3.2.4",
+        "3.2.5",
+        "3.2.6",
+        "3.2.7"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "1b3c440ee94f8bf4ebf77c70c9e5731a",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.2.1",
+    "titulo": "Quando ocorrer um erro em um Suplemento AIP ou seu período de vigência for alterado,",
+    "nivel_hierarquico": 3,
+    "texto_completo": "um novo Suplemento AIP deverá ser publicado em substituição.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.2 > 3.2.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > CANCELAMENTO > Quando ocorrer um erro em um Suplemento AIP ou seu período de vigência for alterado,",
+      "secao_raiz": "3",
+      "secao_pai": "3.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "7cdf1eeaf0fc403ce189379e552a531d",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.2.2",
+    "titulo": "Os requisitos de NOTAM deverão ser aplicados, quando não houver tempo suficiente",
+    "nivel_hierarquico": 3,
+    "texto_completo": "para a divulgação da informação aeronáutica por meio de Suplemento AIP.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.2 > 3.2.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > CANCELAMENTO > Os requisitos de NOTAM deverão ser aplicados, quando não houver tempo suficiente",
+      "secao_raiz": "3",
+      "secao_pai": "3.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "341048ee6320f397100c962187d21209",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.2.3",
+    "titulo": "As informações temporárias, previstas para permanecer em vigor por um período menor",
+    "nivel_hierarquico": 3,
+    "texto_completo": "do que três meses, deverão ser divulgadas por meio de NOTAM. Quando este período for\nexcedido, um Suplemento AIP deverá ser publicado em substituição ao NOTAM.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.2 > 3.2.3",
+      "caminho_titulos": "ESPECIFICAÇÕES > CANCELAMENTO > As informações temporárias, previstas para permanecer em vigor por um período menor",
+      "secao_raiz": "3",
+      "secao_pai": "3.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "aa78b1d4298ca9471ba5a09a25a0f9f3",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.2.4",
+    "titulo": "Quando um Suplemento AIP for publicado em substituição a um NOTAM, deverão ser",
+    "nivel_hierarquico": 3,
+    "texto_completo": "mantidos o indicador de localidade e o assunto contidos no NOTAM.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.2 > 3.2.4",
+      "caminho_titulos": "ESPECIFICAÇÕES > CANCELAMENTO > Quando um Suplemento AIP for publicado em substituição a um NOTAM, deverão ser",
+      "secao_raiz": "3",
+      "secao_pai": "3.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "d0f2470fbf290ddf9ef22423362c9470",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.2.5",
+    "titulo": "No Suplemento AIP publicado em substituição a um NOTAM deverá ser incluída uma",
+    "nivel_hierarquico": 3,
+    "texto_completo": "referência a este NOTAM.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.2 > 3.2.5",
+      "caminho_titulos": "ESPECIFICAÇÕES > CANCELAMENTO > No Suplemento AIP publicado em substituição a um NOTAM deverá ser incluída uma",
+      "secao_raiz": "3",
+      "secao_pai": "3.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "e5d1696442ed2e16a897df69ff63ed3d",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.2.6",
+    "titulo": "O Suplemento AIP cancelado por um NOTAM deixará de ter validade no momento da",
+    "nivel_hierarquico": 3,
+    "texto_completo": "expedição do NOTAM.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.2 > 3.2.6",
+      "caminho_titulos": "ESPECIFICAÇÕES > CANCELAMENTO > O Suplemento AIP cancelado por um NOTAM deixará de ter validade no momento da",
+      "secao_raiz": "3",
+      "secao_pai": "3.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "df936f3729424477cbba892b120dc3de",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.2.7",
+    "titulo": "O Suplemento AIP cancelado deverá ser retirado da próxima edição da Lista de",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Suplementos AIP Válidos.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.2 > 3.2.7",
+      "caminho_titulos": "ESPECIFICAÇÕES > CANCELAMENTO > O Suplemento AIP cancelado deverá ser retirado da próxima edição da Lista de",
+      "secao_raiz": "3",
+      "secao_pai": "3.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "69a69516af3cedb3fd6f4d0d0b84a1a4",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.3",
+    "titulo": "DIVULGAÇÃO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "3.3.1 Cada Suplemento AIP deverá ser divulgado em páginas diferentes, para que possa ser\nfacilmente distinguido do conteúdo da AIP.\n\n\n\n14/22 ICA 53-6/2022\n3.3.2 Um Suplemento AIP AIRAC será divulgado, quando o tipo de informação constar da lista\n“Quando empregar o Sistema AIRAC”, previsto na ICA 53-4 “Solicitação de Divulgação de\nInformação Aeronáutica”.\n3.3.3 Os Suplementos AIP deverão ser disponibilizados em formato digital no AISWEB.\n3.3.4 Quando um Suplemento AIP for publicado, um NOTAM chamado “Iniciador” deverá ser\nexpedido, fornecendo uma breve descrição do conteúdo do Suplemento AIP, bem como a sua\nidentificação e a data e hora de efetivação.\n3.3.5 No caso de um Suplemento AIP com o período de vigência superior a 14 dias, o NOTAM\n“Iniciador” terá um período de vigência de 14 dias.\n3.3.6 No caso de um Suplemento AIP com o período de vigência inferior a 14 dias, o NOTAM\n“Iniciador” terá um período de vigência igual ao publicado no Suplemento AIP.\n3.3.7 A formatação das páginas do Suplemento AIP deverá ser, preferencialmente, a mesma da\nAIP.\n3.3.8 Todo Suplemento AIP deverá conter uma data de início de efetivação e de término de\nvalidade da informação.\n3.3.9 Os horários indicados nos Suplementos AIP deverão ser referenciados à hora UTC.",
+    "texto_com_subsecoes": "3.3.1 Cada Suplemento AIP deverá ser divulgado em páginas diferentes, para que possa ser\nfacilmente distinguido do conteúdo da AIP.\n\n\n\n14/22 ICA 53-6/2022\n3.3.2 Um Suplemento AIP AIRAC será divulgado, quando o tipo de informação constar da lista\n“Quando empregar o Sistema AIRAC”, previsto na ICA 53-4 “Solicitação de Divulgação de\nInformação Aeronáutica”.\n3.3.3 Os Suplementos AIP deverão ser disponibilizados em formato digital no AISWEB.\n3.3.4 Quando um Suplemento AIP for publicado, um NOTAM chamado “Iniciador” deverá ser\nexpedido, fornecendo uma breve descrição do conteúdo do Suplemento AIP, bem como a sua\nidentificação e a data e hora de efetivação.\n3.3.5 No caso de um Suplemento AIP com o período de vigência superior a 14 dias, o NOTAM\n“Iniciador” terá um período de vigência de 14 dias.\n3.3.6 No caso de um Suplemento AIP com o período de vigência inferior a 14 dias, o NOTAM\n“Iniciador” terá um período de vigência igual ao publicado no Suplemento AIP.\n3.3.7 A formatação das páginas do Suplemento AIP deverá ser, preferencialmente, a mesma da\nAIP.\n3.3.8 Todo Suplemento AIP deverá conter uma data de início de efetivação e de término de\nvalidade da informação.\n3.3.9 Os horários indicados nos Suplementos AIP deverão ser referenciados à hora UTC.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.3",
+      "caminho_titulos": "ESPECIFICAÇÕES > DIVULGAÇÃO",
+      "secao_raiz": "3",
+      "secao_pai": "3",
+      "subsecoes_diretas": [
+        "3.3.1",
+        "3.3.2",
+        "3.3.3",
+        "3.3.4",
+        "3.3.5",
+        "3.3.6",
+        "3.3.7",
+        "3.3.8",
+        "3.3.9"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "04f760a19a30087669ad08e26dfa5c65",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.3.1",
+    "titulo": "Cada Suplemento AIP deverá ser divulgado em páginas diferentes, para que possa ser",
+    "nivel_hierarquico": 3,
+    "texto_completo": "facilmente distinguido do conteúdo da AIP.\n\n\n\n14/22 ICA 53-6/2022",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.3 > 3.3.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > DIVULGAÇÃO > Cada Suplemento AIP deverá ser divulgado em páginas diferentes, para que possa ser",
+      "secao_raiz": "3",
+      "secao_pai": "3.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "c8f031796d7e2f6dda829e05fee0508b",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.3.2",
+    "titulo": "Um Suplemento AIP AIRAC será divulgado, quando o tipo de informação constar da lista",
+    "nivel_hierarquico": 3,
+    "texto_completo": "“Quando empregar o Sistema AIRAC”, previsto na ICA 53-4 “Solicitação de Divulgação de\nInformação Aeronáutica”.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.3 > 3.3.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > DIVULGAÇÃO > Um Suplemento AIP AIRAC será divulgado, quando o tipo de informação constar da lista",
+      "secao_raiz": "3",
+      "secao_pai": "3.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "6110fb07a2348e06220950f0663fab61",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.3.3",
+    "titulo": "Os Suplementos AIP deverão ser disponibilizados em formato digital no AISWEB.",
+    "nivel_hierarquico": 3,
+    "texto_completo": "",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.3 > 3.3.3",
+      "caminho_titulos": "ESPECIFICAÇÕES > DIVULGAÇÃO > Os Suplementos AIP deverão ser disponibilizados em formato digital no AISWEB.",
+      "secao_raiz": "3",
+      "secao_pai": "3.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "c7db153c66e1068bea447ce18a620f4c",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.3.4",
+    "titulo": "Quando um Suplemento AIP for publicado, um NOTAM chamado “Iniciador” deverá ser",
+    "nivel_hierarquico": 3,
+    "texto_completo": "expedido, fornecendo uma breve descrição do conteúdo do Suplemento AIP, bem como a sua\nidentificação e a data e hora de efetivação.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.3 > 3.3.4",
+      "caminho_titulos": "ESPECIFICAÇÕES > DIVULGAÇÃO > Quando um Suplemento AIP for publicado, um NOTAM chamado “Iniciador” deverá ser",
+      "secao_raiz": "3",
+      "secao_pai": "3.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "9583c1995a67cbe81534d7290439fcf5",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.3.5",
+    "titulo": "No caso de um Suplemento AIP com o período de vigência superior a 14 dias, o NOTAM",
+    "nivel_hierarquico": 3,
+    "texto_completo": "“Iniciador” terá um período de vigência de 14 dias.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.3 > 3.3.5",
+      "caminho_titulos": "ESPECIFICAÇÕES > DIVULGAÇÃO > No caso de um Suplemento AIP com o período de vigência superior a 14 dias, o NOTAM",
+      "secao_raiz": "3",
+      "secao_pai": "3.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "ca2a4953bf1c4659b923da9f07a15b12",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.3.6",
+    "titulo": "No caso de um Suplemento AIP com o período de vigência inferior a 14 dias, o NOTAM",
+    "nivel_hierarquico": 3,
+    "texto_completo": "“Iniciador” terá um período de vigência igual ao publicado no Suplemento AIP.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.3 > 3.3.6",
+      "caminho_titulos": "ESPECIFICAÇÕES > DIVULGAÇÃO > No caso de um Suplemento AIP com o período de vigência inferior a 14 dias, o NOTAM",
+      "secao_raiz": "3",
+      "secao_pai": "3.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "3baae127701e28324a4e8e5b4db7f7f0",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.3.7",
+    "titulo": "A formatação das páginas do Suplemento AIP deverá ser, preferencialmente, a mesma da",
+    "nivel_hierarquico": 3,
+    "texto_completo": "AIP.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.3 > 3.3.7",
+      "caminho_titulos": "ESPECIFICAÇÕES > DIVULGAÇÃO > A formatação das páginas do Suplemento AIP deverá ser, preferencialmente, a mesma da",
+      "secao_raiz": "3",
+      "secao_pai": "3.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "ffcaca02aaf1c481b9f26ef6f63f4fc5",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.3.8",
+    "titulo": "Todo Suplemento AIP deverá conter uma data de início de efetivação e de término de",
+    "nivel_hierarquico": 3,
+    "texto_completo": "validade da informação.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.3 > 3.3.8",
+      "caminho_titulos": "ESPECIFICAÇÕES > DIVULGAÇÃO > Todo Suplemento AIP deverá conter uma data de início de efetivação e de término de",
+      "secao_raiz": "3",
+      "secao_pai": "3.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "374e2add741ea446a9830b6fe34ac61f",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.3.9",
+    "titulo": "Os horários indicados nos Suplementos AIP deverão ser referenciados à hora UTC.",
+    "nivel_hierarquico": 3,
+    "texto_completo": "",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.3 > 3.3.9",
+      "caminho_titulos": "ESPECIFICAÇÕES > DIVULGAÇÃO > Os horários indicados nos Suplementos AIP deverão ser referenciados à hora UTC.",
+      "secao_raiz": "3",
+      "secao_pai": "3.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "542efa6d310eff9197792552f01d7669",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.4",
+    "titulo": "LISTA DE VERIFICAÇÃO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "3.4.1 Deverá ser publicada, mensalmente, uma Lista de Suplementos AIP válidos como parte\nda Lista de Verificação de NOTAM.\n3.4.2 Uma Lista de Suplementos AIP Válidos poderá ser consultada também a qualquer\nmomento no AISWEB, por meio dos endereços eletrônicos http://aisweb.decea.intraer/ ou\nhttps://aisweb.decea.mil.br/, acessando o link específico do Produto de Informação\nAeronáutica.",
+    "texto_com_subsecoes": "3.4.1 Deverá ser publicada, mensalmente, uma Lista de Suplementos AIP válidos como parte\nda Lista de Verificação de NOTAM.\n3.4.2 Uma Lista de Suplementos AIP Válidos poderá ser consultada também a qualquer\nmomento no AISWEB, por meio dos endereços eletrônicos http://aisweb.decea.intraer/ ou\nhttps://aisweb.decea.mil.br/, acessando o link específico do Produto de Informação\nAeronáutica.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.4",
+      "caminho_titulos": "ESPECIFICAÇÕES > LISTA DE VERIFICAÇÃO",
+      "secao_raiz": "3",
+      "secao_pai": "3",
+      "subsecoes_diretas": [
+        "3.4.1",
+        "3.4.2"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "961bbbadd7a601649731ae37366668ee",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.4.1",
+    "titulo": "Deverá ser publicada, mensalmente, uma Lista de Suplementos AIP válidos como parte",
+    "nivel_hierarquico": 3,
+    "texto_completo": "da Lista de Verificação de NOTAM.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.4 > 3.4.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > LISTA DE VERIFICAÇÃO > Deverá ser publicada, mensalmente, uma Lista de Suplementos AIP válidos como parte",
+      "secao_raiz": "3",
+      "secao_pai": "3.4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "0824e4dfeefb8bf41652a344e6f4eebc",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.4.2",
+    "titulo": "Uma Lista de Suplementos AIP Válidos poderá ser consultada também a qualquer",
+    "nivel_hierarquico": 3,
+    "texto_completo": "momento no AISWEB, por meio dos endereços eletrônicos http://aisweb.decea.intraer/ ou\nhttps://aisweb.decea.mil.br/, acessando o link específico do Produto de Informação\nAeronáutica.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.4 > 3.4.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > LISTA DE VERIFICAÇÃO > Uma Lista de Suplementos AIP Válidos poderá ser consultada também a qualquer",
+      "secao_raiz": "3",
+      "secao_pai": "3.4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "887340738d5522bdea8a7018ddb08ea2",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.5",
+    "titulo": "CONFECÇÃO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "3.5.1 O formato do Suplemento AIP tem por objetivo padronizar a apresentação dos diversos\ntipos de informação, bem como facilitar a compreensão pelos usuários, conforme o Anexo A.\n\n\n\nICA 53-6/2022 15/22\n3.5.2 Os Suplementos AIP AIRAC deverão ser confeccionados da mesma forma que os\nSuplementos AIP Não AIRAC, seguindo a mesma numeração, e identificados pelo acrônimo\nAIRAC, colocado em lugar de destaque, conforme o Anexo B.\n3.5.3 O Suplemento AIP deverá ser composto por duas partes: cabeçalho e texto.",
+    "texto_com_subsecoes": "3.5.1 O formato do Suplemento AIP tem por objetivo padronizar a apresentação dos diversos\ntipos de informação, bem como facilitar a compreensão pelos usuários, conforme o Anexo A.\n\n\n\nICA 53-6/2022 15/22\n3.5.2 Os Suplementos AIP AIRAC deverão ser confeccionados da mesma forma que os\nSuplementos AIP Não AIRAC, seguindo a mesma numeração, e identificados pelo acrônimo\nAIRAC, colocado em lugar de destaque, conforme o Anexo B.\n3.5.3 O Suplemento AIP deverá ser composto por duas partes: cabeçalho e texto.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.5",
+      "caminho_titulos": "ESPECIFICAÇÕES > CONFECÇÃO",
+      "secao_raiz": "3",
+      "secao_pai": "3",
+      "subsecoes_diretas": [
+        "3.5.1",
+        "3.5.2",
+        "3.5.3"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "bc50cff471980e8796b5ddeb8e23e395",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.5.1",
+    "titulo": "O formato do Suplemento AIP tem por objetivo padronizar a apresentação dos diversos",
+    "nivel_hierarquico": 3,
+    "texto_completo": "tipos de informação, bem como facilitar a compreensão pelos usuários, conforme o Anexo A.\n\n\n\nICA 53-6/2022 15/22",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.5 > 3.5.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > CONFECÇÃO > O formato do Suplemento AIP tem por objetivo padronizar a apresentação dos diversos",
+      "secao_raiz": "3",
+      "secao_pai": "3.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "ae46c9524bee1375a4a25c423174c4d3",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.5.2",
+    "titulo": "Os Suplementos AIP AIRAC deverão ser confeccionados da mesma forma que os",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Suplementos AIP Não AIRAC, seguindo a mesma numeração, e identificados pelo acrônimo\nAIRAC, colocado em lugar de destaque, conforme o Anexo B.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.5 > 3.5.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > CONFECÇÃO > Os Suplementos AIP AIRAC deverão ser confeccionados da mesma forma que os",
+      "secao_raiz": "3",
+      "secao_pai": "3.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "6833b21e2ebf35e00468fcaaeb2ed1b5",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.5.3",
+    "titulo": "O Suplemento AIP deverá ser composto por duas partes: cabeçalho e texto.",
+    "nivel_hierarquico": 3,
+    "texto_completo": "",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.5 > 3.5.3",
+      "caminho_titulos": "ESPECIFICAÇÕES > CONFECÇÃO > O Suplemento AIP deverá ser composto por duas partes: cabeçalho e texto.",
+      "secao_raiz": "3",
+      "secao_pai": "3.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "5883bff69b99230bef9cdeb2521c294d",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.6",
+    "titulo": "PRIMEIRA PARTE – CABEÇALHO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "3.6.1 Cada edição do Suplemento AIP deverá começar com cabeçalho padrão de identificação,\nconforme a figura abaixo:\nSuplemento AIP\nAIP\nContato:\nMinistério da Defesa Brasil\nComando da Aeronáutica N XXX / YY\nDepartamento de\nControle do Espaço\nData de publicação\nAéreo – DECEA\nDD MMM YY\nAv. Gen. Justo, 160\nCEP 20021-130 Efetivação\nRio de Janeiro, RJ – Brasil DD MMM YY\nAFS: SBRJZXIC AIM || Brasil\nhttp://www.decea.gov.br\nTítulo do Suplemento AIP\nFigura 1 – Cabeçalho\n3.6.2 Um título curto que indique a informação que está sendo divulgada deverá complementar\no cabeçalho.",
+    "texto_com_subsecoes": "3.6.1 Cada edição do Suplemento AIP deverá começar com cabeçalho padrão de identificação,\nconforme a figura abaixo:\nSuplemento AIP\nAIP\nContato:\nMinistério da Defesa Brasil\nComando da Aeronáutica N XXX / YY\nDepartamento de\nControle do Espaço\nData de publicação\nAéreo – DECEA\nDD MMM YY\nAv. Gen. Justo, 160\nCEP 20021-130 Efetivação\nRio de Janeiro, RJ – Brasil DD MMM YY\nAFS: SBRJZXIC AIM || Brasil\nhttp://www.decea.gov.br\nTítulo do Suplemento AIP\nFigura 1 – Cabeçalho\n3.6.2 Um título curto que indique a informação que está sendo divulgada deverá complementar\no cabeçalho.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.6",
+      "caminho_titulos": "ESPECIFICAÇÕES > PRIMEIRA PARTE – CABEÇALHO",
+      "secao_raiz": "3",
+      "secao_pai": "3",
+      "subsecoes_diretas": [
+        "3.6.1",
+        "3.6.2"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "efc401be698885491305657618392ffe",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.6.1",
+    "titulo": "Cada edição do Suplemento AIP deverá começar com cabeçalho padrão de identificação,",
+    "nivel_hierarquico": 3,
+    "texto_completo": "conforme a figura abaixo:\nSuplemento AIP\nAIP\nContato:\nMinistério da Defesa Brasil\nComando da Aeronáutica N XXX / YY\nDepartamento de\nControle do Espaço\nData de publicação\nAéreo – DECEA\nDD MMM YY\nAv. Gen. Justo, 160\nCEP 20021-130 Efetivação\nRio de Janeiro, RJ – Brasil DD MMM YY\nAFS: SBRJZXIC AIM || Brasil\nhttp://www.decea.gov.br\nTítulo do Suplemento AIP\nFigura 1 – Cabeçalho",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.6 > 3.6.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > PRIMEIRA PARTE – CABEÇALHO > Cada edição do Suplemento AIP deverá começar com cabeçalho padrão de identificação,",
+      "secao_raiz": "3",
+      "secao_pai": "3.6",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "cd051717457761fefb12e085ac7ea69c",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.6.2",
+    "titulo": "Um título curto que indique a informação que está sendo divulgada deverá complementar",
+    "nivel_hierarquico": 3,
+    "texto_completo": "o cabeçalho.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.6 > 3.6.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > PRIMEIRA PARTE – CABEÇALHO > Um título curto que indique a informação que está sendo divulgada deverá complementar",
+      "secao_raiz": "3",
+      "secao_pai": "3.6",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "53edb20fe553c546b3da219ec3d5a829",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7",
+    "titulo": "SEGUNDA PARTE – TEXTO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "Contém informações que alteram as contidas na AIP e é composto pelos\nseguintes campos:\na) município/instalação;\nb) período de vigência;\nc) conteúdo da informação; e\nd) referências.\n3.7.1 MUNICÍPIO/INSTALAÇÃO\n3.7.1.1 Nome do município seguido do nome da instalação, seguido da unidade da federação\ne do indicador de localidade.\nExemplo: RIO DE JANEIRO/Galeão – Antônio Carlos Jobim, RJ (SBGL).\n\n\n\n16/22 ICA 53-6/2022\n3.7.1.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.2 PERÍODO DE VIGÊNCIA\n3.7.2.1 Todo Suplemento AIP deverá conter neste campo a data e a hora de início de efetivação\ne de término de validade da informação.\nExemplo: De 20 de julho de 2021, 1100 UTC até 21 de outubro de 2021, 2100\nUTC.\n3.7.2.2 O período de vigência deverá ser posicionado antes do texto.\n3.7.2.3 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.2.4 Quando o período de vigência da informação não for suficiente para expressar todos\nos períodos de atividade da informação, estes deverão ser representados após o texto do\nSuplemento AIP.\nExemplo: Dias e horários:\nJUL 20 1100 TIL JUL 22 2100\nOCT 19 1100 TIL OCT 21 2100\n3.7.3 CONTEÚDO DA INFORMAÇÃO\n3.7.3.1 Contém informações que alteram as contidas na AIP.\nExemplo: Pista 15 / 33 fechada devido serviço de manutenção.\n3.7.3.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.3.3\n3.7.4 REFERÊNCIAS\n3.7.4.1 Este campo deverá conter referência à AIP, ao Suplemento AIP, em caso de\nsubstituição, ou ao NOTAM que divulgou a informação, se houver.\n\n\n\nICA 53-6/2022 17/22\n3.7.4.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.4.3 A referência à AIP deverá conter a parte, a seção e a subseção modificada pelo\nSuplemento AIP.\nExemplo: Ref.: AD SBGL 2.12\n3.7.4.4 A referência a um Suplemento AIP deverá conter a série, o número e o ano do\nSuplemento AIP substituído entre parênteses.\nExemplo: (RPLC SUP N125/22)\n3.7.4.5 A referência a um NOTAM deverá conter a série, o número e o ano do NOTAM\nsubstituído pelo Suplemento AIP entre parênteses.\nExemplo: (RPLC NOTAM G0420/22)\n\n\n\n18/22 ICA 53-6/2022",
+    "texto_com_subsecoes": "Contém informações que alteram as contidas na AIP e é composto pelos\nseguintes campos:\na) município/instalação;\nb) período de vigência;\nc) conteúdo da informação; e\nd) referências.\n3.7.1 MUNICÍPIO/INSTALAÇÃO\n3.7.1.1 Nome do município seguido do nome da instalação, seguido da unidade da federação\ne do indicador de localidade.\nExemplo: RIO DE JANEIRO/Galeão – Antônio Carlos Jobim, RJ (SBGL).\n\n\n\n16/22 ICA 53-6/2022\n3.7.1.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.2 PERÍODO DE VIGÊNCIA\n3.7.2.1 Todo Suplemento AIP deverá conter neste campo a data e a hora de início de efetivação\ne de término de validade da informação.\nExemplo: De 20 de julho de 2021, 1100 UTC até 21 de outubro de 2021, 2100\nUTC.\n3.7.2.2 O período de vigência deverá ser posicionado antes do texto.\n3.7.2.3 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.2.4 Quando o período de vigência da informação não for suficiente para expressar todos\nos períodos de atividade da informação, estes deverão ser representados após o texto do\nSuplemento AIP.\nExemplo: Dias e horários:\nJUL 20 1100 TIL JUL 22 2100\nOCT 19 1100 TIL OCT 21 2100\n3.7.3 CONTEÚDO DA INFORMAÇÃO\n3.7.3.1 Contém informações que alteram as contidas na AIP.\nExemplo: Pista 15 / 33 fechada devido serviço de manutenção.\n3.7.3.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.3.3\n3.7.4 REFERÊNCIAS\n3.7.4.1 Este campo deverá conter referência à AIP, ao Suplemento AIP, em caso de\nsubstituição, ou ao NOTAM que divulgou a informação, se houver.\n\n\n\nICA 53-6/2022 17/22\n3.7.4.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.4.3 A referência à AIP deverá conter a parte, a seção e a subseção modificada pelo\nSuplemento AIP.\nExemplo: Ref.: AD SBGL 2.12\n3.7.4.4 A referência a um Suplemento AIP deverá conter a série, o número e o ano do\nSuplemento AIP substituído entre parênteses.\nExemplo: (RPLC SUP N125/22)\n3.7.4.5 A referência a um NOTAM deverá conter a série, o número e o ano do NOTAM\nsubstituído pelo Suplemento AIP entre parênteses.\nExemplo: (RPLC NOTAM G0420/22)\n\n\n\n18/22 ICA 53-6/2022",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO",
+      "secao_raiz": "3",
+      "secao_pai": "3",
+      "subsecoes_diretas": [
+        "3.7.1",
+        "3.7.2",
+        "3.7.3",
+        "3.7.4"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "0dbca1bfcd8629bd75f8810e334c2282",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.1",
+    "titulo": "MUNICÍPIO/INSTALAÇÃO",
+    "nivel_hierarquico": 3,
+    "texto_completo": "3.7.1.1 Nome do município seguido do nome da instalação, seguido da unidade da federação\ne do indicador de localidade.\nExemplo: RIO DE JANEIRO/Galeão – Antônio Carlos Jobim, RJ (SBGL).\n\n\n\n16/22 ICA 53-6/2022\n3.7.1.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.",
+    "texto_com_subsecoes": "3.7.1.1 Nome do município seguido do nome da instalação, seguido da unidade da federação\ne do indicador de localidade.\nExemplo: RIO DE JANEIRO/Galeão – Antônio Carlos Jobim, RJ (SBGL).\n\n\n\n16/22 ICA 53-6/2022\n3.7.1.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > MUNICÍPIO/INSTALAÇÃO",
+      "secao_raiz": "3",
+      "secao_pai": "3.7",
+      "subsecoes_diretas": [
+        "3.7.1.1",
+        "3.7.1.2"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "1595403fe93aaef4d37856c99258df15",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.1.1",
+    "titulo": "Nome do município seguido do nome da instalação, seguido da unidade da federação",
+    "nivel_hierarquico": 4,
+    "texto_completo": "e do indicador de localidade.\nExemplo: RIO DE JANEIRO/Galeão – Antônio Carlos Jobim, RJ (SBGL).\n\n\n\n16/22 ICA 53-6/2022",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.1 > 3.7.1.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > MUNICÍPIO/INSTALAÇÃO > Nome do município seguido do nome da instalação, seguido da unidade da federação",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "6547f9bb42421e9df533972bec5d0d0c",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.1.2",
+    "titulo": "Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e",
+    "nivel_hierarquico": 4,
+    "texto_completo": "maiúsculas.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.1 > 3.7.1.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > MUNICÍPIO/INSTALAÇÃO > Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "2a87339c59d5af1d1466c1630d5ead08",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.2",
+    "titulo": "PERÍODO DE VIGÊNCIA",
+    "nivel_hierarquico": 3,
+    "texto_completo": "3.7.2.1 Todo Suplemento AIP deverá conter neste campo a data e a hora de início de efetivação\ne de término de validade da informação.\nExemplo: De 20 de julho de 2021, 1100 UTC até 21 de outubro de 2021, 2100\nUTC.\n3.7.2.2 O período de vigência deverá ser posicionado antes do texto.\n3.7.2.3 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.2.4 Quando o período de vigência da informação não for suficiente para expressar todos\nos períodos de atividade da informação, estes deverão ser representados após o texto do\nSuplemento AIP.\nExemplo: Dias e horários:\nJUL 20 1100 TIL JUL 22 2100\nOCT 19 1100 TIL OCT 21 2100",
+    "texto_com_subsecoes": "3.7.2.1 Todo Suplemento AIP deverá conter neste campo a data e a hora de início de efetivação\ne de término de validade da informação.\nExemplo: De 20 de julho de 2021, 1100 UTC até 21 de outubro de 2021, 2100\nUTC.\n3.7.2.2 O período de vigência deverá ser posicionado antes do texto.\n3.7.2.3 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.2.4 Quando o período de vigência da informação não for suficiente para expressar todos\nos períodos de atividade da informação, estes deverão ser representados após o texto do\nSuplemento AIP.\nExemplo: Dias e horários:\nJUL 20 1100 TIL JUL 22 2100\nOCT 19 1100 TIL OCT 21 2100",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > PERÍODO DE VIGÊNCIA",
+      "secao_raiz": "3",
+      "secao_pai": "3.7",
+      "subsecoes_diretas": [
+        "3.7.2.1",
+        "3.7.2.2",
+        "3.7.2.3",
+        "3.7.2.4"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "520f79980b105d5ad20fe12828d5ef9c",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.2.1",
+    "titulo": "Todo Suplemento AIP deverá conter neste campo a data e a hora de início de efetivação",
+    "nivel_hierarquico": 4,
+    "texto_completo": "e de término de validade da informação.\nExemplo: De 20 de julho de 2021, 1100 UTC até 21 de outubro de 2021, 2100\nUTC.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.2 > 3.7.2.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > PERÍODO DE VIGÊNCIA > Todo Suplemento AIP deverá conter neste campo a data e a hora de início de efetivação",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "170710f8f8ce4f1b3b992b839e448329",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.2.2",
+    "titulo": "O período de vigência deverá ser posicionado antes do texto.",
+    "nivel_hierarquico": 4,
+    "texto_completo": "",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.2 > 3.7.2.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > PERÍODO DE VIGÊNCIA > O período de vigência deverá ser posicionado antes do texto.",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "c6dd6f66c46ae83b6a416515eec78b7e",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.2.3",
+    "titulo": "Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e",
+    "nivel_hierarquico": 4,
+    "texto_completo": "maiúsculas.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.2 > 3.7.2.3",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > PERÍODO DE VIGÊNCIA > Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "7290b7ca663adc201bc0e9b231f10842",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.2.4",
+    "titulo": "Quando o período de vigência da informação não for suficiente para expressar todos",
+    "nivel_hierarquico": 4,
+    "texto_completo": "os períodos de atividade da informação, estes deverão ser representados após o texto do\nSuplemento AIP.\nExemplo: Dias e horários:\nJUL 20 1100 TIL JUL 22 2100\nOCT 19 1100 TIL OCT 21 2100",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.2 > 3.7.2.4",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > PERÍODO DE VIGÊNCIA > Quando o período de vigência da informação não for suficiente para expressar todos",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "b823a048bfe2c83f9c3fc300302f2bde",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.3",
+    "titulo": "CONTEÚDO DA INFORMAÇÃO",
+    "nivel_hierarquico": 3,
+    "texto_completo": "3.7.3.1 Contém informações que alteram as contidas na AIP.\nExemplo: Pista 15 / 33 fechada devido serviço de manutenção.\n3.7.3.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.3.3",
+    "texto_com_subsecoes": "3.7.3.1 Contém informações que alteram as contidas na AIP.\nExemplo: Pista 15 / 33 fechada devido serviço de manutenção.\n3.7.3.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.3.3",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.3",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > CONTEÚDO DA INFORMAÇÃO",
+      "secao_raiz": "3",
+      "secao_pai": "3.7",
+      "subsecoes_diretas": [
+        "3.7.3.1",
+        "3.7.3.2"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "a87a92e442fcd67a774c091871a696f1",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.3.1",
+    "titulo": "Contém informações que alteram as contidas na AIP.",
+    "nivel_hierarquico": 4,
+    "texto_completo": "Exemplo: Pista 15 / 33 fechada devido serviço de manutenção.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.3 > 3.7.3.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > CONTEÚDO DA INFORMAÇÃO > Contém informações que alteram as contidas na AIP.",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "21e8efaa643ba80c9e7b5a95e48fdbfa",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.3.2",
+    "titulo": "Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e",
+    "nivel_hierarquico": 4,
+    "texto_completo": "maiúsculas.\n3.7.3.3",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.3 > 3.7.3.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > CONTEÚDO DA INFORMAÇÃO > Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "c59961d660453e9bfa9519ac39f475f1",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.4",
+    "titulo": "REFERÊNCIAS",
+    "nivel_hierarquico": 3,
+    "texto_completo": "3.7.4.1 Este campo deverá conter referência à AIP, ao Suplemento AIP, em caso de\nsubstituição, ou ao NOTAM que divulgou a informação, se houver.\n\n\n\nICA 53-6/2022 17/22\n3.7.4.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.4.3 A referência à AIP deverá conter a parte, a seção e a subseção modificada pelo\nSuplemento AIP.\nExemplo: Ref.: AD SBGL 2.12\n3.7.4.4 A referência a um Suplemento AIP deverá conter a série, o número e o ano do\nSuplemento AIP substituído entre parênteses.\nExemplo: (RPLC SUP N125/22)\n3.7.4.5 A referência a um NOTAM deverá conter a série, o número e o ano do NOTAM\nsubstituído pelo Suplemento AIP entre parênteses.\nExemplo: (RPLC NOTAM G0420/22)\n\n\n\n18/22 ICA 53-6/2022",
+    "texto_com_subsecoes": "3.7.4.1 Este campo deverá conter referência à AIP, ao Suplemento AIP, em caso de\nsubstituição, ou ao NOTAM que divulgou a informação, se houver.\n\n\n\nICA 53-6/2022 17/22\n3.7.4.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e\nmaiúsculas.\n3.7.4.3 A referência à AIP deverá conter a parte, a seção e a subseção modificada pelo\nSuplemento AIP.\nExemplo: Ref.: AD SBGL 2.12\n3.7.4.4 A referência a um Suplemento AIP deverá conter a série, o número e o ano do\nSuplemento AIP substituído entre parênteses.\nExemplo: (RPLC SUP N125/22)\n3.7.4.5 A referência a um NOTAM deverá conter a série, o número e o ano do NOTAM\nsubstituído pelo Suplemento AIP entre parênteses.\nExemplo: (RPLC NOTAM G0420/22)\n\n\n\n18/22 ICA 53-6/2022",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.4",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > REFERÊNCIAS",
+      "secao_raiz": "3",
+      "secao_pai": "3.7",
+      "subsecoes_diretas": [
+        "3.7.4.1",
+        "3.7.4.2",
+        "3.7.4.3",
+        "3.7.4.4",
+        "3.7.4.5"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "e0ccde1cd3b5d661ce1847e5c7dde39b",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.4.1",
+    "titulo": "Este campo deverá conter referência à AIP, ao Suplemento AIP, em caso de",
+    "nivel_hierarquico": 4,
+    "texto_completo": "substituição, ou ao NOTAM que divulgou a informação, se houver.\n\n\n\nICA 53-6/2022 17/22",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.4 > 3.7.4.1",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > REFERÊNCIAS > Este campo deverá conter referência à AIP, ao Suplemento AIP, em caso de",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "ef0332dc3d48d0a16f510a51041a2b53",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.4.2",
+    "titulo": "Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e",
+    "nivel_hierarquico": 4,
+    "texto_completo": "maiúsculas.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.4 > 3.7.4.2",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > REFERÊNCIAS > Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "815dc530142c2dbdd12c2fceb85800bc",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.4.3",
+    "titulo": "A referência à AIP deverá conter a parte, a seção e a subseção modificada pelo",
+    "nivel_hierarquico": 4,
+    "texto_completo": "Suplemento AIP.\nExemplo: Ref.: AD SBGL 2.12",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.4 > 3.7.4.3",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > REFERÊNCIAS > A referência à AIP deverá conter a parte, a seção e a subseção modificada pelo",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "70454c6bf42f9b12d34d30dba8f70411",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.4.4",
+    "titulo": "A referência a um Suplemento AIP deverá conter a série, o número e o ano do",
+    "nivel_hierarquico": 4,
+    "texto_completo": "Suplemento AIP substituído entre parênteses.\nExemplo: (RPLC SUP N125/22)",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.4 > 3.7.4.4",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > REFERÊNCIAS > A referência a um Suplemento AIP deverá conter a série, o número e o ano do",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "e61bdbf55f977da1300474176f075cad",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "3.7.4.5",
+    "titulo": "A referência a um NOTAM deverá conter a série, o número e o ano do NOTAM",
+    "nivel_hierarquico": 4,
+    "texto_completo": "substituído pelo Suplemento AIP entre parênteses.\nExemplo: (RPLC NOTAM G0420/22)\n\n\n\n18/22 ICA 53-6/2022",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3 > 3.7 > 3.7.4 > 3.7.4.5",
+      "caminho_titulos": "ESPECIFICAÇÕES > SEGUNDA PARTE – TEXTO > REFERÊNCIAS > A referência a um NOTAM deverá conter a série, o número e o ano do NOTAM",
+      "secao_raiz": "3",
+      "secao_pai": "3.7.4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "35bae0183fb91d04af7ae7bec8308b69",
+    "tipo_conteudo": "secao",
+    "identificacao": "4",
+    "titulo": "DISPOSIÇÕES TRANSITÓRIAS",
+    "nivel_hierarquico": 1,
+    "texto_completo": "O ICA terá um prazo de dois anos, a partir da data de entrada em vigor desta\nIntrução, para concluir a nova estrutura do Suplemento AIP, conforme previsto nos itens 3.6 e\n3.7.\n\n\n\nICA 53-6/2022 19/22",
+    "texto_com_subsecoes": "O ICA terá um prazo de dois anos, a partir da data de entrada em vigor desta\nIntrução, para concluir a nova estrutura do Suplemento AIP, conforme previsto nos itens 3.6 e\n3.7.\n\n\n\nICA 53-6/2022 19/22",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "4",
+      "caminho_titulos": "DISPOSIÇÕES TRANSITÓRIAS",
+      "secao_raiz": "4",
+      "secao_pai": null,
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "e2bbcf0e186c3d7ca1aca8be40025f5d",
+    "tipo_conteudo": "secao",
+    "identificacao": "5",
+    "titulo": "DISPOSIÇÕES FINAIS",
+    "nivel_hierarquico": 1,
+    "texto_completo": "5.1 As sugestões para o contínuo aperfeiçoamento desta publicação deverão ser enviadas por\nmeio dos endereços eletrônicos http://publicacoes.decea.intraer/ ou\nhttp://publicacoes.decea.mil.br/, acessando o link específico da publicação.\n5.2 Os casos não previstos serão submetidos à apreciação do Sr. Chefe do Subdepartamento\nde Operações do Departamento de Controle do Espaço Aéreo.\n\n\n\n20/22 ICA 53-6/2022\nREFERÊNCIAS\nBRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Solicitação\nde Divulgação de Informação Aeronáutica: ICA 53-4. Rio de Janeiro, RJ, 2019.\nBRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Catálogo de\nRequisitos de dados e Informações Aeronáuticas: TCA 53-2. Rio de Janeiro, RJ, 2019.\nCANADÁ. Organização da Aviação Civil Internacional. Serviços de Informação Aeronáutica:\nAnexo 15. Montreal, 2018.\nCANADÁ. Organização da Aviação Civil Internacional. Manual para os Serviços de\nInformação Aeronáutica: Doc 8126. Montreal, 2003.\nCANADÁ. Organização da Aviação Civil Internacional. Procedimentos para os Serviços de\nNavegação Aérea – Gestão da Informação Aeronáutica: PANS-AIM, Doc. 10066. Montreal,\n2018.\n\n\n\nICA 53-6/2022 21/22\nANEXO A - Modelo de Suplemento AIP não AIRAC\nSuplemento AIP\nAIP\nContato:\nMinistério da Defesa Brasil\nComando da Aeronáutica N XX/22\nDepartamento de\nControle do Espaço\nData de publicação\nAéreo – DECEA",
+    "texto_com_subsecoes": "5.1 As sugestões para o contínuo aperfeiçoamento desta publicação deverão ser enviadas por\nmeio dos endereços eletrônicos http://publicacoes.decea.intraer/ ou\nhttp://publicacoes.decea.mil.br/, acessando o link específico da publicação.\n5.2 Os casos não previstos serão submetidos à apreciação do Sr. Chefe do Subdepartamento\nde Operações do Departamento de Controle do Espaço Aéreo.\n\n\n\n20/22 ICA 53-6/2022\nREFERÊNCIAS\nBRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Solicitação\nde Divulgação de Informação Aeronáutica: ICA 53-4. Rio de Janeiro, RJ, 2019.\nBRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Catálogo de\nRequisitos de dados e Informações Aeronáuticas: TCA 53-2. Rio de Janeiro, RJ, 2019.\nCANADÁ. Organização da Aviação Civil Internacional. Serviços de Informação Aeronáutica:\nAnexo 15. Montreal, 2018.\nCANADÁ. Organização da Aviação Civil Internacional. Manual para os Serviços de\nInformação Aeronáutica: Doc 8126. Montreal, 2003.\nCANADÁ. Organização da Aviação Civil Internacional. Procedimentos para os Serviços de\nNavegação Aérea – Gestão da Informação Aeronáutica: PANS-AIM, Doc. 10066. Montreal,\n2018.\n\n\n\nICA 53-6/2022 21/22\nANEXO A - Modelo de Suplemento AIP não AIRAC\nSuplemento AIP\nAIP\nContato:\nMinistério da Defesa Brasil\nComando da Aeronáutica N XX/22\nDepartamento de\nControle do Espaço\nData de publicação\nAéreo – DECEA",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "5",
+      "caminho_titulos": "DISPOSIÇÕES FINAIS",
+      "secao_raiz": "5",
+      "secao_pai": null,
+      "subsecoes_diretas": [
+        "5.1",
+        "5.2"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "9b67fe7acc2a838d95a3720104c202d3",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "5.1",
+    "titulo": "As sugestões para o contínuo aperfeiçoamento desta publicação deverão ser enviadas por",
+    "nivel_hierarquico": 2,
+    "texto_completo": "meio dos endereços eletrônicos http://publicacoes.decea.intraer/ ou\nhttp://publicacoes.decea.mil.br/, acessando o link específico da publicação.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "5 > 5.1",
+      "caminho_titulos": "DISPOSIÇÕES FINAIS > As sugestões para o contínuo aperfeiçoamento desta publicação deverão ser enviadas por",
+      "secao_raiz": "5",
+      "secao_pai": "5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "a19e7ba57a1f0570ee89fc31ae41dc3e",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "5.2",
+    "titulo": "Os casos não previstos serão submetidos à apreciação do Sr. Chefe do Subdepartamento",
+    "nivel_hierarquico": 2,
+    "texto_completo": "de Operações do Departamento de Controle do Espaço Aéreo.\n\n\n\n20/22 ICA 53-6/2022\nREFERÊNCIAS\nBRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Solicitação\nde Divulgação de Informação Aeronáutica: ICA 53-4. Rio de Janeiro, RJ, 2019.\nBRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Catálogo de\nRequisitos de dados e Informações Aeronáuticas: TCA 53-2. Rio de Janeiro, RJ, 2019.\nCANADÁ. Organização da Aviação Civil Internacional. Serviços de Informação Aeronáutica:\nAnexo 15. Montreal, 2018.\nCANADÁ. Organização da Aviação Civil Internacional. Manual para os Serviços de\nInformação Aeronáutica: Doc 8126. Montreal, 2003.\nCANADÁ. Organização da Aviação Civil Internacional. Procedimentos para os Serviços de\nNavegação Aérea – Gestão da Informação Aeronáutica: PANS-AIM, Doc. 10066. Montreal,\n2018.\n\n\n\nICA 53-6/2022 21/22\nANEXO A - Modelo de Suplemento AIP não AIRAC\nSuplemento AIP\nAIP\nContato:\nMinistério da Defesa Brasil\nComando da Aeronáutica N XX/22\nDepartamento de\nControle do Espaço\nData de publicação\nAéreo – DECEA",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "5 > 5.2",
+      "caminho_titulos": "DISPOSIÇÕES FINAIS > Os casos não previstos serão submetidos à apreciação do Sr. Chefe do Subdepartamento",
+      "secao_raiz": "5",
+      "secao_pai": "5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "d21fe2e07c437bc4b69b6338d5f47b70",
+    "tipo_conteudo": "secao",
+    "identificacao": "17",
+    "titulo": "MAY 22",
+    "nivel_hierarquico": 1,
+    "texto_completo": "Av. Gen. Justo, 160\nCEP 20021-130 Data de efetivação\nRio de Janeiro, RJ – Brasil 31 MAY 22\nAFS: SBRJZXIC AIM || Brasil\nhttp://www.decea.gov.br\nFechamento de Pista\nBELO HORIZONTE/Tancredo Neves, MG (SBCF)\nPeríodo: De 31 de maio de 2022, 0455 UTC até 15 de outubro de 2022, 0745\nUTC.\nPista 16/34 fechada devido serviço de manutenção.\nDias e horários: MAY 31 0455-0745 JUN 01 02 28 TIL 30 0455-0745 JUL 26 TIL\n28 0455-0745 AUG 23 TIL 25 0435-0745 SEP 12 20 TIL 22 0435-0745 OCT 13\nTIL 15 0435-0745\nRef.: AIP SBCF AD 2.12\n\n\n\n22/22 ICA 53-6/2022\nANEXO B - Modelo de Suplemento AIP AIRAC\nSuplemento AIP\nAIRAC AIP\nContato:\nMinistério da Defesa Brasil\nComando da Aeronáutica N XXX / 22\nDepartamento de\nControle do Espaço\nData de publicação\nAéreo – DECEA",
+    "texto_com_subsecoes": "Av. Gen. Justo, 160\nCEP 20021-130 Data de efetivação\nRio de Janeiro, RJ – Brasil 31 MAY 22\nAFS: SBRJZXIC AIM || Brasil\nhttp://www.decea.gov.br\nFechamento de Pista\nBELO HORIZONTE/Tancredo Neves, MG (SBCF)\nPeríodo: De 31 de maio de 2022, 0455 UTC até 15 de outubro de 2022, 0745\nUTC.\nPista 16/34 fechada devido serviço de manutenção.\nDias e horários: MAY 31 0455-0745 JUN 01 02 28 TIL 30 0455-0745 JUL 26 TIL\n28 0455-0745 AUG 23 TIL 25 0435-0745 SEP 12 20 TIL 22 0435-0745 OCT 13\nTIL 15 0435-0745\nRef.: AIP SBCF AD 2.12\n\n\n\n22/22 ICA 53-6/2022\nANEXO B - Modelo de Suplemento AIP AIRAC\nSuplemento AIP\nAIRAC AIP\nContato:\nMinistério da Defesa Brasil\nComando da Aeronáutica N XXX / 22\nDepartamento de\nControle do Espaço\nData de publicação\nAéreo – DECEA",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "17",
+      "caminho_titulos": "MAY 22",
+      "secao_raiz": "17",
+      "secao_pai": null,
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "b11e1425f83d0d98ea343009c430ff9e",
+    "tipo_conteudo": "secao",
+    "identificacao": "18",
+    "titulo": "MAR 22",
+    "nivel_hierarquico": 1,
+    "texto_completo": "Av. Gen. Justo, 160\nCEP 20021-130 Data de efetivação\nRio de Janeiro, RJ – Brasil 15 ABR 22\nAFS: SBRJZXIC AIM || Brasil\nhttp://www.decea.gov.br\nCATEGORIA DE AERÓDROMO\nNATAL/ São Gonçalo do Amarante – Governador Aluizio Alves, RN (SBSG)\nPeríodo: De 15 de abril de 2022, 0141 UTC até 22 de abril de 2022, 2359 UTC\nAD CATEGORIA MODIFICADA PARA INTL\nRef. : AIP SBSG AD 2.1",
+    "texto_com_subsecoes": "Av. Gen. Justo, 160\nCEP 20021-130 Data de efetivação\nRio de Janeiro, RJ – Brasil 15 ABR 22\nAFS: SBRJZXIC AIM || Brasil\nhttp://www.decea.gov.br\nCATEGORIA DE AERÓDROMO\nNATAL/ São Gonçalo do Amarante – Governador Aluizio Alves, RN (SBSG)\nPeríodo: De 15 de abril de 2022, 0141 UTC até 22 de abril de 2022, 2359 UTC\nAD CATEGORIA MODIFICADA PARA INTL\nRef. : AIP SBSG AD 2.1",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "18",
+      "caminho_titulos": "MAR 22",
+      "secao_raiz": "18",
+      "secao_pai": null,
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-53-6",
+      "categoria": "Informação Aeronáutica",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-07-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  }
+]

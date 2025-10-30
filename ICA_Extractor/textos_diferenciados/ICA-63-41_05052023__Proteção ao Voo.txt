@@ -1,0 +1,444 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+PROTEÇÃO AO VOO
+ICA 63-41
+EFETIVO OPERACIONAL
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PROTEÇÃO AO VOO
+ICA 63-41
+EFETIVO OPERACIONAL
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA No 847/DNOR5, DE 05 DE ABRIL DE 2023.
+Protocolo COMAER nº 67600.007314/2023-40
+Aprova a edição da ICA 63-41, Instrução
+sobre “Efetivo Operacional”.
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 21, inciso I, Anexo I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 11.237, de 18 de outubro
+de 2022, de acordo com o art. 10, inciso IV, do Regulamento do DECEA, aprovado pela Portaria
+nº 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art. 1º Aprovar a reedição da ICA 63-41, “Efetivo Operacional”, que com esta
+baixa.
+Art. 2º Esta Instrução entra em vigor na data da publicação desta Portaria.
+Art. 3º Revoga-se a Portaria DECEA nº 198/DGCEA, de 09 de novembro de
+2017, publicada no Boletim do Comando da Aeronáutica nº 196, de 16 de novembro de 2017.
+Ten Brig Ar ALCIDES TEIXEIRA BARBACOVI
+Diretor-Geral do DECEA
+(Publicado no BCA nº 081, 05 de maio de 2023)
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 63-41/2023
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES ..................................................................................... 9
+1.1 FINALIDADE ..................................................................................................................... 9
+1.2 ÂMBITO ............................................................................................................................. 9
+2 DISPOSIÇÕES GERAIS ................................................................................................... 10
+2.1 PRINCÍPIOS ..................................................................................................................... 10
+2.2 PRINCIPAIS PROCESSOS .............................................................................................. 10
+2.3 PREMISSAS ..................................................................................................................... 12
+2.4 METODOLOGIA .............................................................................................................. 12
+2.5 CÁLCULO DE EFETIVO ................................................................................................ 14
+3 DISPOSIÇÕES FINAIS ..................................................................................................... 18
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 63-41/2023
+PREFÁCIO
+A presente Norma tem por finalidade orientar a aplicação da Metodologia de
+Cálculo de Efetivo a ser utilizada no Subdepartamento de Operações do DECEA (SDOP).
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 63-41/2023
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+A presente Norma tem por finalidade orientar a aplicação da Metodologia de
+Cálculo de Efetivo a ser utilizada no Subdepartamento de Operações do DECEA (SDOP).
+1.2 ÂMBITO
+A presente Norma aplica-se à Divisão de Planejamento (DPLN), à Divisão de
+Coordenação e Controle (DCCO), à Divisão de Normas (DNOR), à Divisão de Operações
+Militares (DOPM) e à Divisão de Licenças e Habilitação Técnica e de Testes Operacionais
+(DLTO), todas do Subdepartamento de Operações do DECEA.
+
+--- PÁGINA ---
+10/18 ICA 63-41/2023
+2 DISPOSIÇÕES GERAIS
+2.1 PRINCÍPIOS
+A Metodologia de Cálculo de Efetivo baseia-se:
+a) no percentual de participação de cada uma das 7 (sete) áreas operacionais
+(ATM, CNS, MET, AIS/MAP, AGA, SAR e UAS) das Divisões de Normas,
+de Planejamento e de Coordenação e Controle, da Divisão de Operações
+Militares (DOPM) e da Divisão de Licenças e Habilitação Técnica e de
+Testes Operacionais (DLTO), no quantitativo total dos principais processos
+tratados no âmbito do SDOP nos últimos 3 (três) anos; e
+b) nas premissas definidas pelo Chefe do SDOP para os próximos anos.
+2.2 PRINCIPAIS PROCESSOS
+Os principais processos tratados no âmbito do SDOP são distribuídos em função
+da natureza das atividades (Rotina, Normatização, Programas e Projetos) realizadas pelas
+Divisões, bem como em relação à complexidade do processo (variando do nível menos
+complexo 1 ao nível mais complexo 6), conforme apresentado nas Tabela 1 e 2,
+respectivamente.
+Tabela 1 – Tipo de Processo Predominante
+Divisão Processo predominante
+DCCO Rotina
+DNOR Normatização
+DPLN Programas e Projetos
+DOPM Rotina
+DLTO Rotina
+Tabela 2 – Processos e Respectivos Pesos
+Divisão Tipo de processo Processos (Proc) Peso (P)
+SAC (Proc ) 1
+SAC
+DCCO Rotina
+SIGADAER (Proc ) 2
+SIGADAER
+Normas Internas (Proc ) 3
+NorInt
+Normas Externas (Proc ) 4
+NorExt
+DNOR Rotina / Normatização
+PRENOR (Proc ) 3
+PRENOR
+SIGADAER (Proc ) 2
+SIGADAER
+
+--- PÁGINA ---
+ICA 63-41/2023 11/18
+Divisão Tipo de processo Processos (Proc) Peso (P)
+FIN (Proc ) 5
+FIN
+Rotina / Programas /
+DPLN PFF (Proc ) 6
+Projetos PFF
+SIGADAER (Proc ) 2
+SIGADAER
+Normas Internas (Proc ) 3
+NorInt
+Normas Externas (Proc ) 4
+NorExt
+Rotina / Programas / FIN (Proc FIN ) 5
+DOPM
+Projetos / Normatização PFF (Proc ) 6
+PFF
+SAC (Proc ) 1
+SAC
+SIGADAER (Proc ) 2
+SIGADAER
+SAC (Proc ) 1
+SAC
+SIGADAER (Proc ) 2
+SIGADAER
+Rotina / Programas /
+DLTO SGPO (Proc ) 2
+Projetos / Normatização SGPO
+FIN (Proc ) 5
+FIN
+PFF (Proc ) 6
+PFF
+(1) Número de chamados recebidos no SAC do DECEA nos últimos 3 anos.
+(2) Número de documentos tramitados no SIGADAER nos últimos 3 anos.
+(3) Número de publicações vigentes no SISCEAB no ano da análise.
+(4) Número de Anexos, LAR, OMM, PANS, DOC, Circulares e NOSDA vigentes no âmbito da OACI e
+COMAE, respectivamente, no ano da análise.
+(5) Número de FIN constantes do PLANSET no ano da análise.
+(6) Número de PFF constantes do Programa SIRIUS Brasil no ano da análise.
+NOTA: O quantitativo máximo de Estação de Trabalho (ET) disponível para absorver o efetivo
+das Divisões está representado na Tabela 3.
+
+--- PÁGINA ---
+12/18 ICA 63-41/2023
+Tabela 3 – Estação de Trabalho (ET)
+Divisão ET Chefe ET Adjunto ET Seções Total de ET
+DCCO 1 1 41 43
+DNOR 1 1 30 32
+DPLN 1 1 35 37
+DOPM 1 1 6 8
+DLTO 1 1 4 6
+2.3 PREMISSAS
+Considerando possíveis limitações da metodologia estabelecida na presente
+Norma, as particularidades de cada área, a configuração física de cada Divisão e, ainda, os
+interesses estratégicos do SDOP, foram definidas as seguintes premissas no cálculo do efetivo,
+a serem observadas ao longo dos anos:
+i. o efetivo mínimo de uma determinada Seção do SDOP não deve ser inferior
+a 2 (dois);
+ii. o efetivo de uma determinada Seção deve ser arredondado para o número
+inteiro imediatamente superior;
+NOTA: caso a somatória do “ET Seções” de determinada Divisão, após a
+aplicação do arredondamento do valor calculado do “EFfinal”, implicar em
+valor superior ao da Tabela 3, poderá ser utilizado o critério de
+arredondamento do “EFfinal” para o número inteiro imediatamente inferior,
+desde que o valor calculado não ultrapasse a quinta casa decimal. Ex: para
+valores até 5,49 arredondar para 5,0; para valores acima de 5,5 (inclusive),
+manter o arredondamento para o inteiro imediatamente superior, no caso 6,0.
+iii. para fins de atendimento as letras “i” e “ii” anteriores, as Seções que
+possuírem superávit no cálculo final cederão Recursos Humanos para as
+demais Seções.
+2.4 METODOLOGIA
+A Metodologia de Cálculo de Efetivo para uma determinada área é estabelecida
+por meio dos passos a seguir:
+1º Passo - Levantar, por meio das fontes citadas na Tabela 2, a quantidade de um determinado
+processo e as normas externas relacionadas a uma determinada área;
+2º Passo - Comparar os processos que possuem ordens de grandeza distintas, redimensionar
+linearmente a quantidade do processo calculado no 1º Passo, no intervalo [0,1], por
+meio da normalização min-max, conforme a seguinte fórmula:
+QTD[Proc,Área] – min[Proc,SDOP]
+NORM min-max[Proc,Área] =
+max[Proc,SDOP] – min[Proc,SDOP]
+
+--- PÁGINA ---
+ICA 63-41/2023 13/18
+onde:
+QTD[Proc,Área] é a quantidade de um determinado processo de uma determinada área.
+min[Proc,SDOP] é a menor quantidade de um determinado processo considerando todas as
+áreas do SDOP.
+max[Proc,SDOP] é a maior quantidade de um determinado processo considerando todas as
+áreas do SDOP.
+3º Passo - Calcular a participação de uma determinada área por meio da fórmula abaixo:
+(NORM[Proc 1,Área] * P[Proc 1]) + ... + (NORM[Proc n,Área] * P[Proc n])
+PART[Área]
+(%) =
+Ʃaretot [(NORM[Proc 1,Área] * P[Proc 1]) + ... + (NORM[Proc n,Área] * P[Proc n])]
+onde:
+P[Proc] é o peso de um determinado processo em função de sua complexidade, conforme
+Tabela 2.
+Ʃaretot é o somatório de todos os tipos de Processos de todas as Áreas de uma Divisão
+multiplicado pelo seu respectivo peso, conforme Tabela 2.
+4º Passo - Calcular a participação de uma determinada Seção por meio da fórmula abaixo:
+(NORM[FIN,Área] * P[FIN]) + (NORM[PFF,Área] * P[PFF]) + (NORM[SIGADAER,Área] *
+P[SIGADAER])
+PART[Seção,
+DPLN] (%) =
+Ʃaretot [(NORM[FIN,Área] * P[FIN]) + (NORM[PFF,Área] * P[PFF]) +
+(NORM[SIGADAER,Área] * P[SIGADAER])]
+(NORM[SAC,Área] * P[SAC]) + (NORM[SIGADAER,Área] * P[SIGADAER]
+PART[Seção,
+DCCO] (%) =
+Ʃaretot [(NORM[SAC,Área] * P[SAC]) + (NORM[SIGADAER,Área] * P[SIGADAER])]
+(NORM[NorInt,Área] * P[NorInt]) + (NORM[NorExt,Área] * P[NorExt]) +
+(NORM[SIGADAER,Área] * P[SIGADAER]) + (NORM[PRENOR,Área] * P[PRENOR])
+PART[Seção,
+DNOR] (%) =
+Ʃaretot (NORM[NorInt,Área] * P[NorInt]) + (NORM[NorExt,Área] * P[NorExt]) +
+(NORM[SIGADAER,Área] * P[SIGADAER])] + (NORM[PRENOR,Área] * P[PRENOR])
+(NORM[NorInt,Área] * P[NorInt]) + (NORM[NorExt,Área] * P[NorExt]) +
+(NORM[SIGADAER,Área] * P[SIGADAER]) + (NORM[SAC,Área] * P[SAC]) +
+(NORM[FIN,Área] * P[FIN]) + (NORM[PFF,Área] * P[PFF])
+PART[Seção,
+DOPM] (%) =
+Ʃaretot (NORM[NorInt,Área] * P[NorInt]) + (NORM[NorExt,Área] * P[NorExt]) +
+(NORM[SIGADAER,Área] * P[SIGADAER]) + (NORM[SAC,Área] * P[SAC] +
+(NORM[FIN,Área] * P[FIN]) + (NORM[PFF,Área] * P[PFF]))
+(NORM[SAC,Área] * P[SAC]) + (NORM[SIGADAER,Área] * P[SIGADAER]) +
+(NORM[SGPO,Área] * P[SGPO] + (NORM[FIN,Área] * P[FIN]) + (NORM[PFF,Área] *
+P[PFF]))
+PART[Seção,
+DLTO] (%) =
+Ʃaretot (NORM[SAC,Área] * P[SAC]) + (NORM[SIGADAER,Área] * P[SIGADAER]) +
+(NORM[SGPO,Área] * P[SGPO] + (NORM[FIN,Área] * P[FIN]) + (NORM[PFF,Área] *
+P[PFF]))
+
+--- PÁGINA ---
+14/18 ICA 63-41/2023
+5º Passo - Obtenção do Efetivo Final (EF ) por meio da fórmula abaixo:
+Final
+EF[Seção,DPLN] = PART[Seção, DPLN] * ET[Seções,DPLN]
+EF[Seção,DCCO] = PART[Seção, DCCO] * ET[Seções, DCCO]
+EF[Seção,DNOR] = PART[Seção, DNOR] * ET[Seções, DNOR]
+EF[Seção,DOPM] = PART[Seção, DOPM] * ET[Seções, DOPM]
+EF[Seção,DLTO] = PART[Seção, DLTO] * ET[Seções, DLTO]
+
+--- PÁGINA ---
+ICA 63-41/2023 15/18
+2.5 CÁLCULO DE EFETIVO
+1º Passo - Levantamento da quantidade de processos por área:
+Área Proc Proc Proc Proc Proc Proc Proc Proc
+1 2 3 4 5 6 7 8
+SAC SIGADAER NorInt NorExt PRENOR FIN PFF SGPO
+1 (ATM) 907 4510 160 68 152 297 10 0
+2 (CNS) 245 5750 41 23 31 0 7 0
+3 (MET) 548 2989 39 33 25 85 4 0
+4 (AIS/MAP) 165 4406 33 16 104 46 2 0
+5 (AGA) 8757 3764 4 18 80 0 0 0
+6 (SAR) 36 3917 26 6 0 32 1 0
+8 (UAS) 7608 1849 6 8 91 4 1 0
+DOPM 230 1474 57 1 0 72 1 0
+DLTO 5477 881 2 1 0 0 0 28469
+Proc Proc Proc Proc Proc Proc Proc Proc
+1 2 3 4 5 6 7 8
+SAC SIGADAER NorInt NorExt PRENOR FIN PFF SGPO
+PESO 3 3 3 4 3 5 6 3
+2º Passo - O quantitativo de normas externas relacionadas por área:
+Área Anexos/NOSDA/LAR1 PANS2 DOC3 Circulares4 Total
+1 (ATM) 3 3 38 24 68
+2 (CNS) 3 1 12 7 23
+3 (MET) 10 3 13 7 33
+4 (AIS/MAP) 3 1 9 3 16
+5 (AGA) 6 1 10 1 18
+6 (SAR) 2 1 3 0 6
+8 (UAS) 3 2 2 1 8
+DOPM 57 1 0 0 58
+DLTO 1 0 0 0 1
+(1) ATM: Anexo 1, Anexo 2 e Anexo 11;
+CNS: Anexo 1, Anexo 11, LAR 210;
+MET: Anexo 1 e Anexo 3;
+AIS/MAP: Anexo 1, Anexo 4 e Anexo 15;
+AGA: Anexo 14; LAR 77, LAR 139, LAR 153, LAR 154 e LAR 155;
+SAR: Anexo 1 e Anexo 12;
+UAS: Anexo 2, Anexo 6 e Anexo 11
+DOPM: NOSDAS;
+DLTO: Anexo 1;
+(2) ATM: DOC 4444, DOC 8168 e DOC 8400;
+CNS: DOC 8400;
+MET: DOC 4444, DOC 8400 e DOC 10066;
+AIS/MAP: DOC 10066;
+AGA: DOC 9981;
+SAR: DOC 8400;
+UAS: DOC 4444 e DOC 8168;
+DOPM: DOC 4444;
+(3) ATM: DOC 7030, DOC 8991, DOC 9365, DOC 9368, DOC 9377, DOC 9379, DOC 9426, DOC 9432, DOC
+9476, DOC 9554, DOC 9574, DOC 9613, DOC 9643, DOC 9689, DOC 9694, DOC 9750, DOC 9829, DOC 9830,
+DOC 9854, DOC 9863, DOC 9882, DOC 9885, DOC 9888, DOC 9905, DOC 9906, DOC 9931, DOC 9937, DOC
+9971, DOC 9985, DOC 9992, DOC 9993, DOC 10055, DOC 10056, DOC 10063, DOC 10068, DOC 10088, DOC
+10108 e DOC 10110;
+
+--- PÁGINA ---
+16/18 ICA 63-41/2023
+CNS: DOC 8071, DOC 9377, DOC 9379, DOC 9718, DOC 9750, DOC 9776, DOC 9849, DOC 9869, DOC
+9871, DOC 9924, DOC 9925, DOC 9994;
+MET: DOC 7030, DOC 8896, DOC 9328, DOC 9377, DOC 9691, DOC 9750, DOC 9766, DOC 9817, DOC
+9837, DOC 9855, DOC 9974, DOC 10003 e DOC 10100;
+AIS/MAP: DOC 9854, DOC 7383, DOC 8126, DOC 8697, DOC 9377, DOC 9379, DOC 9674, DOC 9750 e
+DOC 8400;
+AGA: DOC 8400, DOC 8697, DOC 9137, DOC 9157, DOC 9184, DOC 9261, DOC 9735, DOC 9774, DOC
+9815 e DOC 9859;
+SAR: DOC 9379, DOC 9731 e DOC 9750;
+UAS: DOC 9985 e DOC 10019;
+(4) ATM: CIRCULAR 6, CIRCULAR 21, CIRCULAR 32, CIRCULAR 33, CIRCULAR 43, CIRCULAR 116,
+CIRCULAR 120, CIRCULAR 121, CIRCULAR 195, CIRCULAR 207, CIRCULAR 211, CIRCULAR 317,
+CIRCULAR 321, CIRCULAR 322, CIRCULAR 324, CIRCULAR 325, CIRCULAR 326, CIRCULAR 331,
+CIRCULAR 335, CIRCULAR 342, CIRCULAR 343, CIRCULAR 350, CIRCULAR 353, CIRCULAR 355;
+CNS: CIRCULAR 7, CIRCULAR 22, CIRCULAR 27, CIRCULAR 211, CIRCULAR 212, CIRCULAR 226,
+CIRCULAR 326;
+MET: CIRCULAR 10, CIRCULAR 13, CIRCULAR 40, CIRCULAR 44, CIRCULAR 113, CIRCULAR 186
+e CIRCULAR 355;
+AIS: CIRCULAR 12, CIRCULAR 156 e CIRCULAR 187;
+AGA: CIRCULAR 301 e CIRCULAR 305;
+SAR: CIRCULAR 325;
+UAS: CIRCULAR 325;
+3º Passo - Normalização min-max:
+NORM NORM NORM NORM NORM NORM NORM NORM
+Área
+SAC SIGADAER NorInt NorExt PRENOR FIN PFF SGPO
+1 (ATM) 0,0999 0,7453 1,0000 1,0000 1,0000 1,0000 1,0000 0,0000
+2 (CNS) 0,0240 1,0000 0,2468 0,3284 0,2039 0,0000 0,7000 0,0000
+3 (MET) 0,0587 0,4329 0,2342 0,4776 0,1645 0,2862 0,4000 0,0000
+4 (AIS/MAP) 0,0148 0,7240 0,1962 0,2239 0,6842 0,1549 0,2000 0,0000
+5 (AGA) 1,0000 0,5921 0,0127 0,2537 0,5263 0,0000 0,0000 0,0000
+6 (SAR) 0,0000 0,6235 0,1519 0,0746 0,0000 0,1077 0,1000 0,0000
+8 (UAS) 0,8682 0,1988 0,0253 0,1045 0,5987 0,0135 0,1000 0,0000
+DOPM 0,0222 0,1218 0,3481 0,0000 0,0000 0,2424 0,1000 0,0000
+DLTO 0,6239 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000 1,0000
+4º Passo - Cálculo da participação de cada área:
+Área PART
+[Área]
+1 (ATM) 31,30%
+2 (CNS) 13,20%
+3 (MET) 11,20%
+4 (AIS/MAP) 10,30%
+5 (AGA) 9,90%
+6 (SAR) 5,00%
+8 (UAS) 8,20%
+DOPM 4,40%
+DLTO 6,50%
+
+--- PÁGINA ---
+ICA 63-41/2023 17/18
+5º Passo - Cálculo da participação das Seções:
+Seção PART PART PART PART PART
+[Seção, DPLN] [Seção, DCCO] [Seção, DNOR] [Seção, DOPM] [Seção, DLTO]
+1 (ATM) 37,0% 13,2% 32,3% - -
+2 (CNS) 20,1% 16,0% 14,9% - -
+3 (MET) 14,3% 7,7% 11,6% - -
+4 (AIS/MAP) 11,6% 11,6% 15,1% - -
+5 (AGA) 5,0% 24,9% 11,6% - -
+6 (SAR) 8,4% 9,8% 6,90% - -
+8 (UAS) 3,5% 16,7% 7,6% -
+DOPM - - - 100,00%
+DLTO - - - - 100,00%
+OBS: A totalização em cada coluna poderá ser influenciada em função do
+arredondamento de cada valor encontrado.
+6º Passo - Cálculo do efetivo final (EF ) das Seções:
+Final
+O EF de cada Seção não deve ser menor que 1/3 (um terço) do EF desde que atenda às
+Min Final,
+premissas dispostas no item 2.3 desta Instrução.
+Seção EF
+Min [Seção, DPLN]
+EF
+Final [Seção, DPLN]
+1 (ATM) 5 15
+2 (CNS) 3 9
+3 (MET) 3 7
+4 (AIS/MAP) 2 6
+5 (AGA) 2 4
+6 (SAR) 2 4
+8 (UAS) 2 4
+Seção EF
+Min [Seção, DCCO]
+EF
+Final [Seção, DCCO]
+1 (ATM) 3 7
+2 (CNS) 3 9
+3 (MET) 2 5
+4 (AIS/MAP) 3 7
+5 (AGA) 4 12
+6 (SAR) 2 6
+8 (UAS) 3 9
+Seção EF
+Min [Seção, DNOR]
+EF
+Final [Seção, DNOR]
+1 (ATM) 4 12
+2 (CNS) 2 6
+3 (MET) 2 5
+4 (AIS/MAP) 3 7
+5 (AGA) 2 6
+6 (SAR) 2 4
+8 (UAS) 2 4
+Seção EF Min [Seção, DOPM] EF Final [Seção, DOPM]
+DOPM 3 8
+Seção EF
+Min [Seção, DLTO]
+EF
+Final [Seção, DLTO]
+DLTO 2 6
+
+--- PÁGINA ---
+18/18 ICA 63-41/2023
+3 DISPOSIÇÕES FINAIS
+3.1 O cálculo de efetivo será revisado a cada três (3) anos.
+3.2 O detalhamento do Efetivo Final (EFfinal) com a especificação do perfil de cada Seção,
+incluindo postos, graduações e quadros, entre outros, estará definido na respectiva NPA.
+3.3 As sugestões para o contínuo aperfeiçoamento desta publicação deverão ser enviadas
+acessando o link específico da publicação, por intermédio dos endereços eletrônicos
+http://publicacoes.decea.intraer/ ou http://publicacoes.decea.mil.br/.
+3.4 Os casos não previstos nesta Instrução serão submetidos ao Diretor-Geral do DECEA.

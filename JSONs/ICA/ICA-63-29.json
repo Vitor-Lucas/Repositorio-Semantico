@@ -1,0 +1,2026 @@
+[
+  {
+    "id": "0d68deb610e26dcc5d6b4b8cbe522083",
+    "texto": "Art. 1º Aprovar a reedição da ICA 63-29 “Emprego dos Radares Secundários Transportáveis no SISCEAB”, que com esta baixa.",
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome": "ICA-63-29",
+      "identificação": "Art. 1º",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "categoria": "Proteção ao Voo",
+      "contexto": {
+        "titulo": null,
+        "capitulo": null,
+        "secao": null,
+        "subsecao": null
+      },
+      "revogado": false
+    }
+  },
+  {
+    "id": "40b77aec133930a09de8e3324eef2cb8",
+    "texto": "Art. 2º Revogar a Portaria nº 89/DGCEA de 2 de junho de 2011, publicada no Boletim do Comando da Aeronáutica nº 174, de 12 de setembro de 2011.",
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome": "ICA-63-29",
+      "identificação": "Art. 2º",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "categoria": "Proteção ao Voo",
+      "contexto": {
+        "titulo": null,
+        "capitulo": null,
+        "secao": null,
+        "subsecao": null
+      },
+      "revogado": false
+    }
+  },
+  {
+    "id": "effc1d633471a358d6cf3fb639c6679e",
+    "texto": "Art. 3º Esta Instrução entra em vigor em 1º de junho de 2022. Ten Brig Ar JOÃO TADEU FIORENTINI Diretor-Geral do DECEA (Publicado no BCA nº 096, de 24 de maio de 2022) ICA 63-29/2022 SUMÁRIO 1 DISPOSIÇÕES PRELIMINARES ................................................................................. 7 1.1 FINALIDADE .................................................................................................................... 7 1.2 ÂMBITO ............................................................................................................................ 7 1.3 CONCEITUAÇÃO ............................................................................................................. 7 1.4 SIGLAS E ACRÔNIMOS .................................................................................................. 8 1.5 EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS ........................... 8 1.6 CARACTERÍSTICAS BÁSICAS DO RADAR SECUNDÁRIO TRANSPORTÁVEL .. 9 1.7 ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO ............................................. 9 1.8 TRANSPORTE .................................................................................................................. 9 1.9 PREPARAÇÃO DO SÍTIO .............................................................................................. 10 1.10 INSTALAÇÃO/PARAMETRIZAÇÃO ........................................................................... 10 1.11 INTEGRAÇÃO AOS CENTROS DE CONTROLE ....................................................... 10 1.12 CRONOGRAMA DAS ATIVIDADES DE DESDOBRAMENTO ................................ 10 2 ASPECTOS LOGÍSTICOS ASSOCIADOS ................................................................ 11 2.1 MANUTENÇÃO .............................................................................................................. 11 2.2 SOBRESSALENTES ....................................................................................................... 11 2.3 GARANTIA E ASSISTÊNCIA TÉCNICA ..................................................................... 11 2.4 GESTÃO DE SOFTWARE ............................................................................................... 11 2.5 CAPACITAÇÃO .............................................................................................................. 11 2.6 DOCUMENTAÇÃO TÉCNICA ...................................................................................... 11 3 DISPOSIÇÕES FINAIS ................................................................................................. 12 REFERÊNCIAS .............................................................................................................. 13 Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável .......................................................................................... 14 ICA 63-29/2022 1 DISPOSIÇÕES PRELIMINARES 1.1 FINALIDADE Definir os cenários para emprego dos radares secundários transportáveis no âmbito do SISCEAB, as atividades necessárias para seu desdobramento e as funções logísticas associadas a sua operação. 1.2 ÂMBITO A presente Instrução, de observância obrigatória, aplica-se a todas as Organizações subordinadas ao DECEA que sejam responsáveis por manter a vigilância do espaço aéreo por meio de equipamentos ou sistemas, tais como radares primários/secundários ou ADS-B. 1.3 CONCEITUAÇÃO 1.3.1 INSTALAÇÃO Consiste na colocação em operação inicial de um equipamento ou sistema. 1.3.2 MANUTENÇÃO É a combinação de ações técnicas, administrativas e de supervisão, destinadas a manter ou recolocar um equipamento ou sistema em condições de desempenhar, eficazmente, as funções para as quais foi projetado. Manutenção representa, ainda, um conjunto de ações sistemáticas e procedimentos que visam otimizar as condições originais dos equipamentos, introduzindo melhorias para evitar a ocorrência ou reincidência das falhas e reduzir os custos. Deve evitar a indisponibilidade dos equipamentos, abrangendo desde a aparência externa até as perdas de desempenho. 1.3.3 MODERNIZAÇÃO Constitui uma modificação introduzida no material ou sistema para superar uma obsolescência logística ou operacional. 1.3.4 SASS-C – SURVEILLANCE ANALYSIS SUPPORT SYSTEM FOR ATC-CENTRE Ferramenta desenvolvida pela EUROCONTROL e distribuída sob licença para os países da Comunidade Europeia, para a avaliação de desempenho de radares e Centros de Controle. 1.3.5 SÍTIO É o local físico onde está instalado determinado equipamento. 1.3.6 TRANSPORTABILIDADE É a capacidade de locomoção de um equipamento ou sistema entre lugares diferentes, contemplando desde a desinstalação e a embalagem na origem até a desembalagem e a instalação no destino, mantendo-se a sua funcionalidade. 8/16 ICA 63-29/2022 1.4 SIGLAS E ACRÔNIMOS 1º GCC - Primeiro Grupo de Comunicações e Controle ACC - Centro de Controle de Área (Area Control Center) ADS-B - Automatic Dependent Surveillance-Broadcast APP - Centro de Controle de Aproximação (Approach) CAG - Circulação Aérea Geral CGNA - Centro de Gerenciamento da Navegação Aérea CINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo DECEA - Departamento de Controle do Espaço Aéreo GEIV - Grupo Especial de Inspeção em Voo OPEA - Objeto Projetado no Espaço Aéreo PAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro SDOP - Subdepartamento de Operações do DECEA SDTE - Subdepartamento Técnico do DECEA SILOMS - Sistema Integrado de Logística de Materiais e de Serviços SISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro UPS - Uninterruptible Power Supply 1.5 EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS 1.5.1 O objetivo principal de utilização dos radares secundários transportáveis é o de proporcionar ao SISCEAB uma ferramenta capaz de substituir os radares de vigilância, em caso de longas interrupções em seu funcionamento, e manter elevada a disponibilidade geral do serviço de vigilância para a CAG. 1.5.2 A guarda, manutenção e eventuais desdobramentos dos radares secundários transportáveis serão de responsabilidade do PAME-RJ, considerando sua potencial aplicação em quaisquer das regiões do território nacional, com toda a sua diversidade ambiental. 1.5.3 O emprego mais provável dar-se-á nas proximidades ou nos sítios radar existentes, quando da parada para manutenção corretiva, manutenção preventiva, modernização ou substituição, por períodos superiores a 30 dias, dos radares de vigilância neles instalados, desde que essa ausência represente uma degradação operacional, por falta de redundância de cobertura. 1.5.4 Considerando que os radares secundários transportáveis trabalharão em condições excepcionais e de forma temporária, as Zonas de Proteção de Aeródromo (ZPA) e Zonas de ICA 63-29/2022 9/16 Proteção de Ruído (ZPR) poderão ser eventualmente feridas durante seu período de operação na localidade de destino, mediante um estudo aeronáutico OPEA. 1.6 CARACTERÍSTICAS BÁSICAS DO RADAR SECUNDÁRIO TRANSPORTÁVEL 1.6.1 Todas as informações referentes às capacidades do radar secundário transportável poderão ser encontradas nos manuais do sistema sob posse do PAME-RJ, conforme descrito nas referências da presente Instrução do Comando da Aeronáutica. 1.6.2 Todo o sistema está configurado em dois contêineres ISO de 20 pés para transporte em caminhões, navio ou aeronave C-130/KC-390 para pronto emprego. 1.7 ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO 1.7.1 Os radares secundários transportáveis deverão ser desdobrados do PAME-RJ quando a indisponibilidade prevista para um determinado radar de vigilância causar impacto operacional imediato, de acordo com o CGNA (restrições de tráfego aéreo, aumento de separações etc.), com duração superior a 30 dias, seja por processo de manutenção preventiva, manutenção corretiva, modernização ou substituição. 1.7.2 O Órgão Regional será responsável pela solicitação de acionamento de desdobramento do radar secundário transportável ao DECEA, em caso de manutenções preventivas ou corretivas que atendam aos critérios acima estabelecidos. 1.7.3 A CISCEA será responsável pela solicitação de acionamento de desdobramento do radar secundário transportável ao DECEA, em caso de substituição de radares ou de processos de modernização de radares instalados que esteja conduzindo, que atendam aos critérios estabelecidos em 1.7.1. 1.7.4 O PAME-RJ será responsável pela solicitação de acionamento de desdobramento do radar secundário transportável ao DECEA, em caso de processos de modernização de radares instalados que esteja conduzindo, que atenda aos critérios estabelecidos em 1.7.1. 1.7.5 O PAME-RJ será responsável pela análise da solicitação de desdobramento do radar transportável em função dos critérios estabelecidos em 1.7.1, em coordenação com o DECEA para avaliação do impacto operacional previsto. 1.7.6 Em caso de aprovação da solicitação de desdobramento do radar pelo DECEA, o PAME-RJ deverá iniciar as atividades de transporte, instalação e parametrização no local especificado. 1.8 TRANSPORTE 1.8.1 O transporte do radar secundário do PAME-RJ até o seu destino, assim como seu retorno após restabelecimento do radar principal, poderá, se necessário, contar com o apoio do 1º GCC, em todo o seu trajeto. 1.8.2 O radar secundário transportável é composto de um contêiner ISO 20 utilizado para instalação dos sistemas elétricos, eletrônicos e auxiliares, com peso estimado de 7.500 kgf; e por uma estrutura metálica equivalente dimensionalmente a um contêiner ISO 20, formada pela torre de sustentação, pelo pedestal e antena do radar, com peso estimado de 13.000 kgf. 10/16 ICA 63-29/2022 1.8.3 Não há necessidade de sequenciamento específico para carga e descarga dos contêineres. 1.8.4 O radar secundário transportável pode ser transportado por caminhões ou aeronaves, desde que tenham capacidade para transporte de contêineres modelo ISO 20 e disponham de segurança de travamento. 1.9 PREPARAÇÃO DO SÍTIO 1.9.1 A Divisão Técnica do Órgão Regional será responsável pela preparação do sítio designado para receber o radar secundário transportável, cuidando para que a infraestrutura mínima (espaço físico, energia e aterramento) esteja disponível quando da chegada do radar ao seu destino. 1.9.2 A capacidade de carga do solo deve ser superior a 200 kN/m2. Em cada um dos quatro apoios de sustentação da torre existe uma superfície quadrada de 40x40 cm2, a fim de reduzir a pressão da torre. 1.9.3 Há necessidade de área mínima de manobra para movimentação do caminhão com ou sem reboque, com capacidade de transporte de até dois contêineres ISO 20, e do guindaste, com capacidade mínima de 50 toneladas, utilizado para carregar ou descarregar o sistema (conforme aplicável). 1.10 INSTALAÇÃO/PARAMETRIZAÇÃO 1.10.1 O PAME-RJ será responsável pela instalação do radar secundário transportável no local de destino, assim como pela parametrização do mencionado equipamento, visando a sua adequação ao sítio e minimizando a ocorrência de reflexões e duplicações de pistas. 1.10.2 O 1º GCC poderá apoiar o PAME-RJ na instalação do radar secundário, caso necessário. 1.11 INTEGRAÇÃO AOS CENTROS DE CONTROLE 1.11.1 Os Sistemas Radar Transportáveis serão empregados na composição dos Sistemas de Vigilância ATS utilizados pelos Centros de Controle de Área (ACC), ou pelos Controles de Aproximação (APP), na prestação dos Serviços de Tráfego Aéreo para a Circulação Aérea Geral (CAG). 1.11.2 O PAME-RJ será responsável pela coordenação da integração dos dados radar ao Centro de Controle correspondente, assim como pela utilização da ferramenta SASS-C na avaliação de desempenho do radar transportável, após sua parametrização, seguindo os procedimentos previstos na CIRPV 63-6 “Verificação da Integração de Sistemas Radar a Sistemas de Tratamento e Visualização de Dados”. 1.12 CRONOGRAMA DAS ATIVIDADES DE DESDOBRAMENTO Conforme Anexo A. ICA 63-29/2022 11/16 2 ASPECTOS LOGÍSTICOS ASSOCIADOS 2.1 MANUTENÇÃO 2.1.1 A manutenção dos sistemas adquiridos será responsabilidade do PAME-RJ e deverá ser tratada como uma função logística estratégica, pois o seu desempenho afetará a disponibilidade de meios de Controle de Tráfego Aéreo do SISCEAB. 2.2 SOBRESSALENTES 2.2.1 O PAME-RJ deverá executar a gestão de suprimento de materiais sobressalentes, assim como a verificação e o controle do delineamento dos componentes do sistema radar transportável e das rotinas de manutenção pertinentes, usando o SILOMS. 2.3 GARANTIA E ASSISTÊNCIA TÉCNICA 2.3.1 O PAME-RJ deverá gerenciar a garantia e assistência técnica dos radares secundários transportáveis, por um período de garantia contratual, a contar da data de recebimento final, ou seja, após aprovação dos resultados obtidos por meio dos Voos de Aceitação do GEIV. 2.3.2 O período de garantia será utilizado pelos técnicos do PAME-RJ para acompanhamento e avaliação da necessidade de ser realizado um treinamento mais específico do que aquele inicialmente contratado, assim como para dimensionar a lista de sobressalentes necessários para manter os radares nos anos subsequentes. 2.4 GESTÃO DE SOFTWARE 2.4.1 O PAME-RJ deverá armazenar e gerenciar todos os softwares necessários ao funcionamento e reinstalação futura, atualizações existentes, número de suas licenças e demais ferramentas ou dispositivos necessários à manutenção após a entrega dos radares. 2.5 CAPACITAÇÃO 2.5.1 O PAME-RJ deverá manter a formação de corpo técnico com a capacidade de realizar instalação, operação e manutenção dos equipamentos do Sistema Radar Transportável, a fim de efetuar diagnósticos e substituições de módulos (nível base), bem como reinstalar componentes críticos do sistema. 2.6 DOCUMENTAÇÃO TÉCNICA 2.6.1 O PAME-RJ deverá guardar e manter a documentação técnica dos equipamentos integrantes dos sistemas Radar Secundário Transportável, bem como documentação específica de transportabilidade, incluindo desmontagem, carregamento, descarregamento e montagem. 12/16 ICA 63-29/2022 3 DISPOSIÇÕES FINAIS Os casos não previstos deverão ser submetidos ao senhor Chefe do Subdepartamento Técnico do DECEA. ICA 63-29/2022 13/16 REFERÊNCIAS BRASIL. Comando da Aeronáutica. Comando-Geral do Pessoal. Confecção, Controle e Numeração de Publicações Oficiais do Comando da Aeronáutica: NSCA 5-1. Brasília-DF, 2011, com modificação de 2014. BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Elaboração e Padronização de Publicações Oficiais do DECEA: ICA 5-8. Rio de Janeiro-RJ, 2018. BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Critérios de Análise Técnica da Área de Aeródromos (AGA): ICA 63-19. Rio de Janeiro-RJ, 2021. INDRA, User Manual: Doc. nº 0121700000000MA13, Madrid, 2020. INDRA, System Requirements Specification: Doc. Nº 0121700000000ES04, MADRI, 2018. 14/16 ICA 63-29/2022 Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável 4.1 ACIONAMENTO D-96 D-95 D-91 D-90 D-86 D-85 D-82 D-78 D-74 D-70 D-67 D-64 D-63 D-57 D-50 D-49 D-48 D-44 D-43 D-39 D-36 D-33 D-30 D-27 D-24 FORMALIZAÇÃO DE SOLICITAÇÃO DE APOIO DO RADAR SECUNDÁRIO TRANSPORTÁVEL AO DECEA (1 dia) ANÁLISE E AVALIAÇÃO DOS IMPACTOS OPERACIONAIS PELO SDOP/CGNA (5 dias) ANÁLISE E AVALIAÇÃO TÉCNICA PELO SDTE/PAME- RJ (5 dias) ORDEM DE MISSÃO DO DIRETOR DO PAME-RJ (PRÉ- SITE) (22 dias) ICA 63-29/2022 15/16 Continuação do Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável 4.2 PRÉ-SITE MISSÃO PRECURSORA E ENVIO DE RELATÓRIO À TRAD (14 dias) ANÁLISE DO RELATÓRIO (1 dia) COORDENAÇÕES PARA PREPARAÇÃO DA MISSÃO (5 dias) PREPARAÇÃO DO SÍTIO (20 dias) 16/16 ICA 63-29/2022 Continuação do Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável 4.3 TRANSPORTE DO D-23 D-22 D-21 D-20 D-19 D-18 D-17 D-16 D-15 D-14 D-13 D-12 D-11 D-10 D-9 D-8 D-7 D-6 D-5 D-4 D-3 D-2 D-1 D SISTEMA (PAME-RJ – SÍTIO) EMPACOTAMENTO DO SISTEMA (2 dias) TRANSPORTE PAME-RJ – CAN (1 dia) TRANSPORTE AÉREO (2 dias) TRANSPORTE CAN – SÍTIO (1 dia) 4.4 MONTAGEM E PRONTO OPERACIONAL INSTALAÇÃO DO RADAR NO SÍTIO (5 dias) PARAMETRIZAÇÃO (7 dias) RESERVA TÉCNICA (2 dias) VOO DE HOMOLOGAÇÃO E INTEGRAÇÃO (3 dias) PRONTO OPERACIONAL",
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome": "ICA-63-29",
+      "identificação": "Art. 3º",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "categoria": "Proteção ao Voo",
+      "contexto": {
+        "titulo": null,
+        "capitulo": null,
+        "secao": null,
+        "subsecao": null
+      },
+      "revogado": false
+    }
+  },
+  {
+    "id": "ccf4a01ca954bee982c06f9b86a58965",
+    "tipo_conteudo": "secao",
+    "identificacao": "1",
+    "titulo": "DISPOSIÇÕES PRELIMINARES",
+    "nivel_hierarquico": 1,
+    "texto_completo": "1.1 FINALIDADE\nDefinir os cenários para emprego dos radares secundários transportáveis no\nâmbito do SISCEAB, as atividades necessárias para seu desdobramento e as funções\nlogísticas associadas a sua operação.\n1.2 ÂMBITO\nA presente Instrução, de observância obrigatória, aplica-se a todas as\nOrganizações subordinadas ao DECEA que sejam responsáveis por manter a vigilância do\nespaço aéreo por meio de equipamentos ou sistemas, tais como radares primários/secundários\nou ADS-B.\n1.3 CONCEITUAÇÃO\n1.3.1 INSTALAÇÃO\nConsiste na colocação em operação inicial de um equipamento ou sistema.\n1.3.2 MANUTENÇÃO\nÉ a combinação de ações técnicas, administrativas e de supervisão, destinadas\na manter ou recolocar um equipamento ou sistema em condições de desempenhar,\neficazmente, as funções para as quais foi projetado.\nManutenção representa, ainda, um conjunto de ações sistemáticas e\nprocedimentos que visam otimizar as condições originais dos equipamentos, introduzindo\nmelhorias para evitar a ocorrência ou reincidência das falhas e reduzir os custos. Deve evitar a\nindisponibilidade dos equipamentos, abrangendo desde a aparência externa até as perdas de\ndesempenho.\n1.3.3 MODERNIZAÇÃO\nConstitui uma modificação introduzida no material ou sistema para superar\numa obsolescência logística ou operacional.\n1.3.4 SASS-C – SURVEILLANCE ANALYSIS SUPPORT SYSTEM FOR ATC-CENTRE\nFerramenta desenvolvida pela EUROCONTROL e distribuída sob licença para\nos países da Comunidade Europeia, para a avaliação de desempenho de radares e Centros de\nControle.\n1.3.5 SÍTIO\nÉ o local físico onde está instalado determinado equipamento.\n1.3.6 TRANSPORTABILIDADE\nÉ a capacidade de locomoção de um equipamento ou sistema entre lugares\ndiferentes, contemplando desde a desinstalação e a embalagem na origem até a desembalagem\ne a instalação no destino, mantendo-se a sua funcionalidade.\n\n\n\n8/16 ICA 63-29/2022\n1.4 SIGLAS E ACRÔNIMOS\n1º GCC - Primeiro Grupo de Comunicações e Controle\nACC - Centro de Controle de Área (Area Control Center)\nADS-B - Automatic Dependent Surveillance-Broadcast\nAPP - Centro de Controle de Aproximação (Approach)\nCAG - Circulação Aérea Geral\nCGNA - Centro de Gerenciamento da Navegação Aérea\nCINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo\nDECEA - Departamento de Controle do Espaço Aéreo\nGEIV - Grupo Especial de Inspeção em Voo\nOPEA - Objeto Projetado no Espaço Aéreo\nPAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro\nSDOP - Subdepartamento de Operações do DECEA\nSDTE - Subdepartamento Técnico do DECEA\nSILOMS - Sistema Integrado de Logística de Materiais e de Serviços\nSISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro\nUPS - Uninterruptible Power Supply\n1.5 EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS\n1.5.1 O objetivo principal de utilização dos radares secundários transportáveis é o de\nproporcionar ao SISCEAB uma ferramenta capaz de substituir os radares de vigilância, em\ncaso de longas interrupções em seu funcionamento, e manter elevada a disponibilidade geral\ndo serviço de vigilância para a CAG.\n1.5.2 A guarda, manutenção e eventuais desdobramentos dos radares secundários\ntransportáveis serão de responsabilidade do PAME-RJ, considerando sua potencial aplicação\nem quaisquer das regiões do território nacional, com toda a sua diversidade ambiental.\n1.5.3 O emprego mais provável dar-se-á nas proximidades ou nos sítios radar existentes,\nquando da parada para manutenção corretiva, manutenção preventiva, modernização ou\nsubstituição, por períodos superiores a 30 dias, dos radares de vigilância neles instalados,\ndesde que essa ausência represente uma degradação operacional, por falta de redundância de\ncobertura.\n1.5.4 Considerando que os radares secundários transportáveis trabalharão em condições\nexcepcionais e de forma temporária, as Zonas de Proteção de Aeródromo (ZPA) e Zonas de\n\n\n\nICA 63-29/2022 9/16\nProteção de Ruído (ZPR) poderão ser eventualmente feridas durante seu período de operação\nna localidade de destino, mediante um estudo aeronáutico OPEA.\n1.6 CARACTERÍSTICAS BÁSICAS DO RADAR SECUNDÁRIO TRANSPORTÁVEL\n1.6.1 Todas as informações referentes às capacidades do radar secundário transportável\npoderão ser encontradas nos manuais do sistema sob posse do PAME-RJ, conforme descrito\nnas referências da presente Instrução do Comando da Aeronáutica.\n1.6.2 Todo o sistema está configurado em dois contêineres ISO de 20 pés para transporte em\ncaminhões, navio ou aeronave C-130/KC-390 para pronto emprego.\n1.7 ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO\n1.7.1 Os radares secundários transportáveis deverão ser desdobrados do PAME-RJ quando a\nindisponibilidade prevista para um determinado radar de vigilância causar impacto\noperacional imediato, de acordo com o CGNA (restrições de tráfego aéreo, aumento de\nseparações etc.), com duração superior a 30 dias, seja por processo de manutenção preventiva,\nmanutenção corretiva, modernização ou substituição.\n1.7.2 O Órgão Regional será responsável pela solicitação de acionamento de desdobramento\ndo radar secundário transportável ao DECEA, em caso de manutenções preventivas ou\ncorretivas que atendam aos critérios acima estabelecidos.\n1.7.3 A CISCEA será responsável pela solicitação de acionamento de desdobramento do radar\nsecundário transportável ao DECEA, em caso de substituição de radares ou de processos de\nmodernização de radares instalados que esteja conduzindo, que atendam aos critérios\nestabelecidos em 1.7.1.\n1.7.4 O PAME-RJ será responsável pela solicitação de acionamento de desdobramento do\nradar secundário transportável ao DECEA, em caso de processos de modernização de radares\ninstalados que esteja conduzindo, que atenda aos critérios estabelecidos em 1.7.1.\n1.7.5 O PAME-RJ será responsável pela análise da solicitação de desdobramento do radar\ntransportável em função dos critérios estabelecidos em 1.7.1, em coordenação com o DECEA\npara avaliação do impacto operacional previsto.\n1.7.6 Em caso de aprovação da solicitação de desdobramento do radar pelo DECEA, o\nPAME-RJ deverá iniciar as atividades de transporte, instalação e parametrização no local\nespecificado.\n1.8 TRANSPORTE\n1.8.1 O transporte do radar secundário do PAME-RJ até o seu destino, assim como seu\nretorno após restabelecimento do radar principal, poderá, se necessário, contar com o apoio do\n1º GCC, em todo o seu trajeto.\n1.8.2 O radar secundário transportável é composto de um contêiner ISO 20 utilizado para\ninstalação dos sistemas elétricos, eletrônicos e auxiliares, com peso estimado de 7.500 kgf; e\npor uma estrutura metálica equivalente dimensionalmente a um contêiner ISO 20, formada\npela torre de sustentação, pelo pedestal e antena do radar, com peso estimado de 13.000 kgf.\n\n\n\n10/16 ICA 63-29/2022\n1.8.3 Não há necessidade de sequenciamento específico para carga e descarga dos\ncontêineres.\n1.8.4 O radar secundário transportável pode ser transportado por caminhões ou aeronaves,\ndesde que tenham capacidade para transporte de contêineres modelo ISO 20 e disponham de\nsegurança de travamento.\n1.9 PREPARAÇÃO DO SÍTIO\n1.9.1 A Divisão Técnica do Órgão Regional será responsável pela preparação do sítio\ndesignado para receber o radar secundário transportável, cuidando para que a infraestrutura\nmínima (espaço físico, energia e aterramento) esteja disponível quando da chegada do radar\nao seu destino.\n1.9.2 A capacidade de carga do solo deve ser superior a 200 kN/m2. Em cada um dos quatro\napoios de sustentação da torre existe uma superfície quadrada de 40x40 cm2, a fim de reduzir\na pressão da torre.\n1.9.3 Há necessidade de área mínima de manobra para movimentação do caminhão com ou\nsem reboque, com capacidade de transporte de até dois contêineres ISO 20, e do guindaste,\ncom capacidade mínima de 50 toneladas, utilizado para carregar ou descarregar o sistema\n(conforme aplicável).\n1.10 INSTALAÇÃO/PARAMETRIZAÇÃO\n1.10.1 O PAME-RJ será responsável pela instalação do radar secundário transportável no\nlocal de destino, assim como pela parametrização do mencionado equipamento, visando a sua\nadequação ao sítio e minimizando a ocorrência de reflexões e duplicações de pistas.\n1.10.2 O 1º GCC poderá apoiar o PAME-RJ na instalação do radar secundário, caso\nnecessário.\n1.11 INTEGRAÇÃO AOS CENTROS DE CONTROLE\n1.11.1 Os Sistemas Radar Transportáveis serão empregados na composição dos Sistemas de\nVigilância ATS utilizados pelos Centros de Controle de Área (ACC), ou pelos Controles de\nAproximação (APP), na prestação dos Serviços de Tráfego Aéreo para a Circulação Aérea\nGeral (CAG).\n1.11.2 O PAME-RJ será responsável pela coordenação da integração dos dados radar ao\nCentro de Controle correspondente, assim como pela utilização da ferramenta SASS-C na\navaliação de desempenho do radar transportável, após sua parametrização, seguindo os\nprocedimentos previstos na CIRPV 63-6 “Verificação da Integração de Sistemas Radar a\nSistemas de Tratamento e Visualização de Dados”.\n1.12 CRONOGRAMA DAS ATIVIDADES DE DESDOBRAMENTO\nConforme Anexo A.\n\n\n\nICA 63-29/2022 11/16",
+    "texto_com_subsecoes": "1.1 FINALIDADE\nDefinir os cenários para emprego dos radares secundários transportáveis no\nâmbito do SISCEAB, as atividades necessárias para seu desdobramento e as funções\nlogísticas associadas a sua operação.\n1.2 ÂMBITO\nA presente Instrução, de observância obrigatória, aplica-se a todas as\nOrganizações subordinadas ao DECEA que sejam responsáveis por manter a vigilância do\nespaço aéreo por meio de equipamentos ou sistemas, tais como radares primários/secundários\nou ADS-B.\n1.3 CONCEITUAÇÃO\n1.3.1 INSTALAÇÃO\nConsiste na colocação em operação inicial de um equipamento ou sistema.\n1.3.2 MANUTENÇÃO\nÉ a combinação de ações técnicas, administrativas e de supervisão, destinadas\na manter ou recolocar um equipamento ou sistema em condições de desempenhar,\neficazmente, as funções para as quais foi projetado.\nManutenção representa, ainda, um conjunto de ações sistemáticas e\nprocedimentos que visam otimizar as condições originais dos equipamentos, introduzindo\nmelhorias para evitar a ocorrência ou reincidência das falhas e reduzir os custos. Deve evitar a\nindisponibilidade dos equipamentos, abrangendo desde a aparência externa até as perdas de\ndesempenho.\n1.3.3 MODERNIZAÇÃO\nConstitui uma modificação introduzida no material ou sistema para superar\numa obsolescência logística ou operacional.\n1.3.4 SASS-C – SURVEILLANCE ANALYSIS SUPPORT SYSTEM FOR ATC-CENTRE\nFerramenta desenvolvida pela EUROCONTROL e distribuída sob licença para\nos países da Comunidade Europeia, para a avaliação de desempenho de radares e Centros de\nControle.\n1.3.5 SÍTIO\nÉ o local físico onde está instalado determinado equipamento.\n1.3.6 TRANSPORTABILIDADE\nÉ a capacidade de locomoção de um equipamento ou sistema entre lugares\ndiferentes, contemplando desde a desinstalação e a embalagem na origem até a desembalagem\ne a instalação no destino, mantendo-se a sua funcionalidade.\n\n\n\n8/16 ICA 63-29/2022\n1.4 SIGLAS E ACRÔNIMOS\n1º GCC - Primeiro Grupo de Comunicações e Controle\nACC - Centro de Controle de Área (Area Control Center)\nADS-B - Automatic Dependent Surveillance-Broadcast\nAPP - Centro de Controle de Aproximação (Approach)\nCAG - Circulação Aérea Geral\nCGNA - Centro de Gerenciamento da Navegação Aérea\nCINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo\nDECEA - Departamento de Controle do Espaço Aéreo\nGEIV - Grupo Especial de Inspeção em Voo\nOPEA - Objeto Projetado no Espaço Aéreo\nPAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro\nSDOP - Subdepartamento de Operações do DECEA\nSDTE - Subdepartamento Técnico do DECEA\nSILOMS - Sistema Integrado de Logística de Materiais e de Serviços\nSISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro\nUPS - Uninterruptible Power Supply\n1.5 EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS\n1.5.1 O objetivo principal de utilização dos radares secundários transportáveis é o de\nproporcionar ao SISCEAB uma ferramenta capaz de substituir os radares de vigilância, em\ncaso de longas interrupções em seu funcionamento, e manter elevada a disponibilidade geral\ndo serviço de vigilância para a CAG.\n1.5.2 A guarda, manutenção e eventuais desdobramentos dos radares secundários\ntransportáveis serão de responsabilidade do PAME-RJ, considerando sua potencial aplicação\nem quaisquer das regiões do território nacional, com toda a sua diversidade ambiental.\n1.5.3 O emprego mais provável dar-se-á nas proximidades ou nos sítios radar existentes,\nquando da parada para manutenção corretiva, manutenção preventiva, modernização ou\nsubstituição, por períodos superiores a 30 dias, dos radares de vigilância neles instalados,\ndesde que essa ausência represente uma degradação operacional, por falta de redundância de\ncobertura.\n1.5.4 Considerando que os radares secundários transportáveis trabalharão em condições\nexcepcionais e de forma temporária, as Zonas de Proteção de Aeródromo (ZPA) e Zonas de\n\n\n\nICA 63-29/2022 9/16\nProteção de Ruído (ZPR) poderão ser eventualmente feridas durante seu período de operação\nna localidade de destino, mediante um estudo aeronáutico OPEA.\n1.6 CARACTERÍSTICAS BÁSICAS DO RADAR SECUNDÁRIO TRANSPORTÁVEL\n1.6.1 Todas as informações referentes às capacidades do radar secundário transportável\npoderão ser encontradas nos manuais do sistema sob posse do PAME-RJ, conforme descrito\nnas referências da presente Instrução do Comando da Aeronáutica.\n1.6.2 Todo o sistema está configurado em dois contêineres ISO de 20 pés para transporte em\ncaminhões, navio ou aeronave C-130/KC-390 para pronto emprego.\n1.7 ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO\n1.7.1 Os radares secundários transportáveis deverão ser desdobrados do PAME-RJ quando a\nindisponibilidade prevista para um determinado radar de vigilância causar impacto\noperacional imediato, de acordo com o CGNA (restrições de tráfego aéreo, aumento de\nseparações etc.), com duração superior a 30 dias, seja por processo de manutenção preventiva,\nmanutenção corretiva, modernização ou substituição.\n1.7.2 O Órgão Regional será responsável pela solicitação de acionamento de desdobramento\ndo radar secundário transportável ao DECEA, em caso de manutenções preventivas ou\ncorretivas que atendam aos critérios acima estabelecidos.\n1.7.3 A CISCEA será responsável pela solicitação de acionamento de desdobramento do radar\nsecundário transportável ao DECEA, em caso de substituição de radares ou de processos de\nmodernização de radares instalados que esteja conduzindo, que atendam aos critérios\nestabelecidos em 1.7.1.\n1.7.4 O PAME-RJ será responsável pela solicitação de acionamento de desdobramento do\nradar secundário transportável ao DECEA, em caso de processos de modernização de radares\ninstalados que esteja conduzindo, que atenda aos critérios estabelecidos em 1.7.1.\n1.7.5 O PAME-RJ será responsável pela análise da solicitação de desdobramento do radar\ntransportável em função dos critérios estabelecidos em 1.7.1, em coordenação com o DECEA\npara avaliação do impacto operacional previsto.\n1.7.6 Em caso de aprovação da solicitação de desdobramento do radar pelo DECEA, o\nPAME-RJ deverá iniciar as atividades de transporte, instalação e parametrização no local\nespecificado.\n1.8 TRANSPORTE\n1.8.1 O transporte do radar secundário do PAME-RJ até o seu destino, assim como seu\nretorno após restabelecimento do radar principal, poderá, se necessário, contar com o apoio do\n1º GCC, em todo o seu trajeto.\n1.8.2 O radar secundário transportável é composto de um contêiner ISO 20 utilizado para\ninstalação dos sistemas elétricos, eletrônicos e auxiliares, com peso estimado de 7.500 kgf; e\npor uma estrutura metálica equivalente dimensionalmente a um contêiner ISO 20, formada\npela torre de sustentação, pelo pedestal e antena do radar, com peso estimado de 13.000 kgf.\n\n\n\n10/16 ICA 63-29/2022\n1.8.3 Não há necessidade de sequenciamento específico para carga e descarga dos\ncontêineres.\n1.8.4 O radar secundário transportável pode ser transportado por caminhões ou aeronaves,\ndesde que tenham capacidade para transporte de contêineres modelo ISO 20 e disponham de\nsegurança de travamento.\n1.9 PREPARAÇÃO DO SÍTIO\n1.9.1 A Divisão Técnica do Órgão Regional será responsável pela preparação do sítio\ndesignado para receber o radar secundário transportável, cuidando para que a infraestrutura\nmínima (espaço físico, energia e aterramento) esteja disponível quando da chegada do radar\nao seu destino.\n1.9.2 A capacidade de carga do solo deve ser superior a 200 kN/m2. Em cada um dos quatro\napoios de sustentação da torre existe uma superfície quadrada de 40x40 cm2, a fim de reduzir\na pressão da torre.\n1.9.3 Há necessidade de área mínima de manobra para movimentação do caminhão com ou\nsem reboque, com capacidade de transporte de até dois contêineres ISO 20, e do guindaste,\ncom capacidade mínima de 50 toneladas, utilizado para carregar ou descarregar o sistema\n(conforme aplicável).\n1.10 INSTALAÇÃO/PARAMETRIZAÇÃO\n1.10.1 O PAME-RJ será responsável pela instalação do radar secundário transportável no\nlocal de destino, assim como pela parametrização do mencionado equipamento, visando a sua\nadequação ao sítio e minimizando a ocorrência de reflexões e duplicações de pistas.\n1.10.2 O 1º GCC poderá apoiar o PAME-RJ na instalação do radar secundário, caso\nnecessário.\n1.11 INTEGRAÇÃO AOS CENTROS DE CONTROLE\n1.11.1 Os Sistemas Radar Transportáveis serão empregados na composição dos Sistemas de\nVigilância ATS utilizados pelos Centros de Controle de Área (ACC), ou pelos Controles de\nAproximação (APP), na prestação dos Serviços de Tráfego Aéreo para a Circulação Aérea\nGeral (CAG).\n1.11.2 O PAME-RJ será responsável pela coordenação da integração dos dados radar ao\nCentro de Controle correspondente, assim como pela utilização da ferramenta SASS-C na\navaliação de desempenho do radar transportável, após sua parametrização, seguindo os\nprocedimentos previstos na CIRPV 63-6 “Verificação da Integração de Sistemas Radar a\nSistemas de Tratamento e Visualização de Dados”.\n1.12 CRONOGRAMA DAS ATIVIDADES DE DESDOBRAMENTO\nConforme Anexo A.\n\n\n\nICA 63-29/2022 11/16",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES",
+      "secao_raiz": "1",
+      "secao_pai": null,
+      "subsecoes_diretas": [
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6",
+        "1.7",
+        "1.8",
+        "1.9",
+        "1.10",
+        "1.11",
+        "1.12"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "aaada84b2e3b76c1e69f6af1255dc63f",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.1",
+    "titulo": "FINALIDADE",
+    "nivel_hierarquico": 2,
+    "texto_completo": "Definir os cenários para emprego dos radares secundários transportáveis no\nâmbito do SISCEAB, as atividades necessárias para seu desdobramento e as funções\nlogísticas associadas a sua operação.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > FINALIDADE",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "e309fad2a78437334a324c80be488af8",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.2",
+    "titulo": "ÂMBITO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "A presente Instrução, de observância obrigatória, aplica-se a todas as\nOrganizações subordinadas ao DECEA que sejam responsáveis por manter a vigilância do\nespaço aéreo por meio de equipamentos ou sistemas, tais como radares primários/secundários\nou ADS-B.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.2",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > ÂMBITO",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "5770213b566101480782642a5e6f9ed2",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3",
+    "titulo": "CONCEITUAÇÃO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "1.3.1 INSTALAÇÃO\nConsiste na colocação em operação inicial de um equipamento ou sistema.\n1.3.2 MANUTENÇÃO\nÉ a combinação de ações técnicas, administrativas e de supervisão, destinadas\na manter ou recolocar um equipamento ou sistema em condições de desempenhar,\neficazmente, as funções para as quais foi projetado.\nManutenção representa, ainda, um conjunto de ações sistemáticas e\nprocedimentos que visam otimizar as condições originais dos equipamentos, introduzindo\nmelhorias para evitar a ocorrência ou reincidência das falhas e reduzir os custos. Deve evitar a\nindisponibilidade dos equipamentos, abrangendo desde a aparência externa até as perdas de\ndesempenho.\n1.3.3 MODERNIZAÇÃO\nConstitui uma modificação introduzida no material ou sistema para superar\numa obsolescência logística ou operacional.\n1.3.4 SASS-C – SURVEILLANCE ANALYSIS SUPPORT SYSTEM FOR ATC-CENTRE\nFerramenta desenvolvida pela EUROCONTROL e distribuída sob licença para\nos países da Comunidade Europeia, para a avaliação de desempenho de radares e Centros de\nControle.\n1.3.5 SÍTIO\nÉ o local físico onde está instalado determinado equipamento.\n1.3.6 TRANSPORTABILIDADE\nÉ a capacidade de locomoção de um equipamento ou sistema entre lugares\ndiferentes, contemplando desde a desinstalação e a embalagem na origem até a desembalagem\ne a instalação no destino, mantendo-se a sua funcionalidade.\n\n\n\n8/16 ICA 63-29/2022",
+    "texto_com_subsecoes": "1.3.1 INSTALAÇÃO\nConsiste na colocação em operação inicial de um equipamento ou sistema.\n1.3.2 MANUTENÇÃO\nÉ a combinação de ações técnicas, administrativas e de supervisão, destinadas\na manter ou recolocar um equipamento ou sistema em condições de desempenhar,\neficazmente, as funções para as quais foi projetado.\nManutenção representa, ainda, um conjunto de ações sistemáticas e\nprocedimentos que visam otimizar as condições originais dos equipamentos, introduzindo\nmelhorias para evitar a ocorrência ou reincidência das falhas e reduzir os custos. Deve evitar a\nindisponibilidade dos equipamentos, abrangendo desde a aparência externa até as perdas de\ndesempenho.\n1.3.3 MODERNIZAÇÃO\nConstitui uma modificação introduzida no material ou sistema para superar\numa obsolescência logística ou operacional.\n1.3.4 SASS-C – SURVEILLANCE ANALYSIS SUPPORT SYSTEM FOR ATC-CENTRE\nFerramenta desenvolvida pela EUROCONTROL e distribuída sob licença para\nos países da Comunidade Europeia, para a avaliação de desempenho de radares e Centros de\nControle.\n1.3.5 SÍTIO\nÉ o local físico onde está instalado determinado equipamento.\n1.3.6 TRANSPORTABILIDADE\nÉ a capacidade de locomoção de um equipamento ou sistema entre lugares\ndiferentes, contemplando desde a desinstalação e a embalagem na origem até a desembalagem\ne a instalação no destino, mantendo-se a sua funcionalidade.\n\n\n\n8/16 ICA 63-29/2022",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": [
+        "1.3.1",
+        "1.3.2",
+        "1.3.3",
+        "1.3.4",
+        "1.3.5",
+        "1.3.6"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "a8ea679bac60b247257234017a491537",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3.1",
+    "titulo": "INSTALAÇÃO",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Consiste na colocação em operação inicial de um equipamento ou sistema.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3 > 1.3.1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO > INSTALAÇÃO",
+      "secao_raiz": "1",
+      "secao_pai": "1.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "bbfb0766c8ff56495a38ba23f1a0b35b",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3.2",
+    "titulo": "MANUTENÇÃO",
+    "nivel_hierarquico": 3,
+    "texto_completo": "É a combinação de ações técnicas, administrativas e de supervisão, destinadas\na manter ou recolocar um equipamento ou sistema em condições de desempenhar,\neficazmente, as funções para as quais foi projetado.\nManutenção representa, ainda, um conjunto de ações sistemáticas e\nprocedimentos que visam otimizar as condições originais dos equipamentos, introduzindo\nmelhorias para evitar a ocorrência ou reincidência das falhas e reduzir os custos. Deve evitar a\nindisponibilidade dos equipamentos, abrangendo desde a aparência externa até as perdas de\ndesempenho.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3 > 1.3.2",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO > MANUTENÇÃO",
+      "secao_raiz": "1",
+      "secao_pai": "1.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "87e46beff0be6f6e73ed2689d0b9e024",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3.3",
+    "titulo": "MODERNIZAÇÃO",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Constitui uma modificação introduzida no material ou sistema para superar\numa obsolescência logística ou operacional.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3 > 1.3.3",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO > MODERNIZAÇÃO",
+      "secao_raiz": "1",
+      "secao_pai": "1.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "3e4dc8cc3c63ba628885ac042ea2fbe4",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3.4",
+    "titulo": "SASS-C – SURVEILLANCE ANALYSIS SUPPORT SYSTEM FOR ATC-CENTRE",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Ferramenta desenvolvida pela EUROCONTROL e distribuída sob licença para\nos países da Comunidade Europeia, para a avaliação de desempenho de radares e Centros de\nControle.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3 > 1.3.4",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO > SASS-C – SURVEILLANCE ANALYSIS SUPPORT SYSTEM FOR ATC-CENTRE",
+      "secao_raiz": "1",
+      "secao_pai": "1.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "e624af55a52b0c1abc2931754ae0f006",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3.5",
+    "titulo": "SÍTIO",
+    "nivel_hierarquico": 3,
+    "texto_completo": "É o local físico onde está instalado determinado equipamento.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3 > 1.3.5",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO > SÍTIO",
+      "secao_raiz": "1",
+      "secao_pai": "1.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "2f8e92dab28ab0bae7fb24a89e711bbf",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.3.6",
+    "titulo": "TRANSPORTABILIDADE",
+    "nivel_hierarquico": 3,
+    "texto_completo": "É a capacidade de locomoção de um equipamento ou sistema entre lugares\ndiferentes, contemplando desde a desinstalação e a embalagem na origem até a desembalagem\ne a instalação no destino, mantendo-se a sua funcionalidade.\n\n\n\n8/16 ICA 63-29/2022",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.3 > 1.3.6",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CONCEITUAÇÃO > TRANSPORTABILIDADE",
+      "secao_raiz": "1",
+      "secao_pai": "1.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "8185d1fdfdb2f4995668b50141010129",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.4",
+    "titulo": "SIGLAS E ACRÔNIMOS",
+    "nivel_hierarquico": 2,
+    "texto_completo": "1º GCC - Primeiro Grupo de Comunicações e Controle\nACC - Centro de Controle de Área (Area Control Center)\nADS-B - Automatic Dependent Surveillance-Broadcast\nAPP - Centro de Controle de Aproximação (Approach)\nCAG - Circulação Aérea Geral\nCGNA - Centro de Gerenciamento da Navegação Aérea\nCINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo\nDECEA - Departamento de Controle do Espaço Aéreo\nGEIV - Grupo Especial de Inspeção em Voo\nOPEA - Objeto Projetado no Espaço Aéreo\nPAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro\nSDOP - Subdepartamento de Operações do DECEA\nSDTE - Subdepartamento Técnico do DECEA\nSILOMS - Sistema Integrado de Logística de Materiais e de Serviços\nSISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro\nUPS - Uninterruptible Power Supply",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.4",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > SIGLAS E ACRÔNIMOS",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "1fb01cdee5992effe9670aaa1e472d66",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.5",
+    "titulo": "EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS",
+    "nivel_hierarquico": 2,
+    "texto_completo": "1.5.1 O objetivo principal de utilização dos radares secundários transportáveis é o de\nproporcionar ao SISCEAB uma ferramenta capaz de substituir os radares de vigilância, em\ncaso de longas interrupções em seu funcionamento, e manter elevada a disponibilidade geral\ndo serviço de vigilância para a CAG.\n1.5.2 A guarda, manutenção e eventuais desdobramentos dos radares secundários\ntransportáveis serão de responsabilidade do PAME-RJ, considerando sua potencial aplicação\nem quaisquer das regiões do território nacional, com toda a sua diversidade ambiental.\n1.5.3 O emprego mais provável dar-se-á nas proximidades ou nos sítios radar existentes,\nquando da parada para manutenção corretiva, manutenção preventiva, modernização ou\nsubstituição, por períodos superiores a 30 dias, dos radares de vigilância neles instalados,\ndesde que essa ausência represente uma degradação operacional, por falta de redundância de\ncobertura.\n1.5.4 Considerando que os radares secundários transportáveis trabalharão em condições\nexcepcionais e de forma temporária, as Zonas de Proteção de Aeródromo (ZPA) e Zonas de\n\n\n\nICA 63-29/2022 9/16\nProteção de Ruído (ZPR) poderão ser eventualmente feridas durante seu período de operação\nna localidade de destino, mediante um estudo aeronáutico OPEA.",
+    "texto_com_subsecoes": "1.5.1 O objetivo principal de utilização dos radares secundários transportáveis é o de\nproporcionar ao SISCEAB uma ferramenta capaz de substituir os radares de vigilância, em\ncaso de longas interrupções em seu funcionamento, e manter elevada a disponibilidade geral\ndo serviço de vigilância para a CAG.\n1.5.2 A guarda, manutenção e eventuais desdobramentos dos radares secundários\ntransportáveis serão de responsabilidade do PAME-RJ, considerando sua potencial aplicação\nem quaisquer das regiões do território nacional, com toda a sua diversidade ambiental.\n1.5.3 O emprego mais provável dar-se-á nas proximidades ou nos sítios radar existentes,\nquando da parada para manutenção corretiva, manutenção preventiva, modernização ou\nsubstituição, por períodos superiores a 30 dias, dos radares de vigilância neles instalados,\ndesde que essa ausência represente uma degradação operacional, por falta de redundância de\ncobertura.\n1.5.4 Considerando que os radares secundários transportáveis trabalharão em condições\nexcepcionais e de forma temporária, as Zonas de Proteção de Aeródromo (ZPA) e Zonas de\n\n\n\nICA 63-29/2022 9/16\nProteção de Ruído (ZPR) poderão ser eventualmente feridas durante seu período de operação\nna localidade de destino, mediante um estudo aeronáutico OPEA.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.5",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": [
+        "1.5.1",
+        "1.5.2",
+        "1.5.3",
+        "1.5.4"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "5c8f3cfba54a055672fe68e73d66e16d",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.5.1",
+    "titulo": "O objetivo principal de utilização dos radares secundários transportáveis é o de",
+    "nivel_hierarquico": 3,
+    "texto_completo": "proporcionar ao SISCEAB uma ferramenta capaz de substituir os radares de vigilância, em\ncaso de longas interrupções em seu funcionamento, e manter elevada a disponibilidade geral\ndo serviço de vigilância para a CAG.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.5 > 1.5.1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS > O objetivo principal de utilização dos radares secundários transportáveis é o de",
+      "secao_raiz": "1",
+      "secao_pai": "1.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "06257324c75695fff9e2223f6283c406",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.5.2",
+    "titulo": "A guarda, manutenção e eventuais desdobramentos dos radares secundários",
+    "nivel_hierarquico": 3,
+    "texto_completo": "transportáveis serão de responsabilidade do PAME-RJ, considerando sua potencial aplicação\nem quaisquer das regiões do território nacional, com toda a sua diversidade ambiental.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.5 > 1.5.2",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS > A guarda, manutenção e eventuais desdobramentos dos radares secundários",
+      "secao_raiz": "1",
+      "secao_pai": "1.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "7a20e09e6c7101ca89df105c07606da0",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.5.3",
+    "titulo": "O emprego mais provável dar-se-á nas proximidades ou nos sítios radar existentes,",
+    "nivel_hierarquico": 3,
+    "texto_completo": "quando da parada para manutenção corretiva, manutenção preventiva, modernização ou\nsubstituição, por períodos superiores a 30 dias, dos radares de vigilância neles instalados,\ndesde que essa ausência represente uma degradação operacional, por falta de redundância de\ncobertura.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.5 > 1.5.3",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS > O emprego mais provável dar-se-á nas proximidades ou nos sítios radar existentes,",
+      "secao_raiz": "1",
+      "secao_pai": "1.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "94efefaf2baeb452819964136e523c55",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.5.4",
+    "titulo": "Considerando que os radares secundários transportáveis trabalharão em condições",
+    "nivel_hierarquico": 3,
+    "texto_completo": "excepcionais e de forma temporária, as Zonas de Proteção de Aeródromo (ZPA) e Zonas de\n\n\n\nICA 63-29/2022 9/16\nProteção de Ruído (ZPR) poderão ser eventualmente feridas durante seu período de operação\nna localidade de destino, mediante um estudo aeronáutico OPEA.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.5 > 1.5.4",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS > Considerando que os radares secundários transportáveis trabalharão em condições",
+      "secao_raiz": "1",
+      "secao_pai": "1.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "626da7c4fa7d8febcaa83e58397a4dad",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.6",
+    "titulo": "CARACTERÍSTICAS BÁSICAS DO RADAR SECUNDÁRIO TRANSPORTÁVEL",
+    "nivel_hierarquico": 2,
+    "texto_completo": "1.6.1 Todas as informações referentes às capacidades do radar secundário transportável\npoderão ser encontradas nos manuais do sistema sob posse do PAME-RJ, conforme descrito\nnas referências da presente Instrução do Comando da Aeronáutica.\n1.6.2 Todo o sistema está configurado em dois contêineres ISO de 20 pés para transporte em\ncaminhões, navio ou aeronave C-130/KC-390 para pronto emprego.",
+    "texto_com_subsecoes": "1.6.1 Todas as informações referentes às capacidades do radar secundário transportável\npoderão ser encontradas nos manuais do sistema sob posse do PAME-RJ, conforme descrito\nnas referências da presente Instrução do Comando da Aeronáutica.\n1.6.2 Todo o sistema está configurado em dois contêineres ISO de 20 pés para transporte em\ncaminhões, navio ou aeronave C-130/KC-390 para pronto emprego.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.6",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CARACTERÍSTICAS BÁSICAS DO RADAR SECUNDÁRIO TRANSPORTÁVEL",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": [
+        "1.6.1",
+        "1.6.2"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "86c5d6529ac43ae8c4d0b2e8a8feb7f8",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.6.1",
+    "titulo": "Todas as informações referentes às capacidades do radar secundário transportável",
+    "nivel_hierarquico": 3,
+    "texto_completo": "poderão ser encontradas nos manuais do sistema sob posse do PAME-RJ, conforme descrito\nnas referências da presente Instrução do Comando da Aeronáutica.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.6 > 1.6.1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CARACTERÍSTICAS BÁSICAS DO RADAR SECUNDÁRIO TRANSPORTÁVEL > Todas as informações referentes às capacidades do radar secundário transportável",
+      "secao_raiz": "1",
+      "secao_pai": "1.6",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "eb991a1a859aff0205806a16c0ac1f71",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.6.2",
+    "titulo": "Todo o sistema está configurado em dois contêineres ISO de 20 pés para transporte em",
+    "nivel_hierarquico": 3,
+    "texto_completo": "caminhões, navio ou aeronave C-130/KC-390 para pronto emprego.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.6 > 1.6.2",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CARACTERÍSTICAS BÁSICAS DO RADAR SECUNDÁRIO TRANSPORTÁVEL > Todo o sistema está configurado em dois contêineres ISO de 20 pés para transporte em",
+      "secao_raiz": "1",
+      "secao_pai": "1.6",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "a3200240d970cc50a4949e98e562921e",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.7",
+    "titulo": "ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "1.7.1 Os radares secundários transportáveis deverão ser desdobrados do PAME-RJ quando a\nindisponibilidade prevista para um determinado radar de vigilância causar impacto\noperacional imediato, de acordo com o CGNA (restrições de tráfego aéreo, aumento de\nseparações etc.), com duração superior a 30 dias, seja por processo de manutenção preventiva,\nmanutenção corretiva, modernização ou substituição.\n1.7.2 O Órgão Regional será responsável pela solicitação de acionamento de desdobramento\ndo radar secundário transportável ao DECEA, em caso de manutenções preventivas ou\ncorretivas que atendam aos critérios acima estabelecidos.\n1.7.3 A CISCEA será responsável pela solicitação de acionamento de desdobramento do radar\nsecundário transportável ao DECEA, em caso de substituição de radares ou de processos de\nmodernização de radares instalados que esteja conduzindo, que atendam aos critérios\nestabelecidos em 1.7.1.\n1.7.4 O PAME-RJ será responsável pela solicitação de acionamento de desdobramento do\nradar secundário transportável ao DECEA, em caso de processos de modernização de radares\ninstalados que esteja conduzindo, que atenda aos critérios estabelecidos em 1.7.1.\n1.7.5 O PAME-RJ será responsável pela análise da solicitação de desdobramento do radar\ntransportável em função dos critérios estabelecidos em 1.7.1, em coordenação com o DECEA\npara avaliação do impacto operacional previsto.\n1.7.6 Em caso de aprovação da solicitação de desdobramento do radar pelo DECEA, o\nPAME-RJ deverá iniciar as atividades de transporte, instalação e parametrização no local\nespecificado.",
+    "texto_com_subsecoes": "1.7.1 Os radares secundários transportáveis deverão ser desdobrados do PAME-RJ quando a\nindisponibilidade prevista para um determinado radar de vigilância causar impacto\noperacional imediato, de acordo com o CGNA (restrições de tráfego aéreo, aumento de\nseparações etc.), com duração superior a 30 dias, seja por processo de manutenção preventiva,\nmanutenção corretiva, modernização ou substituição.\n1.7.2 O Órgão Regional será responsável pela solicitação de acionamento de desdobramento\ndo radar secundário transportável ao DECEA, em caso de manutenções preventivas ou\ncorretivas que atendam aos critérios acima estabelecidos.\n1.7.3 A CISCEA será responsável pela solicitação de acionamento de desdobramento do radar\nsecundário transportável ao DECEA, em caso de substituição de radares ou de processos de\nmodernização de radares instalados que esteja conduzindo, que atendam aos critérios\nestabelecidos em 1.7.1.\n1.7.4 O PAME-RJ será responsável pela solicitação de acionamento de desdobramento do\nradar secundário transportável ao DECEA, em caso de processos de modernização de radares\ninstalados que esteja conduzindo, que atenda aos critérios estabelecidos em 1.7.1.\n1.7.5 O PAME-RJ será responsável pela análise da solicitação de desdobramento do radar\ntransportável em função dos critérios estabelecidos em 1.7.1, em coordenação com o DECEA\npara avaliação do impacto operacional previsto.\n1.7.6 Em caso de aprovação da solicitação de desdobramento do radar pelo DECEA, o\nPAME-RJ deverá iniciar as atividades de transporte, instalação e parametrização no local\nespecificado.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.7",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": [
+        "1.7.1",
+        "1.7.2",
+        "1.7.3",
+        "1.7.4",
+        "1.7.5",
+        "1.7.6"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "98e8b3550ad45d8e2fe17d213919cf23",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.7.1",
+    "titulo": "Os radares secundários transportáveis deverão ser desdobrados do PAME-RJ quando a",
+    "nivel_hierarquico": 3,
+    "texto_completo": "indisponibilidade prevista para um determinado radar de vigilância causar impacto\noperacional imediato, de acordo com o CGNA (restrições de tráfego aéreo, aumento de\nseparações etc.), com duração superior a 30 dias, seja por processo de manutenção preventiva,\nmanutenção corretiva, modernização ou substituição.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.7 > 1.7.1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO > Os radares secundários transportáveis deverão ser desdobrados do PAME-RJ quando a",
+      "secao_raiz": "1",
+      "secao_pai": "1.7",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "744e43b1e7ba8726ebecc717c6d17377",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.7.2",
+    "titulo": "O Órgão Regional será responsável pela solicitação de acionamento de desdobramento",
+    "nivel_hierarquico": 3,
+    "texto_completo": "do radar secundário transportável ao DECEA, em caso de manutenções preventivas ou\ncorretivas que atendam aos critérios acima estabelecidos.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.7 > 1.7.2",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO > O Órgão Regional será responsável pela solicitação de acionamento de desdobramento",
+      "secao_raiz": "1",
+      "secao_pai": "1.7",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "f072438c6761ab424def4a13a7fca20a",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.7.3",
+    "titulo": "A CISCEA será responsável pela solicitação de acionamento de desdobramento do radar",
+    "nivel_hierarquico": 3,
+    "texto_completo": "secundário transportável ao DECEA, em caso de substituição de radares ou de processos de\nmodernização de radares instalados que esteja conduzindo, que atendam aos critérios\nestabelecidos em 1.7.1.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.7 > 1.7.3",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO > A CISCEA será responsável pela solicitação de acionamento de desdobramento do radar",
+      "secao_raiz": "1",
+      "secao_pai": "1.7",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "4c985d1f2ec283c6a694fa52cbb5d27d",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.7.4",
+    "titulo": "O PAME-RJ será responsável pela solicitação de acionamento de desdobramento do",
+    "nivel_hierarquico": 3,
+    "texto_completo": "radar secundário transportável ao DECEA, em caso de processos de modernização de radares\ninstalados que esteja conduzindo, que atenda aos critérios estabelecidos em 1.7.1.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.7 > 1.7.4",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO > O PAME-RJ será responsável pela solicitação de acionamento de desdobramento do",
+      "secao_raiz": "1",
+      "secao_pai": "1.7",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "9e3acbbbcc94fd34c55ecef875e14ebd",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.7.5",
+    "titulo": "O PAME-RJ será responsável pela análise da solicitação de desdobramento do radar",
+    "nivel_hierarquico": 3,
+    "texto_completo": "transportável em função dos critérios estabelecidos em 1.7.1, em coordenação com o DECEA\npara avaliação do impacto operacional previsto.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.7 > 1.7.5",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO > O PAME-RJ será responsável pela análise da solicitação de desdobramento do radar",
+      "secao_raiz": "1",
+      "secao_pai": "1.7",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "92e35a69ec1729c54130e50b0b0913c6",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.7.6",
+    "titulo": "Em caso de aprovação da solicitação de desdobramento do radar pelo DECEA, o",
+    "nivel_hierarquico": 3,
+    "texto_completo": "PAME-RJ deverá iniciar as atividades de transporte, instalação e parametrização no local\nespecificado.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.7 > 1.7.6",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO > Em caso de aprovação da solicitação de desdobramento do radar pelo DECEA, o",
+      "secao_raiz": "1",
+      "secao_pai": "1.7",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "335ba790f6868924c713baaac7db7d50",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.8",
+    "titulo": "TRANSPORTE",
+    "nivel_hierarquico": 2,
+    "texto_completo": "1.8.1 O transporte do radar secundário do PAME-RJ até o seu destino, assim como seu\nretorno após restabelecimento do radar principal, poderá, se necessário, contar com o apoio do\n1º GCC, em todo o seu trajeto.\n1.8.2 O radar secundário transportável é composto de um contêiner ISO 20 utilizado para\ninstalação dos sistemas elétricos, eletrônicos e auxiliares, com peso estimado de 7.500 kgf; e\npor uma estrutura metálica equivalente dimensionalmente a um contêiner ISO 20, formada\npela torre de sustentação, pelo pedestal e antena do radar, com peso estimado de 13.000 kgf.\n\n\n\n10/16 ICA 63-29/2022\n1.8.3 Não há necessidade de sequenciamento específico para carga e descarga dos\ncontêineres.\n1.8.4 O radar secundário transportável pode ser transportado por caminhões ou aeronaves,\ndesde que tenham capacidade para transporte de contêineres modelo ISO 20 e disponham de\nsegurança de travamento.",
+    "texto_com_subsecoes": "1.8.1 O transporte do radar secundário do PAME-RJ até o seu destino, assim como seu\nretorno após restabelecimento do radar principal, poderá, se necessário, contar com o apoio do\n1º GCC, em todo o seu trajeto.\n1.8.2 O radar secundário transportável é composto de um contêiner ISO 20 utilizado para\ninstalação dos sistemas elétricos, eletrônicos e auxiliares, com peso estimado de 7.500 kgf; e\npor uma estrutura metálica equivalente dimensionalmente a um contêiner ISO 20, formada\npela torre de sustentação, pelo pedestal e antena do radar, com peso estimado de 13.000 kgf.\n\n\n\n10/16 ICA 63-29/2022\n1.8.3 Não há necessidade de sequenciamento específico para carga e descarga dos\ncontêineres.\n1.8.4 O radar secundário transportável pode ser transportado por caminhões ou aeronaves,\ndesde que tenham capacidade para transporte de contêineres modelo ISO 20 e disponham de\nsegurança de travamento.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.8",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > TRANSPORTE",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": [
+        "1.8.1",
+        "1.8.2",
+        "1.8.3",
+        "1.8.4"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "3fd432d2d35ab50942cbabcd5286d131",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.8.1",
+    "titulo": "O transporte do radar secundário do PAME-RJ até o seu destino, assim como seu",
+    "nivel_hierarquico": 3,
+    "texto_completo": "retorno após restabelecimento do radar principal, poderá, se necessário, contar com o apoio do\n1º GCC, em todo o seu trajeto.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.8 > 1.8.1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > TRANSPORTE > O transporte do radar secundário do PAME-RJ até o seu destino, assim como seu",
+      "secao_raiz": "1",
+      "secao_pai": "1.8",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "3c1fe7b083cd20ef8bae3215500348c7",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.8.2",
+    "titulo": "O radar secundário transportável é composto de um contêiner ISO 20 utilizado para",
+    "nivel_hierarquico": 3,
+    "texto_completo": "instalação dos sistemas elétricos, eletrônicos e auxiliares, com peso estimado de 7.500 kgf; e\npor uma estrutura metálica equivalente dimensionalmente a um contêiner ISO 20, formada\npela torre de sustentação, pelo pedestal e antena do radar, com peso estimado de 13.000 kgf.\n\n\n\n10/16 ICA 63-29/2022",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.8 > 1.8.2",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > TRANSPORTE > O radar secundário transportável é composto de um contêiner ISO 20 utilizado para",
+      "secao_raiz": "1",
+      "secao_pai": "1.8",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "b0e52fc252028ea0585e9ca2e0e9dad8",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.8.3",
+    "titulo": "Não há necessidade de sequenciamento específico para carga e descarga dos",
+    "nivel_hierarquico": 3,
+    "texto_completo": "contêineres.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.8 > 1.8.3",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > TRANSPORTE > Não há necessidade de sequenciamento específico para carga e descarga dos",
+      "secao_raiz": "1",
+      "secao_pai": "1.8",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "5ccb6b13dfe57d5707fdf3dd71a21960",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.8.4",
+    "titulo": "O radar secundário transportável pode ser transportado por caminhões ou aeronaves,",
+    "nivel_hierarquico": 3,
+    "texto_completo": "desde que tenham capacidade para transporte de contêineres modelo ISO 20 e disponham de\nsegurança de travamento.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.8 > 1.8.4",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > TRANSPORTE > O radar secundário transportável pode ser transportado por caminhões ou aeronaves,",
+      "secao_raiz": "1",
+      "secao_pai": "1.8",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "65ec3d21d841aebd09381165fef173a0",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.9",
+    "titulo": "PREPARAÇÃO DO SÍTIO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "1.9.1 A Divisão Técnica do Órgão Regional será responsável pela preparação do sítio\ndesignado para receber o radar secundário transportável, cuidando para que a infraestrutura\nmínima (espaço físico, energia e aterramento) esteja disponível quando da chegada do radar\nao seu destino.\n1.9.2 A capacidade de carga do solo deve ser superior a 200 kN/m2. Em cada um dos quatro\napoios de sustentação da torre existe uma superfície quadrada de 40x40 cm2, a fim de reduzir\na pressão da torre.\n1.9.3 Há necessidade de área mínima de manobra para movimentação do caminhão com ou\nsem reboque, com capacidade de transporte de até dois contêineres ISO 20, e do guindaste,\ncom capacidade mínima de 50 toneladas, utilizado para carregar ou descarregar o sistema\n(conforme aplicável).",
+    "texto_com_subsecoes": "1.9.1 A Divisão Técnica do Órgão Regional será responsável pela preparação do sítio\ndesignado para receber o radar secundário transportável, cuidando para que a infraestrutura\nmínima (espaço físico, energia e aterramento) esteja disponível quando da chegada do radar\nao seu destino.\n1.9.2 A capacidade de carga do solo deve ser superior a 200 kN/m2. Em cada um dos quatro\napoios de sustentação da torre existe uma superfície quadrada de 40x40 cm2, a fim de reduzir\na pressão da torre.\n1.9.3 Há necessidade de área mínima de manobra para movimentação do caminhão com ou\nsem reboque, com capacidade de transporte de até dois contêineres ISO 20, e do guindaste,\ncom capacidade mínima de 50 toneladas, utilizado para carregar ou descarregar o sistema\n(conforme aplicável).",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.9",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > PREPARAÇÃO DO SÍTIO",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": [
+        "1.9.1",
+        "1.9.2",
+        "1.9.3"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "ac84a49929eb568f17e2440806e6f61c",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.9.1",
+    "titulo": "A Divisão Técnica do Órgão Regional será responsável pela preparação do sítio",
+    "nivel_hierarquico": 3,
+    "texto_completo": "designado para receber o radar secundário transportável, cuidando para que a infraestrutura\nmínima (espaço físico, energia e aterramento) esteja disponível quando da chegada do radar\nao seu destino.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.9 > 1.9.1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > PREPARAÇÃO DO SÍTIO > A Divisão Técnica do Órgão Regional será responsável pela preparação do sítio",
+      "secao_raiz": "1",
+      "secao_pai": "1.9",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "945706c4bc67ffb604c410de6be69a36",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.9.2",
+    "titulo": "A capacidade de carga do solo deve ser superior a 200 kN/m2. Em cada um dos quatro",
+    "nivel_hierarquico": 3,
+    "texto_completo": "apoios de sustentação da torre existe uma superfície quadrada de 40x40 cm2, a fim de reduzir\na pressão da torre.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.9 > 1.9.2",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > PREPARAÇÃO DO SÍTIO > A capacidade de carga do solo deve ser superior a 200 kN/m2. Em cada um dos quatro",
+      "secao_raiz": "1",
+      "secao_pai": "1.9",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "f4316b6a06f6122cac00f5249703d9c3",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.9.3",
+    "titulo": "Há necessidade de área mínima de manobra para movimentação do caminhão com ou",
+    "nivel_hierarquico": 3,
+    "texto_completo": "sem reboque, com capacidade de transporte de até dois contêineres ISO 20, e do guindaste,\ncom capacidade mínima de 50 toneladas, utilizado para carregar ou descarregar o sistema\n(conforme aplicável).",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.9 > 1.9.3",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > PREPARAÇÃO DO SÍTIO > Há necessidade de área mínima de manobra para movimentação do caminhão com ou",
+      "secao_raiz": "1",
+      "secao_pai": "1.9",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "038893cacf4d1714260dbeb00fecceb8",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.10",
+    "titulo": "INSTALAÇÃO/PARAMETRIZAÇÃO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "1.10.1 O PAME-RJ será responsável pela instalação do radar secundário transportável no\nlocal de destino, assim como pela parametrização do mencionado equipamento, visando a sua\nadequação ao sítio e minimizando a ocorrência de reflexões e duplicações de pistas.\n1.10.2 O 1º GCC poderá apoiar o PAME-RJ na instalação do radar secundário, caso\nnecessário.",
+    "texto_com_subsecoes": "1.10.1 O PAME-RJ será responsável pela instalação do radar secundário transportável no\nlocal de destino, assim como pela parametrização do mencionado equipamento, visando a sua\nadequação ao sítio e minimizando a ocorrência de reflexões e duplicações de pistas.\n1.10.2 O 1º GCC poderá apoiar o PAME-RJ na instalação do radar secundário, caso\nnecessário.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.10",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > INSTALAÇÃO/PARAMETRIZAÇÃO",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": [
+        "1.10.1",
+        "1.10.2"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "bfa56bb8b8950294c0b285f90c8892f1",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.10.1",
+    "titulo": "O PAME-RJ será responsável pela instalação do radar secundário transportável no",
+    "nivel_hierarquico": 3,
+    "texto_completo": "local de destino, assim como pela parametrização do mencionado equipamento, visando a sua\nadequação ao sítio e minimizando a ocorrência de reflexões e duplicações de pistas.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.10 > 1.10.1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > INSTALAÇÃO/PARAMETRIZAÇÃO > O PAME-RJ será responsável pela instalação do radar secundário transportável no",
+      "secao_raiz": "1",
+      "secao_pai": "1.10",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "b9582e2e1ad6b23b5f9303db0b0f4b6a",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.10.2",
+    "titulo": "O 1º GCC poderá apoiar o PAME-RJ na instalação do radar secundário, caso",
+    "nivel_hierarquico": 3,
+    "texto_completo": "necessário.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.10 > 1.10.2",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > INSTALAÇÃO/PARAMETRIZAÇÃO > O 1º GCC poderá apoiar o PAME-RJ na instalação do radar secundário, caso",
+      "secao_raiz": "1",
+      "secao_pai": "1.10",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "3d932dec2c1965fd3eeebf6e75eae719",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.11",
+    "titulo": "INTEGRAÇÃO AOS CENTROS DE CONTROLE",
+    "nivel_hierarquico": 2,
+    "texto_completo": "1.11.1 Os Sistemas Radar Transportáveis serão empregados na composição dos Sistemas de\nVigilância ATS utilizados pelos Centros de Controle de Área (ACC), ou pelos Controles de\nAproximação (APP), na prestação dos Serviços de Tráfego Aéreo para a Circulação Aérea\nGeral (CAG).\n1.11.2 O PAME-RJ será responsável pela coordenação da integração dos dados radar ao\nCentro de Controle correspondente, assim como pela utilização da ferramenta SASS-C na\navaliação de desempenho do radar transportável, após sua parametrização, seguindo os\nprocedimentos previstos na CIRPV 63-6 “Verificação da Integração de Sistemas Radar a\nSistemas de Tratamento e Visualização de Dados”.",
+    "texto_com_subsecoes": "1.11.1 Os Sistemas Radar Transportáveis serão empregados na composição dos Sistemas de\nVigilância ATS utilizados pelos Centros de Controle de Área (ACC), ou pelos Controles de\nAproximação (APP), na prestação dos Serviços de Tráfego Aéreo para a Circulação Aérea\nGeral (CAG).\n1.11.2 O PAME-RJ será responsável pela coordenação da integração dos dados radar ao\nCentro de Controle correspondente, assim como pela utilização da ferramenta SASS-C na\navaliação de desempenho do radar transportável, após sua parametrização, seguindo os\nprocedimentos previstos na CIRPV 63-6 “Verificação da Integração de Sistemas Radar a\nSistemas de Tratamento e Visualização de Dados”.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.11",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > INTEGRAÇÃO AOS CENTROS DE CONTROLE",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": [
+        "1.11.1",
+        "1.11.2"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "5ef05d8846593ccb5f4484fdf9041256",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.11.1",
+    "titulo": "Os Sistemas Radar Transportáveis serão empregados na composição dos Sistemas de",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Vigilância ATS utilizados pelos Centros de Controle de Área (ACC), ou pelos Controles de\nAproximação (APP), na prestação dos Serviços de Tráfego Aéreo para a Circulação Aérea\nGeral (CAG).",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.11 > 1.11.1",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > INTEGRAÇÃO AOS CENTROS DE CONTROLE > Os Sistemas Radar Transportáveis serão empregados na composição dos Sistemas de",
+      "secao_raiz": "1",
+      "secao_pai": "1.11",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "8ccd6203be809521d9ad79b069319a06",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.11.2",
+    "titulo": "O PAME-RJ será responsável pela coordenação da integração dos dados radar ao",
+    "nivel_hierarquico": 3,
+    "texto_completo": "Centro de Controle correspondente, assim como pela utilização da ferramenta SASS-C na\navaliação de desempenho do radar transportável, após sua parametrização, seguindo os\nprocedimentos previstos na CIRPV 63-6 “Verificação da Integração de Sistemas Radar a\nSistemas de Tratamento e Visualização de Dados”.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.11 > 1.11.2",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > INTEGRAÇÃO AOS CENTROS DE CONTROLE > O PAME-RJ será responsável pela coordenação da integração dos dados radar ao",
+      "secao_raiz": "1",
+      "secao_pai": "1.11",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "53e71bd224b306f2a74fdbcf72954078",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "1.12",
+    "titulo": "CRONOGRAMA DAS ATIVIDADES DE DESDOBRAMENTO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "Conforme Anexo A.\n\n\n\nICA 63-29/2022 11/16",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "1 > 1.12",
+      "caminho_titulos": "DISPOSIÇÕES PRELIMINARES > CRONOGRAMA DAS ATIVIDADES DE DESDOBRAMENTO",
+      "secao_raiz": "1",
+      "secao_pai": "1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "2c044ac9722af94b12633792eef4bdc8",
+    "tipo_conteudo": "secao",
+    "identificacao": "2",
+    "titulo": "ASPECTOS LOGÍSTICOS ASSOCIADOS",
+    "nivel_hierarquico": 1,
+    "texto_completo": "2.1 MANUTENÇÃO\n2.1.1 A manutenção dos sistemas adquiridos será responsabilidade do PAME-RJ e deverá ser\ntratada como uma função logística estratégica, pois o seu desempenho afetará a\ndisponibilidade de meios de Controle de Tráfego Aéreo do SISCEAB.\n2.2 SOBRESSALENTES\n2.2.1 O PAME-RJ deverá executar a gestão de suprimento de materiais sobressalentes, assim\ncomo a verificação e o controle do delineamento dos componentes do sistema radar\ntransportável e das rotinas de manutenção pertinentes, usando o SILOMS.\n2.3 GARANTIA E ASSISTÊNCIA TÉCNICA\n2.3.1 O PAME-RJ deverá gerenciar a garantia e assistência técnica dos radares secundários\ntransportáveis, por um período de garantia contratual, a contar da data de recebimento final,\nou seja, após aprovação dos resultados obtidos por meio dos Voos de Aceitação do GEIV.\n2.3.2 O período de garantia será utilizado pelos técnicos do PAME-RJ para acompanhamento\ne avaliação da necessidade de ser realizado um treinamento mais específico do que aquele\ninicialmente contratado, assim como para dimensionar a lista de sobressalentes necessários\npara manter os radares nos anos subsequentes.\n2.4 GESTÃO DE SOFTWARE\n2.4.1 O PAME-RJ deverá armazenar e gerenciar todos os softwares necessários ao\nfuncionamento e reinstalação futura, atualizações existentes, número de suas licenças e\ndemais ferramentas ou dispositivos necessários à manutenção após a entrega dos radares.\n2.5 CAPACITAÇÃO\n2.5.1 O PAME-RJ deverá manter a formação de corpo técnico com a capacidade de realizar\ninstalação, operação e manutenção dos equipamentos do Sistema Radar Transportável, a fim\nde efetuar diagnósticos e substituições de módulos (nível base), bem como reinstalar\ncomponentes críticos do sistema.\n2.6 DOCUMENTAÇÃO TÉCNICA\n2.6.1 O PAME-RJ deverá guardar e manter a documentação técnica dos equipamentos\nintegrantes dos sistemas Radar Secundário Transportável, bem como documentação\nespecífica de transportabilidade, incluindo desmontagem, carregamento, descarregamento e\nmontagem.\n\n\n\n12/16 ICA 63-29/2022",
+    "texto_com_subsecoes": "2.1 MANUTENÇÃO\n2.1.1 A manutenção dos sistemas adquiridos será responsabilidade do PAME-RJ e deverá ser\ntratada como uma função logística estratégica, pois o seu desempenho afetará a\ndisponibilidade de meios de Controle de Tráfego Aéreo do SISCEAB.\n2.2 SOBRESSALENTES\n2.2.1 O PAME-RJ deverá executar a gestão de suprimento de materiais sobressalentes, assim\ncomo a verificação e o controle do delineamento dos componentes do sistema radar\ntransportável e das rotinas de manutenção pertinentes, usando o SILOMS.\n2.3 GARANTIA E ASSISTÊNCIA TÉCNICA\n2.3.1 O PAME-RJ deverá gerenciar a garantia e assistência técnica dos radares secundários\ntransportáveis, por um período de garantia contratual, a contar da data de recebimento final,\nou seja, após aprovação dos resultados obtidos por meio dos Voos de Aceitação do GEIV.\n2.3.2 O período de garantia será utilizado pelos técnicos do PAME-RJ para acompanhamento\ne avaliação da necessidade de ser realizado um treinamento mais específico do que aquele\ninicialmente contratado, assim como para dimensionar a lista de sobressalentes necessários\npara manter os radares nos anos subsequentes.\n2.4 GESTÃO DE SOFTWARE\n2.4.1 O PAME-RJ deverá armazenar e gerenciar todos os softwares necessários ao\nfuncionamento e reinstalação futura, atualizações existentes, número de suas licenças e\ndemais ferramentas ou dispositivos necessários à manutenção após a entrega dos radares.\n2.5 CAPACITAÇÃO\n2.5.1 O PAME-RJ deverá manter a formação de corpo técnico com a capacidade de realizar\ninstalação, operação e manutenção dos equipamentos do Sistema Radar Transportável, a fim\nde efetuar diagnósticos e substituições de módulos (nível base), bem como reinstalar\ncomponentes críticos do sistema.\n2.6 DOCUMENTAÇÃO TÉCNICA\n2.6.1 O PAME-RJ deverá guardar e manter a documentação técnica dos equipamentos\nintegrantes dos sistemas Radar Secundário Transportável, bem como documentação\nespecífica de transportabilidade, incluindo desmontagem, carregamento, descarregamento e\nmontagem.\n\n\n\n12/16 ICA 63-29/2022",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS",
+      "secao_raiz": "2",
+      "secao_pai": null,
+      "subsecoes_diretas": [
+        "2.1",
+        "2.2",
+        "2.3",
+        "2.4",
+        "2.5",
+        "2.6"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "d2e142e5276a64c68ab2e7dd6615ee86",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.1",
+    "titulo": "MANUTENÇÃO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "2.1.1 A manutenção dos sistemas adquiridos será responsabilidade do PAME-RJ e deverá ser\ntratada como uma função logística estratégica, pois o seu desempenho afetará a\ndisponibilidade de meios de Controle de Tráfego Aéreo do SISCEAB.",
+    "texto_com_subsecoes": "2.1.1 A manutenção dos sistemas adquiridos será responsabilidade do PAME-RJ e deverá ser\ntratada como uma função logística estratégica, pois o seu desempenho afetará a\ndisponibilidade de meios de Controle de Tráfego Aéreo do SISCEAB.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.1",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > MANUTENÇÃO",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": [
+        "2.1.1"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "c78fb7a390721695ac2d1d011b10da87",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.1.1",
+    "titulo": "A manutenção dos sistemas adquiridos será responsabilidade do PAME-RJ e deverá ser",
+    "nivel_hierarquico": 3,
+    "texto_completo": "tratada como uma função logística estratégica, pois o seu desempenho afetará a\ndisponibilidade de meios de Controle de Tráfego Aéreo do SISCEAB.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.1 > 2.1.1",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > MANUTENÇÃO > A manutenção dos sistemas adquiridos será responsabilidade do PAME-RJ e deverá ser",
+      "secao_raiz": "2",
+      "secao_pai": "2.1",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "56d2f30c38a47a6a3d51f23002bf3e00",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.2",
+    "titulo": "SOBRESSALENTES",
+    "nivel_hierarquico": 2,
+    "texto_completo": "2.2.1 O PAME-RJ deverá executar a gestão de suprimento de materiais sobressalentes, assim\ncomo a verificação e o controle do delineamento dos componentes do sistema radar\ntransportável e das rotinas de manutenção pertinentes, usando o SILOMS.",
+    "texto_com_subsecoes": "2.2.1 O PAME-RJ deverá executar a gestão de suprimento de materiais sobressalentes, assim\ncomo a verificação e o controle do delineamento dos componentes do sistema radar\ntransportável e das rotinas de manutenção pertinentes, usando o SILOMS.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.2",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > SOBRESSALENTES",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": [
+        "2.2.1"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "98d3b96c79e269da7e37e1522fb2d02d",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.2.1",
+    "titulo": "O PAME-RJ deverá executar a gestão de suprimento de materiais sobressalentes, assim",
+    "nivel_hierarquico": 3,
+    "texto_completo": "como a verificação e o controle do delineamento dos componentes do sistema radar\ntransportável e das rotinas de manutenção pertinentes, usando o SILOMS.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.2 > 2.2.1",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > SOBRESSALENTES > O PAME-RJ deverá executar a gestão de suprimento de materiais sobressalentes, assim",
+      "secao_raiz": "2",
+      "secao_pai": "2.2",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "bb8e0bc2c87467354a5fde91387be60d",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.3",
+    "titulo": "GARANTIA E ASSISTÊNCIA TÉCNICA",
+    "nivel_hierarquico": 2,
+    "texto_completo": "2.3.1 O PAME-RJ deverá gerenciar a garantia e assistência técnica dos radares secundários\ntransportáveis, por um período de garantia contratual, a contar da data de recebimento final,\nou seja, após aprovação dos resultados obtidos por meio dos Voos de Aceitação do GEIV.\n2.3.2 O período de garantia será utilizado pelos técnicos do PAME-RJ para acompanhamento\ne avaliação da necessidade de ser realizado um treinamento mais específico do que aquele\ninicialmente contratado, assim como para dimensionar a lista de sobressalentes necessários\npara manter os radares nos anos subsequentes.",
+    "texto_com_subsecoes": "2.3.1 O PAME-RJ deverá gerenciar a garantia e assistência técnica dos radares secundários\ntransportáveis, por um período de garantia contratual, a contar da data de recebimento final,\nou seja, após aprovação dos resultados obtidos por meio dos Voos de Aceitação do GEIV.\n2.3.2 O período de garantia será utilizado pelos técnicos do PAME-RJ para acompanhamento\ne avaliação da necessidade de ser realizado um treinamento mais específico do que aquele\ninicialmente contratado, assim como para dimensionar a lista de sobressalentes necessários\npara manter os radares nos anos subsequentes.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.3",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > GARANTIA E ASSISTÊNCIA TÉCNICA",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": [
+        "2.3.1",
+        "2.3.2"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "63bacf55b153e1bd85ae2960dd5fcdac",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.3.1",
+    "titulo": "O PAME-RJ deverá gerenciar a garantia e assistência técnica dos radares secundários",
+    "nivel_hierarquico": 3,
+    "texto_completo": "transportáveis, por um período de garantia contratual, a contar da data de recebimento final,\nou seja, após aprovação dos resultados obtidos por meio dos Voos de Aceitação do GEIV.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.3 > 2.3.1",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > GARANTIA E ASSISTÊNCIA TÉCNICA > O PAME-RJ deverá gerenciar a garantia e assistência técnica dos radares secundários",
+      "secao_raiz": "2",
+      "secao_pai": "2.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "0e8f08ca58e2dbb31032eb046f39a279",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.3.2",
+    "titulo": "O período de garantia será utilizado pelos técnicos do PAME-RJ para acompanhamento",
+    "nivel_hierarquico": 3,
+    "texto_completo": "e avaliação da necessidade de ser realizado um treinamento mais específico do que aquele\ninicialmente contratado, assim como para dimensionar a lista de sobressalentes necessários\npara manter os radares nos anos subsequentes.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.3 > 2.3.2",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > GARANTIA E ASSISTÊNCIA TÉCNICA > O período de garantia será utilizado pelos técnicos do PAME-RJ para acompanhamento",
+      "secao_raiz": "2",
+      "secao_pai": "2.3",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "a7faffcb2fbde0caf6879703ab0b8d12",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.4",
+    "titulo": "GESTÃO DE SOFTWARE",
+    "nivel_hierarquico": 2,
+    "texto_completo": "2.4.1 O PAME-RJ deverá armazenar e gerenciar todos os softwares necessários ao\nfuncionamento e reinstalação futura, atualizações existentes, número de suas licenças e\ndemais ferramentas ou dispositivos necessários à manutenção após a entrega dos radares.",
+    "texto_com_subsecoes": "2.4.1 O PAME-RJ deverá armazenar e gerenciar todos os softwares necessários ao\nfuncionamento e reinstalação futura, atualizações existentes, número de suas licenças e\ndemais ferramentas ou dispositivos necessários à manutenção após a entrega dos radares.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.4",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > GESTÃO DE SOFTWARE",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": [
+        "2.4.1"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "a3ca5c06ae8e65ace7f2134c00330e87",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.4.1",
+    "titulo": "O PAME-RJ deverá armazenar e gerenciar todos os softwares necessários ao",
+    "nivel_hierarquico": 3,
+    "texto_completo": "funcionamento e reinstalação futura, atualizações existentes, número de suas licenças e\ndemais ferramentas ou dispositivos necessários à manutenção após a entrega dos radares.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.4 > 2.4.1",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > GESTÃO DE SOFTWARE > O PAME-RJ deverá armazenar e gerenciar todos os softwares necessários ao",
+      "secao_raiz": "2",
+      "secao_pai": "2.4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "31a781304f83a2e68a480cbc3b8947d2",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.5",
+    "titulo": "CAPACITAÇÃO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "2.5.1 O PAME-RJ deverá manter a formação de corpo técnico com a capacidade de realizar\ninstalação, operação e manutenção dos equipamentos do Sistema Radar Transportável, a fim\nde efetuar diagnósticos e substituições de módulos (nível base), bem como reinstalar\ncomponentes críticos do sistema.",
+    "texto_com_subsecoes": "2.5.1 O PAME-RJ deverá manter a formação de corpo técnico com a capacidade de realizar\ninstalação, operação e manutenção dos equipamentos do Sistema Radar Transportável, a fim\nde efetuar diagnósticos e substituições de módulos (nível base), bem como reinstalar\ncomponentes críticos do sistema.",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.5",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > CAPACITAÇÃO",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": [
+        "2.5.1"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "83cd8f8af6804522ee2da13fa0f7eb96",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.5.1",
+    "titulo": "O PAME-RJ deverá manter a formação de corpo técnico com a capacidade de realizar",
+    "nivel_hierarquico": 3,
+    "texto_completo": "instalação, operação e manutenção dos equipamentos do Sistema Radar Transportável, a fim\nde efetuar diagnósticos e substituições de módulos (nível base), bem como reinstalar\ncomponentes críticos do sistema.",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.5 > 2.5.1",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > CAPACITAÇÃO > O PAME-RJ deverá manter a formação de corpo técnico com a capacidade de realizar",
+      "secao_raiz": "2",
+      "secao_pai": "2.5",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "d64d45747a474cf253d68cdb7195c3d1",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.6",
+    "titulo": "DOCUMENTAÇÃO TÉCNICA",
+    "nivel_hierarquico": 2,
+    "texto_completo": "2.6.1 O PAME-RJ deverá guardar e manter a documentação técnica dos equipamentos\nintegrantes dos sistemas Radar Secundário Transportável, bem como documentação\nespecífica de transportabilidade, incluindo desmontagem, carregamento, descarregamento e\nmontagem.\n\n\n\n12/16 ICA 63-29/2022",
+    "texto_com_subsecoes": "2.6.1 O PAME-RJ deverá guardar e manter a documentação técnica dos equipamentos\nintegrantes dos sistemas Radar Secundário Transportável, bem como documentação\nespecífica de transportabilidade, incluindo desmontagem, carregamento, descarregamento e\nmontagem.\n\n\n\n12/16 ICA 63-29/2022",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.6",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > DOCUMENTAÇÃO TÉCNICA",
+      "secao_raiz": "2",
+      "secao_pai": "2",
+      "subsecoes_diretas": [
+        "2.6.1"
+      ]
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "1392c96b0d433f299f71927f882552ae",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "2.6.1",
+    "titulo": "O PAME-RJ deverá guardar e manter a documentação técnica dos equipamentos",
+    "nivel_hierarquico": 3,
+    "texto_completo": "integrantes dos sistemas Radar Secundário Transportável, bem como documentação\nespecífica de transportabilidade, incluindo desmontagem, carregamento, descarregamento e\nmontagem.\n\n\n\n12/16 ICA 63-29/2022",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "2 > 2.6 > 2.6.1",
+      "caminho_titulos": "ASPECTOS LOGÍSTICOS ASSOCIADOS > DOCUMENTAÇÃO TÉCNICA > O PAME-RJ deverá guardar e manter a documentação técnica dos equipamentos",
+      "secao_raiz": "2",
+      "secao_pai": "2.6",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "934887e5d8c0550d9984c85a0ce894c7",
+    "tipo_conteudo": "secao",
+    "identificacao": "3",
+    "titulo": "DISPOSIÇÕES FINAIS",
+    "nivel_hierarquico": 1,
+    "texto_completo": "Os casos não previstos deverão ser submetidos ao senhor Chefe do\nSubdepartamento Técnico do DECEA.\n\n\n\nICA 63-29/2022 13/16\nREFERÊNCIAS\nBRASIL. Comando da Aeronáutica. Comando-Geral do Pessoal. Confecção, Controle e\nNumeração de Publicações Oficiais do Comando da Aeronáutica: NSCA 5-1. Brasília-DF,\n2011, com modificação de 2014.\nBRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Elaboração\ne Padronização de Publicações Oficiais do DECEA: ICA 5-8. Rio de Janeiro-RJ, 2018.\nBRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Critérios de\nAnálise Técnica da Área de Aeródromos (AGA): ICA 63-19. Rio de Janeiro-RJ, 2021.\nINDRA, User Manual: Doc. nº 0121700000000MA13, Madrid, 2020.\nINDRA, System Requirements Specification: Doc. Nº 0121700000000ES04, MADRI, 2018.\n\n\n\n14/16 ICA 63-29/2022\nAnexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável\n4.1 ACIONAMENTO D-96 D-95 D-91 D-90 D-86 D-85 D-82 D-78 D-74 D-70 D-67 D-64 D-63 D-57 D-50 D-49 D-48 D-44 D-43 D-39 D-36 D-33 D-30 D-27 D-24\nFORMALIZAÇÃO DE\nSOLICITAÇÃO DE APOIO DO\nRADAR SECUNDÁRIO\nTRANSPORTÁVEL AO DECEA\n(1 dia)\nANÁLISE E AVALIAÇÃO DOS\nIMPACTOS OPERACIONAIS\nPELO SDOP/CGNA (5 dias)\nANÁLISE E AVALIAÇÃO\nTÉCNICA PELO SDTE/PAME-\nRJ (5 dias)\nORDEM DE MISSÃO DO\nDIRETOR DO PAME-RJ (PRÉ-\nSITE) (22 dias)\n\n\n\nICA 63-29/2022 15/16\nContinuação do Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável\n4.2 PRÉ-SITE\nMISSÃO PRECURSORA E\nENVIO DE RELATÓRIO À\nTRAD (14 dias)\nANÁLISE DO RELATÓRIO\n(1 dia)\nCOORDENAÇÕES PARA\nPREPARAÇÃO DA MISSÃO\n(5 dias)\nPREPARAÇÃO DO SÍTIO\n(20 dias)\n\n\n\n16/16 ICA 63-29/2022\nContinuação do Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável\n4.3 TRANSPORTE DO\nD-23 D-22 D-21 D-20 D-19 D-18 D-17 D-16 D-15 D-14 D-13 D-12 D-11 D-10 D-9 D-8 D-7 D-6 D-5 D-4 D-3 D-2 D-1 D\nSISTEMA (PAME-RJ – SÍTIO)\nEMPACOTAMENTO DO\nSISTEMA (2 dias)\nTRANSPORTE PAME-RJ – CAN\n(1 dia)\nTRANSPORTE AÉREO (2 dias)\nTRANSPORTE CAN – SÍTIO\n(1 dia)\n4.4 MONTAGEM E PRONTO\nOPERACIONAL\nINSTALAÇÃO DO RADAR NO\nSÍTIO (5 dias)\nPARAMETRIZAÇÃO (7 dias)\nRESERVA TÉCNICA (2 dias)\nVOO DE HOMOLOGAÇÃO E\nINTEGRAÇÃO (3 dias)\nPRONTO OPERACIONAL",
+    "texto_com_subsecoes": "Os casos não previstos deverão ser submetidos ao senhor Chefe do\nSubdepartamento Técnico do DECEA.\n\n\n\nICA 63-29/2022 13/16\nREFERÊNCIAS\nBRASIL. Comando da Aeronáutica. Comando-Geral do Pessoal. Confecção, Controle e\nNumeração de Publicações Oficiais do Comando da Aeronáutica: NSCA 5-1. Brasília-DF,\n2011, com modificação de 2014.\nBRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Elaboração\ne Padronização de Publicações Oficiais do DECEA: ICA 5-8. Rio de Janeiro-RJ, 2018.\nBRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Critérios de\nAnálise Técnica da Área de Aeródromos (AGA): ICA 63-19. Rio de Janeiro-RJ, 2021.\nINDRA, User Manual: Doc. nº 0121700000000MA13, Madrid, 2020.\nINDRA, System Requirements Specification: Doc. Nº 0121700000000ES04, MADRI, 2018.\n\n\n\n14/16 ICA 63-29/2022\nAnexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável\n4.1 ACIONAMENTO D-96 D-95 D-91 D-90 D-86 D-85 D-82 D-78 D-74 D-70 D-67 D-64 D-63 D-57 D-50 D-49 D-48 D-44 D-43 D-39 D-36 D-33 D-30 D-27 D-24\nFORMALIZAÇÃO DE\nSOLICITAÇÃO DE APOIO DO\nRADAR SECUNDÁRIO\nTRANSPORTÁVEL AO DECEA\n(1 dia)\nANÁLISE E AVALIAÇÃO DOS\nIMPACTOS OPERACIONAIS\nPELO SDOP/CGNA (5 dias)\nANÁLISE E AVALIAÇÃO\nTÉCNICA PELO SDTE/PAME-\nRJ (5 dias)\nORDEM DE MISSÃO DO\nDIRETOR DO PAME-RJ (PRÉ-\nSITE) (22 dias)\n\n\n\nICA 63-29/2022 15/16\nContinuação do Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável\n4.2 PRÉ-SITE\nMISSÃO PRECURSORA E\nENVIO DE RELATÓRIO À\nTRAD (14 dias)\nANÁLISE DO RELATÓRIO\n(1 dia)\nCOORDENAÇÕES PARA\nPREPARAÇÃO DA MISSÃO\n(5 dias)\nPREPARAÇÃO DO SÍTIO\n(20 dias)\n\n\n\n16/16 ICA 63-29/2022\nContinuação do Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável\n4.3 TRANSPORTE DO\nD-23 D-22 D-21 D-20 D-19 D-18 D-17 D-16 D-15 D-14 D-13 D-12 D-11 D-10 D-9 D-8 D-7 D-6 D-5 D-4 D-3 D-2 D-1 D\nSISTEMA (PAME-RJ – SÍTIO)\nEMPACOTAMENTO DO\nSISTEMA (2 dias)\nTRANSPORTE PAME-RJ – CAN\n(1 dia)\nTRANSPORTE AÉREO (2 dias)\nTRANSPORTE CAN – SÍTIO\n(1 dia)\n4.4 MONTAGEM E PRONTO\nOPERACIONAL\nINSTALAÇÃO DO RADAR NO\nSÍTIO (5 dias)\nPARAMETRIZAÇÃO (7 dias)\nRESERVA TÉCNICA (2 dias)\nVOO DE HOMOLOGAÇÃO E\nINTEGRAÇÃO (3 dias)\nPRONTO OPERACIONAL",
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "3",
+      "caminho_titulos": "DISPOSIÇÕES FINAIS",
+      "secao_raiz": "3",
+      "secao_pai": null,
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "d635da48afb61b06bcd59ef409658fc6",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "4.1",
+    "titulo": "ACIONAMENTO D-96 D-95 D-91 D-90 D-86 D-85 D-82 D-78 D-74 D-70 D-67 D-64 D-63 D-57 D-50 D-49 D-48 D-44 D-43 D-39 D-36 D-33 D-30 D-27 D-24",
+    "nivel_hierarquico": 2,
+    "texto_completo": "FORMALIZAÇÃO DE\nSOLICITAÇÃO DE APOIO DO\nRADAR SECUNDÁRIO\nTRANSPORTÁVEL AO DECEA\n(1 dia)\nANÁLISE E AVALIAÇÃO DOS\nIMPACTOS OPERACIONAIS\nPELO SDOP/CGNA (5 dias)\nANÁLISE E AVALIAÇÃO\nTÉCNICA PELO SDTE/PAME-\nRJ (5 dias)\nORDEM DE MISSÃO DO\nDIRETOR DO PAME-RJ (PRÉ-\nSITE) (22 dias)\n\n\n\nICA 63-29/2022 15/16\nContinuação do Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "4 > 4.1",
+      "caminho_titulos": "ACIONAMENTO D-96 D-95 D-91 D-90 D-86 D-85 D-82 D-78 D-74 D-70 D-67 D-64 D-63 D-57 D-50 D-49 D-48 D-44 D-43 D-39 D-36 D-33 D-30 D-27 D-24",
+      "secao_raiz": "4",
+      "secao_pai": "4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "763865601f07acbdf9bd1a17d57ba8c8",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "4.2",
+    "titulo": "PRÉ-SITE",
+    "nivel_hierarquico": 2,
+    "texto_completo": "MISSÃO PRECURSORA E\nENVIO DE RELATÓRIO À\nTRAD (14 dias)\nANÁLISE DO RELATÓRIO\n(1 dia)\nCOORDENAÇÕES PARA\nPREPARAÇÃO DA MISSÃO\n(5 dias)\nPREPARAÇÃO DO SÍTIO\n(20 dias)\n\n\n\n16/16 ICA 63-29/2022\nContinuação do Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "4 > 4.2",
+      "caminho_titulos": "PRÉ-SITE",
+      "secao_raiz": "4",
+      "secao_pai": "4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "c24c07e4d9c9a4c65db7f2a3a279dc12",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "4.3",
+    "titulo": "TRANSPORTE DO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "D-23 D-22 D-21 D-20 D-19 D-18 D-17 D-16 D-15 D-14 D-13 D-12 D-11 D-10 D-9 D-8 D-7 D-6 D-5 D-4 D-3 D-2 D-1 D\nSISTEMA (PAME-RJ – SÍTIO)\nEMPACOTAMENTO DO\nSISTEMA (2 dias)\nTRANSPORTE PAME-RJ – CAN\n(1 dia)\nTRANSPORTE AÉREO (2 dias)\nTRANSPORTE CAN – SÍTIO\n(1 dia)",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "4 > 4.3",
+      "caminho_titulos": "TRANSPORTE DO",
+      "secao_raiz": "4",
+      "secao_pai": "4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  },
+  {
+    "id": "ceed4584362e43cbeff9f1d89fd99300",
+    "tipo_conteudo": "subsecao",
+    "identificacao": "4.4",
+    "titulo": "MONTAGEM E PRONTO",
+    "nivel_hierarquico": 2,
+    "texto_completo": "OPERACIONAL\nINSTALAÇÃO DO RADAR NO\nSÍTIO (5 dias)\nPARAMETRIZAÇÃO (7 dias)\nRESERVA TÉCNICA (2 dias)\nVOO DE HOMOLOGAÇÃO E\nINTEGRAÇÃO (3 dias)\nPRONTO OPERACIONAL",
+    "texto_com_subsecoes": null,
+    "texto_para_embedding": "",
+    "estrategia_embedding": "",
+    "hierarquia": {
+      "caminho_numerico": "4 > 4.4",
+      "caminho_titulos": "MONTAGEM E PRONTO",
+      "secao_raiz": "4",
+      "secao_pai": "4",
+      "subsecoes_diretas": []
+    },
+    "metadados": {
+      "tipo_documento": "ICA",
+      "nome_documento": "ICA-63-29",
+      "categoria": "Proteção ao Voo",
+      "data_publicacao": "30-10-2025",
+      "data_vigencia_inicio": "01-06-2022",
+      "data_vigencia_fim": "",
+      "data_acesso": "30-10-2025",
+      "revogado": false,
+      "num_tokens_texto_completo": 0,
+      "num_tokens_com_subsecoes": 0,
+      "num_tokens_para_embedding": 0
+    }
+  }
+]

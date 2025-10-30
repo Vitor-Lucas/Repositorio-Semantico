@@ -1,0 +1,339 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+PROTEÇÃO AO VOO
+ICA 63-29
+EMPREGO DOS RADARES SECUNDÁRIOS
+TRANSPORTÁVEIS NO SISCEAB
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PROTEÇÃO AO VOO
+ICA 63-29
+EMPREGO DOS RADARES SECUNDÁRIOS
+TRANSPORTÁVEIS NO SISCEAB
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA Nº 186/SNOT, DE 12 DE MAIO DE 2022.
+Aprova a reedição da Instrução que
+disciplina o emprego de Radares
+Secundários Transportáveis no
+SISCEAB.
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 19, inciso I, Anexo I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 6.834, de 30 de abril de
+2009, de acordo com o art. 10, inciso IV, do Regulamento do DECEA, aprovado pela Portaria
+nº 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art. 1º Aprovar a reedição da ICA 63-29 “Emprego dos Radares Secundários
+Transportáveis no SISCEAB”, que com esta baixa.
+Art. 2º Revogar a Portaria nº 89/DGCEA de 2 de junho de 2011, publicada no
+Boletim do Comando da Aeronáutica nº 174, de 12 de setembro de 2011.
+Art. 3º Esta Instrução entra em vigor em 1º de junho de 2022.
+Ten Brig Ar JOÃO TADEU FIORENTINI
+Diretor-Geral do DECEA
+(Publicado no BCA nº 096, de 24 de maio de 2022)
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 63-29/2022
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES ................................................................................. 7
+1.1 FINALIDADE .................................................................................................................... 7
+1.2 ÂMBITO ............................................................................................................................ 7
+1.3 CONCEITUAÇÃO ............................................................................................................. 7
+1.4 SIGLAS E ACRÔNIMOS .................................................................................................. 8
+1.5 EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS ........................... 8
+1.6 CARACTERÍSTICAS BÁSICAS DO RADAR SECUNDÁRIO TRANSPORTÁVEL .. 9
+1.7 ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO ............................................. 9
+1.8 TRANSPORTE .................................................................................................................. 9
+1.9 PREPARAÇÃO DO SÍTIO .............................................................................................. 10
+1.10 INSTALAÇÃO/PARAMETRIZAÇÃO ........................................................................... 10
+1.11 INTEGRAÇÃO AOS CENTROS DE CONTROLE ....................................................... 10
+1.12 CRONOGRAMA DAS ATIVIDADES DE DESDOBRAMENTO ................................ 10
+2 ASPECTOS LOGÍSTICOS ASSOCIADOS ................................................................ 11
+2.1 MANUTENÇÃO .............................................................................................................. 11
+2.2 SOBRESSALENTES ....................................................................................................... 11
+2.3 GARANTIA E ASSISTÊNCIA TÉCNICA ..................................................................... 11
+2.4 GESTÃO DE SOFTWARE ............................................................................................... 11
+2.5 CAPACITAÇÃO .............................................................................................................. 11
+2.6 DOCUMENTAÇÃO TÉCNICA ...................................................................................... 11
+3 DISPOSIÇÕES FINAIS ................................................................................................. 12
+REFERÊNCIAS .............................................................................................................. 13
+Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário
+Transportável .......................................................................................... 14
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 63-29/2022
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+Definir os cenários para emprego dos radares secundários transportáveis no
+âmbito do SISCEAB, as atividades necessárias para seu desdobramento e as funções
+logísticas associadas a sua operação.
+1.2 ÂMBITO
+A presente Instrução, de observância obrigatória, aplica-se a todas as
+Organizações subordinadas ao DECEA que sejam responsáveis por manter a vigilância do
+espaço aéreo por meio de equipamentos ou sistemas, tais como radares primários/secundários
+ou ADS-B.
+1.3 CONCEITUAÇÃO
+1.3.1 INSTALAÇÃO
+Consiste na colocação em operação inicial de um equipamento ou sistema.
+1.3.2 MANUTENÇÃO
+É a combinação de ações técnicas, administrativas e de supervisão, destinadas
+a manter ou recolocar um equipamento ou sistema em condições de desempenhar,
+eficazmente, as funções para as quais foi projetado.
+Manutenção representa, ainda, um conjunto de ações sistemáticas e
+procedimentos que visam otimizar as condições originais dos equipamentos, introduzindo
+melhorias para evitar a ocorrência ou reincidência das falhas e reduzir os custos. Deve evitar a
+indisponibilidade dos equipamentos, abrangendo desde a aparência externa até as perdas de
+desempenho.
+1.3.3 MODERNIZAÇÃO
+Constitui uma modificação introduzida no material ou sistema para superar
+uma obsolescência logística ou operacional.
+1.3.4 SASS-C – SURVEILLANCE ANALYSIS SUPPORT SYSTEM FOR ATC-CENTRE
+Ferramenta desenvolvida pela EUROCONTROL e distribuída sob licença para
+os países da Comunidade Europeia, para a avaliação de desempenho de radares e Centros de
+Controle.
+1.3.5 SÍTIO
+É o local físico onde está instalado determinado equipamento.
+1.3.6 TRANSPORTABILIDADE
+É a capacidade de locomoção de um equipamento ou sistema entre lugares
+diferentes, contemplando desde a desinstalação e a embalagem na origem até a desembalagem
+e a instalação no destino, mantendo-se a sua funcionalidade.
+
+--- PÁGINA ---
+8/16 ICA 63-29/2022
+1.4 SIGLAS E ACRÔNIMOS
+1º GCC - Primeiro Grupo de Comunicações e Controle
+ACC - Centro de Controle de Área (Area Control Center)
+ADS-B - Automatic Dependent Surveillance-Broadcast
+APP - Centro de Controle de Aproximação (Approach)
+CAG - Circulação Aérea Geral
+CGNA - Centro de Gerenciamento da Navegação Aérea
+CINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo
+DECEA - Departamento de Controle do Espaço Aéreo
+GEIV - Grupo Especial de Inspeção em Voo
+OPEA - Objeto Projetado no Espaço Aéreo
+PAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro
+SDOP - Subdepartamento de Operações do DECEA
+SDTE - Subdepartamento Técnico do DECEA
+SILOMS - Sistema Integrado de Logística de Materiais e de Serviços
+SISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro
+UPS - Uninterruptible Power Supply
+1.5 EMPREGO DOS RADARES SECUNDÁRIOS TRANSPORTÁVEIS
+1.5.1 O objetivo principal de utilização dos radares secundários transportáveis é o de
+proporcionar ao SISCEAB uma ferramenta capaz de substituir os radares de vigilância, em
+caso de longas interrupções em seu funcionamento, e manter elevada a disponibilidade geral
+do serviço de vigilância para a CAG.
+1.5.2 A guarda, manutenção e eventuais desdobramentos dos radares secundários
+transportáveis serão de responsabilidade do PAME-RJ, considerando sua potencial aplicação
+em quaisquer das regiões do território nacional, com toda a sua diversidade ambiental.
+1.5.3 O emprego mais provável dar-se-á nas proximidades ou nos sítios radar existentes,
+quando da parada para manutenção corretiva, manutenção preventiva, modernização ou
+substituição, por períodos superiores a 30 dias, dos radares de vigilância neles instalados,
+desde que essa ausência represente uma degradação operacional, por falta de redundância de
+cobertura.
+1.5.4 Considerando que os radares secundários transportáveis trabalharão em condições
+excepcionais e de forma temporária, as Zonas de Proteção de Aeródromo (ZPA) e Zonas de
+
+--- PÁGINA ---
+ICA 63-29/2022 9/16
+Proteção de Ruído (ZPR) poderão ser eventualmente feridas durante seu período de operação
+na localidade de destino, mediante um estudo aeronáutico OPEA.
+1.6 CARACTERÍSTICAS BÁSICAS DO RADAR SECUNDÁRIO TRANSPORTÁVEL
+1.6.1 Todas as informações referentes às capacidades do radar secundário transportável
+poderão ser encontradas nos manuais do sistema sob posse do PAME-RJ, conforme descrito
+nas referências da presente Instrução do Comando da Aeronáutica.
+1.6.2 Todo o sistema está configurado em dois contêineres ISO de 20 pés para transporte em
+caminhões, navio ou aeronave C-130/KC-390 para pronto emprego.
+1.7 ACIONAMENTO DE MISSÃO DE DESDOBRAMENTO
+1.7.1 Os radares secundários transportáveis deverão ser desdobrados do PAME-RJ quando a
+indisponibilidade prevista para um determinado radar de vigilância causar impacto
+operacional imediato, de acordo com o CGNA (restrições de tráfego aéreo, aumento de
+separações etc.), com duração superior a 30 dias, seja por processo de manutenção preventiva,
+manutenção corretiva, modernização ou substituição.
+1.7.2 O Órgão Regional será responsável pela solicitação de acionamento de desdobramento
+do radar secundário transportável ao DECEA, em caso de manutenções preventivas ou
+corretivas que atendam aos critérios acima estabelecidos.
+1.7.3 A CISCEA será responsável pela solicitação de acionamento de desdobramento do radar
+secundário transportável ao DECEA, em caso de substituição de radares ou de processos de
+modernização de radares instalados que esteja conduzindo, que atendam aos critérios
+estabelecidos em 1.7.1.
+1.7.4 O PAME-RJ será responsável pela solicitação de acionamento de desdobramento do
+radar secundário transportável ao DECEA, em caso de processos de modernização de radares
+instalados que esteja conduzindo, que atenda aos critérios estabelecidos em 1.7.1.
+1.7.5 O PAME-RJ será responsável pela análise da solicitação de desdobramento do radar
+transportável em função dos critérios estabelecidos em 1.7.1, em coordenação com o DECEA
+para avaliação do impacto operacional previsto.
+1.7.6 Em caso de aprovação da solicitação de desdobramento do radar pelo DECEA, o
+PAME-RJ deverá iniciar as atividades de transporte, instalação e parametrização no local
+especificado.
+1.8 TRANSPORTE
+1.8.1 O transporte do radar secundário do PAME-RJ até o seu destino, assim como seu
+retorno após restabelecimento do radar principal, poderá, se necessário, contar com o apoio do
+1º GCC, em todo o seu trajeto.
+1.8.2 O radar secundário transportável é composto de um contêiner ISO 20 utilizado para
+instalação dos sistemas elétricos, eletrônicos e auxiliares, com peso estimado de 7.500 kgf; e
+por uma estrutura metálica equivalente dimensionalmente a um contêiner ISO 20, formada
+pela torre de sustentação, pelo pedestal e antena do radar, com peso estimado de 13.000 kgf.
+
+--- PÁGINA ---
+10/16 ICA 63-29/2022
+1.8.3 Não há necessidade de sequenciamento específico para carga e descarga dos
+contêineres.
+1.8.4 O radar secundário transportável pode ser transportado por caminhões ou aeronaves,
+desde que tenham capacidade para transporte de contêineres modelo ISO 20 e disponham de
+segurança de travamento.
+1.9 PREPARAÇÃO DO SÍTIO
+1.9.1 A Divisão Técnica do Órgão Regional será responsável pela preparação do sítio
+designado para receber o radar secundário transportável, cuidando para que a infraestrutura
+mínima (espaço físico, energia e aterramento) esteja disponível quando da chegada do radar
+ao seu destino.
+1.9.2 A capacidade de carga do solo deve ser superior a 200 kN/m2. Em cada um dos quatro
+apoios de sustentação da torre existe uma superfície quadrada de 40x40 cm2, a fim de reduzir
+a pressão da torre.
+1.9.3 Há necessidade de área mínima de manobra para movimentação do caminhão com ou
+sem reboque, com capacidade de transporte de até dois contêineres ISO 20, e do guindaste,
+com capacidade mínima de 50 toneladas, utilizado para carregar ou descarregar o sistema
+(conforme aplicável).
+1.10 INSTALAÇÃO/PARAMETRIZAÇÃO
+1.10.1 O PAME-RJ será responsável pela instalação do radar secundário transportável no
+local de destino, assim como pela parametrização do mencionado equipamento, visando a sua
+adequação ao sítio e minimizando a ocorrência de reflexões e duplicações de pistas.
+1.10.2 O 1º GCC poderá apoiar o PAME-RJ na instalação do radar secundário, caso
+necessário.
+1.11 INTEGRAÇÃO AOS CENTROS DE CONTROLE
+1.11.1 Os Sistemas Radar Transportáveis serão empregados na composição dos Sistemas de
+Vigilância ATS utilizados pelos Centros de Controle de Área (ACC), ou pelos Controles de
+Aproximação (APP), na prestação dos Serviços de Tráfego Aéreo para a Circulação Aérea
+Geral (CAG).
+1.11.2 O PAME-RJ será responsável pela coordenação da integração dos dados radar ao
+Centro de Controle correspondente, assim como pela utilização da ferramenta SASS-C na
+avaliação de desempenho do radar transportável, após sua parametrização, seguindo os
+procedimentos previstos na CIRPV 63-6 “Verificação da Integração de Sistemas Radar a
+Sistemas de Tratamento e Visualização de Dados”.
+1.12 CRONOGRAMA DAS ATIVIDADES DE DESDOBRAMENTO
+Conforme Anexo A.
+
+--- PÁGINA ---
+ICA 63-29/2022 11/16
+2 ASPECTOS LOGÍSTICOS ASSOCIADOS
+2.1 MANUTENÇÃO
+2.1.1 A manutenção dos sistemas adquiridos será responsabilidade do PAME-RJ e deverá ser
+tratada como uma função logística estratégica, pois o seu desempenho afetará a
+disponibilidade de meios de Controle de Tráfego Aéreo do SISCEAB.
+2.2 SOBRESSALENTES
+2.2.1 O PAME-RJ deverá executar a gestão de suprimento de materiais sobressalentes, assim
+como a verificação e o controle do delineamento dos componentes do sistema radar
+transportável e das rotinas de manutenção pertinentes, usando o SILOMS.
+2.3 GARANTIA E ASSISTÊNCIA TÉCNICA
+2.3.1 O PAME-RJ deverá gerenciar a garantia e assistência técnica dos radares secundários
+transportáveis, por um período de garantia contratual, a contar da data de recebimento final,
+ou seja, após aprovação dos resultados obtidos por meio dos Voos de Aceitação do GEIV.
+2.3.2 O período de garantia será utilizado pelos técnicos do PAME-RJ para acompanhamento
+e avaliação da necessidade de ser realizado um treinamento mais específico do que aquele
+inicialmente contratado, assim como para dimensionar a lista de sobressalentes necessários
+para manter os radares nos anos subsequentes.
+2.4 GESTÃO DE SOFTWARE
+2.4.1 O PAME-RJ deverá armazenar e gerenciar todos os softwares necessários ao
+funcionamento e reinstalação futura, atualizações existentes, número de suas licenças e
+demais ferramentas ou dispositivos necessários à manutenção após a entrega dos radares.
+2.5 CAPACITAÇÃO
+2.5.1 O PAME-RJ deverá manter a formação de corpo técnico com a capacidade de realizar
+instalação, operação e manutenção dos equipamentos do Sistema Radar Transportável, a fim
+de efetuar diagnósticos e substituições de módulos (nível base), bem como reinstalar
+componentes críticos do sistema.
+2.6 DOCUMENTAÇÃO TÉCNICA
+2.6.1 O PAME-RJ deverá guardar e manter a documentação técnica dos equipamentos
+integrantes dos sistemas Radar Secundário Transportável, bem como documentação
+específica de transportabilidade, incluindo desmontagem, carregamento, descarregamento e
+montagem.
+
+--- PÁGINA ---
+12/16 ICA 63-29/2022
+3 DISPOSIÇÕES FINAIS
+Os casos não previstos deverão ser submetidos ao senhor Chefe do
+Subdepartamento Técnico do DECEA.
+
+--- PÁGINA ---
+ICA 63-29/2022 13/16
+REFERÊNCIAS
+BRASIL. Comando da Aeronáutica. Comando-Geral do Pessoal. Confecção, Controle e
+Numeração de Publicações Oficiais do Comando da Aeronáutica: NSCA 5-1. Brasília-DF,
+2011, com modificação de 2014.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Elaboração
+e Padronização de Publicações Oficiais do DECEA: ICA 5-8. Rio de Janeiro-RJ, 2018.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Critérios de
+Análise Técnica da Área de Aeródromos (AGA): ICA 63-19. Rio de Janeiro-RJ, 2021.
+INDRA, User Manual: Doc. nº 0121700000000MA13, Madrid, 2020.
+INDRA, System Requirements Specification: Doc. Nº 0121700000000ES04, MADRI, 2018.
+
+--- PÁGINA ---
+14/16 ICA 63-29/2022
+Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável
+4.1 ACIONAMENTO D-96 D-95 D-91 D-90 D-86 D-85 D-82 D-78 D-74 D-70 D-67 D-64 D-63 D-57 D-50 D-49 D-48 D-44 D-43 D-39 D-36 D-33 D-30 D-27 D-24
+FORMALIZAÇÃO DE
+SOLICITAÇÃO DE APOIO DO
+RADAR SECUNDÁRIO
+TRANSPORTÁVEL AO DECEA
+(1 dia)
+ANÁLISE E AVALIAÇÃO DOS
+IMPACTOS OPERACIONAIS
+PELO SDOP/CGNA (5 dias)
+ANÁLISE E AVALIAÇÃO
+TÉCNICA PELO SDTE/PAME-
+RJ (5 dias)
+ORDEM DE MISSÃO DO
+DIRETOR DO PAME-RJ (PRÉ-
+SITE) (22 dias)
+
+--- PÁGINA ---
+ICA 63-29/2022 15/16
+Continuação do Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável
+4.2 PRÉ-SITE
+MISSÃO PRECURSORA E
+ENVIO DE RELATÓRIO À
+TRAD (14 dias)
+ANÁLISE DO RELATÓRIO
+(1 dia)
+COORDENAÇÕES PARA
+PREPARAÇÃO DA MISSÃO
+(5 dias)
+PREPARAÇÃO DO SÍTIO
+(20 dias)
+
+--- PÁGINA ---
+16/16 ICA 63-29/2022
+Continuação do Anexo A - Cronograma Estimado de Desdobramento do Radar Secundário Transportável
+4.3 TRANSPORTE DO
+D-23 D-22 D-21 D-20 D-19 D-18 D-17 D-16 D-15 D-14 D-13 D-12 D-11 D-10 D-9 D-8 D-7 D-6 D-5 D-4 D-3 D-2 D-1 D
+SISTEMA (PAME-RJ – SÍTIO)
+EMPACOTAMENTO DO
+SISTEMA (2 dias)
+TRANSPORTE PAME-RJ – CAN
+(1 dia)
+TRANSPORTE AÉREO (2 dias)
+TRANSPORTE CAN – SÍTIO
+(1 dia)
+4.4 MONTAGEM E PRONTO
+OPERACIONAL
+INSTALAÇÃO DO RADAR NO
+SÍTIO (5 dias)
+PARAMETRIZAÇÃO (7 dias)
+RESERVA TÉCNICA (2 dias)
+VOO DE HOMOLOGAÇÃO E
+INTEGRAÇÃO (3 dias)
+PRONTO OPERACIONAL

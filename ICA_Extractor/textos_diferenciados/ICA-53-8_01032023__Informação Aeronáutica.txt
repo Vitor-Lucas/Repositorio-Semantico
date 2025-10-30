@@ -1,0 +1,1651 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+INFORMAÇÃO AERONÁUTICA
+ICA 53-8
+SERVIÇOS DE INFORMAÇÃO AERONÁUTICA
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+INFORMAÇÃO AERONÁUTICA
+ICA 53-8
+SERVIÇOS DE INFORMAÇÃO AERONÁUTICA
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA No 742/DNOR4, DE 10 DE FEVEREIRO DE 2023.
+Aprova a reedição da Instrução que
+estabelece os requisitos para os Serviços
+de Informação Aeronáutica.
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 21, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 11.237, de 18 de outubro de
+2022, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA, aprovado
+pela Portaria no 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art. 1o Aprovar a reedição da ICA 53-8 "Serviços de Informação
+Aeronáutica", que com esta baixa.
+Art. 2o Esta Instrução entra em vigor em 1º de março de 2023.
+Art. 3o Revoga-se a Portaria DECEA no 289/DGCEA, de 1º de dezembro de
+2020, publicada no Boletim do Comando da Aeronáutica no 226, de 11 de dezembro de 2020.
+Ten Brig Ar ALCIDES TEIXEIRA BARBACOVI
+Diretor-Geral do DECEA
+(Publicado no BCA n°38 de 28 de fevereiro de 2023.)
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 53-8/2023
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES .................................................................................... 9
+1.1 FINALIDADE ..................................................................................................................... 9
+1.2 ABREVIATURAS E SIGLAS ............................................................................................ 9
+1.3 CONCEITUAÇÃO............................................................................................................ 10
+1.4 ÂMBITO ........................................................................................................................... 27
+2 GENERALIDADES ........................................................................................................... 28
+2.1 OBJETIVO ........................................................................................................................ 28
+2.2 RESPONSABILIDADE .................................................................................................... 28
+2.3 ORGANIZAÇÃO .............................................................................................................. 29
+2.4 ESTRUTURA.................................................................................................................... 30
+2.5 COMPETÊNCIAS ............................................................................................................ 30
+3 GESTÃO DOS DADOS E INFORMAÇÕES AERONÁUTICAS ................................ 33
+3.1 REQUISITOS DA GESTÃO DE INFORMAÇÃO .......................................................... 33
+3.2 INTERCÂMBIO DE DADOS E INFORMAÇÕES AERONÁUTICAS ......................... 33
+3.3 DIREITOS DE PROPRIEDADE INTELECTUAL .......................................................... 34
+3.4 RECUPERAÇÃO DE CUSTOS ....................................................................................... 35
+3.5 ESPECIFICAÇÕES SOBRE A QUALIDADE DOS DADOS ........................................ 35
+3.6 VERIFICAÇÃO ................................................................................................................ 37
+3.7 VALIDAÇÃO ................................................................................................................... 37
+3.8 COLETA DE DADOS ...................................................................................................... 37
+3.9 USO DA AUTOMAÇÃO ................................................................................................. 38
+3.10 SISTEMA DE GESTÃO DA QUALIDADE.................................................................... 38
+3.11 FATORES HUMANOS .................................................................................................... 40
+4 ÂMBITO DOS DADOS E INFORMAÇÕES AERONÁUTICAS ................................ 41
+4.1 CONTEÚDO ..................................................................................................................... 41
+4.2 METADADOS .................................................................................................................. 41
+4.3 SISTEMAS DE REFERÊNCIA COMUNS PARA NAVEGAÇÃO AÉREA ................. 42
+5 PRODUTOS E SERVIÇOS DE INFORMAÇÃO AERONÁUTICA ........................... 44
+5.1 GENERALIDADES .......................................................................................................... 44
+5.2 INFORMAÇÃO AERONÁUTICA EM APRESENTAÇÃO PADRONIZADA ............. 44
+5.3 PUBLICAÇÃO DE INFORMAÇÃO AERONÁUTICA (AIP) ....................................... 44
+5.4 EMENDA AIP................................................................................................................... 45
+5.5 SUPLEMENTO AIP ......................................................................................................... 46
+5.6 CIRCULARES DE INFORMAÇÃO AERONÁUTICA (AIC)........................................ 46
+5.7 CARTAS AERONÁUTICAS ........................................................................................... 47
+5.8 NOTAM ............................................................................................................................ 47
+5.9 eROTAER ......................................................................................................................... 48
+5.10 CONJUNTOS DE DADOS DIGITAIS ............................................................................ 48
+5.11 SERVIÇO DE INFORMAÇÃO PRÉ-VOO ..................................................................... 55
+5.12 SERVIÇO DE INFORMAÇÃO PÓS-VOO ..................................................................... 55
+5.13 ATUALIZAÇÕES DO CONJUNTO DE DADOS ........................................................... 56
+5.14 INFORMAÇÃO AERONÁUTICA EM FORMATO DIGITAL ..................................... 56
+6 DISPOSIÇÕES TRANSITÓRIAS ................................................................................... 57
+7 DISPOSIÇÕES FINAIS .................................................................................................... 58
+
+--- PÁGINA ---
+ICA 53-8/2023
+ANEXO A - Estrurura Organizacional do AIS................................................................... 59
+ANEXO B - Áreas de Cobertura e-TOD ............................................................................. 60
+REFERÊNCIAS ..................................................................................................................... 63
+
+--- PÁGINA ---
+ICA 53-8/2023
+PREFÁCIO
+Os padrões e práticas recomendados para os Serviços de Informação
+Aeronáutica foram adotados inicialmente em 15 de maio de 1953, em conformidade com o
+disposto no artigo 37 da Convenção sobre Aviação Civil Internacional (Chicago 1944), e
+foram designados como Anexo 15.
+Os padrões e práticas recomendados pela OACI contidos no Anexo 15
+passaram por 42 emendas.
+A edição da presente Instrução tem por finalidade aplicar uniformemente os
+padrões e práticas recomendados do Anexo 15 e do Doc 8126, promover a máxima eficiência
+na organização, no funcionamento e na evolução dos Serviços de Informação Aeronáutica
+cujo objetivo é de melhorar a qualidade e a integridade dos dados e das informações
+necessárias.
+Esta publicação foi reeditada em 2023 com o objetivo de:
+a) Atualizar a estrutura funcional do Serviço de Informação Aeronáutica; e
+b) Atualizar as áreas de atuação do AIS.
+Ademais, foram introduzidas melhorias editoriais na publicação
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 53-8/2023
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+A presente publicação tem por finalidade estabelecer os requisitos
+inerentes aos Serviços de Informação Aeronáutica.
+1.2 ABREVIATURAS E SIGLAS
+ACC - Centro de Controle de Área
+AIC - Circular de Informação Aeronáutica
+AIM - Gestão da Informação Aeronáutica
+AIP - Publicação de Informação Aeronáutica
+AIRAC - Regulação e Controle de Informação Aeronáutica
+AIS - Serviços de Informação Aeronáutica
+ATC - Controle de Tráfego Aéreo
+ATM - Gerenciamento de Tráfego Aéreo
+ATS - Serviço de Tráfego Aéreo
+AIXM - Modelo de Intercâmbio de Informações Aeronáuticas
+C-AIS - Centro de Informação Aeronáutica
+CGNA - Centro de Gerenciamento da Navegação Aérea
+CINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo
+CIRCEA - Circular do Controle do Espaço Aéreo
+CRCEA-SE - Centro Regional de Controle do Espaço Aéreo Sudeste
+DCA - Diretriz do Comando da Aeronáutica
+DECEA - Departamento de Controle do Espaço Aéreo
+eROTAER - Publicação Auxiliar de Rotas Aéreas eletrônico
+ICA - Instituto de Cartografia Aeronáutica
+ICA - Instrução do Comando da Aeronáutica
+IFR - Regras de Voo por Instrumentos
+ISO - International Organization for Standardization
+MCA - Manual do Comando da Aeronáutica
+MHz - Megahertz
+NOTAM - Aviso aos Aeronavegantes
+NOF - Centro de NOTAM
+OACI - Organização da Aviação Civil Internacional
+OAIM-1 - Seção de Recebimento de SDIA
+OAIM-2 - Seção de Análise de Dados e Informação Aeronáutica
+OAIM-3 - Seção de Divulgação de Dados e Informação Aeronáutica
+PSNA - Provedor de Serviço de Navegação Aérea
+SDIA - Solicitação de Divulgação de Informação Aeronáutica
+SDOP - Subdepartamento de Operações
+
+--- PÁGINA ---
+10/63 ICA 53-8/2023
+SISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro
+TMA - Área de Controle Terminal
+UTC - Tempo Coordenado Universal
+VHF - Frequência Muito Alta (30 a 300 MHz)
+VOR - Radiofarol Onidirecional em VHF
+1.3 CONCEITUAÇÃO
+Os termos e expressões indicados abaixo, que estão contidos no Anexo 15
+- Serviços de Informação Aeronáutica e na presente Instrução, têm os seguintes
+significados:
+1.3.1 AERÓDROMO
+Uma área definida em terra ou água (incluindo quaisquer edifícios,
+instalações e equipamentos) com o propósito de ser utilizada total ou parcialmente para a
+chegada, a saída e o movimento de superfície de aeronaves.
+1.3.2 AEROPORTO INTERNACIONAL
+Qualquer aeroporto designado pelo Estado como um porto de entrada ou
+saída para o tráfego aéreo internacional onde são executados procedimentos aduaneiros,
+imigração, saúde pública, regulamentos veterinários e fitossanitários e procedimentos
+semelhantes.
+1.3.3 AIRAC
+O sistema que visa a notificação prévia, com base em datas comuns de
+entrada em vigor, das circunstâncias que exigem mudanças significativas nos métodos de
+operações.
+1.3.4 AISWEB
+Fonte oficial de Informação Aeronáutica do Brasil, que possibilita ao
+usuário obter acesso aos Produtos e Serviços de Informação Aeronáutica disponibilizados
+na Internet (https://aisweb.decea.mil.br) ou na Intraer (http://aisweb.decea.intraer/).
+1.3.5 AIXM
+Modelo que tem por objetivo permitir a provisão em formato digital das
+informações aeronáuticas (AIS). O AIXM oferece suporte à transição, permitindo a
+
+--- PÁGINA ---
+ICA 53-8/2023 11/63
+coleta, verificação, disseminação e transformação de dados aeronáuticos digitais em toda
+a cadeia de dados, em particular no segmento que conecta o AIS com outros usuários.
+1.3.6 ALTITUDE MÍNIMA DE LIBERAÇÃO DE OBSTÁCULOS
+Altitude mínima para um segmento de voo definido que atenda aos
+critérios de liberação de obstáculos.
+1.3.7 ALTITUDE MÍNIMA EM ROTA
+A altitude de uma seção em rota que permite a recepção adequada de
+instalações e serviços de navegação aérea e comunicações ATS relevantes, está em
+conformidade com a estrutura do espaço aéreo e permite que seja mantida a distância
+necessária dos obstáculos.
+1.3.8 ALTURA
+Distância vertical de um nível a partir de uma referência inferior até um
+ponto específico numa extremidade superior.
+1.3.9 ALTURA ELIPSOIDAL (ALTURA GEODÉSICA)
+A altura relativa ao elipsoide de referência, medida ao longo do elipsoide
+externo normal pelo ponto em questão.
+1.3.10 ALTURA ORTOMÉTRICA
+Altura de um ponto em relação ao geoide, que geralmente é expresso como
+uma elevação do MSL.
+1.3.11 APLICAÇÃO
+Manipulação e processamento de dados em suporte aos requisitos do
+usuário.
+1.3.12 ÁREA 2 (e-TOD)
+Significa área de controle terminal, conforme publicada no AIP-Brasil ou
+limitada a um círculo com 45 km de raio com centro a partir do ponto de referência do
+aeródromo, a que for menor. Em aeródromos onde a área de controle terminal não tiver
+sido estabelecida, a Área 2 será limitada por um círculo com 45 km de raio com centro no
+respectivo ponto de referência.
+
+--- PÁGINA ---
+12/63 ICA 53-8/2023
+1.3.13 ÁREA 3 (e-TOD)
+Significa área de aeródromos com operação IFR destinada a cobrir a área
+que se estende da(s) borda(s) da(s) pista(s) de pouso e decolagem até 90m do eixo da
+pista. Para todas as outras partes da área de movimento, a Área 3 se estende até 50 m
+da(s) borda(s) das áreas definidas.
+1.3.14 ÁREA DE COLETA DE DADOS DE TERRENO OU OBSTÁCULOS
+Uma área definida com o objetivo de coletar dados sobre terreno ou
+obstáculos.
+1.3.15 ÁREA DE MANOBRA
+Parte do aeródromo destinada ao pouso, decolagem e movimento de
+aeronaves. Excluem-se os pátios.
+1.3.16 ÁREA DE MOVIMENTO
+Parte de um aeródromo a ser utilizada para decolagem, pouso e movimento
+de aeronaves, e que compreende a área de manobra e os pátios.
+1.3.17 ÁREA PERIGOSA
+Espaço aéreo de dimensões definidas, sobre o território ou mar territorial
+brasileiro, dentro do qual possam existir, em momentos específicos, atividades perigosas
+para o voo de aeronaves.
+1.3.18 ÁREA PROIBIDA
+Espaço aéreo de dimensões definidas, sobre o território ou mar territorial
+brasileiro, dentro do qual o voo de aeronaves é proibido.
+1.3.19 ÁREA RESTRITA
+Espaço aéreo de dimensões definidas, sobre o território ou mar territorial
+brasileiro, dentro do qual o voo de aeronaves é restringido conforme certas condições
+definidas.
+1.3.20 ASHTAM
+NOTAM de uma série especial que notifica, através de um formato
+específico, uma mudança de importância para as operações da aeronave devido à
+
+--- PÁGINA ---
+ICA 53-8/2023 13/63
+atividade de um vulcão, uma erupção vulcânica ou uma nuvem de cinzas vulcânicas.
+1.3.21 ATRIBUTO DE CARACTERÍSTICA
+Traços de uma característica. Um atributo de característica possui um
+nome, um tipo de dados e um domínio de valor associado.
+1.3.22 AUTORIDADE ORIGINADORA
+Autoridade responsável pela coleta, verificação e validação da informação
+ou dado aeronáutico necessários para o envio à Autoridade Fornecedora.
+1.3.23 BANCO DE DADOS CARTOGRÁFICOS DE AERÓDROMO
+Coleção de dados cartográficos de aeródromo organizada e apresentada
+como um conjunto de dados estruturados.
+1.3.24 BOLETIM DE INFORMAÇÃO PRÉVIA AO VOO
+Forma de apresentação das informações atuais do NOTAM, preparadas
+antes do voo, que são importantes para as operações.
+1.3.25 CALENDÁRIO
+Sistema de referência temporal discreto que fornece a base para definição
+da posição temporal até a resolução de um dia.
+1.3.26 CALENDÁRIO GREGORIANO
+Calendário de uso geral; estabelecido em 1582 para definir um ano mais
+próximo do ano tropical que o calendário juliano. Os anos comuns têm 365 dias e os anos
+bissextos têm 366 dias, e são divididos em 12 meses sucessivos.
+1.3.27 CARACTERÍSTICA
+Abstração de fenômenos do mundo real.
+1.3.28 CARTA AERONÁUTICA
+Representação de uma parte da Terra, suas construções e relevos, que
+servem especificamente para atender às necessidades da navegação aérea.
+1.3.29 NOF
+
+--- PÁGINA ---
+14/63 ICA 53-8/2023
+Centro de NOTAM do Sistema de Controle do Espaço Aéreo Brasileiro
+(SISCEAB) estabelecido com a finalidade de coletar, selecionar, fornecer e divulgar
+informações aeronáuticas de interesse imediato para a navegação aérea, bem como de
+prestar esclarecimentos e coordenação necessária para a divulgação correta da informação
+aeronáutica, por intermédio de NOTAM.
+1.3.30 CIRCULAR DE INFORMAÇÃO AERONÁUTICA (AIC)
+Publicação contendo informações que não se qualificam para a originação
+de um NOTAM ou para inclusão na Publicação de Informação Aeronáutica (AIP), mas
+que diga respeito à segurança de voo, navegação aérea, questões técnicas, administrativas
+ou legislativas.
+1.3.31 CLASSIFICAÇÃO DOS DADOS AERONÁUTICOS DE ACORDO COM SUA
+INTEGRIDADE
+Classificação baseada no risco potencial que o uso de dados alterados pode
+acarretar.
+1.3.32 CLIENTE
+Organização ou pessoa que acessa os produtos e serviços de informação
+aeronáutica. O cliente pode ser interno ou externo a uma organização.
+1.3.33 COMPILAÇÃO
+Processo de incorporação de dados de múltiplas fontes em um banco de
+dados e estabelecimento de linhas de base para processamento posterior. A fase de
+agrupamento inclui verificação de dados e garantia de que erros e omissões detectados
+serão retificados.
+1.3.34 COMUNICAÇÃO BASEADA EM PERFORMANCE
+Comunicação baseada em especificações de desempenho aplicáveis à
+prestação de serviços de tráfego aéreo. Uma especificação de desempenho de
+comunicação requerida inclui os requisitos de desempenho para comunicações que se
+aplicam aos componentes do sistema em termos da comunicação a ser oferecida e o
+tempo de transação, continuidade, disponibilidade, integridade, segurança e
+funcionalidade correspondentes à operação proposta no contexto de um conceito
+específico de espaço aéreo.
+
+--- PÁGINA ---
+ICA 53-8/2023 15/63
+1.3.35 COMUNICAÇÃO CONTROLADOR-PILOTO POR ENLACE DE DADOS
+Meio de comunicação entre controlador e piloto utilizando enlace de dados
+para comunicações ATS.
+1.3.36 CONJUNTO DE DADOS
+Coleção identificável de dados.
+1.3.37 CONSTRUÇÕES
+Todas as características artificiais construídas na superfície da Terra, como
+cidades, ferrovias ou canais.
+1.3.38 CONTROLE DE QUALIDADE
+Parte da gestão da qualidade que visa atender aos requisitos de qualidade.
+1.3.39 COPA DAS ÁRVORES
+Terra nua complementada pela altura da vegetação.
+1.3.40 DADOS AERONÁUTICOS
+Uma representação dos fatos, conceitos ou instruções aeronáuticas de uma
+maneira formalizada adequada para comunicação, interpretação e processamento.
+1.3.41 DADOS CARTOGRÁFICOS DE AERÓDROMO
+Dados coletados com o objetivo de compilar informações cartográficas de
+aeródromos. Os dados cartográficos de aeródromo são coletados para vários propósitos,
+por exemplo, para melhorar a consciência situacional do usuário, operações de navegação
+de superfície e atividades de instrução, mapeamento e planejamento.
+1.3.42 DADOS COMPLETOS
+Grau de confiança de que os dados fornecidos são todos necessários para o
+uso pretendido.
+1.3.43 DECLINAÇÃO DE ESTAÇÃO
+Variação do alinhamento entre a radial zero grau de um VOR e o norte
+verdadeiro, determinada no momento da calibração da estação VOR.
+
+--- PÁGINA ---
+16/63 ICA 53-8/2023
+1.3.44 DISTÂNCIA GEODÉSICA
+A menor distância entre dois pontos de uma superfície elipsoidal definida
+matematicamente.
+1.3.45 DISTRIBUIÇÃO PREDETERMINADA
+Sistema especial de distribuição dos NOTAM que chegam de outros
+países, diretamente aos órgãos operacionais interessados como Salas AIS e ACC.
+1.3.46 EMENDA AIP
+Mudanças permanentes às informações contidas na AIP.
+1.3.47 ENDEREÇO DE CONEXÃO
+Código específico usado para estabelecer a conexão do enlace de dados
+com o órgão ATS.
+1.3.48 ESPAÇAMENTO ENTRE POSIÇÕES
+Distância angular ou linear entre dois pontos de elevação adjacentes.
+1.3.49 ESPECIFICAÇÃO DE PERFORMANCE DE COMUNICAÇÃO REQUERIDA
+Conjunto de requisitos para a prestação de serviços de tráfego aéreo e
+equipamentos de terra, os recursos funcionais da aeronave e as operações correspondentes
+necessárias para apoiar a comunicação baseada no desempenho.
+1.3.50 ESPECIFICAÇÃO DE PERFORMANCE DE VIGILÂNCIA REQUERIDA
+(RSP)
+Conjunto de requisitos para a prestação de serviços de tráfego aéreo e
+equipamentos de terra, os recursos funcionais da aeronave e as operações correspondentes
+necessárias para apoiar a vigilância baseada no desempenho.
+1.3.51 ESPECIFICAÇÃO DE PRODUTO DE DADOS
+Descrição detalhada de um conjunto de dados ou de uma série de
+conjuntos de dados, juntamente com informações adicionais que permitirão que ele seja
+criado, fornecido a e usado por terceiros. Uma especificação de produto de dados fornece
+uma descrição do universo do discurso e uma especificação para transformar o universo
+
+--- PÁGINA ---
+ICA 53-8/2023 17/63
+do discurso em um conjunto de dados. Pode ser usado para produção, venda, uso final ou
+outros fins.
+1.3.52 ESPECIFICAÇÃO PARA NAVEGAÇÃO
+Conjunto de requisitos relacionados à aeronave e à tripulação de voo
+necessários para apoiar as operações de navegação com base no desempenho em um
+espaço aéreo definido. Existem dois tipos de especificações de navegação:
+a) Especificação para a performance de navegação requerida (RNP).
+Especificação para navegação baseada na área de navegação que inclui
+o requisito de controle de desempenho e alerta, designado por meio do
+prefixo RNP, por exemplo: RNP 4, RNP APCH; e
+b) Especificação para navegação por área (RNAV). Especificação para
+navegação baseada na área de navegação que não inclui os requisitos
+de controle de desempenho e alerta, designados por meio do prefixo
+RNAV, por exemplo: RNAV 5, RNAV 1.
+1.3.53 ESTADO CONTRATANTE
+É um Estado que aderiu à Convenção de Chicago sobre Aviação Civil
+Internacional, seja ou não membro das Nações Unidas (ONU) ou de qualquer outra
+agência.
+1.3.54 EXATIDÃO
+Grau de conformidade entre o valor estimado ou medido e o valor real.
+1.3.55 FASE DE ROTA
+Uma rota ou porção de rota voada sem pouso intermediário.
+1.3.56 FORMATO DE DADOS
+Estrutura de elementos, registros e arquivos de dados organizados de
+acordo com as disposições de normas, especificações ou requisitos de qualidade de dados.
+1.3.57 GARANTIA DE QUALIDADE
+Parte da gestão da qualidade que visa garantir que os requisitos de
+qualidade sejam atendidos.
+
+--- PÁGINA ---
+18/63 ICA 53-8/2023
+1.3.58 GEOIDE
+Superfície equipotencial no campo de gravidade da Terra que coincide
+com o nível médio do mar (MSL) e sua extensão continental. O geoide possui uma forma
+irregular devido a distúrbios gravitacionais locais (marés, salinidade, correntes, etc.) e a
+direção da gravidade é perpendicular ao geoide em cada ponto.
+1.3.59 GERENCIAMENTO DE TRÁFEGO AÉREO (ATM)
+Administração dinâmica e integrada - segura, econômica e eficiente - do
+tráfego aéreo e do espaço aéreo, que inclui serviços de tráfego aéreo, gerenciamento de
+espaço aéreo e gerenciamento de fluxo de tráfego aéreo, fornecendo instalações e serviços
+ininterruptos em colaboração com todas as partes interessadas e funções a bordo e em
+terra.
+1.3.60 GESTÃO DA QUALIDADE
+Atividades coordenadas para dirigir e controlar uma organização, de
+acordo com os requisitos de qualidade.
+1.3.61 GESTÃO DA INFORMAÇÃO AERONÁUTICA (AIM)
+Gerenciamento dinâmico e integrado de informações aeronáuticas por
+meio do fornecimento e intercâmbio de dados aeronáuticos digitais de qualidade
+garantida, em colaboração com todas as partes interessadas.
+1.3.62 HELIPORTO
+Heliponto público dotado de instalações e facilidades para apoio às
+operações de helicópteros e de processamento de passageiros e/ou cargas.
+1.3.63 INFORMAÇÃO AERONÁUTICA
+Informação resultante da coleta, análise e formatação de dados
+aeronáuticos.
+1.3.64 INTEGRIDADE DOS DADOS (NÍVEL DE GARANTIA)
+Grau de garantia de que os dados aeronáuticos e seus valores não foram
+perdidos ou alterados desde a obtenção original da referência ou de uma emenda
+autorizada.
+
+--- PÁGINA ---
+ICA 53-8/2023 19/63
+1.3.65 INTENÇÃO DE VOO
+É o conjunto de informações relativas a um voo programado, encaminhado
+ou não a um órgão ATS.
+1.3.66 METADADOS
+Dados referentes a dados. É a descrição estruturada do conteúdo,
+qualidade, condição ou outras características dos dados e está relacionada com a sua
+rastreabilidade.
+1.3.67 MODELO DIGITAL DE ELEVAÇÃO (MED)
+A representação da área do terreno por meio de valores de elevação
+contínuos em todas as interseções de uma grade definida, em relação a uma referência
+comum. Também chamado de Digital Terrain Model (DTM) em inglês.
+1.3.68 NAVEGAÇÃO BASEADA EM PERFORMANCE (PBN)
+Requisitos para navegação de área baseada em performance que se aplicam
+às aeronaves que operam em uma rota ATS, em um procedimento de aproximação por
+instrumentos ou em um espaço aéreo designado. Os requisitos de performance são
+expressos nas especificações de navegação (especificações RNAV e RNP), dependendo
+da precisão, integridade, continuidade, disponibilidade e funcionalidade necessárias para
+a operação proposta no contexto de um conceito de espaço aéreo específico.
+1.3.69 NAVEGAÇÃO DE ÁREA (RNAV)
+Método de navegação que permite a operação de aeronaves em qualquer
+rota de voo desejada, dentro da cobertura de auxílios à navegação terrestres ou espaciais,
+ou dentro dos limites de capacidade de auxílios autônomos, ou uma combinação de
+ambos. A navegação de área inclui a navegação baseada em performance, bem como
+outras operações não incluídas na definição de navegação baseada em performance.
+1.3.70 NÍVEL DE CONFIANÇA
+A probabilidade de que o valor verdadeiro de um parâmetro esteja dentro
+de determinado intervalo que contenha a estimativa de seu valor. O intervalo é geralmente
+chamado de “exatidão” da estimativa.
+1.3.71 NOTAM
+
+--- PÁGINA ---
+20/63 ICA 53-8/2023
+Aviso distribuído pelos meios de telecomunicações contendo informações
+quanto ao estabelecimento, condição ou mudança em qualquer instalação, serviço,
+procedimento ou risco de acidente aeronáutico e cujo conhecimento em tempo hábil seja
+essencial para o pessoal envolvido em operações aéreas.
+1.3.72 NOTAM ESTRANGEIRO
+NOTAM emitido por outros países, que tem por objetivo divulgar
+informações de interesse da aviação internacional.
+1.3.73 NOTAM INTERNACIONAL
+NOTAM emitido pelo Brasil, no idioma inglês, que tem por objetivo
+divulgar informações de interesse da aviação internacional.
+1.3.74 OBSTÁCULO
+Todo objeto fixo (seja temporário ou permanente) ou móvel, ou parte
+deles, que esteja localizado em uma área destinada ao movimento de aeronaves no solo,
+em uma área de extensão sobre uma superfície definida destinada à proteção de aeronaves
+em voo ou em uma superfície definida e tenha sido considerado perigoso para a
+navegação aérea.
+1.3.75 ONDULAÇÃO GEOIDAL
+A distância do geoide acima (positiva) ou abaixo (negativa) da referência
+matemática elipsoide. Com relação ao elipsoide definido no Sistema Geodésico Mundial -
+1984 (WGS-84), a diferença entre a altura elipsoidal e a altura ortométrica no WGS-84
+representa a ondulação do geoide no WGS-84.
+1.3.76 OPERAÇÃO DE UMA CARACTERÍSTICA
+Operação que cada tipo de característica pode executar a qualquer
+momento. Por exemplo, uma operação em um tipo de característica “barragem” é elevar a
+barragem. O resultado desta operação é aumentar o nível da água no reservatório.
+1.3.77 ORGANIZAÇÃO REGIONAL
+Organização Militar subordinada ao DECEA, responsável pela prestação
+de serviços à navegação aérea em uma determinada área do território nacional. São
+Organizações Regionais os CINDACTA e o CRCEA-SE.
+
+--- PÁGINA ---
+ICA 53-8/2023 21/63
+1.3.78 ORIGEM (DADOS OU INFORMAÇÕES AERONÁUTICAS)
+Criação de um novo dado ou nova informação, ação ou modificação de
+dados ou informações.
+1.3.79 PONTUALIDADE DOS DADOS
+Grau de confiança de que os dados são aplicáveis ao período em que se
+destinam a ser utilizados.
+1.3.80 POSIÇÃO (GEOGRÁFICA)
+Conjunto de coordenadas (latitude e longitude) referente ao elipsoide de
+referência matemática que define a posição de um ponto na superfície da Terra.
+1.3.81 PRECISÃO
+Menor diferença que pode ser distinguida de forma confiável por um
+processo de medição. Com referência a levantamentos geodésicos, precisão é o nível de
+ajuste ao executar uma operação ou o nível de perfeição dos instrumentos e métodos
+usados ao fazer medições.
+1.3.82 PRINCÍPIOS RELACIONADOS A FATORES HUMANOS
+Princípios que se aplicam ao projeto, certificação, instrução, operações e
+manutenção aeronáutica e cujo objetivo é estabelecer uma interface segura entre o
+humano e outros componentes do sistema, mediante a devida consideração do
+desempenho humano.
+1.3.83 PRODUTO DE DADOS
+Conjunto de dados ou série de conjuntos de dados em conformidade com
+uma especificação de produto de dados.
+1.3.84 PRODUTOS DE INFORMAÇÃO AERONÁUTICA
+Dados e informações aeronáuticas fornecidos na forma de um conjunto de
+dados digitais, em papel ou em formato eletrônico, que incluem: AIP, Emendas AIP,
+Suplementos AIP, AIC, NOTAM, Cartas Aeronáuticas, eROTAER, Emenda Digital (D-
+AMDT), AIXM e Conjunto de Dados Digitais.
+
+--- PÁGINA ---
+22/63 ICA 53-8/2023
+NOTA: Os produtos de informação aeronáutica destinam-se
+principalmente a satisfazer os requisitos internacionais para o intercâmbio de informações
+aeronáuticas.
+1.3.85 PROPRIEDADE INTELECTUAL
+Gênero do qual são espécies a propriedade industrial e os direitos autorais,
+e compreendem, segundo a Organização Mundial da Propriedade Intelectual, “a soma dos
+direitos relativos às obras literárias, artísticas e cientificas, às interpretações dos artistas
+intérpretes e às execuções dos artistas executantes, aos fonogramas e às emissões de
+radiodifusão, às invenções em todos os domínios da atividade humana, às descobertas
+científicas, aos desenhos e modelos industriais, às marcas industriais, comerciais e de
+serviço, bem como às firmas comerciais e denominações comercias, à proteção contra a
+concorrência desleal e todos os outros direitos inerentes à atividade intelectual nos
+domínios industrial, cientifico, literário e artístico, incluindo patentes, marcas, desenhos
+industriais, indicações geográficas e segredos de negócio.”
+1.3.86 PRÓXIMO USUÁRIO PRETENDIDO
+Entidade que recebe dados ou informações aeronáuticas do serviço de
+informações aeronáuticas.
+1.3.87 PUBLICAÇÃO DE INFORMAÇÃO AERONÁUTICA (AIP)
+Publicação emitida por qualquer Estado, ou com sua autorização, contendo
+informações aeronáuticas, de natureza duradoura, essenciais para a navegação aérea.
+1.3.88 QUALIDADE
+Grau em que determinado conjunto de características inerentes atende a
+arequisitos. O termo "qualidade" pode ser usado com adjetivos, como ruim, boa ou
+excelente. O termo “inerente”, ao contrário de “atribuído”, significa que existe em algo,
+especialmente como uma característica permanente.
+1.3.89 QUALIDADE DE DADOS
+Grau ou nível de confiança de que os dados fornecidos atenderão aos
+requisitos do usuário em termos de exatidão, resolução, integridade (ou grau equivalente
+de garantia), rastreabilidade, pontualidade e formato.
+
+--- PÁGINA ---
+ICA 53-8/2023 23/63
+1.3.90 RASTREABILIDADE
+Capacidade de rastrear o histórico, a aplicação ou localização do que está
+sob análise. No que tange a Produtos, a rastreabilidade pode estar relacionada a: origem
+dos materiais e peças; histórico de processamento e distribuição e localização do produto
+após a entrega.
+1.3.91 RASTREABILIDADE DE DADOS
+Grau em que um sistema ou produto feito com dados fornece um registro
+das alterações introduzidas no produto, permitindo que a trilha de auditoria seja retirada
+do usuário final para o originador.
+1.3.92 REFERÊNCIA
+Qualquer quantidade ou conjunto de quantidades que possa servir de
+referência ou base para o cálculo de outras quantidades.
+1.3.93 REFERÊNCIA GEODÉSICA
+Conjunto mínimo de parâmetros necessários para definir a localização e a
+orientação do sistema de referência local em relação ao sistema/estrutura de referência
+global.
+1.3.94 REGIME DE TRÂNSITO DIRETO
+Acordos especiais, aprovados pelas autoridades competentes, segundo os
+quais o tráfego que faz uma breve parada em sua passagem pelo Estado Contratante pode
+permanecer sob a jurisdição imediata dessas autoridades.
+1.3.95 RELAÇÃO DE CARACTERÍSTICA
+Relação que vincula instâncias de um tipo de característica com instâncias
+de um mesmo tipo de característica ou de tipo diferente.
+1.3.96 REPRESENTAÇÃO
+Apresentação de informações para seres humanos.
+1.3.97 REQUISITO
+Necessidade ou expectativa estabelecida, geralmente implícita ou
+obrigatória.
+
+--- PÁGINA ---
+24/63 ICA 53-8/2023
+1.3.98 RESOLUÇÃO DE DADOS
+Um número de unidades ou dígitos em que um valor medido ou calculado
+é expresso e usado.
+1.3.99 SÉRIE DE CONJUNTOS DE DADOS
+Coleção de conjuntos de dados que compartilham a mesma especificação
+de produto.
+1.3.100 SERVIÇO AUTOMÁTICO DE INFORMAÇÃO TERMINAL
+Fornecimento automático de informações regulares e atualizadas às
+aeronaves que chegam e partem, durante 24 horas ou uma parte delas:
+a) Serviço automático de informação terminal por enlace de dados (D-
+ATIS). Fornecimento de ATIS através de enlace de dados; e
+b) Serviço automático de informação terminal por voz (ATIS-Voz).
+Fornecimento de ATIS através de transmissões de voz contínuas e
+repetitivas.
+1.3.101 SERVIÇO DE GERENCIAMENTO DE PLANO DE VOO
+Serviço que tem como finalidade o gerenciamento do fluxo das intenções
+de voo, para garantir informação rastreável, oportuna, confiável e precisa em cada etapa
+do processo.
+1.3.102 SERVIÇO DE RADIONAVEGAÇÃO
+Serviço que fornece informações de orientação ou dados de posição para a
+operação eficiente e segura de aeronaves por meio de um ou mais auxílios à navegação.
+1.3.103 SERVIÇO DE VIGILÂNCIA ATS
+Termo usado para indicar um serviço provido diretamente por meio de um
+Sistema de Vigilância ATS.
+1.3.104 SERVIÇO FIXO AERONÁUTICO
+Serviço de telecomunicações entre pontos fixos específicos, cujo objetivo
+central é a segurança da navegação aérea e a operação regular, eficiente e econômica dos
+serviços de transporte aéreo.
+
+--- PÁGINA ---
+ICA 53-8/2023 25/63
+1.3.105 SERVIÇOS DE INFORMAÇÃO AERONÁUTICA
+Serviços estabelecidos dentro de uma área de cobertura definida,
+responsável pelo fornecimento de informação e dados aeronáuticos necessários para a
+segurança, a regularidade e a eficiência da navegação aérea.
+1.3.106 SISTEMA DE GESTÃO DA QUALIDADE
+Sistema de atividade coordenada para dirigir e controlar uma organização
+no que diz respeito à qualidade.
+1.3.107 SISTEMA DE VIGILÂNCIA ATS
+Termo genérico que significa de modo variado, o ADS-B, PSR, SSR ou
+qualquer sistema de terra equivalente que permita a identificação de aeronave.
+NOTA: Sistema de terra equivalente é aquele que foi demonstrado, por avaliação
+comparativa ou outra metodologia, ter um nível de segurança e desempenho
+igual ou melhor do que o SSR monopulso.
+1.3.108 SNOWTAM
+NOTAM de uma série especial, apresentada em formato padronizado no
+qual é fornecido um relatório sobre as condições da pista que notifica a presença ou
+cessação de condições perigosas devido à neve, gelo, neve derretida, geada, água parada
+ou água associada com neve, lama, gelo ou geada na área de movimento.
+1.3.109 SUPLEMENTO AIP
+Mudanças temporárias nas informações contidas na AIP que são
+publicadas por meio de páginas especiais.
+1.3.110 TERRA NUA
+A superfície da Terra que inclui corpos de água, gelo e neve eterna e exclui
+vegetação e objetos artificiais.
+1.3.111 TERRENO
+Superfície da Terra contendo características naturais como montanhas,
+colinas, cumes, vales, massas de água, gelo e neve permanente, exceto obstáculos.
+
+--- PÁGINA ---
+26/63 ICA 53-8/2023
+1.3.112 TIPO DE CARACTERÍSTICA
+Classe de fenômenos do mundo real com propriedades comuns. Em um
+catálogo de características, o nível básico de classificação é o tipo de característica.
+1.3.113 TRANSMISSÃO VOLMET
+O fornecimento, conforme apropriado, de METAR, SPECI, TAF e
+SIGMET atuais por meio de transmissões orais contínuas e repetitivas.
+1.3.114 VALIDAÇÃO
+É a garantia de que dados e informações aeronáuticas, bem como os
+respectivos metadados, tenham passado por verificação e atendam corretamente aos
+critérios previstos, possibilitando sua liberação para uso.
+1.3.115 VERIFICAÇÃO
+Confirmação, por meio do fornecimento de indícios objetivos, de que
+foram cumpridos os requisitos específicos.
+1.3.116 VERIFICAÇÃO POR REDUNDÂNCIA CÍCLICA
+Algoritmo matemático aplicado à expressão digital dos dados que fornece
+um certo nível de garantia contra a perda ou alteração dos dados.
+1.3.117 VIGILÂNCIA BASEADA EM PERFORMANCE (PBS)
+Vigilância baseada nas especificações de desempenho que se aplicam à
+prestação de serviços de tráfego aéreo. Uma especificação de Performance de Vigilância
+Requerida (RSP) inclui requisitos de desempenho de vigilância que são alocados aos
+componentes do sistema em termos da vigilância que será fornecida e o tempo de entrega
+de dados associado, continuidade, disponibilidade, integridade, precisão dos dados de
+vigilância, segurança e funcionalidade, necessários à operação proposta no contexto de
+um conceito específico de espaço aéreo.
+1.3.118 VIGILÂNCIA DEPENDENTE AUTOMÁTICA – CONTRATO (ADS-C)
+Meios que permitem ao sistema terrestre e à aeronave estabelecer, por
+meio de enlace de dados, as condições de um contrato ADS-C, especificando em que
+
+--- PÁGINA ---
+ICA 53-8/2023 27/63
+condições os informes ADS-C seriam iniciados e quais dados estariam contidos nesses
+informes.
+1.3.119 VIGILÂNCIA DEPENDENTE AUTOMÁTICA – RADIODIFUSÃO (ADS-B)
+Meios pelos quais as aeronaves, os veículos de aeródromo e outros objetos
+podem transmitir e/ou receber automaticamente dados, como identificação, posição e
+dados adicionais, conforme apropriado, através de radiodifusão via enlace de dados.
+1.3.120 VOLMET
+Informação meteorológica para aeronaves em voo.
+1.3.121 VOLMET POR ENLACE DE DADOS (D-VOLMET)
+Fornecimento de informe meteorológico regular de aeródromo (METAR) e
+informe meteorológico especial de aeródromo (SPECI), previsão de aeródromo (TAF),
+SIGMET, informes aéreos especiais não cobertos por um SIGMET e, se disponível,
+AIRMET por enlace de dados.
+1.3.122 ZONA DE IDENTIFICAÇÃO DE DEFESA AÉREA (ADIZ)
+Espaço aéreo especial de dimensões definidas, dentro do qual as aeronaves
+devem atender a procedimentos especiais de identificação e notificação, além daqueles
+relacionados à prestação de serviços de tráfego aéreo.
+1.4 ÂMBITO
+Esta Instrução é de observância obrigatória e aplica-se aos profissionais e
+aos clientes dos Serviços de Informação Aeronáutica.
+
+--- PÁGINA ---
+28/63 ICA 53-8/2023
+2 GENERALIDADES
+2.1 OBJETIVO
+2.1.1 Assegurar que os dados e as informações aeronáuticas necessários para a segurança,
+regularidade, economia e eficiência do Gerenciamento de Tráfego Aéreo sejam
+distribuídos de forma ambientalmente sustentável.
+2.1.2 Garantir, também, que os dados e as informações aeronáuticas sejam
+disponibilizados aos envolvidos em operações de voo, incluindo tripulações, pessoal de
+planejamento de voo e simuladores de voo, bem como o órgão ATS responsável pelo
+serviço de informação de voo e os serviços responsáveis pela informação pré-voo.
+2.1.3 O papel e a importância dos dados e informações aeronáuticas mudaram
+significativamente com a implementação da Navegação de Área (RNAV), Navegação
+Baseada em Performance (PBN), Sistemas de Navegação baseados em computador,
+sistemas de enlace de dados e comunicações de voz via satélite (SATVOICE).
+2.1.4 Quando corrompidos, errados, inoportunos ou ausentes, os dados e informações
+aeronáuticas podem afetar a segurança da navegação aérea.
+2.2 RESPONSABILIDADE
+2.2.1 O Serviço de Informação Aeronáutica é responsável por receber, verificar, validar e
+divulgar dados e informações aeronáuticas, bem como receber, analisar e encaminhar
+todas as intenções de voo em todo o território brasileiro, incluindo águas territoriais,
+jurisdicionais e o espaço aéreo que tenha sido objeto de acordo internacional de
+navegação aérea.
+2.2.2 Deve garantir que os dados e informações aeronáuticas sejam colocados à
+disposição dos componentes do ATM Global, atendendo aos requisitos de qualidade dos
+dados e informações aeronáuticas.
+2.2.3 A função de receber as SDIA, e de verificar, validar os dados e informações
+aeronáuticas é desempenhada, respectivamente, pela OAIM-1 e OAIM-2, localizadas
+numa Organização Regional e no ICA, de acordo com o organograma do Anexo A.
+
+--- PÁGINA ---
+ICA 53-8/2023 29/63
+2.2.4 A função de divulgar os dados e as informações aeronáuticas como Produtos de
+Informação Aeronáutica é desempenhada pela OAIM-3, localizada no Instituto de
+Cartografia Aeronáutica, de acordo com o organograma do Anexo A.
+2.3 ORGANIZAÇÃO
+2.3.1 Os Serviços de Informação Aeronáutica estão organizados em três categorias de
+funções:
+a) gerencial – inerente à gestão dos AIS no âmbito nacional e regional;
+b) operacional – (produção e serviços – atividade inerente à cadeia de
+dados e informações aeronáuticas e confecção dos Produtos de
+Informação Aeronáutica, bem como pelo fornecimento de informação
+aeronáutica e tratamento das intenções de voo;
+c) De suporte – Funções exercidas por outros componentes com o único
+objetivo de suportar o exercício das funções dos Serviços de Informação
+Aeronáutica, dentre as quais pode-se destacar:
+- técnico – inerente à implantação e manutenção da gestão da qualidade
+na cadeia dos dados e informações aeronáuticas e das propostas de
+práticas e ferramentas técnicas;
+- capacitação – inerente ao acompanhamento acadêmico da formação e
+da capacitação e treinamento de Profissionais AIS, à coordenação de
+pesquisa, planejamento, elaboração de material didático, à gestão da
+aplicação do treinamento e à gerência da avaliação operacional; e
+- segurança operacional – inerente ao acompanhamento e gerência da
+segurança operacional e ao assessoramento na apuração das infrações
+de tráfego aéreo e descumprimento das normas que regulam o
+SISCEAB)
+2.3.2 As atividades dos AIS são desenvolvidas nos seguintes órgãos:
+a) gerencial:
+- Divisão de Normas (DNOR) do SDOP - DECEA;
+- Divisão de Planejamento (DPLN) do SDOP – DECEA; e
+- Divisão de Coordenação e Controle (DCCO) do SDOP – DECEA.
+
+--- PÁGINA ---
+30/63 ICA 53-8/2023
+b) operacional:
+- Gestão de Informação Aeronáutica (AIM) – REGIONAIS, ICA e
+CGNA;
+- OAIM-1, OAIM-2 – ICA e REGIONAIS
+- OAIM-3 - ICA;
+- NOF (Centro de NOTAM) – ICA;
+- Salas AIS de Aeródromo;
+- Sala AIS de Órgão ATC; e
+- C-AIS.
+c) De suporte
+- Serviço realizado por setores AIS, porém, não estão relacionados
+diretamente às operações.
+2.4 ESTRUTURA
+2.4.1 FUNCIONAL
+2.4.1.1 Os Serviços de Informação Aeronáutica estão estruturados conforme Anexo A.
+O detalhamento das competências, das atribuições e das funções exercidas nos Órgãos
+AIS deve constar nos Regimentos Internos correspondentes, Normas Padrão de Ação ou
+documentos equivalentes.
+2.4.1.2 Os órgãos, que não são subordinados ao DECEA, devem adotar uma estrutura
+que garanta que o objetivo dos Serviços de Informação Aeronáutica seja atingido.
+2.5 COMPETÊNCIAS
+A obtenção de resultados eficazes na gestão da cadeia de dados e
+informações aeronáuticas exige, cada vez mais, que as organizações trabalhem em
+conjunto. Ao trabalharem em conjunto, as organizações podem melhorar e sustentar uma
+abordagem colaborativa para atingir as metas, objetivos e propósitos da qualidade
+requerida pelo setor aéreo nacional e mundial. Portanto há a necessidade de atuação
+conjunta com vistas às atividades relacionadas à gestão dos dados e informações
+aeronáuticas no que se refere ao SGQ, à qualidade do produto, à capacitação e à condução
+dos projetos.
+
+--- PÁGINA ---
+ICA 53-8/2023 31/63
+2.5.1 DECEA
+2.5.1.1 É a autoridade aeronáutica responsável pela diretriz dos Serviços de Informação
+Aeronáutica no Brasil.
+2.5.1.2 Ao SDOP compete planejar, coordenar, controlar, fiscalizar e normatizar as
+atividades operacionais na área dos Serviços de Informação Aeronáutica.
+2.5.2 AIM DA(O):
+2.5.2.1 Organização Regional e CGNA:
+a) planejar, analisar, coordenar, supervisionar, controlar e inspecionar os
+Serviços de Informação Aeronáutica na sua área de jurisdição;
+b) gerenciar as atividades relativas à capacitação dos Profissionais AIS
+envolvidos com a cadeia de dados e informação aeronáutica e com o
+tratamento das intenções de voo executado pelo C-AIS; e
+c) implementar e manter a gestão da qualidade na cadeia de dados e
+informações aeronáuticas.
+2.5.2.2 ICA
+a) planejar, analisar, coordenar, supervisionar, controlar e inspecionar os
+Serviços de Gestão da Informação Aeronáutica sob sua
+responsabilidade;
+b) gerenciar as atividades relativas à capacitação dos Profissionais AIS
+envolvidos com a cadeia de dados e informação aeronáutica; e
+c) implementar e manter a gestão da qualidade na cadeia de dados e
+informações aeronáuticas.
+NOTA 1: A definição do Produto de Informação Aeronáutica mais
+adequado para a divulgação dos dados e informações aeronáuticas é
+competência exclusiva da AIM do ICA
+NOTA 2: O NOF, que compõe a estrutura da OAIM-3, é o órgão
+responsável pelo intercâmbio internacional de NOTAM e por responder as
+
+--- PÁGINA ---
+32/63 ICA 53-8/2023
+consultas de outros NOF ou encaminhá-las aos setores competentes,
+conforme previsto no MCA 53-2.
+2.5.2.3 Os procedimentos básicos para o funcionamento de órgãos AIM estão previstos
+no MCA 53-5.
+2.5.3 SALA AIS DE AERÓDROMO, SALA AIS DE AUTOATENDIMENTO E
+SALA AIS DE ÓRGÃO ATC
+2.5.3.1 receber, analisar, tratar e encaminhar as intenções de voo, conforme previsto na
+ICA 53-2.
+2.5.4 C-AIS:
+2.5.4.1 As competências do C-AIS quanto ao fornecimento de informação aeronáutica e
+a prestação do serviço de recebimento, análise, processamento e encaminhamento
+das intenções de voo da sua jurisdição, estão previstos no MCA 53-4.
+2.5.4.2 Os procedimento para o AIS garantir o dinamismo do gerenciamento do fluxo
+das intenções de voo, desde sua fonte até o seu destinatário final, por meio de
+processos auditáveis, centrados em informações ou dados aeronáuticos, visando a
+correção, integridade, rastreabilidade e oportunidade estão previstos na ICA 53-2
+e no MCA53-4.
+
+--- PÁGINA ---
+ICA 53-8/2023 33/63
+3 GESTÃO DOS DADOS E INFORMAÇÕES AERONÁUTICAS
+Os órgãos envolvidos devem estabelecer os recursos e processos
+necessários de gestão de informação para permitir a coleta, o processamento, o
+armazenamento, a integração, o intercâmbio e a distribuição oportuna dos dados e
+informações aeronáuticas com qualidade assegurada.
+3.1 REQUISITOS DA GESTÃO DE INFORMAÇÃO
+3.1.1 Os Serviços de Informação Aeronáutica estabelecem recursos e processos de gestão
+da informação suficientes para permitir a coleta, o processamento, o armazenamento, a
+integração, o intercâmbio e a distribuição de dados e informações aeronáuticas de
+qualidade assegurada no sistema de gerenciamento do tráfego aéreo (ATM).
+3.1.2 O levantamento e a transmissão de dados aeronáuticos devem estar de acordo com a
+precisão e integridade previstas na TCA 53-2 para satisfazer as necessidades do usuário
+final.
+3.1.3 O objetivo do estabelecimento de processos na cadeia de dados e informações
+aeronáuticas é proporcionar informação eletrônica com qualidade garantida, em tempo
+real, incluindo informações relativas ao terreno e a obstáculo e, consequentemente,
+melhorar a segurança e a eficiência do ATM, bem como garantir que todos os seus
+membros tenham a mesma informação, de modo a facilitar a tomada de decisões de forma
+colaborativa.
+3.2 INTERCÂMBIO DE DADOS E INFORMAÇÕES AERONÁUTICAS
+3.2.1 As informações aeronáuticas são fornecidas sob a forma de Produtos de Informação
+Aeronáutica e serviços associados.
+3.2.2 Os Produtos de Informação Aeronáutica em formato digital e o AIXM são
+disponibilizados sem encargos no AISWEB, conforme previsto na ICA 53-7.
+3.2.3 Para que os dados e informações aeronáuticas sejam fornecidos em vários formatos,
+é necessário que os AIS e as organizações responsáveis por fornecer os dados brutos
+sigam os processos implementados de modo a assegurar a consistência dos dados e
+informações entre os formatos.
+
+--- PÁGINA ---
+34/63 ICA 53-8/2023
+3.2.4 O ICA é a organização responsável por publicar e disponibilizar os dados e
+informações aeronáuticas.
+3.2.5 Cada Estado Contratante designará o escritório para o qual todos os elementos dos
+produtos de informação aeronáutica fornecidos por outros Estados deverão ser
+endereçados. Este escritório estará qualificado para responder a solicitações de
+informações aeronáuticas e dados aeronáuticos fornecidos por outros Estados.
+3.2.6 O intercâmbio de mais de uma cópia de cada um dos elementos de produtos de
+informação aeronáutica e outros documentos de navegação aérea, incluindo aqueles que
+contêm legislação e regulamentos de navegação aérea, deve estar sujeito a acordos
+bilaterais entre os Estados contratantes e as entidades participantes.
+3.2.7 Sempre que possível, o contato direto entre os AIS deve ser estabelecido a fim de
+facilitar o intercâmbio internacional de dados aeronáuticos e informações aeronáuticas.
+3.2.8 As especificações relativas à classificação de precisão e integridade relativas aos
+dados e as informações aeronáuticas estão previstas na TCA 53-2.
+3.2.9 As informações notificadas usando o sistema AIRAC não devem ser modificadas
+novamente, pelo menos, até 28 dias após a data de efetivação, a menos que a
+circunstância notificada seja temporária e não subsista por todo o período.
+3.3 DIREITOS DE PROPRIEDADE INTELECTUAL
+3.3.1 A cessão de direitos patrimoniais do autor ocorrerá na forma gratuita, não exclusiva
+e parcial no âmbito da coleta de dados e informações aeronáuticas. Ou seja, haverá a
+cessão parcial de direitos e as autoridades originadoras e as fornecedoras externas ao
+DECEA não serão remuneradas, conforme previsto na ICA 53-4.
+3.3.2 Qualquer Produto de Informação Aeronáutica que tenha recebido proteção de
+direitos de propriedade intelectual pelo Estado originador e tenha sido fornecido a outro
+Estado será disponibilizado a terceiros apenas na condição de que este último deve ser
+informado de que o produto em questão é considerado propriedade intelectual, e desde
+que tenha uma notação apropriada de que o material está sujeito aos direitos de
+propriedade intelectual do Estado originador.
+
+--- PÁGINA ---
+ICA 53-8/2023 35/63
+3.3.3 Quando os dados e informações aeronáuticas são fornecidos a um Estado, o Estado
+receptor não deve fornecer conjuntos de dados digitais do Estado transmissor a terceiros
+sem o consentimento do Estado transmissor.
+3.4 RECUPERAÇÃO DE CUSTOS
+3.4.1 O custo geral de coletar e compilar os dados e informações aeronáuticas deve ser
+incluído na base de custos para o estabelecimento de taxas para a utilização dos
+aeroportos e serviços de navegação aérea, conforme o caso, de acordo com os princípios
+contidos nas políticas relativas aos direitos dos aeroportos e aos serviços de navegação
+aérea.
+3.4.2 Quando o custo de coleta e compilação dos dados e informações aeronáuticas é
+recuperado através do uso de aeroportos e serviços de navegação aérea, o direito de cada
+cliente pela utilização dos Produtos de Informação Aeronáutica deverá ser baseado nos
+custos de impressão, produção de material eletrônico e distribuição.
+3.5 ESPECIFICAÇÕES SOBRE A QUALIDADE DOS DADOS
+3.5.1 O grau de precisão dos dados aeronáuticos dependerá do uso para o qual é
+necessário.
+3.5.2 O grau de resolução dos dados aeronáuticos corresponderá à precisão real dos
+dados.
+NOTA 1: As especificações relativas à resolução de dados aeronáuticos estão previstas na
+TCA 53-2.
+NOTA 2: A resolução dos dados contidos no banco de dados pode ser igual ou superior à
+resolução da publicação.
+3.5.3 A integridade dos dados aeronáuticos deve ser mantida ao longo de todo o processo,
+do início até a distribuição ao próximo usuário.
+NOTA: As especificações relativas à classificação dos dados aeronáuticos de acordo com
+a sua integridade estão previstas na TCA 53-2.
+3.5.4 Com relação à integridade, os dados aeronáuticos são classificados como:
+
+--- PÁGINA ---
+36/63 ICA 53-8/2023
+a) comuns: probabilidade muito baixa de que, usando dados comuns
+corrompidos, a continuação segura do voo e o pouso de uma aeronave
+corram riscos sérios que podem causar uma catástrofe;
+b) essenciais: baixa probabilidade de que, usando dados essenciais
+corrompidos, a continuação segura do voo e o pouso de uma aeronave
+corram riscos sérios que podem causar uma catástrofe; e
+c) críticos: alta probabilidade de que, usando dados críticos corrompidos, a
+continuação segura do voo e o pouso de uma aeronave corram sérios
+riscos que podem causar uma catástrofe.
+3.5.5 De acordo com a integridade aplicável, serão estabelecidos procedimentos que
+permitam aos dados:
+a) comuns: evitar corrupções durante todo o processamento de dados;
+b) essenciais: garantir que não ocorrerá corrupção dos dados em qualquer
+estágio do processo e incluir processos adicionais, conforme necessário,
+para lidar com riscos potenciais em toda a arquitetura do sistema, a fim
+de garantir ainda mais a integridade dos dados naquele nível; e
+c) críticos: garantir que não ocorrerá corrupção dos dados em qualquer
+estágio do processo e incluir processos adicionais de garantia de
+integridade para mitigar completamente os efeitos das falhas
+identificadas por meio de uma análise exaustiva de toda a arquitetura do
+sistema como riscos potenciais para integridade dos dados.
+3.5.6 A rastreabilidade dos dados aeronáuticos será obtida e conservada durante todo o
+tempo em que os dados estiverem em uso.
+3.5.7 A pontualidade será assegurada pela fixação de limites no período de validade dos
+elementos de dados.
+NOTA 1: Esses limites podem corresponder a determinado elemento de dados ou
+conjunto de dados.
+NOTA 2: Se um conjunto de dados tiver um período de validade definido, esse período
+será usado para definir as datas de entrada em vigor de todos os elementos de
+dados específicos.
+
+--- PÁGINA ---
+ICA 53-8/2023 37/63
+3.5.8 A integralidade dos dados aeronáuticos será assegurada para permitir o uso
+pretendido.
+3.5.9 Os dados fornecidos estarão em um formato adequado para serem interpretados de
+maneira compatível com o uso pretendido.
+3.6 VERIFICAÇÃO
+3.6.1 Os textos a serem emitidos como parte de um Produto de Informação Aeronáutica
+devem ser cuidadosamente verificados antes de serem submetidos aos AIS, para
+assegurar, antes da distribuição, que todas as informações necessárias foram incluídas e
+que estão corretas em todos os seus detalhes.
+3.6.2 Deve-se confirmar, mediante exame de provas objetivas, que os dados e
+informações aeronáuticas disponibilizados estejam coerentes com os registros enviados
+da Autoridade Fornecedora. A verificação deve ocorrer em todas as fases do processo.
+3.6.3 Os Serviços de Informação Aeronáutica estabelecerão procedimentos de verificação
+que assegurem que, quando os dados e informações aeronáuticas forem recebidos, os
+requisitos de qualidade sejam atendidos.
+3.7 VALIDAÇÃO
+3.7.1 Os Serviços de Informação Aeronáutica estabelecerão procedimentos de validação
+que assegurem que, quando os dados e informações aeronáuticas forem recebidos, os
+requisitos de qualidade sejam atendidos.
+3.7.2 A validação dos dados e informações aeronáuticas deve ser consolidada, mediante
+requisitos preestabelecidos, após as verificações, incluindo aquelas relativas à exatidão,
+resolução e integridade, conforme previsto na TCA 53-2.
+3.8 COLETA DE DADOS
+3.8.1 O ato de coletar dados ou informações é, em essência, um ato de medir, comparar e
+catalogar, e esses atos podem envolver erros de diversas origens (dos instrumentos, do
+operador, do processo de medida).
+3.8.2 Técnicas de detecção de erros são usadas durante a transmissão e o armazenamento
+de dados e conjuntos de dados digitais aeronáuticos.
+
+--- PÁGINA ---
+38/63 ICA 53-8/2023
+3.8.3 Técnicas de detecção de erros em dados digitais serão usadas para manter os níveis
+de integridade.
+3.8.4 Considerando os níveis de qualidade e segurança que a informação deve ter, todos
+os erros devem ser conhecidos por todos aqueles que coletam dados e informações
+aeronáuticas, para que possam ser minimizados na hora da medição e análise estatística, e
+passar por verificações e correções, antes de serem considerados, catalogados ou
+transmitidos aos elos seguintes da cadeia de dados aeronáuticos.
+3.9 USO DA AUTOMAÇÃO
+3.9.1 A automação será utilizada para garantir a qualidade, eficiência e eficácia dos AIS.
+3.9.2 A integridade dos dados e informações aeronáuticas deverá ser devidamente levada
+em conta ao colocar em prática processos automatizados e medidas de mitigação para os
+riscos detectados.
+3.9.3 Para atender aos requisitos de qualidade de dados, a automação deverá:
+a) permitir o intercâmbio digital de dados aeronáuticos entre as partes
+envolvidas na cadeia de processamento de dados; e
+b) utilizar modelos de intercâmbio de dados e informações aeronáuticas
+concebidos para serem interoperáveis em todo o mundo.
+3.10 SISTEMA DE GESTÃO DA QUALIDADE
+3.10.1 A gestão da qualidade deverá ser aplicada a toda a cadeia de dados e
+informações aeronáuticas, da origem até distribuição para o próximo usuário pretendido,
+levando em consideração o uso pretendido.
+3.10.2 O sistema de gestão da qualidade estabelecido deve estar em conformidade com
+a série ISO 9000 de padrões de garantia da qualidade e ser certificado por um organismo
+de certificação credenciado.
+3.10.3 No contexto do sistema de gestão da qualidade estabelecido, as competências e
+qualificações, habilidades e conhecimentos necessários relacionados para cada função
+serão identificados, e o pessoal designado para desempenhar essas funções será
+adequadamente treinado.
+
+--- PÁGINA ---
+ICA 53-8/2023 39/63
+3.10.4 Os processos serão estabelecidos para garantir que o pessoal tenha as
+competências necessárias para desempenhar as funções específicas atribuídas.
+3.10.5 Registros apropriados serão mantidos para que as qualificações da equipe
+possam ser confirmadas.
+3.10.6 Serão estabelecidas avaliações iniciais e periódicas, nas quais o pessoal será
+obrigado a demonstrar as competências requeridas. Avaliações periódicas de pessoal
+serão usadas como meios para detectar e corrigir deficiências em conhecimento,
+qualificações e habilidades.
+3.10.7 Cada sistema de gestão da qualidade deve conter as políticas, os processos e os
+procedimentos necessários, incluindo aqueles que se aplicam ao uso de metadados, para
+assegurar e verificar se os dados aeronáuticos podem ser rastreados em qualquer ponto da
+cadeia de fornecimento de dados e informações aeronáuticas, para que as anomalias ou
+erros detectados nos dados durante o uso possam ser identificados de acordo com a causa
+fundamental, e corrigidos e comunicados aos usuários afetados.
+3.10.8 O sistema de gestão da qualidade estabelecido deve fornecer aos clientes a
+garantia e a confiança necessárias de que os dados e informações aeronáuticas
+distribuídos satisfaçam os requisitos de qualidade.
+3.10.9 Todas as medidas necessárias são tomadas para monitorar a conformidade com
+o sistema de gestão da qualidade implementado.
+3.10.10 O cumprimento do sistema de gestão da qualidade aplicado deverá ser
+demonstrado por auditoria. Ao identificar uma situação de não conformidade, as medidas
+necessárias para corrigir a causa serão determinadas e tomadas sem demora indevida.
+Todas as observações de auditoria e ações corretivas serão apresentadas com evidências e
+documentadas adequadamente.
+3.10.11 O Sistema de Gestão da Qualidade está implementado na gestão da informação
+aeronáutica, na capacitação e no indice de segurança operacional.
+3.10.12 A sistemática para a elaboração dos indicadores de desempenho para o DECEA
+e Organizações subordinadas, utilizando-os como parâmetros para a avaliação da
+eficiência e da eficácia do SISCEAB, é estabelecida pela DCA 11-17.
+
+--- PÁGINA ---
+40/63 ICA 53-8/2023
+3.10.13 No âmbito do SISCEAB, a Gestão da Qualidade é normatizada pela DCA 800-1
+e pela ICA 800-9.
+3.10.14 O ICA deverá coordenar a implantação do Sistema de Gestão de Qualidade na
+cadeia de dados e informações aeronáuticas nas Organizações Regionais, desde a
+autoridade originadora até a entrega ao próximo usuário pretendido.
+3.11 FATORES HUMANOS
+3.11.1 Na organização dos Serviços de Informação Aeronáutica , bem como na
+concepção, no conteúdo, no processamento e na distribuição dos dados e informações
+aeronáuticas, serão levados em consideração os princípios relacionados aos fatores
+humanos que permitem uma utilização otimizada.
+3.11.2 Devida atenção deverá ser dada à integridade das informações quando houver
+necessidade de interação humana e, quando riscos forem identificados, medidas
+mitigadoras deverão ser tomadas. Isso pode ser alcançado por meio da concepção de
+sistemas, procedimentos operacionais ou melhorias no ambiente operacional.
+
+--- PÁGINA ---
+ICA 53-8/2023 41/63
+4 ÂMBITO DOS DADOS E INFORMAÇÕES AERONÁUTICAS
+4.1 CONTEÚDO
+4.1.1 Os dados e informações aeronáuticas a serem recebidos e geridos pelos AIS
+deverão incluir pelo menos os seguintes subcampos:
+a) regulamentos, regras e procedimentos nacionais;
+b) aeródromos e helipontos;
+c) espaço aéreo;
+d) rotas ATS;
+e) procedimentos de voo por instrumentos;
+f) sistemas e auxílios à radionavegação;
+g) obstáculos;
+h) terreno; e
+i) informação geográfica.
+NOTA 1: Na TCA 53-2 existem especificações detalhadas sobre o conteúdo de cada
+subcampo.
+NOTA 2: Os dados e informações aeronáuticas de cada subcampo podem ter origem em
+mais de uma organização ou autoridade.
+4.1.2 A determinação e a notificação de dados aeronáuticos serão regidas pelo grau de
+precisão e classificação de acordo com a integridade requerida para atender às
+necessidades do usuário final de dados aeronáuticos.
+4.2 METADADOS
+4.2.1 A utilização de metadados visa à verificação e à garantia de que os dados
+aeronáuticos sejam rastreáveis em toda sua cadeia, permitindo que eventuais anomalias
+ou erros sejam detectados, identificados e corrigidos a partir da origem, da coleta ou do
+levantamento, e comunicados aos usuários atingidos.
+4.2.2 Os metadados também podem incluir qualquer informação adicional necessária para
+determinada organização. Se atributos adicionais forem necessários para uma organização
+específica, eles deverão ser especificados para tais entidades.
+
+--- PÁGINA ---
+42/63 ICA 53-8/2023
+4.2.3 Os atributos dos metadados que deverão ser fornecidos junto com os dados estão
+previstos na TCA 53-2 e na ICA 53-4.
+4.3 SISTEMAS DE REFERÊNCIA COMUNS PARA NAVEGAÇÃO AÉREA
+4.3.1 SISTEMA DE REFERÊNCIA HORIZONTAL
+4.3.2 O WGS-84 deverá ser utilizado como sistema de referência (geodésica) horizontal
+para navegação aérea. Consequentemente, as coordenadas geográficas aeronáuticas
+publicadas são expressas segundo a referência geodésica WGS-84.
+4.3.3 Em aplicações geodésicas precisas e em algumas aplicações de navegação aérea,
+modelos e estimativas devem ser feitos com relação a mudanças provisórias no
+movimento de placas tectônicas e efeitos das marés na crosta terrestre. Para que o efeito
+provisório seja refletido, a menção do tempo deve ser incluída em qualquer conjunto de
+coordenadas absolutas da estação.
+4.3.4 SISTEMA DE REFERÊNCIA VERTICAL
+4.3.5 O dado do nível médio do mar (MSL) deverá ser utilizado como um sistema de
+referência vertical para navegação aérea.
+4.3.6 O Modelo Gravitacional da Terra - 1996 (EGM-96) deverá ser utilizado como
+modelo gravitacional global para a navegação aérea internacional.
+4.3.7 Nas posições geográficas em que a precisão do EGM-96 não atende aos requisitos
+de precisão para elevação e ondulação de geoides, com base nos dados do EGM-96,
+modelos de geoides regionais, nacionais ou locais devem ser desenvolvidos e usados
+contendo dados de campo gravitacional de alta resolução (comprimentos de onda curtos).
+Ao usar um modelo geoide diferente do EGM-96, uma descrição do modelo usado,
+incluindo os parâmetros necessários para a transformação da altura entre o modelo e o
+EGM-96, deve ser fornecida na Publicação de Informação Aeronáutica (AIP).
+4.3.8 O geoide em todo o mundo está muito próximo do MSL. É definido como a
+superfície equipotencial no campo de gravidade da Terra que coincide com o MSL
+inalterado que se estende continuamente pelos continentes.
+
+--- PÁGINA ---
+ICA 53-8/2023 43/63
+4.3.9 As alturas (elevações) relacionadas à gravidade também são chamadas alturas
+ortogométricas e as distâncias de um ponto acima do elipsoide são denominadas alturas
+elipsoidais.
+4.3.10 SISTEMA DE REFERÊNCIA TEMPORAL
+4.3.11 O calendário gregoriano e o Tempo Universal Coordenado (UTC) deverá ser
+utilizado como sistema de referência temporal.
+4.3.12 Se um sistema de referência temporal diferente for usado em algumas aplicações,
+o catálogo de recursos ou metadados relacionados a um esquema de aplicação ou
+conjunto de dados, conforme apropriado, incluirá uma descrição desse sistema ou a
+citação do documento que descreve esse sistema de referência temporário.
+4.3.13 UNIDADES DE MEDIDA
+4.3.14 As unidades de medida utilizadas na distribuição de dados e informações
+aeronáuticas estão em consonância com as diretrizes do DECEA, de acordo com as
+tabelas contidas na TCA 53-2.
+4.3.15 OUTRAS ESPECIFICAÇÕES
+4.3.16 Cada elemento dos Produtos de Informação Aeronáutica que é distribuído
+internacionalmente deve conter a versão em inglês das partes que são expressas em
+linguagem clara.
+4.3.17 A ortografia dos nomes dos lugares será aquela usada localmente e, quando
+necessário, será transcrita para o alfabeto latino básico.
+4.3.18 As unidades de medida usadas para originar, processar e distribuir dados e
+informações aeronáuticas devem estar em conformidade com o previsto na TCA 53-2.
+4.3.19 As abreviaturas da OACI serão utilizadas nos Produtos de Informação
+Aeronáutica, sempre que estas sejam apropriadas e que a sua utilização facilite a
+distribuição de dados e informações aeronáuticas.
+
+--- PÁGINA ---
+44/63 ICA 53-8/2023
+5 PRODUTOS E SERVIÇOS DE INFORMAÇÃO AERONÁUTICA
+5.1 GENERALIDADES
+5.1.1 As informações aeronáuticas serão fornecidas na forma de Produtos de Informação
+Aeronáutica e serviços relacionados.
+5.1.2 As especificações sobre o grau de resolução dos dados aeronáuticos fornecidos
+para cada Produto de Informação Aeronáutica estão previstas na TCA 53-2.
+5.1.3 Quando dados e informações aeronáuticas são fornecidos em vários formatos,
+processos serão aplicados para garantir que ambos sejam uniformes em todos os
+diferentes formatos.
+5.2 INFORMAÇÃO AERONÁUTICA EM APRESENTAÇÃO PADRONIZADA
+5.2.1 A informação aeronáutica fornecida na apresentação padronizada, como Produto de
+Informação Aeronáutica, deverá incluir AIP, Emendas AIP, Suplementos AIP, AIC,
+NOTAM, Cartas Aeronáuticas, eROTAER, EMENDA DIGITAL (D-AMDT), AIXM e
+Conjunto de Dados Digitais.
+5.2.2 Os Produtos de Informação Aeronáutica que são fornecidos em formato digital são
+projetados de forma que também possam ser visualizados em dispositivos eletrônicos.
+5.3 PUBLICAÇÃO DE INFORMAÇÃO AERONÁUTICA (AIP)
+5.3.1 A principal finalidade da AIP é satisfazer às necessidades internacionais de
+intercâmbio de informação aeronáutica de caráter permanente, essencial para a navegação
+aérea.
+5.3.2 A AIP constitui a fonte básica de informação permanente e modificações
+temporárias de longa duração.
+5.3.3 A AIP contém informações sobre as características físicas de um aeródromo e as
+instalações associadas, os tipos e a localização dos auxílios à navegação ao longo das
+rotas aéreas, gerenciamento de tráfego aéreo, comunicações e serviços meteorológicos
+prestados e procedimentos básicos associados a estas instalações e serviços.
+5.3.4 A AIP contém também:
+
+--- PÁGINA ---
+ICA 53-8/2023 45/63
+a) uma declaração da autoridade competente responsável pelas instalações,
+serviços ou procedimentos de navegação aérea abrangidos pela AIP;
+b) as condições gerais nas quais os serviços ou instalações podem ser
+utilizados internacionalmente;
+c) uma lista de diferenças importantes entre as regulamentações e práticas
+nacionais e as normas, práticas e procedimentos correspondentes
+recomendados pela OACI; e
+d) a escolha feita pelo Brasil em cada caso importante em que as normas
+da OACI e as práticas e os procedimentos recomendados proporcionam
+uma opção.
+5.3.5 A AIP é autoexplicativa, inclui um índice e apresenta suas informações textuais em
+duas colunas, sendo a primeira em português e a segunda em inglês.
+5.3.6 O DECEA registra na AIP, na subseção GEN 1.7, todas as diferenças significativas
+entre seus regulamentos e práticas nacionais e as correspondentes disposições de forma
+que o usuário possa identificar prontamente as diferenças entre estas e as disposições da
+OACI.
+5.4 EMENDA AIP
+5.4.1 São mudanças permanentes publicadas na AIP. Cada AMDT é publicada com um
+número de série, que é consecutivo com base no ano civil, por exemplo:
+a) AMDT AIP 01/20;
+b) AMDT AIRAC AIP 01/20.
+5.4.2 Em cada página de uma AMDT AIP é exibida sua data de publicação.
+5.4.3 Em cada página de uma AMDT AIRAC AIP é exibida sua data de entrada em
+vigor. Quando a hora de entrada em vigor for diferente de 0000UTC, esta deverá ser
+exibida também na capa.
+5.4.4 As informações incluídas são identificadas por uma linha vertical na margem
+esquerda da informação nova ou modificada.
+5.4.5 A capa da AMDT é divulgada por meio de uma AIC, com o título “Publicações de
+Informações Aeronáuticas”, cuja finalidade é divulgar as atualizações recentemente
+
+--- PÁGINA ---
+46/63 ICA 53-8/2023
+implementadas nas publicações de informações aeronáuticas e prestar outros
+esclarecimentos correlatos.
+5.4.6 A capa da AMDT contém referências ao número de série dos Produtos de
+Informação Aeronáutica que foram incorporados à AIP na respectiva AMDT e que, em
+consequência, foram cancelados.
+5.4.7 A cada AMDT, é publicada uma lista contendo as páginas a serem destruídas e as
+páginas a serem inseridas, bem como uma lista de verificação das páginas em vigor, que
+fazem parte da AIP. As referidas listas contêm o número da página e a data de publicação
+ou de entrada em vigor da informação (dia, mês (por extenso) e ano).
+5.4.8 Quando uma AMDT não for publicada no intervalo estabelecido ou na data de
+publicação, uma notificação NIL (Nada a informar) deverá ser divulgada por meio de
+NOTAM, em linguagem clara.
+5.5 SUPLEMENTO AIP
+5.5.1 Produto de Informação Aeronáutica cuja finalidade é alertar aos usuários, tanto das
+modificações temporárias de longa duração (três meses ou mais), quanto das informações
+de curta duração que contenham textos longos (acima de 1.800 caracteres) ou gráficos
+que afetem uma ou mais Partes da AIP.
+5.5.2 As modificações temporárias da AIP, importantes para as operações, são publicadas
+em conformidade com o Sistema AIRAC e são identificadas claramente por Suplemento
+AIP AIRAC e as demais, são identificadas por Suplemento AIP.
+5.5.3 Os procedimentos para a confecção do Suplemento AIP são aqueles estabelecidos
+na ICA 53-6.
+5.6 CIRCULARES DE INFORMAÇÃO AERONÁUTICA (AIC)
+5.6.1 Publicação contendo informações que não se qualificam para originação de
+NOTAM ou para inclusão na Publicação de Informação Aeronáutica (AIP), mas que diga
+respeito à segurança de voo, navegação aérea, questões técnicas, administrativas ou
+legislativas.
+5.6.2 Os procedimentos para a confecção de AIC são aqueles estabelecidos na ICA 53-9.
+
+--- PÁGINA ---
+ICA 53-8/2023 47/63
+5.7 CARTAS AERONÁUTICAS
+5.7.1 As Cartas Aeronáuticas que são produzidas pelo Brasil estão disponíveis no
+AISWEB mediante distribuição eletrônica em formato digital, conforme critérios
+estabelecidos na ICA 53-7.
+5.7.2 As ENRC são fornecidas separadamente e as suas datas de entrada em vigor estão
+disponíveis na Parte ENR 6 da AIP.
+5.7.3 Cartas aeronáuticas eletrônicas devem ser fornecidas a partir de bancos de dados
+digitais e do uso de sistemas de informações geográficas.
+5.7.4 O grau de resolução dos dados aeronáuticos nas cartas será o especificado para cada
+carta em particular e suas especificações estão previstas na TCA 53-2.
+5.7.5 Os requisitos e os processos para a elaboração de cada tipo de Carta Aeronáutica
+estão previstos na ICA 96-1.
+5.7.6 Os requisitos para a confecção das Cartas Aeronáuticas são aqueles estabelecidos
+nos MCA 96-1, MCA 96-2, MCA 96-3 e MCA 96-4.
+5.8 NOTAM
+5.8.1 Um NOTAM será originado e emitido imediatamente sempre que a informação a
+ser distribuída for de natureza temporária e de curta duração ou quando a informação for
+de natureza permanente, operacionalmente significativa e não haja tempo suficiente para
+divulgá-la por meio de AMDT AIP ou quando as alterações temporárias de longa duração
+sejam solicitadas sem prazo suficiente para sua publicação por Suplemento AIP.
+5.8.2 As informações sobre atividade de um vulcão, uma erupção vulcânica ou uma
+nuvem de cinzas vulcânicas são divulgadas por meio de NOTAM, conforme previsto na
+CIRCEA 63-2.
+5.8.3 As regras e requisitos para a confecção e distribuição de NOTAM são aqueles
+estabelecidos na ICA 53-1.
+5.8.4 O processo de funcionamento e utilização do sistema de distribuição
+predeterminada de NOTAM estrangeiro é aquele estabelecido na CIRCEA 63-4.
+
+--- PÁGINA ---
+48/63 ICA 53-8/2023
+5.9 eROTAER
+5.9.1 Produto AIS acessado por meio do AISWEB, que divulga informações aeronáuticas
+sobre aeródromos civis e militares..
+5.9.2 Para a realização de uma consulta, deve-se clicar no ícone “eROTAER”, localizado
+na página inicial do AISWEB, na Internet (https://aisweb.decea.mil.br/) ou Intraer
+(www.aisweb.decea.intraer).
+5.9.3 EMENDA DIGITAL (D-AMDT)
+5.9.3.1 Pacote de atualização de dados em formato digital que é efetivado sempre às
+quintas-feiras e publicado com 120 horas de antecedência.
+5.9.3.2 A eROTAER segue o ciclo de atualização da D-AMDT.
+5.10 CONJUNTOS DE DADOS DIGITAIS
+5.10.1 Os dados digitais devem ser fornecidos sob a forma de conjuntos de dados, da
+seguinte forma:
+a) conjuntos de dados da AIP;
+b) conjuntos de dados de campo;
+c) conjuntos de dados de obstáculos;
+d) conjuntos de dados cartográficos de aeródromo; e
+e) conjuntos de dados de procedimentos de voo por instrumentos.
+5.10.2 Cada conjunto de dados será fornecido ao próximo usuário pretendido
+juntamente com um conjunto mínimo de metadados que garanta a rastreabilidade, cuja as
+especificações detalhadas encontram-se na TCA 53-2.
+5.10.3 Uma lista de verificação de conjuntos de dados válidos será fornecida
+periodicamente.
+5.10.4 CONJUNTO DE DADOS DA AIP
+5.10.4.1 Deve ser fornecido um conjunto de dados estruturados da AIP que compreenda
+as informações fornecidas pela AIP.
+
+--- PÁGINA ---
+ICA 53-8/2023 49/63
+5.10.4.2 Quando não for possível fornecer um conjunto completo de dados estruturados
+da AIP, subconjuntos de dados devem ser fornecidos.
+5.10.4.3 O conjunto de dados da AIP deve conter a representação digital da informação
+aeronáutica de natureza duradoura (informação permanente e alterações transitórias de
+longa duração) que é essencial para a navegação aérea.
+5.10.5 CONJUNTOS DE DADOS DE TERRENO E OBSTÁCULOS
+5.10.5.1 Os requisitos para o fornecimento de dados eletrônicos de terreno e obstáculos
+fazem parte da transição do AIS para o AIM, por meio do fornecimento e intercâmbio
+com qualidade assegurada de dados aeronáuticos digitais em colaboração com todos os
+interessados.
+5.10.5.2 Os Dados Eletrônicos de Terreno e Obstáculos, denominados “Produto e-TOD”
+ou simplesmente e-TOD, devem ser definidos em quatro áreas de cobertura em torno dos
+aeroportos internacionais e, ainda, naqueles julgados importantes para a navegação aérea,
+conforme o Anexo B.
+5.10.5.3 Esses dados devem ser coletados de acordo com requisitos numéricos específicos
+para cada área e armazenados em um banco de dados geodésicos (conjunto de dados) com
+atributos definidos para as classes de características de terreno e obstáculos. As
+características de obstáculos devem ser representadas como pontos, linhas ou polígonos, e
+os dados do terreno devem ser adicionados como um conjunto de dados raster em
+formato diferente.
+5.10.5.4 Dados confiáveis e precisos de terreno e obstáculos para aplicações em voo e
+terrestres podem proporcionar benefícios de segurança significativos para a aviação civil.
+Os dados devem ser apresentados em um formato de informação geográfica, para permitir
+pronta avaliação e apresentação aos usuários.
+5.10.5.5 As áreas de cobertura para os conjuntos de dados eletrônicos de terreno e
+obstáculos devem ser especificadas como:
+a) Área 1 – todo o território brasileiro;
+b) Área 2 – o entorno do aeródromo, subdividida da seguinte forma:
+
+--- PÁGINA ---
+50/63 ICA 53-8/2023
+- área 2a - área retangular ao redor de uma pista de pouso que
+compreende a faixa de pista somada à zona desimpedida, quando
+existente.
+- área 2b - área que se estende a partir das extremidades da área 2a em
+direção à zona de decolagem, com um comprimento de 10 km e 15%
+de largura de cada lado;
+- área 2c - área que se estende a partir dos limites externos das áreas 2a
+e área 2b até uma distância de 10 km a partir do limite da área 2a;
+- área 2d - área que se estende a partir dos limites externos das áreas 2a,
+2b e 2c até uma distância de 45 km do ARP ou até os limites laterais
+da TMA da localidade, o que for mais próximo;
+NOTA 1: É obrigatório na Área 2 o levantamento de todos os obstáculos
+considerados perigosos para a aviação; os obstáculos acima da
+superfície de coleta da Área 2a (3 m acima do perfil da pista);
+os obstáculos acima da superfície de identificação de
+obstáculos na área de trajetória de decolagem e os obstáculos
+acima da superfície de limitação de obstáculos do aeródromo.
+NOTA 2: O levantamento de obstáculos nas Áreas 2b, 2c e 2d é apenas
+recomendado, não sendo obrigatória sua divulgação.
+c) Área 3 – Área que contorna a área de movimento do aeródromo.
+Estende-se horizontalmente a partir da borda de uma pista até 90 m
+contados a partir do eixo da pista e 50 m a partir da borda das demais
+partes da área de movimento do aeródromo; e
+NOTA: A coleta e divulgação de dados para a Área 3 são facultativas, sendo
+realizada apenas quando se julgar conveniente.
+d) Área 4 – Área retangular adjacente à cabeceira de aproximação de uma
+pista. Estende-se por 900 m a partir da cabeceira e 60 m para cada lado
+do prolongamento do eixo da pista. Deve ser provida para as pistas de
+aproximação de precisão, categorias II ou III.
+5.10.5.6 Quando o terreno localizado a mais de 900 m (3000 pés) da cabeceira da pista é
+montanhoso ou importante por qualquer outro motivo, a extensão da Área 4 deve ser
+
+--- PÁGINA ---
+ICA 53-8/2023 51/63
+alargada a uma distância não superior a 2 000 m (6500 pés) em relação à cabeceira da
+pista.
+5.10.5.7 O ICA é o responsável pelo fornecimento de dados e-TOD no Brasil.
+5.10.5.8 O ICA disponibilizará os dados e-TOD em seu portal GEOAISWEB
+(https://geoaisweb.decea.mil.br/), separados por aeródromo, área e geometria do
+obstáculo (ponto, linha ou polígono).
+5.10.5.9 As diferenças relacionadas ao Produto e-TOD estão descritas na Parte GEN 1.7
+da AIP.
+5.10.6 CONJUNTOS DE DADOS DE TERRENO
+5.10.6.1 Os conjuntos de dados de terreno devem conter a representação digital da
+superfície do solo na forma de valores de elevação contínuos em todas as interseções
+(pontos) de uma grade definida, relativas a referências comuns.
+5.10.6.2 Dados de terreno serão fornecidos para a Área 1.
+5.10.6.3 No caso de aeródromos regularmente utilizados pela aviação civil internacional,
+devem ser fornecidos dados de terreno correspondentes às seguintes áreas:
+a) área 2a;
+b) área da trajetória de decolagem; e
+c) área delimitada pelas extensões laterais das superfícies limitadoras de
+obstáculos do aeródromo.
+5.10.6.4 No caso de aeródromos regularmente utilizados pela aviação civil internacional,
+devem ser fornecidos dados de terreno adicionais dentro da Área 2 correspondentes a:
+a) a área que se estende a uma distância de 10 km do ARP; e
+b) o interior da área entre 10 km e os limites da TMA ou um raio de 45 km
+(o que for menor), onde o solo penetra em uma superfície horizontal de
+coleta de dados no solo localizado a 120 m acima da menor elevação da
+pista.
+5.10.6.5 Deverão ser tomadas as providências necessárias para a coordenação do
+fornecimento de dados de terreno quando houver sobreposição das respectivas áreas de
+
+--- PÁGINA ---
+52/63 ICA 53-8/2023
+cobertura dos aeródromos adjacentes a fim de garantir a precisão dos dados relativos ao
+mesmo terreno.
+5.10.6.6 No caso de aeródromos localizados perto de fronteiras territoriais, devem ser
+tomadas as providências necessárias entre os Estados envolvidos para compartilhar os
+dados de terreno.
+5.10.6.7 No caso de aeródromos regularmente utilizados pela aviação civil internacional,
+devem ser fornecidos dados de terreno da Área 3.
+5.10.6.8 No caso de aeródromos regularmente utilizados pela aviação civil internacional,
+devem ser fornecidos dados de terreno da Área 4 para todas as pistas para as quais tenham
+sido estabelecidas as operações de aproximação de precisão de Categoria II ou III e
+quando os operadores exigem informações detalhadas sobre o terreno, a fim de avaliar o
+efeito do terreno na determinação da altura de decisão usando radioaltímetros.
+5.10.6.9 Quando dados de terreno adicionais são coletados para atender a outras
+necessidades aeronáuticas, os conjuntos de dados de terreno devem ser expandidos para
+incluir tais dados adicionais.
+5.10.7 CONJUNTOS DE DADOS DE OBSTÁCULOS
+5.10.7.1 Os conjuntos de dados de obstáculos devem conter a representação digital da
+extensão vertical e horizontal dos obstáculos.
+5.10.7.2 Os dados de obstáculos não serão incluídos nos conjuntos de dados de terreno.
+5.10.7.3 Serão fornecidos dados de obstáculos localizados na Área 1 que tenham uma
+altura igual ou maior que 100 m acima do nível do solo.
+5.10.7.4 No caso de aeródromos regularmente utilizados pela aviação civil internacional,
+devem ser fornecidos dados de obstáculos para todos os obstáculos localizados na Área 2,
+que tenham sido avaliados como um perigo para a navegação aérea.
+5.10.7.5 No caso dos aeródromos regularmente utilizados pela aviação civil internacional,
+os dados de obstáculos devem ser fornecidos da seguinte forma:
+a) obstáculos localizados na Área 2a que penetram em uma área de coleta
+de dados de obstáculos definida como a área retangular em torno de
+
+--- PÁGINA ---
+ICA 53-8/2023 53/63
+uma pista que compreende a faixa de pista e qualquer zona desimpedida
+existente. A área de coleta de dados de obstáculos da Área 2a estará a
+uma altura de três metros acima da elevação da pista mais próxima
+medida ao longo do eixo da pista, e para as partes relacionadas a uma
+zona desimpedida, se houver, na elevação do final da pista mais
+próxima;
+b) objetos na área da trajetória de decolagem que se projetam de uma
+superfície plana com um declive de 1,2% e a mesma origem da área da
+trajetória de decolagem; e
+c) penetrações das superfícies limitadoras de obstáculos do aeródromo.
+5.10.7.6 No caso de aeródromos regularmente utilizados pela aviação civil internacional,
+devem ser fornecidos dados de obstáculos localizados nas Áreas 2b, 2c e 2d que penetrem
+na superfície de coleta de dados de obstáculos como indicado a seguir:
+a) Área 2b: Área que se estende das extremidades da Área 2a na direção de
+decolagem, com um comprimento de 10 km e um alargamento de 15%
+em cada lado. A área de coleta de dados de obstáculos da Área 2b segue
+uma inclinação de 1,2% que se estende das extremidades da Área 2a até
+a elevação da pista na direção de decolagem, com um comprimento de
+10 km e um alargamento de 15% de cada lado;
+b) Área 2c: Área que se estende para fora da Área 2a e 2b a uma distância
+que não exceda 10 km em relação ao limite da Área 2a. A área de coleta
+de dados de obstáculos da Área 2c segue uma inclinação de 1,2% que se
+estende para fora das Áreas 2a e 2b a uma distância não superior a 10
+km do limite da Área 2a. A elevação inicial da Área 2c será a elevação
+do ponto da Área 2a na qual ela começa; e
+c) Área 2d: Área que se estende para fora das Áreas 2a, 2b e 2c até uma
+distância de 45 km do ponto de referência do aeródromo, ou até o limite
+de TMA existente, se este limite for mais próximo. A área de coleta de
+dados de obstáculos da Área 2d está a 100 m acima do solo, exceto que
+não é necessário coletar dados de obstáculos com menos de 3 m de
+altura acima do terreno na Área 2b e a menos de 15 m acima do terreno
+na Área 2c.
+
+--- PÁGINA ---
+54/63 ICA 53-8/2023
+5.10.7.7 Devem ser tomadas as providências necessárias para a coordenação do
+fornecimento de dados de obstáculos quando houver sobreposição das respectivas áreas
+de cobertura dos aeródromos adjacentes, a fim de garantir a precisão dos dados que lhes
+dizem respeito.
+5.10.7.8 No caso de aeródromos localizados próximos a fronteiras territoriais, os acordos
+necessários devem ser feitos entre os Estados em questão para compartilhar os dados de
+obstáculos.
+5.10.7.9 No caso de aeródromos regularmente utilizados pela aviação civil internacional,
+devem ser fornecidos dados de obstáculos situados na Área 3 que penetram na superfície
+apropriada de coleta de dados de obstáculos, que se estende por meio metro (0,5 m) no
+plano horizontal que passa pelo ponto mais próximo da área de movimento do aeródromo.
+5.10.7.10 No caso de aeródromos regularmente utilizados pela aviação civil
+internacional, os dados relativos aos obstáculos na Área 4 devem ser fornecidos para
+todas as pistas para as quais tenham sido estabelecidas operações de aproximação de
+precisão das Categorias II ou III.
+5.10.7.11 Quando dados sobre obstáculos adicionais são coletados para responder a
+outras necessidades aeronáuticas, os conjuntos de dados de obstáculos devem ser
+expandidos para incluir tais dados adicionais.
+5.10.8 CONJUNTOS DE DADOS CARTOGRÁFICOS DE AERÓDROMO
+5.10.8.1 Os conjuntos de dados cartográficos de aeródromo devem conter a representação
+digital das características do aeródromo.
+5.10.8.2 As características do aeródromo consistem em atributos e geometrias, que são
+caracterizadas como pontos, linhas ou polígonos. Exemplos de características são:
+a) cabeceiras de pista;
+b) linhas de orientação de taxiway; e
+c) áreas de estacionamento de aeronaves.
+5.10.8.3 Os conjuntos de dados cartográficos de aeródromo devem ser disponibilizados
+para aeródromos regularmente utilizados pela aviação civil internacional.
+
+--- PÁGINA ---
+ICA 53-8/2023 55/63
+5.10.9 CONJUNTOS DE DADOS DE PROCEDIMENTOS DE VOO POR
+INSTRUMENTOS
+5.10.9.1 Os conjuntos de dados de procedimentos de voo por instrumentos devem conter
+a representação digital dos procedimentos de voo por instrumentos.
+5.10.9.2 Devem ser disponibilizados conjuntos de dados de procedimentos de voo por
+instrumentos para aeródromos regularmente utilizados pela aviação civil internacional.
+5.11 SERVIÇO DE INFORMAÇÃO PRÉ-VOO
+5.11.1 O acesso às informações será oferecido diretamente nas Salas AIS de
+Aeródromo ou por meio do AISWEB ao pessoal de operações de voo, incluindo
+tripulações e órgãos responsáveis por prestar o Serviço de Informação Aeronáutica.
+5.11.2 A informação aeronáutica prevista para o planejamento de voo deve incluir
+informações relevantes para as operações provenientes dos elementos dos Produtos de
+Informação Aeronáutica.
+5.11.3 A informação disponibilizada é limitada às publicações nacionais e, sempre que
+possível, àquelas dos Estados imediatamente adjacentes, sujeita à disponibilidade de uma
+biblioteca completa de informação aeronáutica em um local central ou de instalações de
+comunicação direta com a referida biblioteca.
+5.12 SERVIÇO DE INFORMAÇÃO PÓS-VOO
+5.12.1 Informe apresentado por um piloto, diretamente ou por intermédio de terceiros, à
+Sala AIS de Aeródromo ou ao C-AIS acerca de inoperâncias, deficiências no
+funcionamento dos auxílios à navegação e das comunicações terra-avião ou de
+interferência de pássaros nas proximidades do aeródromo que possam ocasionar perigo
+para as operações de pouso e decolagem.
+5.12.2 Nas Salas AIS e nos C-AIS são tomadas medidas para receber informações sobre
+as condições de status e de exploração das instalações ou serviços de navegação aérea,
+conforme observado pela tripulação das aeronaves.
+5.12.3 Nas Salas AIS e nos C-AIS são tomadas medidas para receber informações
+relativas a perigos devido à presença de aves , conforme observado pela tripulação das
+aeronaves.
+
+--- PÁGINA ---
+56/63 ICA 53-8/2023
+5.12.4 As informações sobre os perigos devido à presença de vida selvagem serão
+disponibilizadas ao Serviço de Informação Aeronáutica para distribuição conforme as
+circunstâncias exigirem.
+5.12.5 As medidas previstas em 5.12.2 e 5.12.3 devem ser tomadas para que o AIS
+tenha tais informações para distribuí-las conforme as circunstâncias exigirem.
+5.13 ATUALIZAÇÕES DO CONJUNTO DE DADOS
+5.13.1 Os conjuntos de dados serão modificados ou disseminados quantas vezes forem
+necessárias para mantê-los atualizados.
+5.13.2 Mudanças permanentes e mudanças temporárias de longo prazo (três meses ou
+mais) disponibilizadas na forma de dados digitais serão disseminadas como um conjunto
+de dados completo ou um subconjunto contendo apenas as diferenças em relação ao
+conjunto de dados completo previamente divulgado.
+5.13.3 Quando forem disponibilizadas como uma versão totalmente nova do conjunto
+de dados, as diferenças em relação ao conjunto completo de dados divulgados acima
+deverão ser indicadas.
+5.13.4 Alterações temporárias de curto prazo disponibilizadas sob a forma de dados
+digitais devem usar o mesmo modelo de informação aeronáutica utilizado no conjunto de
+dados completo.
+5.13.5 As atualizações do AIP e conjuntos de dados digitais serão sincronizadas.
+5.14 INFORMAÇÃO AERONÁUTICA EM FORMATO DIGITAL
+5.14.1 Os Produtos e os Serviços de Informação Aeronáutica são disponibilizados em
+formato digital no AISWEB, na Internet (https://aisweb.decea.mil.br) ou Intraer
+(www.aisweb.decea.intraer), conforme critérios estabelecidos na ICA 53-7.
+
+--- PÁGINA ---
+ICA 53-8/2023 57/63
+6 DISPOSIÇÕES TRANSITÓRIAS
+6.1 As Organizações envolvidas com o disposto nos itens 2.4 e 2.5 devem se adequar a
+estrutura funcional do AIS, a partir da entrada em vigor desta Norma.
+6.2 O ICA terá um prazo de 1 ano, a partir da entrada em vigor desta norma, para
+implantar o Sistema de Gestão de Qualidade na cadeia de dados e informações
+aeronáuticas das Organizações Regionais.
+
+--- PÁGINA ---
+58/63 ICA 53-8/2023
+7 DISPOSIÇÕES FINAIS
+7.1 As sugestões para o contínuo aperfeiçoamento desta publicação deverão ser
+enviadas por intermédio dos endereços eletrônicos http://publicacoes.decea.intraer/ ou
+http://publicacoes.decea.mil.br/, acessando o link específico da publicação.
+7.2 Os casos não previstos nesta Instrução serão submetidos ao Chefe do
+Subdepartamento de Operações do DECEA.
+
+--- PÁGINA ---
+ICA 53-8/2023 59/63
+ANEXO A - ESTRUTURA ORGANIZACIONAL DO AIS
+
+--- PÁGINA ---
+60/63 ICA 53-8/2023
+ANEXO B - ÁREAS DE COBERTURA e-TOD
+
+--- PÁGINA ---
+ICA 53-8/2023 61/63
+CONTINUAÇÃO DO ANEXO B – ÁREAS DE COBERTURA e-TOD
+
+--- PÁGINA ---
+62/63 ICA 53-8/2023
+CONTINUAÇÃO DO ANEXO B – ÁREAS DE COBERTURA e-TOD
+
+--- PÁGINA ---
+ICA 53-8/2023 63/63
+REFERÊNCIAS
+CANADÁ. Organização da Aviação Civil Internacional. Serviços de Informação
+Aeronáutica: Anexo 15. Montreal, 2018.
+CANADÁ. Organização da Aviação Civil Internacional. Manual para os Serviços de
+Informação Aeronáutica: Doc 8126. Montreal, 2022.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo.
+Procedimentos Operacionais Referentes à difusão de Informações sobre Cinzas Vulcânicas:
+CIRCEA 63-2. Rio de Janeiro, RJ, 2015.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo.
+Distribuição Predeterminada de NOTAM: CIRCEA 63-4. Rio de Janeiro, RJ, 2019.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. NOTAM:
+ICA 53-1. Rio de Janeiro, RJ, 2021.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Sala de
+Informação Aeronáutica (Sala AIS): ICA 53-2. Rio de Janeiro, RJ, 2020.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Solicitação
+de Divulgação de Informação Aeronáutica: ICA 53-4. Rio de Janeiro, RJ, 2019.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Suplemento
+AIP: ICA 53-6. Rio de Janeiro, RJ, 2022.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo.
+Disponibilização e Utilização da Informação Aeronáutica em Formato Digital: ICA 53-7.
+Rio de Janeiro, RJ, 2022.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Cartas
+Aeronáuticas: ICA 96-1. Rio de Janeiro, RJ, 2021.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Manual de
+Operações do Centro de NOTAM: MCA 53-2. Rio de Janeiro, RJ, 2021.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Manual de
+Operações do Centro de Informação Aeronáutica (C-AIS): MCA 53-4. Rio de Janeiro, RJ,
+2021.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Manual de
+Operações das Subdivisões de Gestão da Informação Aeronáutica (DO-AIM): MCA 53-5.
+Rio de Janeiro, RJ, 2021.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Catálogo
+de Requisitos de Dados e Informações Aeronáuticas: TCA 53-2. Rio de Janeiro, RJ, 2019.

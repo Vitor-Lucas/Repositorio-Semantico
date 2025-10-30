@@ -1,0 +1,2223 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+SEGURANÇA OPERACIONAL
+ICA 81-1
+OCORRÊNCIAS DE TRÁFEGO AÉREO
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+SEGURANÇA OPERACIONAL
+ICA 81-1
+OCORRÊNCIAS DE TRÁFEGO AÉREO
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA Nº 822/ASEGN, DE 3 DE ABRIL DE 2023.
+Protocolo COMAER nº 67600.006089/2023-24
+Aprova a reedição da ICA 81-1, Instrução
+sobre “Ocorrências de Tráfego Aéreo”.
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 21, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 11.237, de 18 de outubro
+de 2022, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA,
+aprovado pela Portaria nº 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art. 1º Aprovar a reedição da ICA 81-1 “Ocorrências de Tráfego Aéreo”, que
+com esta baixa.
+Art. 2º A entrada em vigor do presente ato, justificada em função da urgência,
+conforme disposto no parágrafo único do art. 4º do Decreto nº 10.139, de 28 de novembro de
+2019, será na data de sua publicação.
+Art. 3º Revoga-se a Portaria DECEA nº 259/DGCEA, de 11 de novembro de
+2020, publicada no Boletim do Comando da Aeronáutica nº 206, de 13 de novembro de 2020.
+Ten Brig Ar ALCIDES TEIXEIRA BARBACOVI
+Diretor-Geral do DECEA
+(Publicado no BCA no 071, de 19 de abril de 2023)
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 81-1/2023
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES .................................................................................. 9
+1.1 FINALIDADE ..................................................................................................................... 9
+1.2 OBJETIVO .......................................................................................................................... 9
+1.3 ÂMBITO ............................................................................................................................. 9
+1.4 SIGLAS E ABREVIATURAS ............................................................................................ 9
+1.5 CONCEITUAÇÕES .......................................................................................................... 10
+2 OCORRÊNCIAS DE TRÁFEGO AÉREO .................................................................. 18
+2.1 GENERALIDADES .......................................................................................................... 18
+2.2 FINALIDADE DA INVESTIGAÇÃO ............................................................................. 19
+2.3 PROCESSO DE INVESTIGAÇÃO E DE APURAÇÃO ................................................. 19
+3 ATRIBUIÇÕES E RESPONSABILIDADES ............................................................... 25
+3.1 DA ASEGCEA .................................................................................................................. 25
+3.2 DA OPSNA ....................................................................................................................... 25
+3.3 DA SIPACEA .................................................................................................................... 26
+3.4 DO PROVEDOR DE SERVIÇOS DE NAVEGAÇÃO AÉREA (PSNA) ....................... 27
+3.5 DO INVESTIGADOR RESPONSÁVEL (OSCEA) ......................................................... 28
+3.6 DO CHEFE DE EQUIPE/SUPERVISOR/ATCO/OPERADOR ATS ............................. 28
+4 DOCUMENTAÇÃO DAS OCORRÊNCIAS ................................................................ 30
+4.1 DOCUMENTAÇÃO FUNDAMENTAL .......................................................................... 30
+4.2 DOCUMENTAÇÃO PRELIMINAR ................................................................................ 31
+4.3 FORMALIZAÇÃO DO RESULTADO DAS OCORRÊNCIAS ...................................... 31
+4.4 RELATÓRIO DE INVESTIGAÇÃO DO CONTROLE DO ESPAÇO AÉREO (RICEA) 32
+4.5 PARECER TÉCNICO ATS .............................................................................................. 33
+4.6 LAUDO TÉCNICO ATS .................................................................................................. 33
+4.7 PARECER TÉCNICO ANS .............................................................................................. 33
+4.8 PROTEÇÃO DA INFORMAÇÃO ................................................................................... 34
+5 SISTEMAS DE REPORTES DO SISCEAB ................................................................. 35
+5.1 GENERALIDADES .......................................................................................................... 35
+5.2 SISTEMA DE REPORTE MANDATÓRIO DO SISCEAB ............................................ 35
+5.3 SISTEMA DE REPORTE VOLUNTÁRIO DO SISCEAB ............................................. 35
+6 DISPOSIÇÕES FINAIS .................................................................................................. 38
+REFERÊNCIAS .............................................................................................................. 39
+Anexo A - Relatório de Investigação do Controle do Espaço Aéreo .................................. 41
+Anexo B - Laudo Técnico ATS .............................................................................................. 50
+Anexo C - Modelo de Parecer Técnico ATS ......................................................................... 57
+Anexo D - Modelo de Parecer Técnico ANS......................................................................... 62
+Anexo E - Modelo de Ficha de Notificação de Ocorrência de Tráfego Aéreo – FNO ...... 63
+Anexo F – Relação das Ocorrências de Reporte Mandatório ............................................ 64
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 81-1/2023
+PREFÁCIO
+A reedição desta norma tem por objetivos a revisão normativa de seu conteúdo,
+incorporando novos conceitos e procedimentos de modo a refletir as atualizações das normas
+e métodos recomendados publicados pela ICAO. Particularmente o Capítulo 5 desta Instrução
+apresenta disposições normativas relativas aos Sistemas de Reporte do SISCEAB.
+Nesse sentido, o referido capítulo cria e incorpora os Sistemas de Reportes do
+SISCEAB instituído pelo DECEA, que é parte integrante do Sistema de Reporte do Estado
+Brasileiro, nos termos da Portaria Conjunta nº 5.754/ COMAER/ANAC, de 23 de agosto de
+2021.
+As novas inserções apresentam uma revisão mais significativa relacionada com
+o Sistema de Reporte Voluntário do SISCEAB, buscando, assim, deixar mais claro o nível de
+aderência aos SARP do Anexo 19 à CACI, quanto à obrigatoriedade de os Estados
+estabelecerem seus sistemas de reportes mandatórios e voluntários.
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 81-1/2023
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+Esta publicação tem por finalidade estabelecer a metodologia, procedimentos,
+responsabilidades e atribuições referentes aos processos de apuração ou de investigação das
+Ocorrências de Tráfego Aéreo do interesse do Sistema de Controle do Espaço Aéreo
+Brasileiro (SISCEAB).
+1.2 OBJETIVO
+Definir critérios, requisitos e procedimentos relativos às atividades de apuração
+e de investigação das Ocorrências de Tráfego Aéreo, com vistas a identificar as ações reativas,
+proativas e/ou preditivas para a manutenção do Nível Aceitável de Desempenho da Segurança
+Operacional (NADSO) no Gerenciamento da Segurança Operacional do SISCEAB.
+1.3 ÂMBITO
+A presente Instrução, de observância obrigatória, aplica-se a todas as
+Organizações e Entidades Provedoras dos Serviços de Navegação Aérea integrantes do
+SISCEAB e respectivos PSNA, que possuam órgão ATS sob sua subordinação administrativa.
+1.4 SIGLAS E ABREVIATURAS
+As siglas e abreviaturas empregadas nesta Instrução têm os seguintes significados:
+AIRPROX - Proximidade entre Aeronaves
+ANAC - Agência Nacional de Aviação Civil
+ANS - Serviços de Navegação Aérea
+ARD - Ação Recomendada
+ASEGCEA - Assessoria de Segurança Operacional no Controle do Espaço Aéreo
+ASSIPACEA - Assessoria de Investigação e Prevenção de Acidentes/Incidentes do Controle
+do Espaço Aéreo
+ATCO - Controlador de Tráfego Aéreo
+ATIS - Serviço Automático de Informação Terminal
+ATS - Serviço de Tráfego Aéreo
+CENIPA - Centro de Investigação e Prevenção de Acidentes Aeronáuticos
+CGNA - Centro de Gerenciamento da Navegação Aérea
+CINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo
+CI-CEA - Curso de Investigação Controle do Espaço Aéreo
+CMA - Certificado Médico Aeronáutico
+COI - Centro Operacional Integrado
+COMAER - Comando da Aeronáutica
+CRCEA-SE - Centro Regional de Controle do Espaço Aéreo Sudeste
+CS - Cartão de Saúde
+CTA - Controle de Tráfego Aéreo ou Área de Controle
+DECEA - Departamento de Controle do Espaço Aéreo
+DGCEA - Diretor-Geral do Departamento de Controle do Espaço Aéreo
+DNB - Dependência da NAV Brasil
+DTCEA - Destacamento de Controle do Espaço Aéreo
+EC-CEA - Elemento Certificado Controle do Espaço Aéreo
+
+--- PÁGINA ---
+10/65 ICA 81-1/2023
+EC-FHP - Elemento Certificado Fator Humano Aspecto Psicológico
+EPSNA - Entidade Provedora de Serviços de Navegação Aérea
+FHP - Fator Humano – Aspecto Psicológico
+FNO - Ficha de Notificação de Ocorrência de Tráfego Aéreo
+FPV - Ficha de Progressão de Voo
+GCC - Grupo de Comunicação e Controle
+GSOp - Gerente de Segurança Operacional
+IDSO - Indicador de Desempenho da Segurança Operacional
+JJAER - Junta de Julgamento da Aeronáutica
+LRC - Livro de Registro de Comunicações.
+LRO - Livro de Registro de Ocorrências
+METAR - Relatório Meteorológico de Aeródromo
+MDSO - Meta de Desempenho da Segurança Operacional
+NADSO - Nível Aceitável de Desempenho da Segurança Operacional
+OEA - Operador de Estação Aeronáutica
+OPSNA - Organização Provedora de Serviços de Navegação Aérea
+OSCEA - Oficial de Segurança Operacional do Controle do Espaço Aéreo
+PARD - Proposta de Ação Recomendada
+PRSO - Proposta de Recomendação de Segurança Operacional
+PSNA - Provedor de Serviço de Navegação Aérea
+QOAV - Quadro de Oficiais Aviadores
+QOEACTA - Quadro de Oficiais Especialistas de Aeronáutica – Controle de Tráfego Aéreo
+QOECTA - Quadro de Oficiais Especialistas em Controle de Tráfego Aéreo
+RA - Aviso de Resolução
+RCSV - Relato ao CENIPA para a Segurança de Voo
+RE - Excursão de Pista
+RELPREV - Relato de Prevenção
+RI - Incursão em Pista
+RIF - Reporte de Indício de Fadiga
+RICEA - Relatório de Investigação do Controle do Espaço Aéreo
+RPA - Aeronave remotamente pilotada
+RSO - Recomendação de Segurança Operacional
+RVF - Reporte Voluntário de Fadiga
+SEGCEA - Subsistema de Segurança Operacional do SISCEAB
+SFA - Serviço Fixo Aeronáutico
+SIGCEA - Sistema de Informações Gerenciais do SEGCEA
+SIGMET - Informação Meteorológica Significativa
+SIPACEA - Seção de Investigação e Prevenção de Acidentes/Incidentes do Controle
+do Espaço Aéreo
+SPACEA - Seção de Prevenção de Acidentes/Incidentes do Controle do Espaço Aéreo
+SIPAER - Sistema de Investigação e Prevenção de Acidentes Aeronáuticos
+SISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro
+SMA - Serviço Móvel Aeronáutico
+SMO - Situação dos Meios Operacionais
+TAF - Previsão de Aeródromo
+1.5 CONCEITUAÇÕES
+Para fins do contido nesta Instrução, os termos e expressões aqui empregados
+são de uso corrente no Subsistema de Segurança Operacional do SISCEAB (SEGCEA) e têm
+os significados conforme as descrições a seguir.
+
+--- PÁGINA ---
+ICA 81-1/2023 11/65
+1.5.1 AÇÃO RECOMENDADA (ARD)
+Medida de caráter corretivo ou preventivo emitida pelo PSNA por meio de
+Parecer Técnico ATS, como resultado da apuração de uma Ocorrência ATS, ANS ou de uma
+ação de prevenção, para o seu âmbito de atuação, visando eliminar um perigo ou mitigar o
+risco.
+NOTA 1: As Ações Recomendadas, além de serem decorrentes das apurações das
+Ocorrências ATS ou ANS, também podem ser emitidas como medida preventiva
+e/ou corretiva, identificadas como de aplicação imediata e necessárias para a
+manutenção do NADSO.
+NOTA 2: Tais Ações Recomendadas podem ser deliberadas a partir das reuniões dos
+Comitês de Segurança Operacional ou por decisão das chefias dos PSNA e devem
+ser controladas pelo PSNA emitente da ARD.
+1.5.2 ÁREA OU INSTALAÇÃO DE ACESSO RESTRITO
+É a área ou instalação que contenha documento ou material classificado ou sob
+restrição de acesso, ou que, por sua utilização ou finalidade, demande proteção.
+1.5.3 ASSESSORIA DE SEGURANÇA OPERACIONAL DO CONTROLE DO ESPAÇO
+AÉREO (ASEGCEA)
+Órgão central do SEGCEA, pertencente à estrutura do DECEA, subordinado
+diretamente ao Diretor-Geral do DECEA, que tem por atribuição o trato de assuntos
+relacionados à apuração, investigação, análise e prevenção de acidentes aeronáuticos, de
+incidentes aeronáuticos e de incidentes de tráfego aéreo, no âmbito do SISCEAB, bem como a
+coordenação dos procedimentos de interação com o SIPAER.
+1.5.4 ASSESSORIA DE INVESTIGAÇÃO E PREVENÇÃO DE ACIDENTES/INCIDENTES
+DO CONTROLE DO ESPAÇO AÉREO (ASSIPACEA)
+Elo local do SEGCEA, pertencente à estrutura dos PSNA/GCC, subordinado
+diretamente ao Comandante de DTCEA/Chefe do COI/GCC e ligado sistemicamente à
+SIPACEA regional/SPACEA setorial.
+NOTA: As Entidades Civis poderão possuir uma seção própria de Segurança Operacional de
+acordo com suas características de tamanho e complexidade.
+1.5.5 ELEMENTO CERTIFICADO
+Termo que designa, genericamente, a pessoa que detém o certificado de
+conclusão de curso emitido pelo CENIPA. É relativo a uma área específica de atuação e tem
+suas qualificações, atribuições e responsabilidades previstas em normas específicas do
+DECEA e do CENIPA.
+NOTA: Elemento Certificado Controle do Espaço Aéreo (EC-CEA) e Elemento Certificado
+Fator Humano Aspecto Psicológico (EC-FHP) são exemplos de Elementos
+Certificados.
+
+--- PÁGINA ---
+12/65 ICA 81-1/2023
+1.5.6 ENTIDADE PROVEDORA DE SERVIÇOS DE NAVEGAÇÃO AÉREA (EPSNA)
+Organização responsável por uma ou mais Estações Prestadoras de Serviços
+de Telecomunicações e de Tráfego Aéreo (EPTA) ou Dependência da NAV Brasil (DNB),
+provedoras dos serviços de navegação aérea do SISCEAB, de acordo com o respectivo ato de
+autorização ou de designação.
+1.5.7 GERENTE DE SEGURANÇA OPERACIONAL (GSOP)
+Pessoa física, membro do pessoal-chave do SMS, designada pelo Executivo
+Responsável para coordenar o desenvolvimento, a implementação, a operação, a manutenção
+e a melhoria contínua do SMS de uma Organização ou Entidade Provedora de Serviços de
+Navegação Aérea.
+1.5.8 INCIDENTE DE TRÁFEGO AÉREO
+Toda ocorrência envolvendo os Serviços de Tráfego Aéreo, que tenha
+acarretado algum risco para as aeronaves, relacionada com:
+a) Proximidade entre aeronaves (AIRPROX): Situação em que a distância
+entre aeronaves bem como suas posições relativas e velocidades foram tais
+que a segurança tenha sido comprometida;
+b) Procedimentos: Situação em que houve dificuldades operacionais por
+procedimentos falhos, ou pelo não cumprimento dos procedimentos
+aplicáveis; e
+c) Facilidades: Situação em que a falha de qualquer componente da
+infraestrutura de navegação aérea tenha causado dificuldades operacionais.
+NOTA 1: Em função do nível de comprometimento da Segurança Operacional, o Incidente
+de Tráfego Aéreo pode ser classificado como Incidente de Risco Crítico ou de
+Risco Potencial (ver subitem 2.3.10 ).
+NOTA 2: Os procedimentos descritos na alínea “b” referem-se a procedimentos de
+navegação aérea e/ou procedimentos operacionais aplicáveis pelo órgão
+operacional.
+NOTA 3: As circunstâncias acima não são excludentes, portanto, em um mesmo incidente
+podem estar presentes mais de uma situação.
+1.5.9 INFORMAÇÕES DE ACESSO RESTRITO
+São aquelas que, não sendo passíveis de receber classificação sigilosa, por sua
+utilização ou finalidade, demandam medidas especiais de proteção.
+1.5.10 MATERIAL DE ACESSO RESTRITO
+É aquele que, não sendo passível de receber classificação sigilosa, por sua
+utilização ou finalidade, demanda medidas especiais de proteção.
+
+--- PÁGINA ---
+ICA 81-1/2023 13/65
+1.5.11 NÍVEL ACEITÁVEL DE DESEMPENHO DA SEGURANÇA OPERACIONAL
+(NADSO)
+O NADSO é expresso por um conjunto de Indicadores de Desempenho da
+Segurança Operacional (IDSO) e respectivas Metas de Desempenho da Segurança
+Operacional (MDSO) e reflete o nível de desempenho do Estado ou do PSNA quanto ao
+cumprimento das metas de segurança operacional estabelecidas.
+1.5.12 OCORRÊNCIA AERONÁUTICA
+Qualquer evento envolvendo aeronave, que poderá ser classificado como
+acidente aeronáutico, incidente aeronáutico grave, incidente aeronáutico ou ocorrência de
+solo, permitindo ao SIPAER a adoção dos procedimentos pertinentes.
+1.5.13 OCORRÊNCIA ANS
+Circunstância na qual ocorreu uma situação de anormalidade em qualquer
+componente, procedimento, processo, serviço ou produto do ANS que, direta ou
+indiretamente, possa acarretar dificuldade ou afetar adversamente a Segurança Operacional na
+prestação dos Serviços de Tráfego Aéreo, exigindo a adoção de medidas preventivas e/ou
+corretivas para a manutenção do NADSO.
+1.5.14 OCORRÊNCIA DE TRÁFEGO AÉREO
+Circunstância em que ocorreu uma situação de anormalidade na prestação dos
+Serviços de Tráfego Aéreo, considerando as normas e os procedimentos aplicáveis ao ANS,
+exigindo a adoção de medidas preventivas e/ou corretivas para a manutenção do NADSO.
+NOTA: As Ocorrências de Tráfego Aéreo, em função do nível de comprometimento da
+Segurança Operacional, podem ser classificadas conforme o subitem 2.3.10 .
+1.5.15 OFICIAL DE SEGURANÇA OPERACIONAL DO CONTROLE DO ESPAÇO
+AÉREO (OSCEA)
+Oficial, da ativa ou da reserva, do corpo de Oficiais da Aeronáutica dos
+quadros QOAV, QOECTA ou QOEACTA, pertencente às Organizações e/ou aos Órgãos do
+SISCEAB, com Curso de Investigação Controle do Espaço Aéreo (CI-CEA), representante do
+SEGCEA e ligado sistemicamente à ASEGCEA, SIPACEA regional, SPACEA setorial ou à
+ASSIPACEA local, quando designado para uma determinada investigação no Controle do
+Espaço Aéreo.
+1.5.16 ORGANIZAÇÃO PROVEDORA DE SERVIÇOS DE NAVEGAÇÃO AÉREA
+(OPSNA)
+Designação genérica atribuída às Organizações Regionais do DECEA
+responsáveis pelos Destacamentos de Controle do Espaço Aéreo (DTCEA), pelos Centros
+Operacionais Integrados (COI) e pelo Centro de Operações (COP), provedores de serviços de
+navegação Aérea do SISCEAB.
+1.5.17 PARECER TÉCNICO ATS
+Parecer, emitido pelo PSNA, após a apuração de uma Ocorrência ATS.
+
+--- PÁGINA ---
+14/65 ICA 81-1/2023
+1.5.18 PARECER TÉCNICO ANS
+Parecer, emitido pelo PSNA, após a apuração de uma Ocorrência ANS.
+1.5.19 PROCESSO DE APURAÇÃO DO SEGCEA
+Processo referente à averiguação de uma Ocorrência ATS ou ANS, conduzido
+com o propósito de prevenir acidentes/incidentes aeronáuticos e que compreende a coleta e
+análise de dados, fatos, informações e circunstâncias, a elaboração de conclusões, incluindo a
+identificação de perigos ou anomalias e, quando apropriado, a emissão de Ações Recomendadas
+e/ou Propostas de Ações Recomendadas.
+1.5.20 PROCESSO DE INVESTIGAÇÃO DO SEGCEA
+Processo referente à investigação de um Incidente de Tráfego Aéreo,
+conduzido com o propósito de prevenir acidentes/incidentes aeronáuticos, e que compreende a
+coleta e análise de dados, fatos, informações e circunstâncias, a elaboração de conclusões,
+incluindo a identificação dos fatores contribuintes e a emissão de Recomendações de
+Segurança Operacional e/ou Propostas de Recomendação de Segurança.
+1.5.21 PROPOSTA DE AÇÃO RECOMENDADA (PARD)
+Medida de caráter preventivo ou corretivo emitida pelo PSNA, sugerida para
+destinatário fora da área de jurisdição do emitente, oriunda de um Parecer Técnico ATS,
+visando eliminar o perigo ou mitigar o risco decorrente de uma condição latente ou de uma
+falha ativa, resultado da análise de uma ocorrência de tráfego aéreo.
+NOTA: As PARD destinadas a organizações fora do DECEA deverão ser enviadas à
+ASEGCEA, que fará o devido encaminhamento ao destinatário, responsável por
+acompanhar o seu cumprimento.
+1.5.22 PROPOSTA DE RECOMENDAÇÃO DE SEGURANÇA OPERACIONAL (PRSO)
+Medida de caráter preventivo ou corretivo emitida pelo SEGCEA por meio de
+um RICEA, sugerida para destinatário fora da área de jurisdição do emitente, visando eliminar
+o perigo ou mitigar o risco decorrente de uma condição latente ou de uma falha ativa,
+resultado da investigação de uma ocorrência de tráfego aéreo.
+NOTA: As PRSO constantes de um RICEA classificado como Risco Potencial serão elaboradas
+pela OPSNA e encaminhadas à ASEGCEA.
+1.5.23 PROVEDOR DE SERVIÇOS DE NAVEGAÇÃO AÉREA (PSNA)
+Expressão genérica utilizada para caracterizar as organizações operacionais
+responsáveis pela provisão dos Serviços de Navegação Aérea prestados pelo SISCEAB.
+NOTA 1: Por convenção, no Brasil, os Serviços de Navegação Aérea são parte integrante do
+“Controle do Espaço Aéreo”, abrangendo as áreas de Tráfego Aéreo (ATS), de
+Informações Aeronáuticas (AIS); de Comunicações, Navegação e Vigilância
+(CNS); de Meteorologia Aeronáutica (MET), de Cartografia Aeronáutica (CTG) e
+de Busca e Salvamento (SAR).
+
+--- PÁGINA ---
+ICA 81-1/2023 15/65
+NOTA 2: Essas organizações podem ser de natureza pública civil ou militar e, ainda, de
+natureza privada.
+NOTA 3: Esta conceituação não contempla os serviços prestados exclusivamente à Circulação
+Operacional Militar (COM).
+1.5.24 RECOMENDAÇÃO DE SEGURANÇA OPERACIONAL (RSO)
+Medida de caráter preventivo ou corretivo emitida pelo SEGCEA por meio de
+um RICEA, para destinatário da área de jurisdição do emitente, visando eliminar o perigo ou
+mitigar o risco decorrente de uma condição latente ou de uma falha ativa, resultado da
+investigação de um Incidente de Tráfego Aéreo ou de uma ação de prevenção.
+NOTA 1: As RSO, além de serem decorrentes de investigações de Incidentes de Tráfego Aéreo,
+também podem ser expedidas como medida preventiva e/ou corretiva, identificadas
+como de aplicação imediata e necessárias para a manutenção do NADSO.
+NOTA 2: Tais RSO podem ser deliberadas a partir das reuniões dos comitês de segurança
+operacional, por decisão do AR ou do GSOP, e devem ser emitidas e controladas
+pelas SIPACEA.
+1.5.25 RELATÓRIO DE INVESTIGAÇÃO DO CONTROLE DO ESPAÇO AÉREO (RICEA)
+Documento padronizado, de acesso restrito, resultante da coleta e da análise de
+fatos, dados e circunstâncias relacionados a um Incidente de Tráfego Aéreo.
+1.5.26 REPORTE MANDATÓRIO
+Notificação de uma ocorrência de tráfego aéreo ou evento caracterizado como
+de notificação compulsória, que deve ser realizada pelo PSNA, por meio da Ficha de
+Notificação de Ocorrência de Tráfego Aéreo (FNO).
+NOTA: As ocorrências e eventos caracterizados como de Reporte Mandatório são aqueles
+constantes do desta Instrução.
+1.5.27 REPORTE VOLUNTÁRIO
+Notificação realizada de forma voluntária por qualquer pessoa para reportar
+ocorrência, evento ou situação observada (condição latente ou falha ativa), com potencial para
+acarretar risco para a Segurança Operacional.
+1.5.28 SEÇÃO DE INVESTIGAÇÃO E PREVENÇÃO DE ACIDENTES/INCIDENTES DO
+CONTROLE DO ESPAÇO AÉREO (SIPACEA)
+Seção, com atuação regional, pertencente à estrutura dos CINDACTA ou do
+CRCEA-SE, subordinada diretamente ao Comandante/Chefe da OPSNA e ligada
+sistemicamente à ASEGCEA.
+1.5.29 SEÇÃO DE PREVENÇÃO DE ACIDENTES/INCIDENTES DO CONTROLE DO
+ESPAÇO AÉREO (SPACEA)
+
+--- PÁGINA ---
+16/65 ICA 81-1/2023
+Órgão setorial do SEGCEA, pertencente à estrutura do Centro de
+Gerenciamento da Navegação Aérea (CGNA) e Primeiro Grupo de Comunicação e Controle
+(1º GCC), subordinado diretamente ao Comandante/Chefe e ligado à ASEGCEA.
+1.5.30 SEGURANÇA OPERACIONAL
+Estado no qual os riscos associados às atividades de aviação, relacionados ou
+em apoio direto à operação da aeronave, são reduzidos e controlados em um nível aceitável.
+NOTA: Em outras palavras, Segurança Operacional é o estado no qual os riscos no ATS são
+reduzidos e mantidos em um nível aceitável, ou abaixo deste, mediante um processo
+contínuo de identificação de perigos e gerenciamento de riscos.
+1.5.31 SERVIÇOS DE NAVEGAÇÃO AÉREA (ANS)
+Conjunto de serviços prestados pelo SISCEAB, observando as disposições
+normativas do DECEA, órgão central e regulador do sistema. Por convenção, no Brasil, tal
+conjunto de serviço é denominado “Controle do Espaço Aéreo,” abrangendo as áreas de
+Tráfego Aéreo (ATS), de Informações Aeronáuticas (AIS); de Comunicações, Navegação e
+Vigilância (CNS); de Meteorologia Aeronáutica (MET), de Cartografia Aeronáutica (CTG) e
+de Busca e Salvamento (SAR).
+1.5.32 SISTEMA
+Uma estrutura organizada, com um propósito definido, integrada por um
+conjunto de elementos e componentes interrelacionados e interdependentes, assim como
+políticas, normas, procedimentos e práticas conexas, criados para realizar uma atividade
+específica ou resolver um problema.
+NOTA: A vinculação desses elementos, entre si, ocorre por interesse de coordenação,
+orientação técnica e normativa, não implicando subordinação hierárquica, conforme
+ICA 700-1 “Implantação e Gerenciamento de Sistemas no Comando da Aeronáutica”.
+1.5.33 SISTEMA DE CONTROLE DO ESPAÇO AÉREO BRASILEIRO (SISCEAB)
+Sistema que tem por finalidade prover os meios necessários para o
+gerenciamento do espaço aéreo e o serviço de navegação aérea, de modo seguro e eficiente,
+conforme estabelecido nas normas nacionais e nos acordos e tratados internacionais de que o
+Brasil seja parte.
+1.5.34 SISTEMA DE INFORMAÇÕES GERENCIAIS DO SEGCEA (SIGCEA)
+Sistema utilizado para coleta, processamento e armazenamento dos dados
+relacionados ao gerenciamento da segurança operacional no SISCEAB. Todas as Ocorrências
+de Tráfego Aéreo devem ser, obrigatoriamente, registradas em LRO.
+1.5.35 SISTEMA DE INVESTIGAÇÃO E PREVENÇÃO DE ACIDENTES
+AERONÁUTICOS (SIPAER)
+O SIPAER tem por objetivo planejar, orientar, coordenar, controlar e executar
+as atividades de investigação e prevenção de acidentes aeronáuticos.
+
+--- PÁGINA ---
+ICA 81-1/2023 17/65
+1.5.36 SUBSISTEMA DE SEGURANÇA OPERACIONAL DO SISCEAB (SEGCEA)
+Subsistema que tem por finalidade o gerenciamento das atividades de
+prevenção de acidentes, de incidentes aeronáuticos e de incidentes de tráfego aéreo, incluindo
+as relativas ao gerenciamento da segurança operacional, bem como das atividades referentes
+aos processos de apuração e de investigação das Ocorrências de Tráfego Aéreo.
+
+--- PÁGINA ---
+18/65 ICA 81-1/2023
+2 OCORRÊNCIAS DE TRÁFEGO AÉREO
+2.1 GENERALIDADES
+2.1.1 Todas as Ocorrências de Tráfego Aéreo devem ser, obrigatoriamente, registradas em
+LRO (físico ou digital) e inseridas, por meio da FNO (Anexo E), no SIGCEA.
+2.1.2 Todas as Ocorrências de Tráfego Aéreo devem ser apuradas ou investigadas conforme
+os processos estabelecidos nesta Instrução e demais normas pertinentes do SEGCEA.
+2.1.3 Os processos de Investigações dos Incidentes de Tráfego Aéreo de Risco Potencial são
+da competência do DECEA, por meio de suas Organizações Regionais (CINDACTA e
+CRCEA-SE).
+2.1.4 Os processos de Apuração das Ocorrências ATS são da responsabilidade das
+Organizações ou Entidades Prestadoras dos Serviços de Navegação Aérea e devem ser
+iniciados no PSNA onde se deu a ocorrência.
+2.1.5 O DECEA, por meio da ASEGCEA, mantém a regulamentação, a atribuição de
+responsabilidades e competências, bem como o estabelecimento de processos necessários à
+gestão das investigações dos Incidentes de Tráfego Aéreo de Risco Potencial e de Risco
+Crítico, naquilo que for pertinente.
+2.1.5.1 Em função do nível de gravidade das possíveis consequências para a Segurança
+Operacional, as ocorrências de tráfego aéreo podem ser classificadas como Ocorrências ATS,
+Incidente de Tráfego Aéreo de Risco Potencial ou Incidente de Tráfego Aéreo de Risco
+Crítico.
+2.1.5.2 A classificação da Ocorrência de Tráfego Aéreo deve ser feita em conformidade com
+os critérios estabelecidos no subitem 2.3.10 .
+2.1.6 As Ocorrências de Tráfego Aéreo classificadas como Incidente de Tráfego Aéreo de
+Risco Potencial são intrínsecas do SISCEAB e devem ser objeto de investigação do
+SEGCEA.
+2.1.7 As Ocorrências de Tráfego Aéreo classificadas como Incidente de Tráfego Aéreo de
+Risco Crítico se enquadram nos critérios de classificação de Incidentes Aeronáuticos Graves,
+conforme o Anexo 13 da OACI. Assim, o processo de investigação desse tipo de ocorrência
+deve ficar a cargo do CENIPA, sem prejuízo das demais disposições normativas pertinentes,
+contidas na legislação do SEGCEA.
+2.1.8 As Ocorrências ANS também devem ser registradas, notificadas, analisadas e tratadas
+pelos PSNA, em conformidade com os critérios estabelecidos no subitem 2.3.14 .
+2.1.9 A fim de manter registro, possibilitar a rastreabilidade, o controle e a geração do Banco
+de Dados de Segurança Operacional do DECEA (BDSCEA), os processos de apuração e de
+investigação das Ocorrências de Tráfego Aéreo, bem como das Ocorrências ANS apuradas,
+devem ser processados por meio do SIGCEA.
+
+--- PÁGINA ---
+ICA 81-1/2023 19/65
+2.2 FINALIDADE DA INVESTIGAÇÃO
+2.2.1 Os processos de investigação de que trata esta Instrução têm como única finalidade a
+prevenção de acidentes/incidentes aeronáuticos e de incidentes de tráfego aéreo, por meio de
+Recomendações de Segurança Operacional (RSO) e/ou Propostas de Recomendação de
+Segurança Operacional (PRSO), estabelecidas a partir da identificação dos fatores
+contribuintes presentes, direta ou indiretamente, na Ocorrência de Tráfego Aéreo.
+2.2.2 Os processos de apuração de que trata esta Instrução têm como única finalidade a
+prevenção de acidentes/incidentes aeronáuticos, por meio de Ações Recomendadas (ARD)
+e/ou Propostas de Ações Recomendadas (PARD), estabelecidas a partir da identificação dos
+possíveis fatores que, direta ou indiretamente, contribuíram para a Ocorrência de Tráfego
+Aéreo ou para a Ocorrência ANS.
+2.2.3 As Recomendações de Segurança Operacional (RSO) ou Ações Recomendadas (ARD) a
+serem estabelecidas devem possibilitar uma ação direta ou a tomada de decisões para eliminar
+ou mitigar os fatores contribuintes e/ou as suas possíveis consequências.
+NOTA: Não é propósito da investigação, a qual é baseada nos princípios SIPAER, atribuir
+culpa ou responsabilidade, mas tão somente utilizar tal ferramenta de modo a
+contribuir para a prevenção de Acidentes Aeronáuticos, de incidentes Aeronáuticos,
+de Incidentes de Tráfego Aéreo, bem como para a manutenção da Segurança
+Operacional na prestação do ANS.
+2.3 PROCESSO DE INVESTIGAÇÃO E DE APURAÇÃO
+2.3.1 É fundamental determinar com a maior presteza os fatores contribuintes de toda
+Ocorrência de Tráfego Aéreo, de modo que seja possível adotar as medidas corretivas para
+prevenir a repetição de ocorrências semelhantes. Portanto, o chefe do órgão ATS deverá:
+a) providenciar a preservação de todos os dados pertinentes, imediatamente
+após tomar conhecimento de uma Ocorrência de Tráfego Aéreo; e
+b) informar pelo meio mais rápido (telefone e e-mail) à SIPACEA no caso de
+indício de Incidente de Tráfego Aéreo.
+NOTA: Os Chefes de Equipe, Supervisores, ATCO ou OEA de um órgão ATS envolvidos
+em Ocorrência de Tráfego Aéreo são, também, responsáveis por adotar as medidas
+necessárias para a preservação de todos os dados e registrar os detalhes da operação
+realizada, para facilitar a reconstituição da ocorrência em tela e permitir a
+determinação de seus fatores contribuintes.
+2.3.2 As tarefas de investigação têm prioridade sobre as demais atividades dos envolvidos em
+um processo de investigação de acidentes/incidentes aeronáuticos ou de Incidentes de Tráfego
+Aéreo.
+2.3.3 O responsável pela investigação (OSCEA) e o Elemento Certificado Fator Humano
+Aspecto Psicológico (EC-FHP) serão formalmente designados pela OPSNA, no caso de
+Incidente de Tráfego Aéreo.
+2.3.4 Adicionalmente ao Investigador do Fator Humano Aspecto Psicológico, o responsável
+pela investigação poderá, por meio da SIPACEA pertinente, no caso de Incidente de Tráfego
+
+--- PÁGINA ---
+20/65 ICA 81-1/2023
+Aéreo, requisitar uma equipe de técnicos especialistas para assessorá-lo em situações
+específicas das diversas áreas envolvidas, inclusive, quando necessário, médicos, especialistas
+em meteorologia, telecomunicações, radar, auxílios à navegação etc., para determinar todos os
+fatores que possam ter contribuído para o Incidente de Tráfego Aéreo.
+2.3.5 As organizações envolvidas e/ou detentoras de dados, documentos e/ou informações
+sobre as Ocorrências de Tráfego Aéreo deverão providenciar e garantir ao responsável pela
+investigação (OSCEA) o acesso, a obtenção e o controle irrestrito de todo material relevante,
+incluindo gravações de vídeo e áudio de ambiente e das câmeras de segurança, documentos,
+transcrições de comunicações dos órgãos ATS, de modo a possibilitar que um exame
+detalhado de todo material de interesse possa ser feito tempestivamente, imediatamente após
+tomar conhecimento da ocorrência.
+NOTA: Também aplicável aos investigadores designados pelo CENIPA, nos casos de
+Incidentes de Tráfego Aéreo de Risco Crítico.
+2.3.6 Todos os documentos, dados e informações referentes às investigações de Incidente de
+Tráfego Aéreo deverão ter o tratamento de acesso restrito, em conformidade com a ICA 205-
+47 do COMAER.
+2.3.7 Com amparo e em conformidade com a Lei nº 12.970, de 8 de maio de 2014, as
+seguintes informações serão utilizadas somente para o propósito da investigação, sendo
+proibida a sua divulgação total ou parcial:
+a) todas as comunicações entre as pessoas envolvidas;
+b) informações de ordem médica, psicológica e/ou privada referentes às
+pessoas envolvidas; e
+c) opiniões expressas na análise das informações, incluindo as gravações
+registradas pelos Órgãos do Serviço de Tráfego Aéreo (áudio e transcrição
+das gravações do SFA e SMA e dos dados de revisualização dos sistemas de
+vigilância).
+2.3.8 Os profissionais dos órgãos envolvidos em uma ocorrência são responsáveis, em cada
+nível da sua organização, por assegurar que sejam preservados todos os registros de interesse,
+quer sejam físicos ou digitais, tais como as Fichas de Progressão de Voo (FPV), o Livro de
+Registro de Ocorrências (LRO), o Livro de Registro de Comunicações (LRC), as mensagens
+ATS, as mensagens MET e as gravações do SMA, do SFA, dos sistemas de Vigilância ATS,
+dos sistemas de Vigilância Visual, do sistema de câmeras de vigilância e outras gravações
+e/ou dados que sejam de interesse para o esclarecimento das ocorrências de tráfego aéreo.
+2.3.9 Se no decorrer do processo de investigação ou apuração for verificado um elevado
+potencial de severidade e/ou de recorrência, o estabelecimento e a divulgação de medidas
+identificadas como necessárias e de aplicação imediata serão feitos no menor prazo possível,
+tendo em vista a adoção de medidas oportunas de prevenção.
+2.3.10 CLASSIFICAÇÃO DAS OCORRÊNCIAS DE TRÁFEGO AÉREO
+2.3.10.1 Em função do comprometimento da segurança operacional, uma Ocorrência de
+Tráfego Aéreo deverá ser classificada conforme os parâmetros a seguir:
+
+--- PÁGINA ---
+ICA 81-1/2023 21/65
+a) Incidente de Tráfego Aéreo de Risco Crítico. Condição na qual não ocorreu
+um acidente devido ao acaso ou a uma ação evasiva e que as distâncias
+(horizontal e vertical) entre as aeronaves tenham sido, respectivamente,
+igual ou inferior a 0,5 NM e 500 pés;
+NOTA 1: Quando uma Ocorrência de Tráfego Aéreo for classificada como
+Incidente de Tráfego Aéreo e não se enquadrar na condição
+acima, o reporte de quase colisão, efetuado por um dos pilotos
+envolvidos, após análise dos dados disponíveis, poderá levar o
+incidente à classificação de Risco Crítico.
+NOTA 2: O Incidente de Tráfego Aéreo de Risco Crítico é definido em
+norma do CENIPA como Incidente Aeronáutico Grave.
+b) Incidente de Tráfego Aéreo de Risco Potencial. Condição na qual a
+proximidade entre aeronaves, ou entre aeronaves e obstáculos, tenha
+resultado em separação menor que o mínimo estabelecido pelas normas
+vigentes sem, contudo, atingir a condição de risco crítico;
+NOTA: Quando as informações disponíveis não permitirem a determinação
+do nível de comprometimento da segurança dos tráfegos envolvidos
+em uma ocorrência, este será classificado como Risco Potencial.
+c) Ocorrência ATS. Condição na qual foi verificada uma anormalidade na
+prestação do ATS, porém as circunstâncias e os parâmetros observados não
+chegaram a configurar Incidente de Tráfego Aéreo.
+2.3.11 PROCESSAMENTO DAS OCORRÊNCIAS DE TRÁFEGO AÉREO
+2.3.11.1 As comunicações das Ocorrências de Tráfego Aéreo, com origem no PSNA, deverão
+ser registradas no LRO e inseridas no SIGCEA por meio de FNO (Anexo E), conforme
+subitem 2.1.1 .
+2.3.11.2 As comunicações das Ocorrências de Tráfego Aéreo realizadas por meio de
+RELPREV, e-mail, RCSV, SAC, ofício, carta etc., recebidos por qualquer Elo SEGCEA,
+deverão ser inseridas no SIGCEA, indicando o PSNA pertinente, responsável pelo
+processamento da ocorrência.
+2.3.11.3 As Ocorrências de Tráfego Aéreo, sem indício de Incidente de Tráfego Aéreo,
+deverão ser notificadas por meio da FNO e registradas no SIGCEA em até 3 (três) dias úteis,
+a contar da data da ocorrência.
+2.3.11.4 As Ocorrências de Tráfego Aéreo, com indício de Incidente de Tráfego Aéreo,
+deverão ser comunicadas imediatamente, pelo meio mais rápido, à SIPACEA da área de
+jurisdição e registradas, por meio da FNO, no SIGCEA.
+2.3.11.5 Nos casos de Ocorrências de Tráfego Aéreo com indício de Incidente de Tráfego
+Aéreo, a Documentação Preliminar deverá ser enviada à SIPACEA em até 3 (três) dias úteis,
+a contar da data em que o PSNA tomou conhecimento da ocorrência.
+2.3.11.6 A SIPACEA, após receber a Documentação Preliminar, terá o prazo máximo de 3
+(três) dias úteis para análise da ocorrência e sua classificação ou não como Incidente de
+Tráfego Aéreo e emitir resposta ao PSNA.
+
+--- PÁGINA ---
+22/65 ICA 81-1/2023
+2.3.11.7 As Ocorrências de Tráfego Aéreo, classificadas como Ocorrências ATS, devem ser
+apuradas com um nível de detalhamento compatível com a complexidade da ocorrência e do
+órgão ATS provedor do serviço, como forma de identificar as causas e estabelecer as ações
+preventivas e/ou corretivas, visando evitar a sua recorrência.
+2.3.11.8 Quando uma Ocorrência ATS envolver mais de um PSNA da mesma jurisdição ou
+sob a jurisdição de Entidades e/ou Organizações Regionais distintas, cada PSNA envolvido
+deverá designar um responsável pela apuração da ocorrência no órgão ATS sob sua
+jurisdição. Nesse caso, a SIPACEA da OPSNA com jurisdição da região do espaço aéreo
+onde se deu a ocorrência elaborará o Parecer Técnico ATS conclusivo, com o prazo máximo
+de 15 dias, a contar do recebimento dos pareceres dos PSNA.
+NOTA: O Parecer Técnico ATS conclusivo acima citado também deverá ser elaborado
+conforme modelo do Anexo C, porém a SIPACEA, ao elaborar este parecer, deverá
+citar no campo “Finalidade” que se trata de parecer conclusivo e no campo
+“Documentos Anexados”, incluir os pareceres elaborados pelos PSNA, bem como
+citar tais pareceres no campo “Documentos Analisados”.
+2.3.11.9 Caso haja discordância quanto à análise ou ao resultado da apuração do Parecer
+Técnico ATS, a ASEGCEA e/ou SIPACEA poderá solicitar a revisão do parecer ou mesmo
+reclassificar a Ocorrência de Tráfego Aéreo como um Incidente de Tráfego Aéreo e tomar as
+medidas pertinentes para que seja realizada a respectiva investigação.
+2.3.12 INVESTIGAÇÃO DE INCIDENTE DE TRÁFEGO AÉREO
+2.3.12.1 Para a condução do processo de investigação de Incidente de Tráfego Aéreo de Risco
+Potencial ou de Risco Crítico, somente poderão ser indicados Elementos Certificados (EC-
+CEA) dos Quadros de Oficiais Aviadores ou CTA, da ativa ou da reserva.
+NOTA 1: O EC-CEA designado não poderá pertencer ao efetivo do órgão envolvido no
+Incidente de Tráfego Aéreo objeto da investigação nem ter envolvimento
+emocional com a ocorrência.
+NOTA 2: Quando da designação do EC-CEA para investigar um Incidente de Tráfego
+Aéreo, será designado também o EC-FHP, não pertencente ao órgão envolvido,
+para participar da equipe de investigação.
+2.3.12.2 O processo de investigação de Incidente de Tráfego Aéreo classificado como Risco
+Potencial deverá ser conduzido pela SIPACEA da OPSNA com jurisdição sobre a região do
+espaço aéreo onde ocorreu o incidente, a qual deverá elaborar o respectivo RICEA.
+2.3.12.3 As Ocorrências de Tráfego Aéreo, classificadas como Incidente de Tráfego Aéreo de
+Risco Crítico, são enquadradas como Incidente Aeronáutico Grave. A investigação de tal tipo
+de incidente é da competência do CENIPA, de acordo com as legislações e processos
+específicos daquele Centro. Nesses casos, a confirmação da ocorrência e sua classificação
+serão feitas pela ASEGCEA, cabendo ao CENIPA a autenticação de tal classificação.
+2.3.12.4 Caso o CENIPA não autentique a classificação do Incidente de Tráfego Aéreo como
+Risco Crítico, este Centro informará à ASEGCEA, que processará a ocorrência como
+Incidente de Tráfego Aéreo de Risco Potencial.
+
+--- PÁGINA ---
+ICA 81-1/2023 23/65
+2.3.12.5 Apesar de o processo de investigação do Incidente de Tráfego Aéreo de Risco Crítico
+ser da competência do CENIPA, independentemente da conclusão do processo de tal
+investigação, o PSNA deverá realizar uma apuração interna com o objetivo de identificar as
+ações iniciais e implementar as medidas corretivas e/ou preventivas verificadas como
+necessárias e de aplicação imediata em prol da manutenção de um Nível Aceitável de
+Desempenho da Segurança Operacional.
+NOTA: Tais medidas podem ser estabelecidas por meio de ARD e/ou RSO, conforme os
+subitens 1.5.1 e 1.5.24 , respectivamente.
+2.3.12.6 A execução de todas as tarefas relativas à elaboração dos RICEA ou do Laudo
+Técnico ATS, com o respectivo envio à ASEGCEA, deverá ocorrer dentro do prazo de 60
+(sessenta) dias, a partir da data da classificação da ocorrência pela SIPACEA pertinente,
+conforme subitem 2.3.11.6 .
+2.3.12.7 O PSNA envolvido em Incidente de Tráfego Aéreo deverá enviar à SIPACEA toda a
+documentação fundamental, dentro do prazo máximo de 5 (cinco) dias úteis, a contar da data
+da comunicação da classificação da ocorrência como Incidente de Tráfego Aéreo.
+2.3.12.8 A equipe de investigação deverá comparecer, tão logo quanto possível, aos órgãos
+prestadores dos serviços de tráfego aéreo envolvidos no Incidente de Tráfego Aéreo, para
+levantar as condições técnicas e operacionais do ambiente de trabalho, bem como realizar as
+entrevistas com os profissionais envolvidos (chefe do órgão, chefes de equipe, supervisores,
+coordenadores, controladores, assistentes e outros que a equipe julgue que possam contribuir
+para a elucidação dos fatores contribuintes detectados no incidente), visando identificar o real
+cenário no qual o evento ocorreu.
+2.3.12.9 A SIPACEA ou a ASEGCEA, durante o processo de investigação e elaboração do
+RICEA ou após a sua conclusão, poderá reclassificar a Ocorrência de Tráfego Aéreo.
+2.3.12.10 Quando um Incidente de Tráfego Aéreo envolver Órgãos ATS sob jurisdição de
+Organizações Regionais distintas, cada Organização envolvida poderá designar um
+investigador para o Órgão ATS sob sua jurisdição. Nesse caso, deverá haver uma coordenação
+entre as respectivas SIPACEA, visando estabelecer a Organização responsável pela condução
+da investigação e elaboração do RICEA.
+2.3.12.11 É da responsabilidade do Comandante/Chefe da OPSNA do DECEA a homologação
+do RICEA.
+2.3.13 PROCESSAMENTO DA OCORRÊNCIA ATS
+2.3.13.1 Uma Ocorrência de Tráfego Aéreo classificada, pela SIPACEA pertinente, como
+Ocorrência ATS deve ser apurada pelo PSNA onde se deu a ocorrência.
+2.3.13.2 O processo de apuração da Ocorrência ATS deve ser conduzido por ATCO/OEA
+pertencente ao PSNA, com conhecimento técnico operacional e experiência profissional
+adequados para a análise da ocorrência.
+NOTA: O conhecimento técnico operacional e experiência profissional citados são aqueles adquiridos
+na capacitação e experiência do ATCO/OEA no PSNA onde se deu a ocorrência, não sendo
+compulsório que o profissional seja Elemento Certificado (EC-CEA).
+
+--- PÁGINA ---
+24/65 ICA 81-1/2023
+2.3.13.3 O processo de apuração da Ocorrência ATS deve ser formalizado por meio de
+Parecer Técnico ATS e tem por objetivo identificar as causas e circunstâncias que
+contribuíram para a situação de anormalidade na prestação do ATS, bem como propor as
+medidas corretivas necessárias para prevenir a recorrência de tais eventos e garantir um
+NADSO nas operações do PSNA.
+2.3.14 PROCESSAMENTO DA OCORRÊNCIA ANS
+2.3.14.1 Uma Ocorrência ANS pode ter origem em um reporte interno ou externo ao PSNA.
+Em função da origem da notificação, a ocorrência deverá ser processada conforme a seguir:
+a) Ocorrência ANS cuja notificação tenha origem no PSNA: deverá ser
+registrada no LRO ou em outro meio apropriado. O PSNA deverá avaliar a
+ocorrência e deliberar se deve ou não ser inserida no SIGCEA;
+NOTA 1: Se o PSNA optar por inserir a ocorrência no SIGCEA, deverá
+fazer a sua apuração e elaborar o respectivo Parecer Técnico
+ANS, conforme formulário constante no Anexo D.
+.
+NOTA 2: Se o PSNA optar por não inserir a ocorrência no SIGCEA, o seu
+tratamento fica a critério do PSNA, que deverá tomar as
+providências julgadas pertinentes sobre a ocorrência.
+b) Ocorrência ANS cuja notificação tenha origem em RELPREV/RCSV ou
+outro meio externo ao PSNA: deverá ser registrada no SIGCEA e
+encaminhada, via Elos Sistêmicos SEGCEA, ao PSNA pertinente. O
+processamento de tal ocorrência deverá ser formalizado por meio de um
+Parecer Técnico ANS, conforme formulário constante no Anexo D.
+2.3.14.2 O processo de apuração da Ocorrência ANS deve ser conduzido por ATCO/OEA
+pertencente ao PSNA, com conhecimento técnico operacional e experiência profissional
+adequados para a análise da ocorrência.
+NOTA: O conhecimento técnico operacional e experiência profissional citados são aqueles
+adquiridos na capacitação e experiência do ATCO/OEA no PSNA onde se deu a
+ocorrência, não sendo compulsório que o profissional seja certificado EC-CEA.
+2.3.14.3 O processo de apuração da Ocorrência ANS deve ser formalizado por meio de um
+Parecer Técnico ANS. Tem por objetivo identificar as causas e circunstâncias que
+contribuíram para o evento de anormalidade, bem como propor as medidas preventivas e/ou
+corretivas necessárias para o restabelecimento do funcionamento adequado dos componentes
+e processos ANS.
+NOTA: Entende-se por anormalidade o mau desempenho ou a má qualidade dos produtos/
+serviços que possam, direta ou indiretamente, acarretar dificuldades ou afetar
+adversamente a Segurança Operacional na prestação dos Serviços de Tráfego Aéreo.
+
+--- PÁGINA ---
+ICA 81-1/2023 25/65
+3 ATRIBUIÇÕES E RESPONSABILIDADES
+3.1 DA ASEGCEA
+3.1.1 Analisar, ratificar ou reclassificar as Ocorrências de Tráfego Aéreo classificadas pelas
+SIPACEA como Incidente de Tráfego Aéreo de Risco Crítico inseridas no SIGCEA.
+3.1.2 Analisar, ratificar ou reclassificar as Ocorrências de Tráfego Aéreo classificadas como
+Ocorrências ATS.
+NOTA 1: Tais ocorrências serão selecionadas de forma aleatória, inopinada e analisadas,
+oportunamente, pela ASEGCEA.
+NOTA 2: Tal seleção deve, preferencialmente, levar em consideração aquelas nas quais
+estejam presentes fatores como a separação de aeronaves, RA, RI (A, B ou C)
+e/ou RE.
+3.1.3 Informar ao DGCEA e ao CENIPA o Incidente de Tráfego Aéreo classificado como
+Risco Crítico.
+3.1.4 Designar, por solicitação do CENIPA, o Elemento Certificado (EC-CEA) e/ou Elemento
+Certificado Fator Humano Aspecto Psicológico (EC-FHP) para compor a equipe de
+investigação de Incidente de Tráfego Aéreo classificado como Risco Crítico.
+3.1.5 Reclassificar, quando aplicável, as Ocorrências de Tráfego Aéreo, em conformidade
+com o subitem 2.3.10 .
+3.1.6 Coordenar com o CENIPA o apoio técnico, administrativo, de transporte e outros que se
+façam necessários à adequada realização das atividades relacionadas com a investigação dos
+Incidentes de Tráfego Aéreo classificados como Risco Crítico.
+3.1.7 Manter o controle das Recomendações de Segurança (RS) emitidas pelo CENIPA para o
+DECEA oriundas de investigação de Incidente de Tráfego Aéreo classificado como Risco
+Crítico ou Acidente/Incidente Aeronáutico.
+3.1.8 Monitorar o cumprimento das Recomendações de Segurança Operacional (RSO)
+emitidas por meio dos RICEA, oriundas das investigações dos Incidentes de Tráfego Aéreo.
+3.1.9 Analisar, aprovar, reprovar ou revisar as respostas dos RCSV recebidas das SIPACEA
+com vistas a sua publicação e encaminhamento ao CENIPA.
+3.2 DA OPSNA
+3.2.1 Designar, formalmente, o OSCEA responsável pela investigação de Incidente de
+Tráfego Aéreo classificado como Risco Potencial.
+3.2.2 Designar, formalmente, o Elemento Certificado Fator Humano Aspecto Psicológico
+(EC-FHP) para compor a equipe de investigação de Incidente de Tráfego Aéreo classificado
+como Risco Potencial.
+
+--- PÁGINA ---
+26/65 ICA 81-1/2023
+3.2.3 Prover apoio técnico, administrativo, de transporte e outros que se façam necessários à
+adequada realização das atividades relacionadas com a investigação dos Incidentes de Tráfego
+Aéreo classificados como Risco Potencial e, quando pertinente, de Risco Crítico.
+3.2.4 Prover as condições, os meios e os recursos para garantir, dentro dos prazos
+estabelecidos, cumprimento das Recomendações de Segurança Operacional e das Ações
+Recomendadas aos PSNA subordinados.
+3.2.5 Homologar os RICEA relativos às Investigações dos Incidentes de Tráfego Aéreo de
+Risco Potencial e, quando pertinente, de Risco Crítico.
+3.3 DA SIPACEA
+3.3.1 Classificar ou Reclassificar as Ocorrências de Tráfego Aéreo inseridas no SIGCEA.
+3.3.2 Informar à ASEGCEA, pelo meio mais rápido possível (telefone e e-mail), a ocorrência
+de Incidente de Tráfego Aéreo, com indício de Risco Crítico, em sua área de jurisdição.
+3.3.3 Propor ao Comandante/Chefe da OPSNA a designação do OSCEA responsável pela
+investigação de Incidente de Tráfego Aéreo, classificado como Risco Potencial e, quando
+pertinente, de Risco Crítico, de acordo com o previsto nas normas do SEGCEA.
+3.3.4 Propor ao Comandante/Chefe da OPSNA a designação do Elemento Certificado Fator
+Humano Aspecto Psicológico (EC-FHP) para compor a equipe de investigação de Incidente
+de Tráfego Aéreo, classificado como Risco Potencial e, quando pertinente, de Risco Crítico.
+3.3.5 Analisar, em até 3 (três) dias úteis, a contar da data do recebimento da Documentação
+Preliminar, as ocorrências com indícios de incidentes de tráfego aéreo e solicitar ao PSNA a
+emissão do Parecer Técnico ATS, quando a mesma não se configurar como Incidente de
+Tráfego Aéreo.
+3.3.6 Providenciar o envio da cópia do RICEA ao(s) PSNA envolvido(s).
+3.3.7 Manter o acompanhamento e supervisionar a implementação e a eficácia das
+Recomendações de Segurança Operacional, bem como dos respectivos prazos para execução,
+em sua área de jurisdição.
+3.3.8 Analisar, reclassificar ou validar os Pareceres Técnicos (ATS e ANS) recebidos dos
+PSNA jurisdicionados, no prazo máximo de 10 (dez) dias, a contar da data do seu
+recebimento.
+3.3.9 Validar e controlar as respostas aos relatores dos RCSV, elaboradas pelo PSNA, e
+encaminhá-las à ASEGCEA, via SIGCEA.
+3.3.10 Validar e controlar as respostas dos RELPREV, elaboradas pelo PSNA, e encaminhá-
+las aos respectivos relatores.
+3.3.11 Concluir o processo de investigação e elaboração do respectivo RICEA, dentro do
+prazo estabelecido nesta Instrução.
+3.3.12 Informar ao DECEA, por meio da ASEGCEA, o cumprimento das RSO ou as
+justificativas, quando não for possível cumpri-las.
+
+--- PÁGINA ---
+ICA 81-1/2023 27/65
+3.4 DO PROVEDOR DE SERVIÇOS DE NAVEGAÇÃO AÉREA (PSNA)
+3.4.1 Informar, imediatamente à SIPACEA da sua área de jurisdição, pelo meio mais rápido,
+as ocorrências com indício de Incidente de Tráfego Aéreo.
+3.4.2 Formalizar, anualmente, para a respectiva SIPACEA, a designação dos ATCO e/ou
+OEA responsáveis pela apuração das Ocorrências ATS ou ANS e elaborar os respectivos
+pareceres técnicos (ATS e ANS).
+NOTA 1: O responsável, designado pelo PSNA, deverá possuir conhecimento técnico
+operacional e experiência profissional compatíveis com a natureza da Ocorrência
+ATS ou ANS a serem analisadas e apuradas.
+NOTA 2: O conhecimento técnico operacional e experiência profissional citados são aqueles
+adquiridos na capacitação e experiência do ATCO/OEA no PSNA onde se deu a
+ocorrência, não sendo compulsório que o profissional seja certificado EC-CEA.
+3.4.3 Providenciar a preservação de todos os dados, informações, registros e documentações
+pertinentes, necessários à investigação ou apuração das Ocorrências de Tráfego Aéreo.
+3.4.4 Enviar à SIPACEA da sua área de jurisdição toda documentação fundamental pertinente
+à investigação dos Incidentes de Tráfego Aéreo classificados como Risco Potencial, no prazo
+máximo de 5 (cinco) dias úteis, a partir da classificação da ocorrência como incidente de
+tráfego aéreo pela SIPACEA.
+3.4.5 Disponibilizar, ao investigador designado pelo CENIPA, toda documentação
+fundamental original, prevista no item 4.1 desta Instrução, relativa à investigação dos
+Incidentes de Tráfego Aéreo classificados como Risco Crítico, em conformidade às
+disposições relativas à tramitação de documentação de acesso restrito.
+3.4.6 Remeter à SIPACEA da sua área de jurisdição o Parecer Técnico ATS no prazo máximo
+de 20 (vinte) dias, a contar da data de confirmação da Ocorrência de Tráfego Aéreo não
+classificada como Incidente de Tráfego Aéreo.
+3.4.7 Remeter, via SIGCEA, à SIPACEA da sua área de jurisdição, o Parecer Técnico ANS,
+no prazo máximo de 20 (vinte) dias, a contar da data de sua solicitação.
+3.4.8 Assegurar as condições para o acesso dos integrantes da equipe de investigação de
+Incidentes de Tráfego Aéreo a todos os documentos, dados, informações e registros, bem
+como aos locais necessários ao cumprimento da missão.
+3.4.9 Estabelecer procedimento para registrar no LRO as Ocorrências de Tráfego Aéreo, bem
+como as demais ocorrências caracterizadas como de reporte mandatório (vide Cap. 5).
+3.4.10 Estabelecer procedimento para realizar a verificação diária do LRO, com vistas a
+identificar registros de Ocorrências de Tráfego Aéreo, bem como os registros das demais
+ocorrências de reporte mandatório, e suas inserções no SIGCEA por meio da FNO.
+3.4.11 Remeter a Ficha de Notificação de Ocorrência de Tráfego Aéreo (FNO) à SIPACEA da
+sua área de jurisdição, no prazo máximo de 3 (três) dias úteis, a partir da data da ocorrência.
+
+--- PÁGINA ---
+28/65 ICA 81-1/2023
+3.4.12 Remeter a Documentação Preliminar à SIPACEA da sua área de jurisdição, nos casos
+de ocorrências com indícios de incidente de tráfego aéreo, em até 3 (três) dias úteis, a contar
+da data em que o PSNA tomou conhecimento da respectiva ocorrência, ou por solicitação da
+SIPACEA.
+3.4.13 Divulgar, no menor prazo possível, o resultado das investigações e apurações das
+Ocorrências de Tráfego Aéreo que, a seu critério, tenha um elevado potencial de gravidade
+e/ou de recorrência.
+3.4.14 Fazer a apuração dos reportes voluntários (RCSV e RELPREV), elaborar as respostas
+aos relatores e encaminhá-las para a SIPACEA, via SIGCEA.
+3.4.15 Supervisionar o cumprimento das atribuições do pessoal envolvido em Ocorrências de
+Tráfego Aéreo quanto às ações estabelecidas no subitem 3.6 .
+3.4.16 Implementar e controlar o cumprimento e a eficácia das Recomendações de Segurança
+Operacional e das Ações Recomendadas, bem como dos respectivos prazos para execução.
+3.5 DO INVESTIGADOR RESPONSÁVEL (OSCEA)
+3.5.1 Conduzir o processo de Investigação dos Incidentes de Tráfego Aéreo em conformidade
+com os procedimentos estabelecidos nesta Instrução e demais legislações pertinentes do
+SEGCEA.
+3.5.2 Observar o cumprimento dos processos para a realização da investigação e zelar pelo
+cumprimento dos prazos estabelecidos nesta Instrução para a elaboração do RICEA.
+3.5.3 Orientar os demais membros da equipe sobre o propósito da investigação e o seu
+planejamento para a condução do processo de investigação.
+3.5.4 Propor a emissão de RSO e/ou de PRSO, de acordo com a legislação do SEGCEA.
+3.5.5 Requisitar, quando necessário, uma equipe de técnicos especialistas para assessorá-lo
+em situações específicas das diversas áreas envolvidas, tais como médicos, especialistas em
+meteorologia, telecomunicações, radar, auxílios à navegação etc.
+3.6 DO CHEFE DE EQUIPE/SUPERVISOR/ATCO/OPERADOR ATS
+3.6.1 Registrar no LRO e, onde for possível, na FNO, obrigatoriamente, toda Ocorrência de
+Tráfego Aéreo, bem como as demais ocorrências ou eventos de reporte mandatório, verificada
+no seu turno de serviço.
+3.6.2 O(s) ATCO envolvido(s) em Ocorrências de Tráfego Aéreo deve(m) responder às
+perguntas de triagem de fadiga, com vistas ao preenchimento do Reporte de Indício de Fadiga
+(RIF), na página web do DECEA ou da respectiva SIPACEA.
+NOTA 1: As perguntas de triagem de fadiga e o RIF devem ser respondidos durante ou ao
+final do turno de serviço em que se deu a ocorrência.
+NOTA 2: Esse preenchimento deverá ser feito por meio do link Gerenciamento da Fadiga,
+que pode ser acessado na página web do DECEA ou da respectiva SIPACEA.
+
+--- PÁGINA ---
+ICA 81-1/2023 29/65
+3.6.3 Informar, imediatamente ao Chefe do PSNA, pelo meio mais rápido, as ocorrências com
+indício de Incidente de Tráfego Aéreo
+
+--- PÁGINA ---
+30/65 ICA 81-1/2023
+4 DOCUMENTAÇÃO DAS OCORRÊNCIAS
+4.1 DOCUMENTAÇÃO FUNDAMENTAL
+4.1.1 Conjunto de dados, físicos e digitais que tenham relação com um Incidente de Tráfego
+Aéreo e que podem auxiliar na reprodução dos fatos e, eventualmente, no seu esclarecimento.
+4.1.2 Normalmente, a investigação inicial dos Incidentes de Tráfego Aéreo se realiza no
+próprio PSNA que tem jurisdição pelo espaço aéreo onde se deu a ocorrência. Nesse caso, o
+PSNA, independentemente de solicitação, deverá notificar à respectiva SIPACEA e, além de
+preservar as gravações originais, providenciar a seguinte Documentação Fundamental:
+a) transcrição e áudio da gravação magnética das comunicações dos Serviços
+Móvel e Fixo Aeronáuticos;
+b) histórico das mensagens CPDLC do SMA, quando aplicável;
+c) fichas de progressão de voo e dos registros relativos à ocorrência em tela
+(ex.: LRO, LRC, SMO, MSG ATS, ATIS etc.);
+d) dados de vigilância ATS, onde houver;
+e) gravação das câmeras de vigilância do ambiente operacional, onde houver;
+f) informações meteorológicas (ex.: MSG MET, METAR, TAF, SIGMET,
+Carta de Vento etc.) relacionadas com o espaço aéreo onde ocorreu o
+incidente;
+g) declaração sobre as condições técnico-operacionais, relativa aos
+equipamentos de infraestrutura de navegação aérea que estavam em
+utilização tanto pelo Órgão ATS quanto pela(s) aeronave(s) envolvida(s) no
+incidente, caso necessário;
+h) Reporte de Indício de Fadiga (RIF) e/ou Reporte Voluntário de Fadiga
+(RVF), caso haja.
+i) documentos previstos no histórico dos profissionais ATS envolvidos na
+ocorrência; e
+j) providências e recomendações iniciais adotadas pelo órgão ATS, para
+prevenir a repetição de ocorrência semelhante.
+NOTA: O Histórico do Profissional ATS refere-se às informações que devem ser obtidas
+sobre o controlador, o supervisor, o coordenador ou qualquer profissional que tenha
+função em órgão ATS. Esses documentos são:
+a) CS/CMA;
+b) Habilitação Técnica;
+c) escala cumprida do órgão ATS;
+d) ATA de Conselho Operacional; e
+e) outros documentos relacionados à formação profissional.
+4.1.3 Caberá a todos os envolvidos no processo de investigação adotar providências no
+sentido de que as informações constantes do subitem 4.1.2 , além de outros documentos que
+se considerem relacionados com a ocorrência, estejam guardados e mantidos em lugar seguro.
+
+--- PÁGINA ---
+ICA 81-1/2023 31/65
+4.2 DOCUMENTAÇÃO PRELIMINAR
+4.2.1 Com vistas a agilizar o processo de análise de uma ocorrência com indício de Incidente
+de Tráfego Aéreo, a Documentação Preliminar subsidiará a SIPACEA para a sua classificação
+ou não como Incidente de Tráfego Aéreo, cujo conteúdo é composto de:
+a) reporte da ocorrência (RELPREV, FNO etc.);
+b) áudio das comunicações (SFA e/ou SMA); e
+c) imagens do sistema de vigilância (vídeo ou foto), caso haja.
+NOTA 1: O nome do arquivo de áudio das comunicações deve conter o horário UTC do
+início e do fim do trecho gravado.
+NOTA 2: Os arquivos dos áudios das comunicações devem ser, preferencialmente, gravados
+de duas maneiras: um original sem edição e outro sem o silêncio das comunicações.
+4.3 FORMALIZAÇÃO DO RESULTADO DAS OCORRÊNCIAS
+4.3.1 A finalização dos processos de investigação do SEGCEA, bem como das apurações das
+Ocorrências ATS e ANS, deverá ser registrada e formalizada por meio de documentos
+técnicos padronizados que devem refletir o resultado da averiguação e análise das
+circunstâncias que contribuíram ou possam ter contribuído para desencadear uma Ocorrência
+de Tráfego Aéreo.
+4.3.2 Esses documentos, ao serem lidos e interpretados, deverão apresentar uma ideia
+coerente com as circunstâncias que envolveram a ocorrência, permitindo, assim, que se forme
+um consenso da sua origem, consequências e providências a serem adotadas no sentido de se
+prevenir a sua repetição.
+4.3.3 A conclusão da investigação de Incidente de Tráfego Aéreo de Risco Potencial deve ser
+formalizada por meio de um RICEA (Anexo A).
+4.3.4 A análise de um Incidente de Tráfego Aéreo de Risco Crítico será formalizada por meio
+de um Laudo Técnico ATS (Anexo B).
+4.3.5 A conclusão do processo de apuração de Ocorrência ATS deve ser formalizada por meio
+de um Parecer Técnico ATS (Anexo C).
+4.3.6 A conclusão do processo de apuração de uma Ocorrência ANS deve ser formalizada por
+meio de um Parecer Técnico ANS (Anexo D).
+4.3.7 Os processos de investigações ou apurações das Ocorrências de Tráfego Aéreo devem
+ser, obrigatoriamente, formalizados por meio de registros específicos, de acordo com o tipo da
+ocorrência, conforme Tabela 1, a seguir:
+
+--- PÁGINA ---
+32/65 ICA 81-1/2023
+Tabela 1 – Formalização das Investigações ou Apurações
+Formalização do Resultado Prazo
+Tipo da Ocorrência Anexo
+(Tipo de Registro) (dias)
+Incidente de Tráfego
+RICEA 60 A
+Aéreo de Risco Potencial
+Incidente de Tráfego
+Laudo Técnico ATS 60 B
+Aéreo de Risco Crítico
+Parecer Técnico ATS 20 C
+Ocorrência ATS
+Parecer Técnico ATS conclusivo (1) 15(2) C
+Ocorrência ANS Parecer Técnico ANS 20 D
+(1) Somente para os casos nos quais as ocorrências envolverem mais de um PSNA, conforme subitem
+2.3.11.8 .
+(2) Quinze (15) dias a contar da data de recebimento dos Pareceres Técnicos ATS.
+4.3.8 Os tipos de registros constantes da Tabela 1 só devem ser utilizados para a conclusão de
+resultado dos processos de investigação ou apuração do SEGCEA, formalizados em
+conformidade com esta Instrução e as demais normas pertinentes do SEGCEA.
+NOTA: Para a elaboração do Parecer Técnico ANS relativos a Ocorrências ANS, devem ser
+observados os critérios constantes do subitem 2.3.14 .
+4.4 RELATÓRIO DE INVESTIGAÇÃO DO CONTROLE DO ESPAÇO AÉREO ( RICEA)
+4.4.1 O RICEA é o documento padronizado, de acesso restrito, elaborado por um OSCEA e
+emitido por uma SIPACEA, que registra e formaliza a coleta e análise de dados, fatos e
+circunstâncias, resultantes da investigação de um Incidente de Tráfego Aéreo de Risco
+Potencial ou de Risco Crítico, quando aplicável.
+4.4.2 O RICEA é composto, dentre outros, de dados coletados, histórico, análise e registros
+referentes às diversas áreas envolvidas no processo da investigação, tais como informações
+técnicas, meteorológicas e apontamentos informais de entrevistas realizadas com as pessoas
+envolvidas.
+NOTA 1: Não é necessário que os apontamentos informais das entrevistas, a que se refere
+este subitem, sejam assinados pelos entrevistados nem a sua conservação depois
+de concluído o processo de investigação do SEGCEA.
+NOTA 2: Entretanto, fotografias, gravações de áudio ou vídeo e outro tipo de registro ou
+documento, cujo valor seja significativo para a conclusão da ocorrência, devem
+ser preservados e mantidos.
+NOTA 3: A divulgação total ou parcial das informações colhidas durante o processo de
+investigação pode ocasionar a quebra de confiança, bem como obstruir o acesso a
+tais informações pelos investigadores, impedindo, assim, o progresso de futuras
+investigações.
+
+--- PÁGINA ---
+ICA 81-1/2023 33/65
+4.4.3 O RICEA original deverá ser mantido pela SIPACEA da OPSNA, bem como toda
+documentação utilizada no respectivo processo de investigação.
+4.5 PARECER TÉCNICO ATS
+4.5.1 O Parecer Técnico ATS é o documento padronizado, elaborado pelo PSNA e deve
+conter a análise e as ações recomendadas, resultante da apuração de uma Ocorrência de ATS,
+conforme constante no Anexo C.
+4.5.2 O Parecer Técnico ATS deve ser elaborado por qualquer ATCO/OEA do PSNA, com
+conhecimento técnico operacional e experiência profissional compatíveis para a análise da
+Ocorrência ATS.
+NOTA: O conhecimento técnico operacional e experiência profissional acima citados são
+aqueles adquiridos na capacitação e experiência do ATCO/OEA no PSNA onde se
+deu a ocorrência, não sendo compulsório que o profissional seja certificado EC-CEA.
+4.6 LAUDO TÉCNICO ATS
+O Laudo Técnico ATS (Anexo B) é o documento padronizado, elaborado pelo
+OSCEA, indicado para realizar a investigação de um Incidente de Tráfego Aéreo de Risco
+Crítico. Deve conter a análise e as medidas corretivas e/ou preventivas resultantes da coleta e
+da análise de fatos, dados e circunstâncias relacionados ao incidente.
+4.7 PARECER TÉCNICO ANS
+4.7.1 O Parecer Técnico ANS é o documento padronizado, emitido pelo PSNA, resultante da
+apuração de uma Ocorrência ANS, conforme formulário constante no Anexo D.
+4.7.2 As Ocorrências ANS são aquelas verificadas quando da anormalidade de qualquer
+componente, processo, procedimento, serviço ou produto do ANS, os quais são utilizados
+como insumos ou em apoio à prestação do ATS, sem, contudo, configurar uma Ocorrência
+ATS ou Incidente de Tráfego Aéreo. Como exemplos de Ocorrências ANS, segue abaixo uma
+relação não exaustiva desse tipo de ocorrência:
+a) Degradação do Sistema de Vigilância ATS (RADAR, ADS-B, ADS-C etc.);
+b) Degradação de componentes e/ou processos dos Sistemas ATC
+(SAGITARIO, TATIC, DCL, PO SITTI, STVD etc.;
+c) Degradação do SMA ou do SFA;
+d) Falha de componentes dos auxílios de navegação aérea (ILS, VOR, DME
+etc.);
+e) Dados e/ou informações errôneas ou desatualizadas dos Serviços de
+Informações Aeronáuticas, como o conjunto AIP-MAP, SID, STAR, IAC,
+NOTAM etc.;
+f) Informações e/ou dados errôneos ou desatualizados do Serviço de
+Meteorologia Aeronáutica; e
+g) Procedimentos e/ou orientações operacionais desatualizadas ou falhas
+constantes no Modelo Operacional, Manual de Operações, CAOp ou AVOP
+do órgão ATC.
+
+--- PÁGINA ---
+34/65 ICA 81-1/2023
+4.7.3 Deve ser elaborado por qualquer ATCO ou OEA do PSNA, com conhecimento técnico
+operacional e experiência profissional compatíveis para a análise da ocorrência.
+NOTA: O conhecimento técnico operacional e experiência profissional acima citados são
+aqueles adquiridos na capacitação e experiência do ATCO no PSNA onde se deu a
+ocorrência, não sendo compulsório que o profissional seja elemento certificado EC-
+CEA.
+4.7.4 Tem por objetivo apurar as causas e circunstâncias que contribuíram para o evento de
+anormalidade, bem como identificar as medidas preventivas e/ou corretivas necessárias para o
+restabelecimento adequado do funcionamento dos componentes e processos ANS, cujo mau
+funcionamento ou má qualidade dos produtos e/ou serviços possa, direta ou indiretamente,
+acarretar dificuldades ou afetar adversamente a Segurança Operacional na prestação dos
+Serviços de Tráfego Aéreo.
+4.8 PROTEÇÃO DA INFORMAÇÃO
+4.8.1 Todo material utilizado ou produzido nas apurações ou investigações das Ocorrências de
+Tráfego aéreo, bem como as áreas e/ou instalações utilizadas disponibilizadas para esse fim,
+deverá atender à regulamentação sobre restrição de acesso, conforme estabelece a ICA 205-
+47 (Instruções para Salvaguarda de Assuntos Sigilosos da Aeronáutica).
+4.8.2 É vedado o uso de registros, informações, dados ou qualquer produto oriundo do
+processamento, investigação ou apuração das Ocorrências de Tráfego Aéreo, para qualquer
+outro propósito que não o da prevenção de futuros acidentes.
+4.8.3 As seguintes informações são de uso e acesso restrito e não devem ser utilizadas para
+outro fim que não seja a investigação ou apuração das Ocorrências de Tráfego Aéreo:
+a) gravações das comunicações entre os órgãos de Controle de Tráfego Aéreo
+e suas transcrições;
+b) gravações das comunicações entre a aeronave e os órgãos de Controle de
+Tráfego Aéreo e suas transcrições;
+c) dados dos sistemas de notificação voluntária de ocorrências;
+d) informações pessoais referentes aos aspectos médico e psicológico dos
+envolvidos;
+e) dados de vigilância e dos sistemas automáticos utilizados no ATS;
+f) demais registros usados nas atividades SIPAER e/ou do SEGCEA,
+incluindo os registros relativos às investigações ou apurações das
+Ocorrências de Tráfego Aéreo.
+NOTA 1: As informações contidas nos RICEA devem ser protegidas, sendo proibida a sua
+divulgação total ou parcial. Entretanto, o PSNA envolvido e sua respectiva
+administração poderá fazer uso dessas informações com o objetivo exclusivo de
+prevenção.
+
+--- PÁGINA ---
+ICA 81-1/2023 35/65
+5 SISTEMAS DE REPORTES DO SISCEAB
+5.1 GENERALIDADES
+5.1.1 A cultura de reporte contribui significativamente para a identificação de condições reais
+ou potenciais que podem acarretar riscos à segurança operacional. Dessa maneira, o reporte
+reveste-se de fundamental importância para que uma organização possa tomar conhecimento,
+analisar e tratar possíveis ameaças e, dessa forma, manter os perigos e riscos inerentes às suas
+operações sob seu controle.
+5.1.2 Os sistemas de reportes do SISCEAB, instituído pelo DECEA, constitui parte integrante
+dos Sistemas de Reporte do Estado brasileiro, nos termos da Portaria Conjunta nº 5.754
+COMAER/ANAC, de 23 de agosto de 2021 e, no âmbito do COMAER, complementa os
+sistemas de reportes do SIPAER, regulamentados pelo CENIPA por meio da NSCA 3-17
+(Sistema de Reportes do SIPAER para a Aviação Civil Brasileira).
+5.1.3 O SEGCEA mantém disponibilizados os Sistemas de Reportes, nos termos do subitem
+5.1.2 que estão estruturados conforme abaixo:
+a) Reporte Mandatório do SISCEAB; e
+b) Reporte Voluntário do SISCEAB.
+5.2 REPORTE MANDATÓRIO DO SISCEAB
+5.2.1 O reporte mandatório do SISCEAB, instituído pelo DECEA em conformidade com o
+subitem 5.1.2 , tem por objetivo o registro e a comunicação ao DECEA de todos os
+eventos/ocorrências que se caracterizam como de notificação compulsória. Os
+eventos/ocorrências de reporte mandatório que devem ser notificados pelos PSNA são os
+constantes do Anexo F.
+5.2.2 O reporte mandatório do SISCEAB está estruturado no SEGCEA por meio do SIGCEA.
+A notificação dos eventos/ocorrências caracterizadas como de reporte mandatório deve ser
+realizada com o preenchimento da FNO, disponível na página web do DECEA.
+5.2.3 É da responsabilidade do ATCO/Operador registrar em LRO ou em outro meio
+apropriado, ou comunicar ao Chefe ou Supervisor da Equipe, para que sejam providenciados
+os registros das ocorrências ou eventos de caráter mandatórios.
+5.2.4 O Chefe do PSNA ou profissional de EPTA com função equivalente deverá estabelecer
+procedimentos internos para a verificação diária do LRO, com vistas a identificar os registros
+de reporte mandatório e providenciar as suas inserções no SIGCEA por meio da FNO.
+5.3 REPORTE VOLUNTÁRIO DO SISCEAB
+5.3.1 O Reporte Voluntário do SISCEAB, instituído pelo DECEA em conformidade com o
+item 5.1.2, tem por objetivo permitir que qualquer pessoa possa registrar e comunicar um
+evento, condição latente, falha ativa, circunstâncias ou situações com potencial para afetar a
+Segurança Operacional, no âmbito dos Serviços de Navegação Aérea (ANS).
+5.3.2 O Reporte Voluntário do SISCEAB, não deve ser utilizado para denúncia de fatos que
+constituam crime, contravenção penal de qualquer natureza ou violações intencionais das
+normas do DECEA.
+
+--- PÁGINA ---
+36/65 ICA 81-1/2023
+5.3.3 O Reporte Voluntário do SISCEAB constitui parte integrante do sistema de reporte
+voluntário do Estado brasileiro, nos termos do item 5 do Anexo I da Portaria Conjunta nº
+5.754/ COMAER/ANAC, de 23 de agosto de 2022.
+5.3.4 O Reporte Voluntário do SISCEAB está estruturado no SEGCEA por meio do SIGCEA.
+As notificações que se caracterizam como de natureza voluntária, nos termos do item 5.1.2,
+devem ser realizadas com o preenchimento do formulário de Relato de Prevenção/Air Safety
+Report, disponível na página web do DECEA.
+5.3.5 As organizações podem utilizar o Relato de Prevenção/Air Safety Report instituído pelo
+DECEA para receber as notificações de reportes voluntários destinados a seus PSNA e, por
+meio do sistema SIGCEA, realizar todo o processamento do Relato de Prevenção/Air Safety
+Report.
+5.3.6 No processamento do Relato de Prevenção/Air Safety Report, os PSNA deverão utilizar
+os processos, ferramentas e procedimentos de seus SMS para identificar perigos, avaliar
+riscos, estabelecer medidas mitigadoras, criar indicadores, identificar tendências, desenvolver
+seu banco de dados e gerar relatórios com informações de segurança operacional.
+5.3.7 A disponibilização do Relato de Prevenção/Air Safety Report na página web do DECEA
+tem por objetivo, tão somente disponibilizar um meio que possa ser utilizado por qualquer
+PSNA, de modo a facilitar o acesso de qualquer usuário do SISCEAB para registrar e fazer
+uma notificação voluntária destinada a qualquer PSNA, viabilizando o armazenamento em
+banco de dados de segurança operacional para contribuir para a segurança operacional nos
+Serviços de Navegação Aérea.
+5.3.8 Os PSNA deverão divulgar o uso do Relato de Prevenção/Air Safety Report para todo
+pessoal de sua organização, que poderá ser acessado por meio eletrônico, via internet,
+disponível na página web do DECEA, ou por meio do formulário físico em papel, conforme
+modelo do Anexo A da NSCA 3-17 do CENIPA.
+5.3.9 O Relato de Prevenção/Air Safety Report poderá ser preenchido de modo anônimo pelo
+relator e está baseado nos princípios da voluntariedade, do sigilo e da não punibilidade e não
+deve ser utilizado para outros fins que não para identificar perigos, gerenciar os riscos e
+contribuir para a prevenção de acidentes aeronáuticos.
+5.3.10 Toda pessoa que submeter um Relato de Prevenção/Air Safety Report identificado
+deverá receber um feedback sobre as decisões ou ações tomadas pelo provedor.
+5.3.11 Os PSNA devem analisar e tabular os Relato de Prevenção/Air Safety Report de acordo
+com a avaliação inicial do risco, de modo a classificar e selecionar aqueles que devam ser
+tratados prioritariamente.
+5.3.12 Os PSNA devem, também, categorizar os Relatos de Prevenção/Air Safety Report de
+modo a facilitar a identificação de perigos e de tendências comuns.
+5.3.13 As OPSNA ou EPSNA poderão adotar o RELPREV, segundo os protocolos definidos
+na NSCA 3-17, para o tratamento das ocorrências reportadas no âmbito interno do SMS da
+organização. Independentemente de a organização adotar o RELPREV, o Relato de
+Prevenção/Air Safety Report recebido pelo SIGCEA continuará sendo encaminhado
+eletronicamente por esse sistema para a análise e processamento do PSNA pertinente.
+
+--- PÁGINA ---
+ICA 81-1/2023 37/65
+5.3.14 Caso a OPSNA ou EPSNA opte por utilizar o RELPREV, nos termos do item 5.3.13,
+deverá registrar, analisar, mitigar, controlar e manter o registro de todos os reportes
+voluntários, recebidos pelo seu sistema organizacional, em um banco de dados seguro,
+respeitando os princípios de proteção em conformidade com o item 5.3.15, bem como os
+princípios de sigilo e não punibilidade, em conformidade com o item 5.3.9.
+5.3.15 PRINCÍPIOS DE PROTEÇÃO DOS DADOS E INFORMAÇÕES DO SISTEMA DE
+REPORTE VOLUNTÁRIO DO SISCEABE
+5.3.15.1 A proteção dos dados, informações e as fontes relacionadas ao Sistema de Reporte
+Voluntário é essencial para fomentar o desenvolvimento de uma cultura de segurança
+operacional positiva e promover o uso do Relato de Prevenção/Air Safety Report como uma
+ferramenta útil para contribuir com a melhoria contínua dos processos da Segurança
+Operacional, de modo a incentivar indivíduos e organizações a relatarem condições
+observadas, promover um fluxo de comunicação eficaz para identificar, de forma proativa, os
+potenciais perigos e deficiências de segurança operacional, não identificados ou não
+considerados pelos gestores das organizações.
+5.3.15.2 Indivíduos e as organizações são protegidos nos termos da Portaria Conjunta nº
+5.754, de 23 de agosto de 2021, de modo a:
+a) garantir que não sejam punidos com base em seu reporte; e
+b) limitar o uso de dados e informações relatados unicamente para fins
+destinados a manter ou aperfeiçoar a segurança operacional.
+
+--- PÁGINA ---
+38/65 ICA 81-1/2023
+6 DISPOSIÇÕES FINAIS
+6.1 As sugestões para o contínuo aperfeiçoamento desta publicação deverão ser enviadas
+acessando o link específico da publicação, por intermédio dos endereços eletrônicos
+http://publicacoes.decea.intraer/ ou http://publicacoes.decea.gov.br/.
+6.2 Os casos não previstos nesta Instrução serão submetidos ao Diretor-Geral do DECEA.
+
+--- PÁGINA ---
+ICA 81-1/2023 39/65
+REFERÊNCIAS
+BRASIL. Comando da Aeronáutica. Comando-Geral do Pessoal. Confecção, Controle e
+Numeração de Publicações Oficiais do Comando da Aeronáutica: NSCA 5-1. [Rio de
+Janeiro], 2011.
+BRASIL. Comando da Aeronáutica. Centro de Investigação e Prevenção de Acidentes
+Aeronáuticos. Estrutura e Atribuições dos Elementos Constitutivos do SIPAER: NSCA 3-2.
+[Brasília], 2017.
+BRASIL. Comando da Aeronáutica. Centro de Investigação e Prevenção de Acidentes
+Aeronáuticos. Gestão da Segurança de Voo na Aviação Militar: NSCA 3-15. [Brasília], 2022.
+BRASIL. Comando da Aeronáutica. Centro de Investigação e Prevenção de Acidentes
+Aeronáuticos. Sistema de Reportes do SIPAER para a Aviação Civil Brasileira: NSCA 3-17.
+[Brasília], 2022.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo.
+Gerenciamento da Segurança Operacional do SISCEAB: ICA 81-2. [Rio de Janeiro], 2022.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Sistema de
+Controle do Espaço Aéreo: NSCA 351-1. [Rio de Janeiro], 2022.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Regimento
+Interno do Departamento de Controle do Espaço Aéreo: RICA 20-1. [Rio de Janeiro], 2021.
+BRASIL. Comando da Aeronáutica. Estado-Maior de Aeronáutica. Implantação e
+Gerenciamento de Sistemas no Comando da Aeronáutica: ICA 700-1. [Brasília], 2023.
+BRASIL. Decreto nº 9.540, de 25 de outubro de 2018. Dispõe sobre o Sistema de Investigação
+e Prevenção de Acidentes Aeronáuticos. Diário Oficial da República Federativa do Brasil.
+Poder Executivo, Brasília, DF, 26 out. 2018. Seção 1, p. 2. Disponível em: http://www.
+planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/D9540.htm. Acesso em: 07 mar. 2023.
+BRASIL. Decreto nº 10.139, de 28 de novembro de 2019. Dispõe sobre a revisão e a
+consolidação dos atos normativos inferiores a decreto. Diário Oficial da República
+Federativa do Brasil. Poder Executivo, Brasília, DF, 29 nov. 2019. Seção 1, p. 32.
+Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d10139.htm.
+Acesso em: 07 mar. 2023.
+BRASIL. Decreto nº 11.237, de 18 de outubro de 2022. Aprova as Estruturas Regimentais e
+os Quadros Demonstrativos dos Cargos em Comissão e das Funções de Confiança do
+Comando da Aeronáutica do Ministério da Defesa e da Caixa de Financiamento Imobiliário
+da Aeronáutica e remaneja e transforma cargos em comissão e funções de confiança. Diário
+Oficial da República Federativa do Brasil. Poder Executivo, Brasília, DF, 19 out. 2022.
+Seção 1, p. 5. Disponível em: https://www.planalto. gov.br/ccivil_03/_ato2019-2022/2022/
+decreto/d11237.htm. Acesso em: 07 mar. 2023.
+BRASIL. Decreto nº 21.713, de 27 de agosto de 1946. Promulga a Convenção sobre Aviação
+Civil Internacional concluída em Chicago a 7 de dezembro 1944 e firmada pelo brasil em
+Washington, em 29 de maio de 1945. Diário Oficial da República Federativa do Brasil.
+
+--- PÁGINA ---
+40/65 ICA 81-1/2023
+Poder Executivo, Brasília, DF, 12 set. 1946. p. 12.715. Disponível em: http://www.planalto.
+gov.br/ccivil_03/decreto/1930-1949/d21713.htm. Acesso em: 07 mar. 2023.
+BRASIL. Lei nº 7.565, de 19 de dezembro de 1986. Dispõe sobre o Código Brasileiro de
+Aeronáutica. Diário Oficial da República Federativa do Brasil. Poder Executivo, Brasília,
+DF, 23 dez. 1986. p. 19.567. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/
+l7565.htm. Acesso em: 07 mar. 2023.
+BRASIL. Lei nº 12.970, de 8 de maio de 2014. Altera o Capítulo VI do Título III e o art. 302
+e revoga os artigos 89, 91 e 92 da Lei nº 7.565, de 19 de dezembro de 1986 – Código
+Brasileiro de Aeronáutica, para dispor sobre as investigações do Sistema de Investigação e
+Prevenção de Acidentes Aeronáuticos – SIPAER e o acesso aos destroços de aeronave; e dá
+outras providências. Diário Oficial da República Federativa do Brasil. Poder Executivo,
+Brasília, DF, 09 maio 2014. p. 1. Disponível em: https://www.planalto.gov.br/ccivil_03/
+_ato2011-2014/2014/lei/l12970.htm. Acesso em: 07 mar. 2023.
+BRASIL. Lei Complementar nº 97, de 9 de junho de 1999. Dispõe sobre as normas gerais
+para a organização, o preparo e o emprego das Forças Armadas. Diário Oficial da República
+Federativa do Brasil. Poder Executivo, Brasília, DF, 10 jun. 1999. Disponível em:
+http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm. Acesso em: 07 mar. 2023.
+BRASIL. Portaria Conjunta nº 5.754, de 23 de agosto de 2021. Dispõe sobre o Sistema de
+Reporte para a Aviação Civil Brasileira. Diário Oficial da República Federativa do Brasil.
+Poder Executivo, Brasília, DF, 24 ago. 2021. p. 58. Disponível em: https://www.in.gov.br/en/
+web/dou/-/portaria-conjunta-n-5.754-de-23-de-agosto-de-2021-340158366. Acesso em: 07
+mar. 2023.
+CANADA. International Civil Aviation Organization. Annex 19 to the Convention on
+International Civil Aviation: Safety Management. 2. ed. [Montreal], July 2016. Disponível
+em: https://elibrary.icao.int/reader/250466/&returnUrl... Acesso em: 07 mar. 2023.
+
+--- PÁGINA ---
+ICA 81-1/2023 41/65
+Anexo A - Relatório de Investigação do Controle do Espaço Aéreo
+ACESSO RESTRITO
+COMANDO DA AERONÁUTICA
+RELATÓRIO DE INVESTIGAÇÃO DO CONTROLE DO ESPAÇO AÉREO (RICEA)
+RICEA Nº / SIPACEA / Data / / 20XX
+DATA E HORA UTC DO
+IDENTIFICAÇÃO E TIPO DAS AERONAVES ENVOLVIDAS
+INCIDENTE
+ÓRGÃO ATS DE CONTRIBUIÇÃO DETERMINANTE
+ÓRGÃOS ATS ENVOLVIDOS
+RESPONSÁVEL PELA INVESTIGAÇÃO (EC-CEA) LOCAL E DATA
+NOME E ASSINATURA
+NÚMERO SIPAER
+CHEFIA (SIPACEA) LOCAL E DATA
+NOME E ASSINATURA
+ACESSO RESTRITO
+
+--- PÁGINA ---
+42/65 ICA 81-1/2023
+Continuação do Anexo A - Relatório de Investigação do Controle do Espaço Aéreo
+ACESSO RESTRITO
+1 - TIPO DE INCIDENTE
+□
+AIRPROX
+□
+Facilidades
+□
+Procedimentos
+2 - CLASSIFICAÇÃO DO RISCO
+□
+Potencial
+3 - ORIGEM DO REPORTE
+□
+Reporte Voluntário Aeronave
+□
+Reporte Voluntário Aeronave e Órgão ATS (LRO e/ou FNO)
+□
+Reporte Voluntário ATCO/OEA
+□
+Órgão ATS (LRO e/ou FNO)
+□
+IEPV 63-14
+□
+Outros
+4 - MODO DE PERCEPÇÃO
+□
+Alerta TCAS
+□
+Comunicação Terra-Ar
+□
+Observação Radar
+□
+Observação Visual do Controlador
+□
+Observação Visual do Piloto
+□
+Outro
+5 - ESPAÇO AÉREO ATS – CLASSE DO ESPAÇO AÉREO
+□
+A
+□
+B
+□
+C
+□
+D
+□
+E
+□
+F
+□
+G
+□
+Outro
+6 - REGRAS DE VOO
+□
+IFR
+□
+Não Determinado
+□
+VFR
+7 - CONDIÇÕES DE VOO
+□
+IMC
+□
+Não Determinado
+□
+VMC
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 43/65
+Continuação do Anexo A - Relatório de Investigação do Controle do Espaço Aéreo
+ACESSO RESTRITO
+8 - LOCAL DA OCORRÊNCIA
+□
+Aeródromo
+□
+AWY
+□
+CTA Posição Geográfica (Latitude/Longitude)
+□
+CTR
+□
+FIR
+□
+TMA
+□
+UTA
+□
+Outros
+9 - FASE DE OPERAÇÃO
+□
+Arremetida no solo
+□
+Arremetida o ar
+□
+Circuito de tráfego
+□
+Cruzeiro
+□
+Decolagem
+□
+Decolagem vertical
+□
+Descida
+□
+Descida de emergência
+□
+Descida descontrolada
+□
+Pouso
+□
+Procedimento de aproximação (IAC)
+□
+Procedimento de saída (SID)
+□
+STAR
+□
+Subida
+□
+Subida inicial
+□
+Táxi
+□
+Outros
+10 - DESCRIÇÃO DA OCORRÊNCIA
+ACESSO RESTRITO
+
+--- PÁGINA ---
+44/65 ICA 81-1/2023
+Continuação do Anexo A - Relatório de Investigação do Controle do Espaço Aéreo
+ACESSO RESTRITO
+11 - ASPECTO PSICOLÓGICO
+(CC ) Fator Contribuinte (PP ) Fator Presente sem ter contribuído
+11.1 - Variáveis Individuais
+□
+Atenção
+□
+Atitude
+□
+Estado emocional
+□
+Estresse
+□
+Experiência profissional
+□
+Memória
+□
+Motivação
+□
+Outros
+□
+Percepção
+□
+Perda da consciência situacional
+□
+Personalidade
+□
+Processo decisório
+□
+Resposta motora
+11.2 - Variáveis Psicossociais
+□
+Comunicação
+□
+Dinâmica de equipe
+□
+Outros
+□
+Relacionamento no ambiente de trabalho
+□
+Situação fora do ambiente de trabalho
+11.3 - Variáveis Organizacionais
+□
+Ambiente organizacional
+□
+Equipamento
+□
+Outros
+□
+Sistema de apoio
+11.4 - Análise do Aspecto Psicológico:
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 45/65
+Continuação do Anexo A - Relatório de Investigação do Controle do Espaço Aéreo
+ACESSO RESTRITO
+12 - ANÁLISE DO INCIDENTE
+ACESSO RESTRITO
+
+--- PÁGINA ---
+46/65 ICA 81-1/2023
+Continuação do Anexo A - Relatório de Investigação do Controle do Espaço Aéreo
+ACESSO RESTRITO
+13 - FATORES CONTRIBUINTES/PRESENTES SEM HAVER CONTRIBUÍDO
+C Fator Contribuinte P Presente sem haver contribuído
+13.1 - Grupo Humano
+□
+Fisiológico
+□
+Psicológico
+13.2 - Grupo Material
+□
+Radar
+□
+Console
+□
+Serviço Fixo
+□
+Serviço Móvel
+□
+Visualização
+□
+Tratamento
+□
+Outros
+13.3 - Grupo Operacional Aeronave
+□
+Navegação
+□
+Fraseologia
+□
+Limite de Autorização
+□
+Autorização de Tráfego
+□
+Planejamento de Voo
+□
+Regras de Tráfego Aéreo
+□
+Outros
+13.4 - Grupo Operacional ATS
+□
+Supervisão
+□
+Habilidade
+□
+Carga de trabalho
+□
+Coordenação
+□
+Fraseologia
+□
+Aplicação de Normas
+□
+Publicações
+□
+Planejamento
+□
+Emprego de Meios
+□
+Substituição na Posição
+□
+Outros
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 47/65
+Continuação do Anexo A - Relatório de Investigação do Controle do Espaço Aéreo
+ACESSO RESTRITO
+14 - FATORES CONTRIBUINTES/PRESENTES SEM HAVER CONTRIBUÍDO –
+COMENTÁRIOS
+15 - RECOMENDAÇÕES DE SEGURANÇA OPERACIONAL
+ACESSO RESTRITO
+
+--- PÁGINA ---
+48/65 ICA 81-1/2023
+Continuação do Anexo A - Relatório de Investigação do Controle do Espaço Aéreo
+ACESSO RESTRITO
+16 - INFORMAÇÕES DO CHEFE DA SIPACEA
+CHEFE (SIPACEA) DATA
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 49/65
+Continuação do Anexo A - Relatório de Investigação do Controle do Espaço Aéreo
+ACESSO RESTRITO
+17 - HOMOLOGAÇÃO
+Comandante ou Chefe DATA
+ACESSO RESTRITO
+
+--- PÁGINA ---
+50/65 ICA 81-1/2023
+Anexo B - Laudo Técnico ATS
+ACESSO RESTRITO
+COMANDO DA AERONÁUTICA
+LAUDO TÉCNICO ATS
+LAUDO Nº / SIPACEA-XX / Data / / 20XX
+DATA E HORA UTC DO
+IDENTIFICAÇÃO E TIPO DAS AERONAVES ENVOLVIDAS
+INCIDENTE
+ÓRGÃO ATS DE CONTRIBUIÇÃO DETERMINANTE
+ÓRGÃO ATS ENVOLVIDOS
+RESPONSÁVEL TÉCNICO LOCAL E DATA
+NOME E ASSINATURA
+NÚMERO SIPAER
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 51/65
+Continuação do Anexo B - Laudo Técnico ATS
+ACESSO RESTRITO
+1 - TIPO DE INCIDENTE
+□
+AIRPROX
+□
+Facilidades
+□
+Procedimentos
+2 - ORIGEM DO REPORTE
+□
+Reporte Voluntário Aeronave
+□
+Reporte Voluntário Aeronave e Órgão ATS (LRO e/ou FNO)
+□
+Reporte Voluntário ATCO/OEA
+□
+Órgão ATS (LRO e/ou FNO)
+□
+IEPV 63-14
+□
+Outros
+3 - MODO DE PERCEPÇÃO
+□
+Alerta TCAS
+□
+Comunicação Terra-Ar
+□
+Observação Radar
+□
+Observação Visual do Controlador
+□
+Observação Visual do Piloto
+□
+Outro
+4 - ESPAÇO AÉREO ATS – CLASSE DO ESPAÇO AÉREO
+□
+A
+□
+B
+□
+C
+□
+D
+□
+E
+□
+F
+□
+G
+□
+Outro
+5 - REGRAS DE VOO
+□
+IFR
+□
+Não Determinado
+□
+VFR
+6 - CONDIÇÕES DE VOO
+□
+IMC
+□
+Não Determinado
+□
+VMC
+ACESSO RESTRITO
+
+--- PÁGINA ---
+52/65 ICA 81-1/2023
+Continuação do Anexo B - Laudo Técnico ATS
+ACESSO RESTRITO
+7 - LOCAL DA OCORRÊNCIA
+□
+Aeródromo
+□
+AWY
+□
+CTA Posição Geográfica (Latitude/Longitude)
+□
+CTR
+□
+FIR
+□
+TMA
+□
+UTA
+□
+Outro
+8 - FASE DE OPERAÇÃO
+□
+Arremetida no solo
+□
+Arremetida no ar
+□
+Circuito de tráfego
+□
+Cruzeiro
+□
+Decolagem
+□
+Decolagem vertical
+□
+Descida
+□
+Descida de emergência
+□
+Descida descontrolada
+□
+Pouso
+□
+Procedimento de aproximação (IAC)
+□
+Procedimento de saída (SID)
+□
+STAR
+□
+Subida
+□
+Subida inicial
+□
+Táxi
+□
+Outros
+9 - DESCRIÇÃO DA OCORRÊNCIA
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 53/65
+Continuação do Anexo B - Laudo Técnico ATS
+ACESSO RESTRITO
+10 - ASPECTO PSICOLÓGICO
+C Fator Contribuinte (PP ) Fator Presente sem ter contribuído
+10.1 - Variáveis Individuais
+□
+Atenção
+□
+Atitude
+□
+Estado emocional
+□
+Estresse
+□
+Experiência profissional
+□
+Memória
+□
+Motivação
+□
+Outros
+□
+Percepção
+□
+Perda da consciência situacional
+□
+Personalidade
+□
+Processo decisório
+□
+Resposta motora
+10.2 - Variáveis Psicossociais
+□
+Comunicação
+□
+Dinâmica de equipe
+□
+Outros
+□
+Relacionamento no ambiente de trabalho
+□
+Situação fora do ambiente de trabalho
+10.3 - Variáveis Organizacionais
+□
+Ambiente organizacional
+□
+Equipamento
+□
+Outros
+□
+Sistema de apoio
+10.4 - Análise do Aspecto Psicológico:
+ACESSO RESTRITO
+
+--- PÁGINA ---
+54/65 ICA 81-1/2023
+Continuação do Anexo B - Laudo Técnico ATS
+ACESSO RESTRITO
+11 - ANÁLISE DO INCIDENTE
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 55/65
+Continuação do Anexo B - Laudo Técnico ATS
+ACESSO RESTRITO
+12 - FATORES CONTRIBUINTES/PRESENTES SEM HAVER CONTRIBUÍDO
+C Fator Contribuinte P Presente sem haver contribuído
+12.1 - Grupo Humano
+□
+Fisiológico
+□
+Psicológico
+12.2 - Grupo Material
+□
+Radar
+□
+Console
+□
+Serviço Fixo
+□
+Serviço Móvel
+□
+Visualização
+□
+Tratamento
+□
+Outros
+12.3 - Grupo Operacional Aeronave
+□
+Navegação
+□
+Fraseologia
+□
+Limite de Autorização
+□
+Autorização de Tráfego
+□
+Planejamento de Voo
+□
+Regras de Tráfego Aéreo
+□
+Outros
+12.4 - Grupo Operacional ATS
+□
+Supervisão
+□
+Habilidade
+□
+Carga de trabalho
+□
+Coordenação
+□
+Fraseologia
+□
+Conhecimento de Normas
+□
+Publicações
+□
+Planejamento
+□
+Emprego de Meios
+□
+Substituição na Posição
+□
+Outros
+ACESSO RESTRITO
+
+--- PÁGINA ---
+56/65 ICA 81-1/2023
+Continuação do Anexo B - Laudo Técnico ATS
+ACESSO RESTRITO
+13 - FATORES CONTRIBUINTES/PRESENTES SEM HAVER CONTRIBUÍDO –
+COMENTÁRIOS
+14 - PROPOSTAS DE RECOMENDAÇÕES DE SEGURANÇA OPERACIONAL
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 57/65
+Anexo C - Modelo de Parecer Técnico ATS
+ACESSO RESTRITO
+COMANDO DA AERONÁUTICA
+Parecer Técnico ATS
+Parecer Técnico ATS Nº Data: DD/MM/AAAA
+DATA E HORA UTC DA
+IDENTIFICAÇÃO E TIPO DAS AERONAVES ENVOLVIDAS
+OCORRÊNCIA
+Indicativo: Matrícula: Tipo:
+Indicativo: Matrícula: Tipo:
+ÓRGÃO(S) ATS ENVOLVIDO(S)
+DESIGNADOR DO PSNA INDICATIVO ICAO DETERMINANTE
+_____________________ _________________ ( )
+_____________________ _________________ ( )
+RESPONSÁVEL PELA APURAÇÃO LOCAL E DATA
+_________________________________________
+NOME E ASSINATURA
+CHEFE DO PSNA LOCAL E DATA
+______________________________________
+NOME E ASSINATURA
+ACESSO RESTRITO
+
+--- PÁGINA ---
+58/65 ICA 81-1/2023
+Continuação do Anexo C - Modelo de Parecer Técnico ATS
+ACESSO RESTRITO
+1 - TIPO DE OCORRÊNCIA
+Descrição do Tipo da Ocorrência
+2 - ORIGEM DO REPORTE
+□
+Reporte Voluntário Aeronave
+□
+Reporte Voluntário Aeronave e Órgão ATS (LRO e/ou FNO)
+□
+Reporte Voluntário ATCO/OEA
+□
+Órgão ATS (LRO e/ou FNO)
+□
+IEPV 63-14
+□
+Outros
+3 - MODO DE PERCEPÇÃO
+□
+Alerta TCAS
+□
+Comunicação Terra-Ar
+□
+Observação Radar
+□
+Observação Visual do Controlador
+□
+Observação Visual do Piloto
+□
+Outro
+4 - ESPAÇO AÉREO ATS – CLASSE DO ESPAÇO AÉREO
+□
+A
+□
+B
+□
+C
+□
+D
+□
+E
+□
+F
+□
+G
+□
+Outro
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 59/65
+Continuação do Anexo C - Modelo de Parecer Técnico ATS
+ACESSO RESTRITO
+5 - REGRAS DE VOO
+□
+IFR
+□
+Não Determinado
+□
+VFR
+6 - CONDIÇÕES DE VOO
+□
+IMC
+□
+Não Determinado
+□
+VMC
+7 - LOCAL DA OCORRÊNCIA
+□
+Aeródromo
+□
+AWY
+□
+CTA Posição Geográfica (Latitude/Longitude)
+□
+CTR
+□
+FIR
+□
+TMA
+□
+UTA
+□
+Outros
+8 - FASE DE OPERAÇÃO
+□
+Arremetida/Aproximação Perdida
+□
+Circuito de tráfego
+□
+Cruzeiro
+□
+Decolagem
+□
+Decolagem
+□
+Descida
+□
+IAC
+□
+Outro
+□
+Pouso
+□
+SID
+□
+STAR
+□
+Subida
+□
+Táxi
+9 - DESCRIÇÃO DA OCORRÊNCIA
+ACESSO RESTRITO
+
+--- PÁGINA ---
+60/65 ICA 81-1/2023
+Continuação do Anexo C - Modelo de Parecer Técnico ATS
+ACESSO RESTRITO
+10 - ANÁLISE
+11 - FATORES OBSERVADOS
+11.1 - Grupo Material
+□
+Radar
+□
+Console
+□
+Serviço Fixo
+□
+Serviço Móvel
+□
+Visualização
+□
+Tratamento
+□
+Outros (exemplifique.........)
+11.2 – Grupo Operacional Aeronave
+□
+Navegação
+□
+Fraseologia
+□
+Limite de Autorização
+□
+Autorização de Tráfego
+□
+Planejamento de Voo
+□
+Regras de Tráfego Aéreo
+□
+Outros (exemplifique.........)
+11.3 - Grupo Operacional ATS
+□
+Supervisão
+□
+Habilidade
+□
+Carga de trabalho
+□
+Coordenação
+□
+Fraseologia
+□
+Aplicação das Normas
+□
+Publicações
+□
+Planejamento
+□
+Emprego de Meios
+□
+Substituição na Posição
+□
+Outros (exemplifique.........)
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 61/65
+Continuação do Anexo C - Modelo de Parecer Técnico ATS
+ACESSO RESTRITO
+12 - FATORES OBSERVADOS – COMENTÁRIOS
+13 – AÇÕES RECOMENDADAS
+Destinatário: _____________________Prazo:_________.
+14 - COMENTÁRIOS DO CHEFE DO PSNA
+15- APROVAÇÃO DO COMANDANTE OU CHEFE DTCEA/EPTA/COI
+COMANDANTE OU CHEFE DATA
+ACESSO RESTRITO
+
+--- PÁGINA ---
+62/65 ICA 81-1/2023
+Anexo D - Modelo de Parecer Técnico ANS
+ACESSO RESTRITO
+PARECER TÉCNICO ANS
+NÚMERO: ÓRGÃO:
+PARECER
+TÉCNICO ANS
+SOLICITANTE: ( ) SIPACEA
+DATA:
+( ) Outros___________________
+ASSUNTO: OCORRÊNCIA ANS
+1. TIPO DE OCORRÊNCIA ANS:
+2. DESCRIÇÃO DA OCORRÊNCIA:
+3. ANÁLISE:
+4. CONCLUSÃO:
+5. AÇÕES RECOMENDADAS:
+RESPONSÁVEL PELA ELABORAÇÃO APROVO
+Nome e Assinatura
+____
+Nome e Assinatura
+Chefe do PSNA
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 63/65
+Anexo E - Modelo de Ficha de Notificação de Ocorrência de Tráfego Aéreo – FNO
+ACESSO RESTRITO
+FNO – FICHA DE NOTIFICAÇÃO DE OCORRÊNCIA DE TRÁFEGO AÉREO
+Órgão (PSNA)
+Data da Ocorrência Hora da Ocorrência (UTC)
+Setor da Ocorrência Console da Ocorrência Frequências
+Aeronaves Envolvidas:
+Indicativo Operacional dos ATCO/OEA envolvidos:
+Chefe de
+Supervisores Coordenadores Controladores Assistentes OEA
+Equipe
+□ □
+Há indícios de Incidente de Tráfego Aéreo (Risco para as aeronaves)? Sim Não
+Resumo da ocorrência:
+Indicativo Operacional do relator:
+ACESSO RESTRITO
+
+--- PÁGINA ---
+64/65 ICA 81-1/2023
+Anexo F – Relação das Ocorrências de Reporte Mandatório
+ACESSO RESTRITO
+Os Provedores de Serviço de Navegação Aérea (PSNA), além dos
+Acidentes/Incidentes Aeronáuticos Graves e das Ocorrências de Tráfego Aéreo, deverão
+registrar no LRO e reportar, obrigatoriamente, por meio da FNO – Ficha de Notificação de
+Ocorrência de Tráfego Aéreo – no SIGCEA, os eventos caracterizados como de reporte
+mandatório, conforme os critérios abaixo:
+I - Ocorrências e/ou eventos que tenham ocasionado impacto diretamente
+na Segurança Operacional
+a) Qualquer defeito/avaria em equipamento ou dano dos sistemas CNS –
+Sistema de Comunicação, Navegação e Vigilância;
+b) Violação do espaço aéreo, incluindo Ingresso não autorizado no espaço
+aéreo controlado;
+c) As ocorrências de LEVEL BUST;
+d) Os avistamentos de Avifauna pelo ATCO ou reportado pelo piloto;
+e) As incursões inadvertidas ou não autorizadas (aeronaves, pessoas ou
+veículos) na área de aproximação para pouso ou decolagens (FATO);
+f) Os avistamentos de Balão de Ar Quente (junino) pelo ATCO ou reportado
+pelo piloto (risco baloeiro);
+g) Os avistamentos de emissão de Raio Laser verificados pelo ATCO ou
+reportado pelo piloto;
+h) As interferências nas frequências (SMA) ou nos sinais de sistemas de
+navegação;
+i) Descumprimento de autorização ATC;
+j) Falhas de coordenação entre órgão ATS; e
+k) Avistamentos de Parapente/Paraglide/Asa Delta pelo ATCO ou reportado
+pelo piloto.
+NOTA 1: As ocorrências relacionadas a: Risco Baloeiro, Risco Fauna, Raio Laser, caso não
+tenham causado impacto na segurança operacional, deverão ser notificadas em
+programas específicos.
+NOTA 2: As ocorrências relacionadas a LEVEL BUST, interferências nas frequências (SMA)
+ou nos sinais de sistemas de navegação, RPA, Parapente/Paraglide/Asa-Delta, caso
+não tenham causado impacto na segurança operacional, devem ser encaminhadas
+para seus programas específicos.
+NOTA 3: Quanto às ocorrências citadas nas alíneas “b”, “c”, “e” e “i”, a despeito de não gerar
+Ocorrência de Tráfego Aéreo, o PSNA deve analisar a pertinência de dar início ao
+processo de Infração de Tráfego Aéreo, em conformidade com as normas da
+JJAER.
+ACESSO RESTRITO
+
+--- PÁGINA ---
+ICA 81-1/2023 65/65
+Continuação do Anexo F - Relação das Ocorrências de Reporte Mandatório
+ACESSO RESTRITO
+II - Sempre que acontecerem as ocorrências e/ou eventos abaixo,
+independentemente de terem ocasionado ou não impacto para a Segurança Operacional
+a) Colisão ou quase colisão, no solo ou em voo, entre duas aeronaves ou entre
+uma aeronave e o solo ou um obstáculo, incluindo quase colisão de voo
+controlado contra o terreno (quase CFIT);
+b) Sempre que ocorrer perda de separação na prestação do ATS (AIRPROX);
+c) Todos os eventos de Incursão em Pista (RI);
+d) Todos os eventos de Excursão de Pista (RE);
+e) Sempre que ocorrer Aviso de Resolução (RA);
+f) Similaridade de indicativos de chamada das aeronaves (iguais ou
+semelhantes);
+g) Declarações de emergências na fonia (“Mayday” ou “PAN PAN” ou
+“Mayday Combustível”);
+h) Colisão com Avifauna, inclusive colisão com pássaro;
+i) Sobrecarga de trabalho significativa no setor ATC/posição de ATS,
+podendo levar a uma potencial degradação na prestação dos ATS;
+j) Incapacidade de prestar serviços de tráfego aéreo ou de executar funções
+relacionadas aos serviços de tráfego aéreo;
+k) Não prestação ou prestação de informações e/ou dados incorretos, corrompidos,
+inadequados ou enganosos por quaisquer serviços de apoio;
+l) Recebimento ou interpretação incorretos de comunicações/instruções
+significativas, incluindo a falta de entendimento do idioma usado, quando
+isso teve ou poderia ter um impacto negativo direto na prestação segura dos
+ATS;
+m) Perda de comunicações prolongadas com uma aeronave ou com outro órgão
+ATS;
+n) Falha de segurança cibernética do sistema ATM que afete ou possa afetar
+negativamente a segurança operacional na prestação do ATS;
+o) Impacto ou potencial impacto da fadiga na habilidade de realizar com
+segurança as atividades de navegação aérea ou tráfego aéreo; e
+p) Avistamentos de RPA (drone) pelo ATCO ou reportado pelo piloto.
+NOTA: A omissão pelo não registro e/ou comunicação das ocorrências de reporte mandatório
+estarão passíveis das sansões previstas para o não atendimento das normas do
+SISCEAB em vigor, nos termos das disposições normativas da JJAER.
+ACESSO RESTRITO

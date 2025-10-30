@@ -1,0 +1,1033 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+PROTEÇÃO AO VOO
+ICA 63-40
+IMPLEMENTAÇÃO DE PROVISÃO NORMATIVA
+DA ORGANIZAÇÃO DE AVIAÇÃO CIVIL
+INTERNACIONAL NO SISCEAB
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PROTEÇÃO AO VOO
+ICA 63-40
+IMPLEMENTAÇÃO DE PROVISÃO NORMATIVA
+DA ORGANIZAÇÃO DE AVIAÇÃO CIVIL
+INTERNACIONAL NO SISCEAB
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA No 849/CERNAI, DE 11 DE ABRIL DE 2023.
+Protocolo COMAER nº 67600.007320/2023-05
+Aprova a reedição da ICA 63-40,
+Instrução sobre “Implementação de
+Provisão Normativa da Organização de
+Aviação Civil Internacional no
+SISCEAB”.
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 21, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 11.237, de 18 de outubro
+de 2022, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA, aprovado
+pela Portaria nº 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art. 1º Aprovar a reedição da ICA 63-40, “Implementação de Provisão
+Normativa da Organização de Aviação Civil Internacional no SISCEAB”, que com esta baixa.
+Art. 2º A entrada em vigor do presente ato, justificada em função da urgência,
+conforme disposto no parágrafo único do art. 4º do Decreto nº 10.139, de 28 de novembro de
+2019, será na data da sua publicação.
+Art. 3º Revoga-se a Portaria DECEA nº 170/DGCEA, de 19 de outubro de 2017,
+publicada no BCA nº 186, de 30 de outubro de 2017.
+Ten Brig Ar ALCIDES TEIXEIRA BARBACOVI
+Diretor-Geral do DECEA
+(Publicado no BCA no 73, de 24 de abril de 2023)
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 63-40/2023
+SUMÁRIO
+DISPOSIÇÕES PRELIMINARES ......................................................................................... 9
+1.1 FINALIDADE ..................................................................................................................... 9
+1.2 ÂMBITO .............................................................................................................................. 9
+1.3 ABREVIATURAS .............................................................................................................. 9
+2 ANÁLISE E PARECER SOBRE NOVA PROVISÃO NORMATIVA DA OACI ...... 11
+3 NOTIFICAÇÃO DE DIFERENÇA À OACI ................................................................... 13
+4 DIVULGAÇÃO DE DIFERENÇA AOS AERONAVEGANTES.................................. 15
+5 DISPOSIÇÕES FINAIS ..................................................................................................... 17
+REFERÊNCIAS................................................................................................................. 18
+Anexo A - Obrigações e Requisitos Relacionados à Notificação de "Diferenças" ....... 19
+Anexo B – Determinação de "Diferenças" ...................................................................... 23
+Anexo C – Processos para a Notificação de "Diferenças" ............................................. 28
+Anexo D – Procedimentos para o Gerenciamento de "Diferenças" ............................. 30
+Anexo E – Responsabilidade pelos SARP, PANS E SUPPS no DECEA ...................... 32
+Anexo F – Minuta de Relatório de Análise e Parecer sobre Nova Provisão
+Internacional ................................................................................................... 33
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 63-40/2023
+PREFÁCIO
+A Organização de Aviação Civil Internacional (OACI) adota e emenda
+regularmente, conforme necessário, os Padrões e Práticas Recomendadas internacionais, que
+lidam com questões relacionadas à segurança operacional, regularidade e eficiência da
+navegação aérea.
+O Artigo 37 da Convenção de Aviação Civil Internacional (Convenção de
+Chicago) prevê que os Estados assumam o compromisso de colaborar para garantir o mais
+elevado grau possível de uniformização em todas as questões em que a referida uniformização
+facilite e melhore a navegação aérea.
+Embora a implementação dos Padrões e Práticas Recomendadas da OACI seja
+considerada necessária em nível global, a Convenção de Chicago também reconhece o
+mecanismo de notificação de “diferenças”, por meio do Artigo 38.
+Segundo esse Artigo, um Estado contratante deverá informar à OACI sempre
+que não cumprir determinado Padrão da Organização de forma integral ou quando não adaptar
+integralmente suas normas nacionais a esse Padrão ou, ainda, adotar normas ou práticas
+divergentes em qualquer aspecto específico do Padrão em questão.
+Nesse sentido, a presente reedição visa aperfeiçoar as ações disciplinadas e
+necessárias à implementação de provisão normativa da OACI no SISCEAB, assegurando o
+cumprimento dos compromissos internacionais e mantendo elevados os níveis de conformidade
+e de eficiência das regulamentações emitidas pelo DECEA.
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 63-40/2023
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+A presente Instrução tem por finalidade estabelecer as ações a serem seguidas
+pelos Subdepartamentos e Assessoria do Departamento de Controle do Espaço Aéreo (DECEA)
+necessárias à:
+a) análise e ao parecer sobre nova provisão normativa internacional oriunda da
+Organização de Aviação Civil Internacional (OACI); e
+b) notificação de “diferenças” dos normativos nacionais em relação à
+normatização da OACI.
+NOTA: No contexto desta publicação, a expressão “diferença” corresponde, genericamente,
+a uma divergência de uma provisão nacional em relação a Padrões e Práticas
+Recomendadas (SARP) ou, ainda, a Procedimentos para os Serviços de Navegação
+Aérea (PANS) ou Procedimentos Suplementares Regionais (SUPPS), expedidos
+pela Organização de Aviação Civil Internacional.
+1.2 ÂMBITO
+Esta Instrução se aplica, no que couber, aos Subdepartamentos de Administração
+(SDAD), Técnico (SDTE) e de Operações (SDOP), assim como à Assessoria de Segurança
+Operacional no Controle do Espaço Aéreo (ASEGCEA).
+1.3 ABREVIATURAS
+AIC - Circular de Informação Aeronáutica
+AIP - Publicação de Informação Aeronáutica
+AIRMET - Informação Meteorológica para Aeronavegantes
+ASEGCEA - Assessoria de Segurança Operacional no Controle do Espaço Aéreo
+CERNAI - Comissão de Estudos Relativos à Navegação Aérea Internacional
+DECEA - Departamento de Controle do Espaço Aéreo
+EFOD - Electronic Filing of Differences
+GEN - Generalidades
+GNSS - Sistema Mundial de Navegação por Satélite
+ICA - Instrução do Comando da Aeronáutica
+NOTAM - Aviso aos Aeronavegantes
+NCMC - National Continuous Monitoring Coordinator
+NPA - Norma Padrão de Ação
+OACI - Organização de Aviação Civil Internacional
+PANS - Procedimentos para os Serviços de Navegação Aérea
+
+--- PÁGINA ---
+10/35 ICA 63-40/2023
+SARP - Padrões e Práticas Recomendadas
+SDAD - Subdepartamento de Administração.
+SDOP - Subdepartamento de Operações
+SDTE - Subdepartamento Técnico
+SIGADAER - Sistema Informatizado de Gestão Arquivística de Documentos da
+Aeronáutica
+SISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro
+USOAP CMA - Programa Universal de Auditoria de Supervisão da Segurança Operacional
+com Abordagem de Monitoramento Contínuo
+SUPPS - Procedimentos Suplementares Regionais
+
+--- PÁGINA ---
+ICA 63-40/2023 11/35
+2 ANÁLISE E PARECER SOBRE NOVA PROVISÃO NORMATIVA DA OACI
+2.1 Os processos de recebimento, análise e emissão de parecer referentes à notificação de
+proposta de emenda, de proposta de novo documento da OACI, ou de adoção/aprovação de
+nova normatização oriunda daquela Organização, são detalhados em NPA da CERNAI sobre o
+seguinte assunto: “Processamento e Controle sobre a Implementação de Padrões e Práticas
+Recomendadas (SARP) e Outros Documentos da OACI”.
+2.2 Uma vez recebida da CERNAI notificação de nova provisão internacional referente a
+proposta de emenda ou proposta de nova documentação da OACI com status de SARP, PANS
+ou SUPPS, via SIGADAER, o Subdepartamento ou Assessoria correspondente deverá
+gerenciar a avaliação de impacto referente à adoção dessas novas regulamentações
+internacionais e definir a lista de tarefas necessárias à implementação de tal prática, se aplicável.
+Para tanto, um coordenador será designado para elaborar o Relatório de Análise e Parecer sobre
+Nova Provisão Internacional, cujo modelo está disponível no Anexo F. Esse coordenador
+deverá obter a aprovação desse Relatório do correspondente Chefe de Subdepartamento ou de
+Assessoria e, posteriormente, inseri-lo no SIGADAER como resposta à CERNAI sobre a
+adoção no SISCEAB da provisão internacional em questão.
+2.3 Tratando-se de notificação de adoção/aprovação de emenda ou de nova documentação da
+OACI com status de SARP, PANS ou SUPPS, o Subdepartamento ou Assessoria pertinente
+deverá realizar análise do texto adotado e emitir novo relatório, utilizando o mesmo Anexo F
+desta Instrução, fazendo constar eventuais complementações do relatório anterior, fruto de
+informações providas pela OACI ou de outro modo conhecidas pelos
+Subdepartamentos/Assessoria. Tal relatório complementar, também submetido à assinatura do
+Chefe do respectivo Subdepartamento/Assessoria e que deverá conter listagem de ações
+recomendadas (assinalados prazos e responsabilidades) para a efetiva implementação das novas
+disposições no acervo normativo do DECEA, deverá ser enviado à CERNAI, via SIGADAER,
+em resposta à comunicação recebida daquela Comissão.
+NOTA 1: Caso a nova provisão internacional envolva publicações de responsabilidade de
+diferentes Subdepartamentos ou Assessoria, cada um dos setores envolvidos
+designará um coordenador para elaboração do Relatório de Análise e Parecer
+sobre Nova Provisão Internacional, com foco no impacto e implementação em sua
+área de responsabilidade.
+NOTA 2: Os SARP, PANS e SUPPS de responsabilidade de cada Subdepartamento e
+Assessoria do DECEA estão definidos no Anexo E.
+2.4 Observados os prazos de resposta à OACI, o coordenador designado poderá solicitar análise
+de pessoas ou setores específicos, a fim de obter pareceres especializados sobre a adoção da
+nova provisão internacional, necessários à elaboração do Relatório de Análise e Parecer sobre
+Nova Provisão Internacional.
+NOTA: Caso seja aplicável, o coordenador designado poderá encaminhar o assunto em questão
+aos representantes do DECEA em Painéis, Comitês e Grupos de trabalho da OACI
+para análise e parecer pertinentes, assim como aos Órgãos Regionais e
+colaboradores externos do SISCEAB.
+2.5 O relatório a que se refere o item 2.3 deverá especificar o seguinte:
+a) se o parecer for favorável à adoção da nova provisão internacional na mesma
+data prevista pela OACI, confirmar:
+- a data planejada para a implementação da emenda;
+- a publicação que conterá tal provisão;
+
+--- PÁGINA ---
+12/35 ICA 63-40/2023
+- no caso de SARP, a data que será informada para a adoção nacional dessa
+provisão pelo sistema EFOD da OACI.
+NOTA: Se o coordenador designado não pertencer ao setor responsável pela publicação dessa
+nova provisão e/ou da correspondente atualização do sistema EFOD, ele deverá
+coordenar previamente essas tarefas com o setor pertinente, registrando também tal
+ação em seu despacho de encaminhamento no SIGADAER.
+b) se o parecer for desfavorável, total ou parcialmente, à adoção da nova
+provisão internacional na mesma data prevista pela OACI, informar:
+- motivo da não adoção, na íntegra ou parcialmente, da norma internacional;
+e
+- no caso de SARP, o texto, em português e em inglês, a ser informado à
+OACI, por meio do sistema EFOD, sobre a diferença nacional
+correspondente, especificando se tal prática:
+i. será implementada posteriormente, especificando a data de sua adoção
+no Brasil;
+ii. será aplicada de forma menos restritiva no Brasil, incluindo o item
+correspondente;
+iii. será aplicada de forma mais restritiva no Brasil, incluindo o item
+correspondente;
+iv. não será implementada no Brasil, resumindo o motivo dessa não
+implementação nacional; ou
+v. não será aplicável ao Brasil, resumindo o motivo dessa não
+aplicabilidade da norma internacional.
+NOTA: Se o coordenador designado não pertencer ao setor responsável pela correspondente
+atualização do sistema EFOD, ele deverá coordenar previamente essa tarefa com o
+setor pertinente, registrando também tal ação em seu despacho de encaminhamento
+no SIGADAER.
+2.6 Se o coordenador designado não pertencer ao setor responsável pela publicação dessa nova
+provisão e/ou da atualização do sistema EFOD, o Chefe de Subdepartamento ou de Assessoria
+deverá também encaminhar cópia desse processo ao setor pertinente para a consecução dessas
+ações.
+
+--- PÁGINA ---
+ICA 63-40/2023 13/35
+3 NOTIFICAÇÃO DE DIFERENÇA À OACI
+NOTA: As obrigações e os requisitos relacionados à notificação de “diferenças” para a OACI,
+assim como os procedimentos para determinação, notificação e gerenciamento de
+“diferenças” estão detalhados nos Anexos A, B, C e D.
+3.1 Com base no Relatório de Análise e Parecer sobre Nova Provisão Internacional,
+mencionado em 2.3, os elementos credenciados como Elo CC/EFOD pelos Subdepartamentos
+ou Assessoria procederão oportunamente à notificação de diferença de SARP à OACI, por meio
+do sistema EFOD.
+NOTA: Os elementos designados como Elos CC/EFOD pelos Subdepartamentos ou Assessoria
+deverão solicitar ao NCMC do COMAER credenciais de acesso aos “Compliance
+Checklists” para atualização do sistema EFOD, disponível em https://soa.icao.int/.
+3.2 O Elo CC/EFOD designado pelo Subdepartamento ou Assessoria correspondente deverá
+observar a seguinte classificação para a diferença de SARP a ser notificada:
+1) mais exigente ou que ultrapasse a exigência (More Exacting or Exceeds) –
+Categoria A: esta categoria se aplica quando a norma do DECEA é mais
+exigente que os SARP ou impõe uma obrigação no âmbito do Anexo não
+abrangida pelos SARP;
+NOTA 1: No detalhamento da diferença (Details of Difference), deverá ser
+inserido o item normativo que comprove que a prática nacional
+é mais exigente ou que ultrapassa a exigência dos SARP.
+NOTA 2: No campo de observações (Remarks), poderão ser inseridas mais
+referências que auxiliem no entendimento da prática nacional.
+2) diferente em caráter ou outros meios de cumprimento (Different in character
+or Other means of compliance) – Categoria B: esta categoria se aplica quando
+a norma do DECEA é diferente em caráter dos SARP da OACI
+correspondentes ou, ainda, quando tal norma se diferencia em seu princípio,
+tipo ou sistema dos SARP correspondentes, sem a imposição necessária de
+uma obrigação extra; e
+NOTA 1: A expressão também seria aplicável às normas do DECEA que
+alcançam, por outros meios, o mesmo objetivo dos SARP
+correspondentes da OACI e por isso não pode ser classificada
+conforme categoria A ou C.
+NOTA 2: No detalhamento da diferença (Details of Difference), deverá ser
+inserido o item normativo que comprove que a prática nacional
+é diferente em caráter ou que há outros meios de cumprimento
+dos SARP da OACI.
+NOTA 3: No campo de observações (Remarks), poderão ser inseridas mais
+referências que auxiliem no entendimento da prática nacional.
+3) menos restritiva, parcialmente implementada ou não implementada (Less
+protective or partially implemented or not implemented) – Categoria C: esta
+categoria se aplica quando a norma do DECEA é menos restritiva que os
+SARP correspondentes ou, ainda, quando não há norma do DECEA
+
+--- PÁGINA ---
+14/35 ICA 63-40/2023
+promulgada para apresentar os SARP correspondentes, por inteiro ou em
+parte.
+NOTA 1: No detalhamento da diferença (Details of Difference), deverá ser
+inserido o item normativo que comprove que a prática nacional
+é menos restritiva, parcialmente implementada ou não
+implementada em relação a SARP.
+NOTA 2: No campo de observações (Remarks), poderão ser inseridas mais
+referências que auxiliem no entendimento da prática nacional.
+3.3 As “diferenças” serão inseridas na planilha eletrônica pertinente do “Online Framework”,
+contendo:
+1) referência (State Reference): inserir o nome da publicação nacional (ex.:
+ICA 100-12), o número do capítulo, o item e, se aplicável, o subitem relativo
+ao texto dos SARP ao qual a diferença se refere;
+2) categoria: indica a categoria da diferença como A, B ou C, conforme o item
+3.2, assim como a situação de não aplicabilidade descrita em 3.4;
+3) descrição da diferença: descreve a diferença de forma clara e concisa e seu
+efeito; e
+4) comentários: indica as razões para a diferença e intenções, incluindo qualquer
+data planejada para a implementação.
+3.4 Deverá ser assinalado o campo Não Aplicável (Not Applicable), caso os SARP não sejam
+aplicáveis no Brasil, devido a características geográficas, operacionais, tecnológicas etc.
+peculiares do País.
+NOTA: No campo de observações (Remarks), deverá ser inserido um breve resumo da
+não aplicabilidade dos SARP no Brasil.
+
+--- PÁGINA ---
+ICA 63-40/2023 15/35
+4 DIVULGAÇÃO DE DIFERENÇA AOS AERONAVEGANTES
+4.1 CRITÉRIOS PARA A PUBLICAÇÃO DE DIFERENÇAS NA AIP
+NOTA: Os textos apresentados neste item foram traduzidos do DOC 8126, “Manual dos
+Serviços de Informação Aeronáutica”, da OACI.
+4.1.1 O Anexo 15 requer que o Estado Contratante publique em sua respectiva AIP as
+“diferenças significativas” entre suas normas e práticas nacionais e as disposições relacionadas
+da OACI. Quaisquer diferenças deste tipo devem ser incluídas na seção GEN 1.7 da AIP. Isso
+tem como objetivo garantir que a AIP forneça informações atualizadas sobre o status de
+implementação dos SARP, particularmente com relação às operações de aeronaves e à provisão
+de instalações e serviços.
+NOTA: Qualquer desvio de SARP que precisar ser levado em conta nas operações das
+aeronaves, conforme indicado a seguir, constitui uma “diferença significativa”.
+4.1.2 Todas as diferenças significativas informadas à OACI deverão ser publicadas na AIP, de
+forma a permitir que o usuário diferencie imediatamente entre os requisitos do Estado e aqueles
+relacionados com a OACI. Tais diferenças compreendem:
+a) Qualquer Padrão Internacional;
+b) Práticas Recomendadas que são importantes para a segurança operacional da
+navegação aérea ou, no caso da facilitação, para o rápido despacho e liberação
+na alfândega, imigração etc. de aeronaves e das respectivas cargas
+transportadas;
+c) Procedimentos para os Serviços de Navegação Aérea (PANS) que são
+importantes para a segurança operacional da navegação aérea; e
+d) Procedimentos Regionais Suplementares (SUPPS) que são importantes para a
+segurança operacional da navegação aérea.
+NOTA: Conclui-se, portanto, que todas as disposições de SARP que constituem Padrões são
+significativas e que quaisquer diferenças entre as normas ou práticas nacionais de
+determinado Estado e esses Padrões são diferenças que precisam ser publicadas.
+Esta é uma obrigação que se origina do Artigo 38 da Convenção de Chicago. Com
+relação a Práticas Recomendadas, PANS e SUPPS, somente as diferenças
+consideradas importantes para a segurança operacional da navegação aérea ou, no
+caso da facilitação, para o rápido despacho e liberação na alfândega, imigração etc.
+de aeronaves e suas respectivas cargas, são significativas. Devido à sua natureza, a
+maior parte das Práticas Recomendadas contribuem para a segurança operacional
+da navegação aérea.
+4.1.3 As diferenças em relação ao PANS-ABC (DOC 8400) não constituem “diferenças
+significativas”. No entanto, o Anexo 15, Apêndice 1, GEN 2.2 requer a inclusão, na AIP, de
+uma lista de abreviaturas e seus respectivos significados, utilizados pelo Estado em sua AIP e
+na distribuição das informações aeronáuticas. Nesta lista, quaisquer abreviaturas ou
+significados que sejam diferentes daqueles fornecidos pela OACI deverão ser devidamente
+registrados. O restante do DOC 8400 contém sinais, designações e códigos que são de aplicação
+universal.
+
+--- PÁGINA ---
+16/35 ICA 63-40/2023
+4.1.4 Em geral, a publicação das diferenças significativas será limitada aos casos em que as
+normas ou práticas nacionais de determinado Estado forem diferentes dos SARP, PANS e
+SUPPS da OACI. Quando as normas ou práticas nacionais forem essencialmente iguais às
+disposições da OACI, mas não exatamente idênticas, ou se seguirem as disposições da OACI,
+mas houver diferenças pontuais, em determinados locais, não haverá necessidade de publicar
+as diferenças, uma vez que os detalhes dos procedimentos ou instalações existentes são objeto
+de informação por meio da AIP. Em termos gerais, a determinação deverá ser baseada nos
+seguintes critérios, em termos da necessidade ou não de publicar a existência de diferença em
+função da segurança da navegação aérea internacional:
+a) A diferença impõe uma obrigação:
+— no âmbito de SARP, PANS ou SUPPS, que não seja abarcada por qualquer
+disposição da OACI; ou
+— diferente em natureza da disposição da OACI correspondente; ou
+b) A norma ou prática nacional aplicável é mais precisa ou oferece menos proteção
+do que a disposição da OACI correspondente.
+4.1.5 Quando as normas ou práticas nacionais forem mais rigorosas do que as disposições da
+OACI, não haverá necessidade de publicar "diferenças", uma vez que a AIP de cada Estado
+deverá refletir a situação real. Ação semelhante deverá ser tomada em relação aos
+procedimentos que não foram desaprovados pelo Estado, mas que não foram implementados
+ainda ou estão sendo implementados gradualmente.
+4.1.6 Na publicação de uma diferença, é necessário apresentar uma declaração da intenção de
+cumprir, caso haja essa intenção, ou informar a(s) diferença(s) existente(s), caso não haja essa
+intenção. Esta declaração deverá ser feita em relação ao conteúdo completo dos SARP, PANS
+ou SUPPS em questão, incluindo emendas, e deverá incorporar as instalações existentes e as
+novas. Além disso, quando houver intenção de cumprir, deverá constar indicação em termos
+gerais se, para determinado período, houver casos em que não serão fornecidas instalações de
+acordo com o disposto nos SARP, mas sem entrar em detalhes das diferenças, uma vez que esta
+é uma questão a ser informada via AIP. Quando houver um curso de ação alternativo nos SARP,
+a escolha deverá ser indicada.
+4.2 PUBLICAÇÃO DE DIFERENÇAS NA AIP-BRASIL
+4.2.1 O Subdepartamento ou Assessoria do DECEA afeto à nova provisão internacional em
+questão será responsável por providenciar a publicação na AIP-Brasil da correspondente
+diferença, se houver, em relação a SARP, PANS ou SUPPS.
+NOTA 1: A publicação na AIP Brasil da diferença relativa à nova provisão da OACI deverá
+ser providenciada pelo setor normativo correspondente ao assunto em questão.
+NOTA 2: O Anexo E apresenta a relação dos Subdepartamentos que são responsáveis por
+cada SARP, PANS e SUPPS.
+
+--- PÁGINA ---
+ICA 63-40/2023 17/35
+5 DISPOSIÇÕES FINAIS
+5.1 As sugestões para o contínuo aperfeiçoamento desta publicação deverão ser enviadas
+acessando o link específico da publicação, por intermédio dos endereços eletrônicos
+http://publicacoes.decea.intraer/ ou http://publicacoes.decea.mil.br/.
+5.2 Os casos não previstos nesta Instrução serão submetidos ao Exmo. Sr. Diretor-Geral do
+DECEA.
+
+--- PÁGINA ---
+18/35 ICA 63-40/2023
+REFERÊNCIAS
+ICAO. Doc.8126/AN/872: Aeronautical Information Servives Manual. [Montreal]: 7ed.,
+2022.
+
+--- PÁGINA ---
+ICA 63-40/2023 19/35
+Anexo A – Obrigações e Requisitos Relacionados à Notificação de “Diferenças”
+1 DISPOSIÇÕES GERAIS
+1.1 A Convenção de Aviação Civil Internacional (Convenção de Chicago) sublinha no Artigo
+1º que os Estados têm total e exclusiva soberania sobre o espaço aéreo acima do seu território.
+1.2 De acordo com o Artigo 37 da Convenção de Chicago, os Estados assumem o compromisso
+de colaborar para garantir o mais elevado grau possível de uniformização em todas as questões
+em que a referida uniformização facilite e melhore a navegação aérea.
+1.3 Nesse sentido, a Organização de Aviação Civil Internacional (OACI) adota e emenda
+regularmente, conforme necessário, os SARP que lidam com questões relacionadas à segurança
+operacional, regularidade e eficiência da navegação aérea.
+1.4 Os SARP são adotados pelo Conselho da OACI de acordo com os Artigos 37, 54 e 90 da
+Convenção de Chicago e são designados, para fins de conveniência, como Anexos à
+Convenção.
+1.5 A Convenção de Chicago não definiu “Padrão” ou “Prática Recomendada”. As definições
+foram adotadas pela Assembleia em 1947 (Resolução A1-31). A aplicação uniforme pelos
+Estados Contratantes das especificações contidas nos Padrões Internacionais é reconhecida
+como necessária para a segurança operacional ou regularidade da navegação aérea
+internacional, enquanto a aplicação uniforme das especificações das Práticas Recomendadas é
+considerada desejável em prol da segurança operacional, regularidade ou eficiência da
+navegação aérea internacional. Como a Resolução A1-31 aplicava-se apenas a questões
+relacionadas à navegação aérea, as definições dos SARP no Anexo 9 – Facilitação (FAL) são
+ligeiramente diferentes.
+1.6 A decisão de definir “Padrão” ou “Prática Recomendada” de forma diferenciada para o
+Anexo 9 foi tomada pelo Conselho em seu 15º Encontro na 6ª Sessão (1949). As definições dos
+termos “Padrões” e “Práticas Recomendadas” no Anexo 9 foram resultado de um consenso
+alcançado pelo Comitê de Transporte Aéreo, após diversas discussões em um Grupo de
+Trabalho e várias reuniões com o Comitê pleno. A natureza das disposições do FAL tornou
+necessário que os Padrões e Práticas Recomendadas fossem baseados no conceito geral de
+“uniformidade”, o que facilitará e melhorará a navegação aérea, conforme definido na parte
+inicial do Artigo 37, em vez dos aspectos mais específicos de “segurança operacional,
+regularidade e eficiência”, mencionados na conclusão do referido Artigo 37 (DOC 6764 –
+C/780).
+NOTA: O termo “procedimento” constante dos Artigos 37 e 38 da Convenção de Chicago
+deverá ser diferenciado dos Procedimentos para os Serviços de Navegação Aérea
+(PANS) ou dos Procedimentos Regionais Complementares (SUPPS). Os
+elaboradores da Convenção de Chicago consideraram que os Padrões e Práticas
+Recomendadas internacionais abarcariam uma variedade de tópicos, incluindo
+especificações de equipamentos, procedimentos (para comunicações e controle de
+tráfego aéreo, por exemplo) e práticas (C/817). Embora a adoção e a aprovação dos
+Padrões e Práticas Recomendadas internacionais estejam expressamente previstas
+na Convenção (vide Artigos 54 (l) e 90), o mesmo não ocorre com os
+“procedimentos”.
+
+--- PÁGINA ---
+20/35 ICA 63-40/2023
+2 ARTIGO 38 DA CONVENÇÃO DE AVIAÇÃO CIVIL INTERNACIONAL
+2.1 Embora, segundo a definição, a implementação dos padrões da OACI seja considerada
+necessária em nível global, a Convenção de Chicago também reconhece o mecanismo de
+notificação de “diferenças”, por meio do Artigo 38.
+2.2 O Artigo 38 da Convenção de Chicago afirma:
+“Qualquer Estado que considerar impraticável cumprir integralmente qualquer
+padrão ou procedimento internacional, ou adequar plenamente suas próprias normas ou
+práticas a qualquer padrão ou procedimento internacional após a devida emenda, ou que
+considerar necessário adotar normas ou práticas diferentes em aspectos específicos das
+estabelecidas por um padrão internacional, deverá informar imediatamente à OACI sobre as
+diferenças entre suas próprias práticas e as estabelecidas pelo padrão internacional. No caso
+das emendas a padrões internacionais, qualquer Estado que não fizer as emendas adequadas
+às suas próprias normas e práticas locais deverá informar ao Conselho, dentro de sessenta
+dias para adoção da emenda ao padrão internacional, ou indicar a ação proposta. Nesses
+casos, o Conselho deverá informar imediatamente todos os demais Estados sobre a diferença
+existente entre um ou mais aspectos de um padrão internacional e a prática local
+correspondente. ”
+2.3 De acordo com o Artigo 38, um Estado contratante deverá informar a OACI sempre que
+não cumprir determinado Padrão de forma integral ou quando não adaptar integralmente suas
+normas e práticas locais ao Padrão ou, ainda, adotar normas ou práticas divergentes em qualquer
+aspecto específico do Padrão em questão.
+2.4 As Resoluções de Adoção dos Anexos 2, 3 e 5 à Convenção, aprovadas pelo Conselho na
+22ª Reunião de sua 3ª Sessão, não só determinaram que os Estados deveriam informar a
+OACI sobre quaisquer “diferenças” entre qualquer uma de suas próprias práticas e aquelas
+estabelecidas pelos Padrões contidos nos Anexos como também definiram que as “diferenças”
+abrangem “o não cumprimento de qualquer aspecto” de determinado Padrão.
+2.5 Os exemplos a seguir apresentam situações possíveis de circunstâncias que exijam a
+notificação de determinada diferença:
+a) determinada situação em que o Estado não tem condições de adequar suas
+práticas integralmente ao Padrão. Por exemplo, quando um Estado Membro
+incorporou um Padrão em suas normas domésticas, mas só o implementou ou
+o colocou em prática parcialmente;
+b) determinada situação em que a norma do Estado esteja divergente do Padrão
+(ou não o incorpore). Por exemplo, quando um Estado aplica o Padrão na
+prática, mas não o incorporou em suas normas locais; e
+c) determinada situação em que o Estado não cumpre o Padrão. Por exemplo,
+quando um Estado não incorporou um Padrão em suas normas locais e não o
+implementou nem o colocou em prática.
+2.6 É importante observar que as situações acima são apenas exemplos hipotéticos. Pode
+haver outras situações que requeiram a notificação de “diferenças”.
+
+--- PÁGINA ---
+ICA 63-40/2023 21/35
+2.7 Pode haver casos em que o Estado tenha “diferenças” temporárias ou de curto prazo (por
+exemplo, isenções/exceções). Nesses casos, os Estados deverão ser estimulados a informar as
+“diferenças” e a fornecer essas informações por outros meios, tais como NOTAM ou AIC. O
+Artigo 38 requer expressamente que os Estados comuniquem imediatamente à OACI sobre
+qualquer diferença, sem exceções. Portanto, qualquer que seja a ação tomada pelos Estados com
+relação a “diferenças” temporárias ou de curto prazo, estas não deverão servir para liberar
+os Estados de suas obrigações nos termos do Artigo 38.
+2.8 Observa-se, no entanto, que a notificação de “diferenças” não significa que o Estado poderá
+ser dispensado de suas obrigações conforme especificado na Convenção de Chicago. Vários
+artigos da Convenção de Chicago deixam claro que, se os Padrões adotados por determinado
+Estado forem menos rigorosos do que os exigidos pela OACI, os aeródromos, aeronaves,
+provedores de serviços ou pessoal com licenças ou certificados endossados pelo referido Estado
+não poderão participar da navegação aérea internacional, exceto se permitido pelo(s) Estado(s)
+cujo(s) território(s) é(são) sobrevoado(s). A responsabilidade por obter a referida permissão é
+do indivíduo ou da organização da aviação civil cujo certificado foi endossado nesse sentido,
+embora o Estado também possa solicitar permissão abrangente em nome dos titulares da licença
+ou certificado.
+3 RESOLUÇÃO DA ASSEMBLEIA
+3.1 Embora o Artigo 38 defina a obrigação de informar “diferenças” apenas em relação aos
+padrões, é reconhecido que ter ciência das “diferenças” em relação às Práticas Recomendadas
+também pode ser importante para a segurança operacional, regularidade e eficiência da
+navegação aérea. A Assembleia da OACI resolveu que o Conselho deverá encorajar os Estados
+Membros a informar à OACI qualquer diferença existente entre suas normas e práticas locais
+e os SARP, assim como a data em que cumprirão os SARP.
+4 REQUISITOS DO ANEXO 15
+4.1 O Anexo 15 – Serviços de Informação Aeronáutica, em 5.2.2 Publicação de Informação
+Aeronáutica estabelece:
+“As Publicações de Informações Aeronáuticas (AIP) deverão incluir:
+a) uma declaração da autoridade competente responsável pelas instalações,
+serviços ou procedimentos de navegação aérea abarcados pela AIP;
+b) as condições gerais em que tais serviços ou instalações estarão disponíveis
+para uso internacional;
+c) uma lista de “diferenças” significativas entre as normas e práticas nacionais
+do Estado e os Padrões, Práticas Recomendadas e Procedimentos da OACI
+relacionados, apresentada de forma a permitir que o usuário diferencie
+imediatamente entre os requisitos do Estado e aqueles relacionados com a
+OACI; e
+d) a escolha feita por determinado Estado em cada caso significativo em que
+um curso de ação alternativo é apresentado com relação aos Padrões,
+Práticas Recomendas e Procedimentos. ”
+
+--- PÁGINA ---
+22/35 ICA 63-40/2023
+4.2 O objetivo da publicação de “diferenças” significativas na AIP é principalmente o de
+fornecer aos tripulantes, e outros envolvidos no processo, informações essenciais para as
+operações internacionais, que não estejam prontamente disponíveis.
+4.3 Mais informações sobre “diferenças” significativas podem ser encontradas no Manual de
+Serviços de Informação Aeronáutica (DOC 8126).
+5 A IMPORTÂNCIA DE INFORMAR AS “DIFERENÇAS”
+5.1 O principal objetivo de informar as “diferenças” é promover a segurança, eficiência e
+regularidade da navegação aérea, garantindo que órgãos governamentais e outras entidades,
+incluindo operadores, relacionados à aviação civil internacional estejam cientes de todas as
+normas e práticas locais no que tange às suas “diferenças” em relação ao prescrito nos SARP.
+Portanto, a falta de informação sobre as “diferenças” ou o não cumprimento dos SARP cria
+incerteza e atrapalha a segurança e a eficiência da navegação aérea.
+5.2 A decisão do Estado de seguir um padrão diferente do preconizado pela OACI, nos casos
+previstos no Artigo 38, é importante e implica potenciais consequências para a segurança e
+eficiência da navegação aérea.
+5.3 Informar “diferenças” de forma imediata e precisa ajuda a administração e os especialistas
+a monitorar de perto as normas locais, especialmente no que diz respeito aos SARP.
+5.4 A disseminação de “diferenças” aumenta a transparência das informações sobre segurança
+operacional, facilitando, assim, as decisões dos Estados de aceitar ou não aeronaves e
+operadores de outros Estados, e complementa muito bem as atividades de monitoramento
+contínuo do USOAP CMA.
+5.5 A notificação incorreta das “diferenças” tem o potencial de induzir a comunidade
+internacional ao erro, causar problemas de segurança e resultar em situações operacionais
+indesejadas, tais como impedir a decolagem de aeronaves.
+5.6 A falta de notificação das “diferenças” causa dúvida com relação à situação do Estado, com
+potenciais consequências negativas em termos do reconhecimento de certificados e licenças,
+inspeções de rampa e, por fim, direitos de trânsito.
+5.7 A notificação das “diferenças” é um aspecto importante da Convenção de Chicago e
+contribui para garantir o crescimento seguro e ordenado da aviação civil internacional em todo
+o mundo. Portanto, não deve ser considerada uma punição, mas um processo útil no melhor
+interesse de todos.
+
+--- PÁGINA ---
+ICA 63-40/2023 23/35
+Anexo B – Determinação de “Diferenças”
+1 COMPONENTES DO ANEXO AOS QUAIS SE APLICAM A NOTIFICAÇÃO DAS
+“DIFERENÇAS”
+1.1 PADRÕES E PRÁTICAS RECOMENDADAS (SARP)
+Estar ciente das “diferenças” entre as normas e práticas nacionais de
+determinado Estado e aquelas estabelecidas por um Padrão internacional é essencial para a
+segurança operacional ou regularidade da navegação aérea internacional. Em caso de não
+cumprimento de um Padrão internacional, o Estado tem a obrigação, segundo os termos do
+Artigo 38 da Convenção, de informar o Conselho a respeito de qualquer diferença.
+1.2 DEFINIÇÕES
+As definições dos termos utilizados nos Padrões e Práticas Recomendadas não
+são autoexplicativas, pois tais termos não possuem significado dicionarizado consagrado.
+Uma definição não existe de forma isolada e independente, mas é uma parte essencial de cada
+SARP em que o termo em questão é usado, uma vez que a diferença de significado pode afetar
+a especificação. Portanto, as “diferenças” em relação às definições devem ser informadas.
+Assim que essa diferença for informada, as “diferenças” em relação aos SARP que utilizam
+aquela definição deverão ser reportadas também. Portanto, o Estado Contratante deverá estar
+atento às possíveis consequências de longo prazo da decisão de adotar uma definição divergente
+daquela contida em um Anexo.
+1.3 APÊNDICES
+Os Apêndices compreendem material agrupado de forma separada para fins de
+conveniência, mas que fazem parte integral dos SARP adotados pelo Conselho. A notificação
+das “diferenças” aplica-se também aos Apêndices.
+1.4 TABELAS E FIGURAS
+As Tabelas e Figuras que complementam ou ilustram certos SARP mencionados
+em um Anexo fazem parte dos SARP correspondentes e recebem o mesmo status. A notificação
+de “diferenças” aplica-se, portanto, a tais tabelas e figuras.
+2 SARP NÃO APLICÁVEIS
+2.1 Embora a maior parte dos SARP sejam aplicáveis a todos os Estados, alguns só se aplicam
+a certos Estados. Por exemplo, o Anexo 3 contém disposições aplicáveis somente aos Estados
+que aceitaram a responsabilidade pela provisão de um Centro Mundial de Previsão de Área
+(WAFC) no âmbito do Sistema Mundial de Previsão de Área. Da mesma forma, o Anexo 8
+contém disposições aplicáveis ao País de Origem de determinado tipo de aeronave. Em outras
+palavras, os SARP que estabelecem “Se determinado Estado implementa A, deverá cumprir B”
+não se aplicariam a Estados que não implementam A.
+2.2 Quando um país estabelece que está fora da abrangência de determinados SARP, ele não
+precisa informar as “diferenças” em relação aos SARP não aplicáveis.
+
+--- PÁGINA ---
+24/35 ICA 63-40/2023
+3 DIRETRIZES GERAIS PARA A DETERMINAÇÃO DAS “DIFERENÇAS”
+3.1 Para determinar se existe alguma diferença em relação a SARP, o Estado deve avaliar até
+que ponto as condições estabelecidas no Artigo 38 estão sendo cumpridas. Para isso, os aspectos
+descritos nos itens a seguir devem ser levados em conta.
+3.2 Como explicado em WP/15 (parte II, parágrafo 2) da 12ª Sessão da Assembleia da OACI
+em 1959: “a implementação do cumprimento dos SARP pode ser considerada, em geral, como
+tendo duas características. A primeira compreende os acordos administrativos necessários
+para que os requisitos da OACI sejam cumpridos em nível doméstico; a segunda consiste nas
+medidas práticas necessárias, tais como o fornecimento de instalações, pessoal, equipamento,
+orientação, mecanismos de cumprimento etc.”
+3.3 Portanto, a implementação do Padrão, em geral, só pode ser considerada satisfatória
+quando forem tomadas medidas administrativas e práticas adequadas. Por exemplo, quando
+uma medida administrativa que regulamenta determinada norma estiver em vigor, mas não se
+aplica na prática, ou quando não existir medida administrativa adequada, embora as atividades
+práticas ocorram regularmente, o Estado deverá informar a diferença em relação ao Padrão
+correspondente, até que o cumprimento seja alcançado.
+3.4 Considera-se que a implementação das práticas recomendadas é desejável. Se determinado
+país optar por implementar determinada prática recomendada, deverá torná-la um requisito
+nacional com força administrativa suficiente. Por exemplo, a prática recomendada 2.1.4.2 do
+Anexo 10, Volume I, estabelece que: “Recomendação – O Estado que aprovar operações
+baseadas em GNSS deverá garantir que dados GNSS relevantes a essas operações sejam
+registrados.” Se o Estado X decidir implementar essa prática recomendada, este deverá emitir
+uma obrigação nacional, a fim de garantir que os dados de operações baseadas em GNSS sejam
+registrados.
+3.5 No Artigo 38, os termos “cumprir em todos os aspectos”, “adaptar suas próprias normas ou
+práticas a”, referem-se, em linhas gerais, às várias dimensões de implementação. As “normas
+ou práticas” do Estado, “sua prática” e “a prática do Estado” no Artigo 38 referem-se de forma
+intercambiável às medidas administrativas e práticas do Estado e seu funcionamento adequado.
+3.6 Portanto, se um Estado determinou que implementou os SARP por meio de medidas
+administrativas suficientemente robustas (como normas, ou outros documentos com força
+administrativa suficiente) e que é “razoável afirmar” que essas medidas estejam implementadas
+e em vigor “no campo” (por exemplo, embora não se possa eliminar a possibilidade de certas
+normas serem descumpridas, isso é limitado por meio de fiscalização eficaz), este não precisa
+informar qualquer diferença à OACI, uma vez que “cumpre todos os aspectos” do requisito da
+OACI e adaptou devidamente suas “normas e práticas”.
+3.7 O Conselho da OACI, em 13 de abril de 1948, adotou uma Resolução chamando a atenção
+dos Estados Contratantes para o fato de ser desejável utilizar em suas normas nacionais, desde
+que viável, o mesmo texto dos Padrões de natureza regulatória. A esse respeito, deve-se
+observar que a adesão de uma norma nacional ao texto dos SARP deve ser viabilizada por
+mecanismos efetivos de fiscalização e monitoramento rigoroso da implementação. Não deve
+ser confundido com um exercício de “cópia e colagem”, que pode exigir que os países informem
+“diferenças” porque os conteúdos dos SARP foram simplesmente copiados nas normas
+nacionais, sem um vínculo efetivo com sua implementação propriamente dita.
+
+--- PÁGINA ---
+ICA 63-40/2023 25/35
+3.8 Apesar da Resolução do Conselho da OACI acima mencionada, pode haver casos em que
+o Estado ache necessário utilizar um texto diferente dos SARP, sem levar à necessidade de
+notificação das “diferenças”, pois o propósito do Estado pode ser:
+a) esclarecer melhor o requisito, sem introduzir “diferenças” de conteúdo; e/ou
+b) ser mais prescritivo do que os SARP, atendendo ao requisito de execução.
+3.9 A determinação das “diferenças” deverá ser realizada pelas autoridades normalizadoras do
+Estado em boa-fé e mantendo o compromisso do país, como Estado Membro da OACI, em
+cumprir os requisitos da Convenção.
+4 CATEGORIAS E DESCRIÇÕES DAS “DIFERENÇAS”
+4.1 CATEGORIAS DAS “DIFERENÇAS”
+4.1.1 Como as notificações das “diferenças” podem corresponder a diferentes cenários, as
+seguintes categorias de “diferenças” são elencadas como orientação para determinar se existe
+diferença que precisa ser informada:
+a) determinado requisito do Estado Contratante é mais rigoroso ou excede os
+requisitos dos SARP. Esta categoria é aplicável quando a norma e as práticas
+nacionais são mais rigorosas do que os SARP correspondentes, ou impõem
+uma obrigação no âmbito do Anexo que não é abarcada pelos SARP. Isso é
+particularmente importante quando um Estado Contratante requer um padrão
+mais elevado que afeta a operação de aeronaves de outros Estados
+Contratantes em e sobre o seu território;
+Exemplo:
+Texto da diferença a Comentários,
+Referência -
+Disposição ser informado à incluindo motivo
+Anexo
+OACI da diferença
+Anexo 2, 3.3.1.3 O plano de voo deverá ser Nos voos que cruzam Este requisito
+submetido antes da partida fronteiras adicional é
+para um órgão de tráfego internacionais, o plano considerado
+aéreo ou, durante o voo, de voo deverá ser necessário.
+transmitido para a submetido pelo menos
+instalação adequada de 30 minutos antes da
+serviços de tráfego aéreo ou partida.
+estação de controle ar-terra,
+a menos que medidas
+tenham sido tomadas para a
+submissão de planos de voo
+repetitivos.
+b) determinado requisito do Estado Contratante é diferente em natureza ou outra
+forma de cumprimento. Esta categoria é aplicável quando a norma e as
+práticas nacionais têm natureza diferente dos SARP correspondentes, ou
+quando a norma e as práticas nacionais diferem em princípio, tipo ou sistema
+dos SARP correspondentes, sem necessariamente impor obrigação adicional.
+A expressão “diferente em natureza ou outra forma de cumprimento” em “b”
+
+--- PÁGINA ---
+26/35 ICA 63-40/2023
+aplica-se a uma norma ou prática nacional que alcança, por outros meios, os
+mesmos objetivos que os SARP correspondentes e que, portanto, não estão
+classificadas em “a” ou “c”; e
+Exemplo:
+Referência – Disposição Texto da diferença a Comentários,
+Anexo ser informado à incluindo motivo
+OACI da diferença
+Anexo 3, 6.5.3 As previsões de área para As previsões de área A frequência e os
+voos de nível baixo são emitidas a cada 3 períodos de
+preparadas em apoio às horas em vez de 6 emissão são
+informações AIRMET horas, mas somente das considerados
+deverão ser emitidas a cada 7:00 às 22:00, horário como tendo
+6 horas, durante um período local. melhor custo-
+de validade de 6 horas, e benefício.
+transmitidas para os postos
+de vigilância meteorológica
+e/ou unidades
+meteorológicas em questão,
+no máximo até uma hora
+antes do início do seu
+respectivo período de
+validade.
+c) determinado requisito do Estado Contratante oferece menor grau de proteção,
+é parcialmente implementado ou não é implementado. Esta categoria é
+aplicável quando a norma ou as práticas nacionais oferecem menor grau de
+proteção do que os SARP correspondentes, quando não foi promulgada norma
+nacional contemplando os SARP correspondentes, de forma integral ou
+parcial, ou quando o Estado Contratante não conseguiu adequar/adaptar
+plenamente suas práticas aos SARP correspondentes.
+Exemplo:
+Comentários,
+Referência – Texto da diferença a
+Disposição incluindo motivo
+Anexo ser informado à OACI
+da diferença
+Anexo 11, 2.31.1 Cada área proibida, área Embora este padrão A incorporação
+restrita ou área perigosa, seja implementado na está planejada
+estabelecida por um Estado, prática, não foi para atualização
+deverá receber uma incorporado nas normas de 2016 das
+identificação no momento nacionais. normas ligadas a
+em que for criada, e detalhes serviços de
+completos deverão ser tráfego aéreo.
+fornecidos.
+4.2 DESCRIÇÃO DAS “DIFERENÇAS”
+4.2.1 As “diferenças” substanciais deverão ser descritas de forma clara e concisa, e deverão
+permitir que o leitor entenda facilmente a abrangência das “diferenças”. Em geral, a descrição
+não deve ser cópia do requisito nacional, cabendo ao leitor identificar as “diferenças” em
+
+--- PÁGINA ---
+ICA 63-40/2023 27/35
+relação aos requisitos da OACI, mas sim uma descrição das lacunas encontradas. Como
+resultado, deve-se considerar que não haverá diferença em relação a elementos dos SARP que
+não tenham sido descritos.
+4.2.2 Quando o país não adotou obrigações administrativas para implementar determinados
+SARP, a diferença poderá ser notificada como “disposição não incorporada nas normas”, em
+vez de uma nova redação usando uma negação da disposição da OACI, embora ambas as opções
+sejam aceitáveis.
+4.3 IDIOMA A SER USADO
+4.3.1 As “diferenças” deverão ser informadas em um dos idiomas oficiais da OACI (árabe,
+chinês, inglês, francês, russo ou espanhol). Os países que não informarem as “diferenças” em
+inglês deverão providenciar uma tradução para a língua inglesa.
+
+--- PÁGINA ---
+28/35 ICA 63-40/2023
+Anexo C – Processo para a Notificação de “Diferenças”
+1 QUANDO INFORMAR AS “DIFERENÇAS”
+1.1 A OACI informa aos Estados Contratantes e às organizações internacionais, por meio de
+Carta de Estado, a adoção de emendas e solicita a notificação, antes de determinadas datas, de
+quaisquer aspectos em que haja discordância/desaprovação, assim como de casos de
+conformidade e “diferenças”.
+1.2 A emenda entrará em vigor, exceto qualquer trecho sobre o qual a maioria dos Estados
+Contratantes tenha registrado desaprovação ou discordância junto ao Conselho antes da data
+específica, que passará a ser a data de vigência da emenda. Este mecanismo implementa o
+Artigo 90 da Convenção, que confere a todos os Estados Contratantes a possibilidade de
+discordar de qualquer parte de uma emenda adotada pelo Conselho da OACI durante três meses.
+Além disso, este mecanismo é diferente da consulta feita aos Estados quanto a propostas de
+emendas e à notificação de “diferenças”.
+1.3 As emendas, ou os respectivos trechos devidamente aprovados e em vigor, serão aplicáveis
+em determinada data definida pelo Conselho da OACI, até a qual o Estado deverá cumprir e
+implementar a emenda, quando aplicável ao Estado.
+1.4 Os Estados são informados, em geral por meio de boletim eletrônico, assim que as emendas
+entram em vigor (i.e., quando não houver discordância da maioria dos Estados em relação às
+emendas ou partes das mesmas). Como deve ser excepcional o fato de a maioria dos Estados
+Contratantes informar discordância/desaprovação das emendas aos Anexos adotadas pelo
+Conselho da OACI, os Estados poderão achar interessante aproveitar todo o período, desde a
+adoção da emenda pelo Conselho da OACI até a data de aplicação desta, para se preparar para
+a implementação da emenda, bem como notificação das “diferenças”. O Apêndice 1 contém o
+fluxograma de um procedimento sugerido para o estabelecimento de medidas nacionais para
+implementar o material do anexo da OACI.
+1.5 Os Estados Contratantes deverão informar, no máximo até um mês antes da data de
+aplicação prevista, as “diferenças” existentes, na data de aplicação, entre as normas nacionais
+e as práticas e disposições do Anexo como um todo, conforme emendado, incluindo todas as
+emendas.
+1.6 Os Estados Contratantes também têm obrigação, fora do processo de emendas, de
+providenciar a notificação imediata para a OACI de novas “diferenças” que venham a existir
+e, implicitamente, notificar imediatamente a OACI sobre quaisquer “diferenças” que foram
+eliminadas e, portanto, não existem mais.
+2 MEIOS DE NOTIFICAÇÃO
+2.1 As “diferenças” poderão ser informadas por meio do envio à OACI de um Formulário de
+Notificação de Conformidade ou “diferenças” (processo em papel) ou pelo sistema de
+notificação eletrônica de “diferenças” (EFOD – Electronic Filing of Differences), em
+https://soa.icao.int/. O EFOD é uma ferramenta web que permite aos Países Membros
+apresentar informações sobre Conformidade/”Diferenças”, o que facilita o compartilhamento
+de informações pela OACI.
+
+--- PÁGINA ---
+ICA 63-40/2023 29/35
+2.2 Embora o processo baseado em papel com o uso do Formulário de Notificação de
+Conformidade ou “diferenças” ainda seja a principal forma de envio das informações, os Países
+Membros foram estimulados a fazer a transição para utilizar o sistema EFOD, a fim de resolver
+problemas relacionados à tempestividade da notificação e/ou divulgação das “diferenças”,
+conforme estabelecido no Artigo 38 da Convenção de Chicago.
+
+--- PÁGINA ---
+30/35 ICA 63-40/2023
+Anexo D – Procedimentos para o Gerenciamento de “Diferenças”
+1 DISPOSIÇÕES GERAIS
+1.1 A fim de manter atualizados o estado de conformidade e a notificação das “diferenças”, os
+Países Membros deverão estar adequadamente organizados e dispor de pessoal qualificado
+capaz de acompanhar estas tarefas.
+1.2 A determinação, a expressão clara e precisa e a notificação das “diferenças” requerem um
+bom conhecimento e compreensão dos seguintes aspectos:
+a) as obrigações, expectativas, modelos e ferramentas da OACI com relação à
+notificação das “diferenças”. O presente manual tem como objetivo fornecer
+aos Estados, em um único documento, orientações a este respeito; e
+b) o contexto nacional regulatório e o material do anexo da OACI
+correspondente.
+1.3 Idealmente, quando as normas nacionais forem produzidas, os elaboradores deverão ter em
+mente que as “diferenças” precisarão ser determinadas e informadas em algum momento, se
+aplicável. Os elaboradores das normas poderão até achar interessante já identificar e formular
+as “diferenças” no momento da redação de suas respectivas normas nacionais, uma vez que o
+nível de conformidade ou diferença em relação às disposições da OACI deve ser facilmente
+identificável na ocasião. Tal abordagem provou ser útil para acelerar e facilitar a notificação
+das “diferenças”.
+1.4 Como já observado, o grau de alinhamento ou não alinhamento das normas nacionais com
+os SARP da OACI poderá influenciar significativamente o nível de complexidade da
+determinação e formulação das “diferenças”. Embora a notificação das “diferenças” possa ser
+percebida como tarefa entediante, representa apenas uma fração do trabalho e do tempo
+necessários para implementação dos SARP (elaboração das normas nacionais e do material
+associado, informações das entidades reguladas, cumprimento das normas etc.).
+1.5 A OACI desenvolveu o banco de dados EFOD, lançado em 1º de abril de 2011, que fornece
+aos Estados a oportunidade de inserir dados em um banco de dados on-line, pré-preenchido com
+as disposições atuais do Anexos. Assim que preenchido, o banco de dados confere ao pessoal
+dos Estados acesso conveniente a um repositório de informações de conformidade e
+“diferenças”, assim como informações adicionais (últimas disposições da OACI em relação às
+quais é necessário preencher novas “diferenças”, comentários que podem constituir registros
+úteis ao pessoal dos Estados para gerenciar a conformidade com os SARP e transmitir
+conhecimento ao pessoal novo, dados estatísticos que apresentam um “panorama geral” da
+situação do Estado, além de informações sobre as “diferenças” de outros Estados etc.).
+1.6 Somente como alternativa, os Estados poderão apresentar suas “diferenças” por meio de um
+processo baseado em papel, entretanto a intenção é alavancar a tecnologia e fazer a transição
+para o sistema EFOD, que atualmente contém todos os Anexos, exceto o Anexo 17.
+
+--- PÁGINA ---
+ICA 63-40/2023 31/35
+2 PROCESSO PARA DETERMINAÇÃO E NOTIFICAÇÃO DAS “DIFERENÇAS”
+2.1 Qualquer diferença substancial em relação aos SARP precisa ser identificada e informada.
+Para que um País Membro preencha este requisito, é evidente que um procedimento organizado
+e eficaz deve ser estabelecido com base nas normas nacionais, e estruturado para realização das
+tarefas esperadas em cada caso.
+2.2 A fim de apresentar as “diferenças” de forma adequada e eficaz em termos de custos, os
+Estados são encorajados a estabelecer e aplicar um procedimento simples e adequado para
+informar as “diferenças”. Tal procedimento poderá:
+a) identificar no Estado um ponto focal (pode ser um indivíduo ou uma seção)
+para processar as cartas de Estado da OACI relacionadas a propostas para
+emendas aos Anexos. O Estado poderá querer expandir a função do ponto
+focal para incluir o processamento de cartas de Estado da OACI em geral;
+b) identificar as unidades especializadas correspondentes a cada Anexo;
+c) instruir o ponto focal a distribuir, assim que possível, as cartas de Estado
+relacionadas às propostas de emenda para um especialista (ou especialistas)
+do Estado com competência nas respectivas disposições da OACI;
+d) dar autoridade ao ponto focal para solicitar das unidades especializadas
+material de resposta dentro de um período estabelecido (por exemplo, 10
+dias antes do prazo final da OACI), além de solicitar que as “diferenças” a
+serem adicionadas ou removidas, fora do ciclo de carta de Estado, sejam
+fornecidas à entidade de ponto focal de forma tempestiva. A inserção de dados
+no sistema EFOD pelo(s) especialista(s) poderá ser considerada fornecimento
+de material de resposta para o ponto focal; e
+e) definir que ao informar as “diferenças”, os seguintes dados deverão ser fornecidos:
+1) o número do parágrafo ou subparágrafo, conforme emendado, que contém
+os SARP em relação aos quais a diferença está relacionada;
+2) uma descrição clara e concisa da diferença; e
+3) os motivos para a diferença, as intenções de cumprimento futuro e
+qualquer data planejada em que se planeja o cumprimento dos SARP em
+relação aos quais a diferença foi notificada.
+
+--- PÁGINA ---
+32/35 ICA 63-40/2023
+Anexo E – Responsabilidade pelos SARP, PANS e SUPPS no DECEA
+SARP TÍTULO SETOR
+SDAD
+01 Licenças de Pessoal
+SDOP
+02 Regras do Ar SDOP
+03 Serviço de Meteorologia para a Navegação Aérea Internacional SDOP
+04 Cartas Aeronáuticas SDOP
+05 Unidades de Medidas usadas nas operações aéreas e de solo SDTE
+Telecomunicações Aeronáuticas
+SDTE
+– Volume I (Rádio auxílios à navegação)
+Telecomunicações Aeronáuticas
+SDOP
+– Volume II (Procedimentos de Comunicação)
+Telecomunicações Aeronáuticas
+10 SDTE
+– Volume III (Sistemas de Comunicações)
+Telecomunicações Aeronáuticas
+SDTE
+– Volume IV (Sistemas de Evitamento de Colisão e de Vigilância radar)
+Telecomunicações Aeronáuticas
+SDTE
+– Volume V (Utilização do espectro de radiofrequência aeronáutica)
+Telecomunicações Aeronáuticas
+SDOP
+– Volume VI (Sistemas de Comunicação e Procedimentos Relativos a
+Sistemas de Aeronaves Remotamente Pilotadas C2 Link)
+11 Serviços de Tráfego Aéreo SDOP
+12 Busca e Salvamento SDOP
+Aeródromo
+- Vol. I (Operação e Desenho de Aeródromo)
+14
+Aeródromo SDOP
+- Vol. II (Helipontos)
+15 Serviço de Informação Aeronáutica SDOP
+16 Proteção do Meio Ambiente SDOP
+17 Segurança SDAD
+19 Gerenciamento da Segurança Operacional ASEGCEA
+PANS TÍTULO SETOR
+4444 Gerenciamento de Tráfego Aéreo SDOP
+8168 Operação de Aeronaves SDOP
+8400 Abreviaturas e códigos OACI SDOP
+9868 Treinamento SDAD
+9981 Aeródromos SDOP
+10066 Gerenciamento da Informação Aeronáutica SDOP
+SUPPS TÍTULO SETOR
+7030 Procedimentos Suplementares Regionais SDOP
+
+--- PÁGINA ---
+ICA 63-40/2023 33/35
+Anexo F – Minuta de Relatório de Análise e Parecer sobre Nova Provisão Internacional
+Número: Emitente:
+XX/YYYY/20XX
+RELATÓRIO
+Data: Solicitante:
+XX/XX/20XX
+Assunto: Avaliação de Impacto referente à adoção da Emenda XX ao Anexo YY (PANS
+WWW ou SUPPS).
+1 FINALIDADE
+Este Relatório tem por finalidade apresentar a avaliação de impacto referente
+à adoção da Emenda XX ao Anexo YY (PANS WWW ou SUPPS), bem como propor ações
+recomendadas pertinentes.
+2 REFERÊNCIAS
+• Carta AN XX/YY.Y-WW/ZZ, que encaminha a Emenda XX ao Anexo
+YY (PANS WWW ou SUPPS), de dd/mm/aaaa.
+3 CARACTERÍSTICAS DA EMENDA
+Resumo da origem e do objetivo das propostas da nova provisão
+internacional.
+4 AVALIAÇÃO DE IMPACTO
+4.1 IMPACTO DE SEGURANÇA OPERACIONAL
+Considerar possíveis impactos envolvendo a segurança operacional para
+provedores e usuários, resultante da adoção da nova provisão.
+4.2 IMPACTO FINANCEIRO
+Considerar possíveis impactos envolvendo custo para provedores e usuários,
+resultante da adoção da nova provisão OACI.
+Classificar o impacto financeiro como:
+a) irrelevante – não se espera envolver custos significativos de
+implementação;
+b) mínimo – envolve apenas custos para o treinamento de pessoal dos
+provedores;
+c) mediano - envolve custos para treinamento de pessoal dos provedores e
+usuários e/ou para alterações nas configurações de sistemas existentes;
+ou
+d) alto – envolve desenvolvimento ou aquisição de novos sistemas ou,
+ainda, modificações profundas na concepção dos sistemas existentes para
+os provedores ou usuários.
+
+--- PÁGINA ---
+34/35 ICA 63-40/2023
+4.3 IMPACTO NA SEGURANÇA
+Considerar possíveis impactos envolvendo a segurança de pessoas ou
+propriedades.
+4.4 IMPACTO TÉCNICO
+Considerar possíveis impactos envolvendo alterações e/ou aquisições de
+sistemas técnicos relacionados.
+4.5 IMPACTO JURÍDICO
+Considerar possíveis impactos envolvendo aspectos jurídicos relacionados.
+4.6 IMPACTO AMBIENTAL
+Considerar possíveis impactos envolvendo benefícios ou prejuízos ao meio
+ambiente.
+4.7 IMPACTO NA EFICIÊNCIA
+Considerar possíveis impactos envolvendo benefícios ou prejuízos à
+prestação dos serviços e processos correspondentes.
+4.8 TEMPO DE IMPLEMENTAÇÃO ESPERADO
+Inferir o tempo esperado de implementação da nova provisão, considerando
+os impactos avaliados.
+4.9 PARECER CONCLUSIVO SOBRE A ADOÇÃO DA NOVA PROVISÃO
+Com base na avaliação de impacto realizada, definir parecer sobre a adoção
+da nova provisão internacional no SISCEAB.
+5 LISTA DE TAREFAS PARA IMPLEMENTAÇÃO
+Pelo menos os seguintes passos, se aplicável, deverão ser planejados, visando
+à implementação da nova provisão normativa:
+a) Identificação do processo necessário à inclusão nas normas nacionais;
+b) Estabelecimento de proposta inicial de Plano de Implementação nacional;
+c) Elaboração de minuta de modificação das normas nacionais;
+d) Divulgação prévia para análise e sugestões dos colaboradores (provedores
+e usuários);
+e) Análise e compilação das sugestões recebidas;
+f) Desenvolvimento do Plano de Implementação nacional, incluindo
+cronograma de ações, que contemple as ações de provedores e usuários;
+g) Aprovação da provisão nacional correspondente e do Plano de
+Implementação nacional;
+h) Preenchimento de “diferenças” junto à OACI;
+i) Publicação das “diferenças” significativas na AIP;
+j) Atualização de documentos de inspeção; e
+l) Treinamento de inspetores sobre os documentos de inspeção revisados.
+
+--- PÁGINA ---
+ICA 63-40/2023 35/35
+6 LISTA DE AÇÕES RECOMENDADAS PARA IMPLEMENTAÇÃO
+AÇÃO RECOMENDADA AÇÃO POR PRAZO
+AÇÃO RECOMENDADA AÇÃO POR PRAZO
+7 CONCLUSÃO
+[especificar, principalmente, se a nova provisão deve ser adotada, a data proposta de sua
+implementação no SISCEAB ou a diferença que será apresentada, assim como a pertinente
+notificação à OACI por meio do EFOD]
+Elaborado por: Aprovo:
+Nome Posto Rubrica
+Brig Ar XXX

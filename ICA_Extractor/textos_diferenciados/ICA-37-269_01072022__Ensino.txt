@@ -1,0 +1,1335 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+ENSINO
+ICA 37-269
+NORMAS REGULADORAS DE CURSOS E
+TREINAMENTOS DO DEPARTAMENTO DE
+CONTROLE DO ESPAÇO AÉREO
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+ENSINO
+ICA 37-269
+NORMAS REGULADORAS DE CURSOS E
+TREINAMENTOS DO DEPARTAMENTO DE
+CONTROLE DO ESPAÇO AÉREO
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA Nº 281/DCTP, DE 21 DE JUNHO DE 2022.
+Aprova a reedição da ICA 37-269, que
+direciona as ações para a consecução dos
+objetivos da política de capacitação, de
+treinamento e de qualificação dos
+recursos humanos do SISCEAB.
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 19, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 6.834, de 30 de abril de
+2009, e considerando o disposto no art.10, inciso IV, do Regulamento do DECEA, aprovado
+pela Portaria nº 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art.1º Aprovar a reedição da ICA37-269,“Normas Reguladoras de Cursos e
+Treinamentos do Departamento de Controle do Espaço Aéreo”, que com esta baixa.
+Art. 2º Esta Portaria entra em vigor em 01 de julho de 2022.
+Art. 3º Revoga-se a Portaria DECEA no 203/DGCEA, de 7 de novembro de
+2019, publicada no Boletim do Comando da Aeronáutica nº 208, de 14 de novembro de 2019.
+Ten Brig Ar JOÃO TADEU FIORENTINI
+Diretor-Geral do DECEA
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 37-269/2022
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES ................................................................................ 11
+1.1 FINALIDADE ................................................................................................................ 11
+1.2 OBJETIVO ...................................................................................................................... 11
+1.3 ABREVIATURAS .......................................................................................................... 11
+1.4 LISTA DE DEFINIÇÕES ............................................................................................... 12
+1.5 ÂMBITO ......................................................................................................................... 14
+2 ESTRUTURA E COMPETÊNCIAS ............................................................................. 15
+2.1 SUBDEPARTAMENTOS DO DECEA ......................................................................... 15
+2.2 DIVISÃO DE CAPACITAÇÃO E TREINAMENTO PROFISSIONAL ...................... 15
+2.3 INSTITUTO DE CONTROLE DO ESPAÇO AÉREO .................................................. 15
+2.4 COMISSÃO DE IMPLANTAÇÃO DO SISTEMA DE CONTROLE DO ESPAÇO
+AÉREO ..................................................................................................................................... 15
+2.5 DEMAIS ORGANIZAÇÕES MILITARES SUBORDINADAS AO DECEA.............. 15
+3 CAPACITAÇÃO, PROGRAMAS, PLANOS E MANUAIS ....................................... 16
+3.1 CAPACITAÇÃO ............................................................................................................ 16
+3.2 PROGRAMAS ................................................................................................................ 16
+3.3 PLANO ........................................................................................................................... 16
+3.4 MANUAIS ...................................................................................................................... 17
+4 PROCEDIMENTOS REFERENTES AO PAEAT ...................................................... 18
+4.1 ATUALIZAÇÃO E CRIAÇÃO DE CURSOS ............................................................... 18
+4.2 CRIAÇÃO E TRANSPOSIÇÃO DIDÁTICA DE CURSOS PRESENCIAIS PARA A
+MODALIDADE EAD .............................................................................................................. 20
+4.3 VALIDAÇÃO DE CURSO PRESENCIAL, EAD OU SEMIPRESENCIAL ............... 21
+4.4 INCLUSÃO DE CURSOS NO PAEAT ......................................................................... 21
+4.5 DISTRIBUIÇÃO DE VAGAS EM CURSO .................................................................. 23
+4.6 INDICAÇÃO DE ALUNOS NOS CURSOS ................................................................. 23
+4.7 ATIVAÇÃO, CANCELAMENTO, ALTERAÇÃO DE PERÍODO, MUDANÇA DE
+LOCALIDADE E MUDANÇA NA DISTRIBUIÇÃO DE VAGAS NOS CURSOS ............. 24
+4.8 MATRÍCULA, CONFECÇÃO DE ITEM DE BOLETIM, APRESENTAÇÃO E
+CONCLUSÃO .......................................................................................................................... 25
+4.9 OUTRAS CONSIDERAÇÕES ....................................................................................... 26
+5 PROCEDIMENTOS REFERENTES AO PACESP .................................................... 27
+
+--- PÁGINA ---
+ICA 37-269/2022
+5.1 ORIENTAÇÕES GERAIS ............................................................................................. 27
+5.2 ORIENTAÇÕES ESPECÍFICAS ................................................................................... 27
+5.3 OUTRAS ORIENTAÇÕES ............................................................................................ 28
+6 PROCEDIMENTOS REFERENTES AO PLAMENS ................................................ 29
+6.1 ORIENTAÇÕES GERAIS ............................................................................................. 29
+7 PROCEDIMENTOS REFERENTES AO PDP ............................................................ 30
+7.1 ORIENTAÇÕES GERAIS ............................................................................................. 30
+8 EDUCAÇÃO A DISTÂNCIA – EAD ............................................................................ 31
+8.1 ESTRUTURA DE EAD NO DECEA ............................................................................ 31
+8.2 RECURSOS NECESSÁRIOS ........................................................................................ 31
+8.3 CONSIDERAÇÕES ........................................................................................................ 32
+9 TREINAMENTO ............................................................................................................ 33
+9.1 ORIENTAÇÕES GERAIS ............................................................................................. 33
+10 INSTRUTORES .............................................................................................................. 35
+10.1 CORPO DOCENTE DO PAEAT ................................................................................... 35
+10.2 CAPACITAÇÃO DOS INSTRUTORES ....................................................................... 35
+10.3 PARTICIPAÇÃO DE INSTRUTORES EM CURSOS .................................................. 35
+11 RESPONSABILIDADES DAS ORGANIZAÇÕES MILITARES ............................. 37
+11.1 TODAS AS OM .............................................................................................................. 37
+11.2 OM EXECUTORA ......................................................................................................... 37
+12 DISPOSIÇÕES GERAIS ................................................................................................ 38
+12.1 PROCESSO DE AVALIAÇÃO DOS CURSOS E TREINAMENTOS ........................ 38
+12.2 CANCELAMENTO DE MATRÍCULA E DESLIGAMENTO DO ALUNO ............... 38
+12.3 INDICAÇÕES DE ALUNOS PARA CURSOS FORA DO ÂMBITO DO DECEA .... 38
+12.4 REGISTRO DE CONCLUSÃO DE CURSOS E/OU TREINAMENTOS .................... 38
+12.5 TRÂMITE DE DOCUMENTOS DE CAPACITAÇÃO ................................................ 38
+13 DISPOSIÇÕES FINAIS .................................................................................................. 39
+REFERÊNCIAS ..................................................................................................................... 40
+Anexo A – Tabela de Prazos .......................................................................................... 41
+Anexo B – Fluxograma para criação de curso ............................................................. 43
+
+--- PÁGINA ---
+ICA 37-269/2022
+Anexo C – Fluxograma para atualização de curso ...................................................... 44
+Anexo D – Fluxograma de inclusão de cursos no PAEAT .......................................... 45
+Anexo E – Fluxograma para solicitação de turma extraprograma ........................... 46
+Anexo F – Fluxograma para ativação de curso que implique deslocamento de sede
+para instrutores e/ou alunos ........................................................................ 47
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 37-269/2022
+PREFÁCIO
+Esta Instrução estabelece normas e define responsabilidades para a realização de
+cursos, treinamentos e gestão da capacitação, no âmbito do SISCEAB, sob a incumbência do
+Departamento de Controle do Espaço Aéreo (DECEA), responsável pelo controle sistêmico do
+espaço aéreo do País.
+Concebida para acompanhar a evolução tecnológica, técnica, operacional e
+administrativa, as normas direcionam a forma de capacitação, treinamento e pesquisa, definindo
+Programas, Planos e seus respectivos procedimentos de concepção, composição, ativação e
+avaliação. Além disso, torna-se necessário dimensionar sua aplicação, preparo e validação,
+observando-se as responsabilidades no planejamento e gestão, bem como as competências das
+Organizações Militares (OM) participantes desse sistema.
+A definição de capacitar é tornar o profissional habilitado para desempenhar uma
+função, isto é, qualificar para determinado tipo de trabalho. Novas tendências vêm exigindo
+cada vez mais profissionais que estejam engajados a se adaptar às diversas situações do dia a
+dia de uma organização.
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 37-269/2022
+MISSÃO DO DECEA
+Contribuir para a garantia da soberania nacional, por meio do gerenciamento do
+Sistema de Controle do Espaço Aéreo Brasileiro.
+A instituição, por lidar com atividades de alto grau de especialização, capacita
+tecnicamente seus recursos humanos, sobretudo no que diz respeito às áreas operacionais e
+técnicas do Sistema de Controle do Espaço Aéreo Brasileiro.
+Para atender a essa demanda, faz-se necessário o estabelecimento de uma
+política de capacitação capaz de garantir a participação de profissionais em programas de
+capacitação continuada, que favoreçam o exercício pleno de seus cargos e contribuam para a
+melhoria dos serviços prestados.
+POLÍTICA DE CAPACITAÇÃO
+A Política de Capacitação do DECEA determina que seus profissionais estejam
+plenamente capacitados para exercerem as suas atividades e constantemente atualizados, a fim
+de manterem-se alinhados com os avanços tecnológicos.
+ESTRATÉGIA
+Sob essa perspectiva, o DECEA se propõe a estabelecer diretrizes para nortear
+as ações de desenvolvimento das potencialidades institucionais pelo investimento direto nas
+pessoas, objetivando, com isso, a manutenção do nível de qualidade dos serviços prestados.
+Nesse contexto, o Decreto nº1.838, de 20 de março de 1996, regulamentou o
+ensino no então Ministério da Aeronáutica, do qual o DECEA faz parte como elo do Sistema
+de Ensino da Aeronáutica, por meio do seu Instituto de Controle do Espaço Aéreo, o ICEA, de
+acordo com o contido no Plano de Modernização do Ensino da Aeronáutica – PCA 37-11,
+DEPENS, 2017.
+O DECEA capacita, qualifica e aperfeiçoa regularmente um elevado número de
+profissionais afetos às áreas de controle de tráfego aéreo, meteorologia aeronáutica, navegação
+aérea, telecomunicações, serviço de informações aeronáuticas, inspeção em voo, eletrônica e
+manutenção de equipamentos, dentre outras.
+Nessa mesma linha, entendendo a política de gestão de pessoas como um
+elemento fundamental do planejamento estratégico da Instituição, o DECEA definiu as
+seguintes trilhas de capacitação: profissional, complementar e de desenvolvimento pessoal.
+Com isso, entende-se que a qualificação profissional, a motivação para o trabalho e a melhoria
+da qualidade de vida, na prática, devem corresponder ao aperfeiçoamento dos serviços
+prestados, ao crescimento individual e a autorrealização dos profissionais.
+Uma atenção especial deverá ser direcionada para a situação dos gestores cuja
+capacitação se torna indispensável. Há a necessidade de aquisição de conhecimentos nas áreas
+de gestão, planejamento estratégico, negócios, empreendedorismo e outras; todas com vistas a
+melhorar o desempenho gerencial, dentro do programa de formação de líderes.
+
+--- PÁGINA ---
+ICA 37-269/2022
+OBJETIVOS DA CAPACITAÇÃO
+Com enfoque na qualificação profissional, na motivação para o trabalho e na
+melhoria da qualidade de vida, são adotadas algumas premissas básicas para definir a política
+de capacitação do DECEA:
+a) criar e/ou estabelecer procedimentos sistemáticos de gerenciamento da capacitação;
+b) manter atualizados os documentos referentes à capacitação;
+c) promover ações motivadoras para incentivar a busca por conhecimentos;
+d) estabelecer oportunidades de aquisição de conhecimentos para todos os profissionais
+que atuam nos diversos setores do DECEA;
+e) capacitar os profissionais para o desempenho de cargos e funções pela implementação
+de programa de desenvolvimento gerencial e de habilitação técnica;
+f) manter controle atualizado da situação de capacitação e qualificação dos profissionais;
+g) promover ações de valorização através de programas de melhoria da qualidade de vida;
+h) manter a aplicação dos indicadores de necessidades de capacitação e qualificação, com
+definição de prioridades de ação e de competências dos setores envolvidos no processo;
+i) viabilizar os recursos necessários para operacionalização das demandas planejadas de
+capacitação e qualificação; e
+j) garantir transparência das ações de capacitação por meio da divulgação em canais
+acessados regularmente.
+
+--- PÁGINA ---
+ICA 37-269/2022
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+Esta Instrução tem por finalidade direcionar as ações para a consecução dos
+objetivos da política de capacitação, de treinamento e de qualificação dos recursos humanos do
+SISCEAB.
+1.2 OBJETIVO
+Normatizar os processos de capacitação e de treinamento, além de definir as
+responsabilidades dos setores envolvidos no âmbito do DECEA.
+1.3 ABREVIATURAS
+ATC Controle de Tráfego Aéreo (em geral)
+AVA Ambiente Virtual de Aprendizagem
+BCA Boletim do Comando da Aeronáutica
+CM Currículo Mínimo
+COMAER Comando da Aeronáutica
+DCTP Divisão de Capacitação e Treinamento Profissional
+DECEA Departamento de Controle do Espaço Aéreo
+DIRENS Diretoria de Ensino
+DGCEA Diretor-Geral do Departamento de Controle do Espaço Aéreo
+EAD Educação a Distância
+EMAER Estado-Maior da Aeronáutica
+GT Grupo de Trabalho
+ICA Instrução do Comando da Aeronáutica
+ICEA Instituto de Controle do Espaço Aéreo
+MCA Manual do Comando da Aeronáutica
+OACI Organização da Aviação Civil Internacional
+OM Organização Militar
+
+--- PÁGINA ---
+12/46 ICA 37-269/2022
+PACESP Programa Anual de Cursos Especiais
+PAEAT Programa de Atividades de Ensino e Atualização Técnica
+PCA Plano do Comando da Aeronáutica
+PLAMENS Plano de Missões de Ensino
+PUD Plano de Unidades Didáticas
+QGA Quadro Global de Avaliação
+SDAD Subdepartamento de Administração
+SDOP Subdepartamento de Operações
+SDTE Subdepartamento Técnico
+SIAT Seção de Instrução e Atualização Técnica
+SISCEAB Sistema de Controle do Espaço Aéreo Brasileiro
+1.4 LISTA DE DEFINIÇÕES
+1.4.1 AMBIENTE VIRTUAL DE APRENDIZAGEM
+Ferramenta de Educação a Distância em que os conteúdos são disponibilizados
+e gerenciados por meios informatizados. Contempla a administração de todas as etapas e fases
+de um curso, permitindo acompanhar constantemente o progresso do aprendizado.
+1.4.2 EDUCAÇÃO A DISTÂNCIA
+Modalidade educacional na qual a mediação didático-pedagógica nos processos
+de ensino e aprendizagem ocorre com a utilização de meios e tecnologias de informação e
+comunicação, com alunos e tutores desenvolvendo atividades educativas em lugares ou tempos
+diversos.
+1.4.3 GRUPO DE TRABALHO
+Grupo de pessoas com conhecimento técnico suficiente em determinada área,
+reunidos a fim de planejar, organizar, atualizar e reestruturar cursos, treinamentos, normas ou
+procedimentos.
+1.4.4 ÍNDICE DE CAPACITAÇÃO
+Quantitativo mínimo e ideal de profissionais que necessitam ser capacitados em
+cada Organização.
+
+--- PÁGINA ---
+ICA 37-269/2022 13/46
+1.4.5 INSTRUTOR
+Encarregado por ministrar instrução, agente destinado a facilitar e mediar o
+processo de ensino-aprendizagem na educação presencial conforme prevê o Plano de Unidades
+Didáticas (PUD) de um determinado curso ou treinamento.
+1.4.6 INSTRUTOR PLENO
+Membro do corpo docente, selecionado dentre profissionais que possuam
+experiência na área especializada e uma visão global das atividades previstas no PUD,
+encarregado do gerenciamento e execução dos cursos específicos aplicados ao SISCEAB. Tem
+por incumbência, além de ministrar aulas, acompanhar todas as fases do curso, sendo o elo entre
+corpo docente, corpo discente e seção de ensino ou de instrução responsável pelas atividades.
+1.4.7 INSTRUTOR TREINANDO
+Instrutor em fase de treinamento.
+1.4.8 INSTRUTOR-TUTOR
+Agente com conhecimento especializado, destinado a facilitar e mediar o
+processo de ensino-aprendizagem na educação à distância. Responsável pela orientação,
+acompanhamento e avaliação das atividades desenvolvidas pelos alunos, contribuindo para o
+alcance dos objetivos educacionais.
+1.4.9 RESPONSÁVEL TÉCNICO
+Responsável legal, incumbido de representar, ativa e passivamente, no que diz
+respeito a criação, atualização, planejamento e aplicação de um curso, junto ao
+Subdepartamento da área e ao Subdepartamento de Administração. Sendo designado pelo
+Subdepartamento da área, preferencialmente dentre os instrutores cadastrados no Sistema
+Eletrônico de Capacitação.
+1.4.10 CURSO DE FORMAÇÃO
+É o conjunto de atividades que visam à aquisição teórica e/ou prática de
+conhecimentos, habilidades e atitudes exigidos para o exercício das funções próprias de uma
+profissão.
+1.4.11 ORGANIZAÇÃO MILITAR EXECUTORA DE CURSO OU TREINAMENTO
+É a OM da estrutura funcional do DECEA responsável pela seleção, matrícula,
+apresentação de instrutores e alunos, emissão de toda documentação relativa ao planejamento,
+execução e conclusão do curso ou treinamento.
+
+--- PÁGINA ---
+14/46 ICA 37-269/2022
+1.4.12 SETOR DE CAPACITAÇÃO
+Nas OM subordinadas ao DECEA, é o setor da OM responsável pela instrução
+e atualização técnica de seus integrantes, bem como da coordenação dos assuntos de
+capacitação na OM. As SIAT são exemplos desse setor.
+1.4.13 SISTEMA ELETRÔNICO DE CAPACITAÇÃO
+É uma plataforma computacional utilizada pelo DECEA, constituída por
+módulos destinados ao gerenciamento, planejamento e execução da capacitação, cuja atribuição
+de senhas de acesso é de competência do SDAD/DCTP, destinadas aos membros dos setores
+de capacitação do DECEA e suas OM subordinadas.
+1.4.14 TREINAMENTO
+É o conjunto padronizado de procedimentos, orientado para o desenvolvimento
+de habilidades e práticas que o instruendo deve conhecer e dominar, visando à execução
+aprimorada de uma ou mais tarefas. Poderá ser de capacitação profissional, reciclagem e
+objetivos genéricos, sendo geralmente de curta duração.
+1.5 ÂMBITO
+A presente Instrução, de observância obrigatória, aplica-se às OM subordinadas
+ao DECEA e às demais Organizações que possam estar envolvidas nos processos de
+capacitação e de treinamento no âmbito do SISCEAB.
+
+--- PÁGINA ---
+ICA 37-269/2022 15/46
+2 ESTRUTURA E COMPETÊNCIAS
+Compõe a estrutura de capacitação do DECEA o Subdepartamento de
+Administração (SDAD), representado pela Divisão de Capacitação e Treinamento Profissional
+(DCTP), o Instituto de Controle do Espaço Aéreo (ICEA), a seção de capacitação do DECEA,
+e OM subordinadas representadas pelos seus respectivos setores de capacitação.
+2.1 SUBDEPARTAMENTOS DO DECEA
+2.1.1 Ao SDAD compete o estabelecimento de diretrizes, a supervisão e as ações de
+capacitação no âmbito do DECEA e OM subordinadas.
+2.1.2 Aos demais Subdepartamentos do DECEA compete determinar as necessidades de
+realização de cursos, GT e/ou treinamentos.
+2.2 DIVISÃO DE CAPACITAÇÃO E TREINAMENTO PROFISSIONAL
+À DCTP compete o planejamento do PAEAT, a coordenação, controle e
+avaliação dos Programas de Capacitação de interesse do SISCEAB.
+2.3 INSTITUTO DE CONTROLE DO ESPAÇO AÉREO
+Ao ICEA, Organização de Ensino do Sistema de Ensino da Aeronáutica
+(SISTENS), compete a supervisão pedagógica dos processos de ensino e aprendizagem dos
+cursos do PAEAT e a execução dos cursos designados ao ICEA.
+2.4 COMISSÃO DE IMPLANTAÇÃO DO SISTEMA DE CONTROLE DO
+ESPAÇO AÉREO
+À CISCEA compete o planejamento, coordenação, matrícula e controle da
+execução de cursos contratados com o objetivo de manutenção ou operação de novos
+equipamentos.
+2.5 DEMAIS ORGANIZAÇÕES MILITARES SUBORDINADAS AO DECEA
+Às demais OM compete executar os cursos e treinamentos designados por
+intermédio do respectivo setor responsável pela capacitação.
+
+--- PÁGINA ---
+16/46 ICA 37-269/2022
+3 CAPACITAÇÃO, PROGRAMAS, PLANOS E MANUAIS
+3.1 CAPACITAÇÃO
+Os processos de capacitação no SISCEAB são planejados visando desenvolver
+e prover conhecimento, habilidades e comportamentos na formação e na elevação de nível dos
+militares e dos civis do SISCEAB, como forma de atender a requisitos administrativos, técnicos
+e operacionais.
+3.2 PROGRAMAS
+3.2.1 PROGRAMA DE ATIVIDADES DE ENSINO E ATUALIZAÇÃO TÉCNICA
+(PAEAT)
+3.2.1.1 O PAEAT destina-se a suprir as necessidades de formação e capacitação dos
+profissionais do SISCEAB com cursos ministrados pelas OM subordinadas ao DECEA. É
+supervisionado pelo SDAD.
+3.2.1.2 A elaboração e a coordenação do PAEAT estão a cargo do SDAD/DCTP, em conjunto
+com os setores de capacitação das OM subordinadas ao DECEA, que são considerados Elos da
+Capacitação.
+3.2.2 PROGRAMA ANUAL DE CURSOS ESPECIAIS
+3.2.2.1 O PACESP destina-se a suprir as necessidades do DECEA e OM subordinadas no que
+se refere à capacitação profissional dos recursos humanos em cursos oferecidos por instituições
+externas ao Comando da Aeronáutica (COMAER).
+3.2.2.2 O planejamento, a coordenação e o controle desse Programa estão a cargo do
+SDAD/DCTP, enquanto a execução é de responsabilidade da OM solicitante.
+3.2.3 PROGRAMA DE CURSOS DA CISCEA
+O Programa de cursos da CISCEA destina-se a capacitar recursos humanos para
+operar e manter novos sistemas e equipamentos instalados no SISCEAB.
+3.3 PLANO
+3.3.1 PLANO DE MISSÕES DE ENSINO - PLAMENS
+O planejamento, a coordenação e o controle desse Plano estão a cargo do
+SDAD/DCTP, enquanto a execução é de responsabilidade da OM solicitante. As propostas de
+missões, bem como as indicações de candidatos do DECEA e OM subordinadas, deverão seguir
+as normas emanadas pelo Comando da Aeronáutica.
+3.3.2 PLANO DE DESENVOLVIMENTO DE PESSOAS - PDP
+A análise, consolidação e elaboração do Plano de Desenvolvimento de Pessoas
+do DECEA e unidades subordinadas são de responsabilidade do SDAD, que efetuará também
+a coordenação e monitoramento do plano, em conformidade com as diretrizes e cronogramas
+estabelecidos pelo Ministério da Economia, estabelecidos no Decreto nº 9.991/2019 e na IN nº
+
+--- PÁGINA ---
+ICA 37-269/2022 17/46
+21/2021 e regulamentado, no âmbito do Comando da Aeronáutica, pelo Comando-Geral do
+Pessoal.
+3.4 MANUAIS
+3.4.1 MANUAL DOS REQUISITOS DE PROFICIÊNCIA EM INGLÊS
+AERONÁUTICO – MCA 37- 225
+3.4.1.1 O MCA 37-225 elenca as recomendações contidas no Manual de Requisitos de
+Proficiência Linguística da OACI (Doc 9835) e as ações de capacitação e avaliação
+desenvolvidas pelo DECEA com vistas à elevação de nível de proficiência em inglês
+aeronáutico dos Controladores de Tráfego Aéreo e Operadores de Estação Aeronáutica que
+lidam com tráfego aéreo internacional. É editado de forma contínua pelo SDAD, em
+coordenação com o SDOP, contemplando as ações de capacitação e avaliação em inglês
+previstas para o DECEA e organizações civis e militares que integram o SISCEAB.
+3.4.1.2 Tendo em vista o caráter estratégico e específico da elevação de nível de proficiência
+dos profissionais do SISCEAB o MCA 37-225 rege todas as ações de capacitação e avaliação
+de inglês aeronáutico.
+3.4.1.3 Os casos não previstos nesta instrução serão contemplados nesse Manual.
+3.4.2 MANUAL DE AVALIAÇÃO APLICADO ÀS OM SUBORDINADAS AO
+DECEA–MCA 37-87
+Esse Manual estabelece o Plano de Avaliação dos cursos do PAEAT e tem por
+objetivo descrever os procedimentos adotados para a avaliação do Corpo Docente e Discente,
+da Instrução, dos Meios de Avaliação e do Conteúdo Programático.
+
+--- PÁGINA ---
+18/46 ICA 37-269/2022
+4 PROCEDIMENTOS REFERENTES AO PAEAT
+4.1 ATUALIZAÇÃO E CRIAÇÃO DE CURSOS
+A atualização e a criação de novos cursos do DECEA serão efetuadas com base
+na metodologia estabelecida pelo DECEA.
+NOTA: Detalhamento do processo conforme Anexos B e C.
+4.1.1 CARGA HORÁRIA REAL VERSUS HORA-AULA
+4.1.1.1 A Hora-aula corresponde ao tempo de duração efetivo da instrução, definido em
+cinquenta minutos para os cursos do DECEA.
+4.1.1.2 A Hora-relógio equivale ao período de sessenta minutos e deve ser utilizada para
+contabilizar a carga horária de integralização dos cursos de acordo com Parecer CNE/CEB nº
+4/2009, fundamentado na Lei de Diretrizes e Bases da Educação Nacional e nas Diretrizes
+Curriculares Nacionais.
+4.1.1.3 A duração total do Curso deve ser medida em horas legalmente definidas, isto é, de
+sessenta minutos cada.
+Conversão do número de hora-aula para hora-relógio:
+Hora Real (HR) = (Tempos de Instrução (HA)) x 50) / 60
+HR = Carga horária do Curso em horas-relógio (Carga horária real) e HA = Número de
+tempos de instrução.
+4.1.2 PROCEDIMENTOS
+Criação de cursos ou atualizações poderão ser desenvolvidas desde que sejam
+solicitados pelos Subdepartamentos ou OM interessadas, priorizando, no que couber, a
+realização por videoconferência, seguindo os eventos relacionados abaixo:
+4.1.2.1 Criação de Cursos
+a) O Subdepartamento interessado, correspondente ao curso a ser criado, solicitará ao
+ICEA a ativação do GT com antecedência de, pelo menos, 60 dias em relação à data
+prevista para o início do GT (D-60);
+b) Quando a proposta de um novo curso for originada de uma OM, esta deverá submetê-
+la à apreciação do Subdepartamento correspondente ao curso, que deverá solicitar a
+criação do curso ao ICEA; e
+c) A ativação dos grupos de trabalho, pelo ICEA, deverá ocorrer em até D-30.
+4.1.2.2 Atualização de Cursos
+a) Os Subdepartamentos coordenarão com o ICEA a necessidade de atualização de
+determinado curso;
+b) Quando a proposta de atualização do curso for originada de uma OM, esta deverá
+submetê-la à apreciação do Subdepartamento correspondente ao curso, que deverá
+solicitar a atualização do curso ao ICEA;
+
+--- PÁGINA ---
+ICA 37-269/2022 19/46
+c) O ICEA após verificar a necessidade de atualização de curso, deverá observar o prazo
+definido em 4.1.2.1, letra “c”;
+d) O GT para a criação e/ou atualização de um curso deverá ocorrer em local que ofereça
+os recursos necessários;
+e) Observando o princípio da economicidade, a quantidade de instrutores de mesma
+localidade poderá determinar o local de realização, desde que não contrarie o item
+4.1.2.3, letra “d”; e
+f) A ativação de um GT para atualização de um curso implica em imediato adiamento de
+toda e qualquer turma programada para os próximos 90 dias a contar do encerramento
+do referido GT, prazo estimado para a atualização do material didático.
+4.1.2.3 Orientação pedagógica
+O GT de criação ou de atualização de um curso será composto por profissionais da área
+e por um profissional de pedagogia, que orientará os especialistas na construção dos
+documentos de ensino.
+4.1.3 DOCUMENTAÇÃO PRODUZIDA PELO GT PARA OS CURSOS
+PRESENCIAIS
+a) Currículo Mínimo (CM), somente nos cursos de formação do PAEAT;
+b) Plano de Unidade Didática (PUD);
+c) Plano de Trabalho Semanal (PTS);
+d) Apostila(s) de Instrução do curso e/ou outros materiais de apoio;
+e) Ficha de Apreciação Individual (FAI), somente em caso de avaliação prática;
+f) Itens de Teste; e
+g) Relatório do GT de cada reunião/evento.
+NOTA 1: Para os cursos em que o GT optar pelo uso de outros materiais de apoio, deverá ser
+entregue, juntamente com os demais documentos constantes no item 4.1.3, a Lista de Material
+Didático Aplicado no Curso, disponibilizada pelo ICEA, na qual constará o material a ser
+utilizado, bem como a subunidade a qual se refere esse conteúdo.
+NOTA 2: Caso o material constante na Lista de Material Didático Aplicado no Curso não seja
+documento oficial produzido no âmbito da FAB (ICA, MCA, NSCA etc.), a responsabilidade
+por disponibilizar aos alunos esse material de apoio, será do instrutor.
+4.1.3.1 Além de outras informações julgadas relevantes, o relatório do GT deverá conter o
+número do documento de sua ativação, propósito de sua criação ou atualização, nomes dos
+participantes, local e período de realização, resumo das recomendações de reuniões anteriores,
+se houver, sugestões de alterações, alcance dos objetivos propostos e pendências, com
+recomendação de nova reunião, se necessário.
+4.1.3.2 A documentação contida no item 4.1.3 estará sob a responsabilidade do coordenador
+do GT, que deverá, ao término dos trabalhos, realizar a entrega ao setor responsável pela
+capacitação na OM.
+
+--- PÁGINA ---
+20/46 ICA 37-269/2022
+NOTA: Caso o GT ocorra no ICEA, a documentação supracitada deverá ser entregue no setor
+de desenvolvimento de cursos.
+4.1.3.3 Assim que a documentação for entregue ao setor responsável pela capacitação, este
+deverá encaminhá-la ao ICEA até o quinto dia útil após o recebimento.
+4.1.3.4 Após o recebimento da documentação, o ICEA poderá solicitar ao coordenador do GT,
+esclarecimentos a respeito da documentação entregue.
+4.1.3.5 O CM será publicado em BCA através do Subdepartamento de Administração do
+DECEA e o PUD será aprovado pelo Diretor do ICEA e publicado conforme legislação
+específica, após a validação do curso.
+4.2 CRIAÇÃO E TRANSPOSIÇÃO DIDÁTICA DE CURSOS PRESENCIAIS
+PARA A MODALIDADE EAD
+4.2.1 A seleção dos cursos presenciais para transposição didática de cursos para a
+modalidade EAD ou semipresenciais serão definidos pelo ICEA em consonância
+com os Subdepartamentos do DECEA.
+4.2.2 O PUD e a(s) apostila(s) ou outros materiais de apoio do curso presencial são os
+documentos de ensino indispensáveis que servem como base para a transposição
+didática de cursos.
+4.2.3 Para a criação e transposição didática de cursos na modalidade EAD ou
+semipresencial ocorrerão pelo menos dois Grupos de Trabalho, sendo o primeiro
+para desenvolvimento ou adaptação do conteúdo, e o segundo para revisão do
+curso, após o seu desenvolvimento, e readequação dos documentos de ensino.
+NOTA: Ao final das reuniões do GT que desenvolveram o conteúdo do curso, deverão ser
+entregues os materiais didáticos a serem trabalhados pelo setor de EAD do ICEA, em
+arquivo editável (apresentações em slides ou em outro tipo de editor).
+4.2.4 DOCUMENTAÇÃO PRODUZIDA PELO GT PARA CRIAÇÃO OU
+TRANSPOSIÇÃO DIDÁTICA
+a) Currículo Mínimo (CM), somente para curso de formação;
+b) Plano de Unidade Didática (PUD);
+c) Apostila(s) de Instrução do curso e/ou outros materiais de apoio;
+d) Ficha de Apreciação Individual (FAI), para cursos semipresenciais com aulas e
+avaliações práticas;
+e) Itens de Teste;
+f) Plano de Trabalho Semanal EAD ou Semipresencial (PTS);
+g) Cronograma de Atividades;
+h) Cronograma Técnico; e
+i) Relatório do GT de cada reunião/evento.
+NOTA: Todos esses documentos deverão ser entregues ao final da última reunião do GT.
+
+--- PÁGINA ---
+ICA 37-269/2022 21/46
+4.3 VALIDAÇÃO DE CURSO PRESENCIAL, EAD OU SEMIPRESENCIAL
+4.3.1 O ICEA formalizará, junto ao Subdepartamento da área ou à OM solicitante do GT,
+as tratativas visando à execução da Turma de Validação.
+4.3.2 Imediatamente após o encerramento da turma de validação, é responsabilidade do
+coordenador do GT entregar ao setor responsável pela capacitação da OM o
+Relatório de Validação de Curso e das Fichas de Avaliação Crítica (Ficha de crítica
+do docente, Ficha de crítica de final de curso e Ficha de opinião do docente),
+disponibilizados pelo ICEA. Após o recebimento dos documentos supracitados, o
+ICEA terá o prazo de até trinta dias úteis para ajustar a documentação de ensino, se
+necessário, para a devida publicação e divulgação.
+4.3.3 Na execução da Turma de Validação, é obrigatória a participação do coordenador
+do GT do curso ou de um integrante por ele designado.
+4.3.4 Para os cursos EAD, submetidos à Validação, será obrigatória a presença do Tutor
+no ICEA, durante o período solicitado.
+NOTA: Caso o curso de validação ocorra no ICEA a documentação, citada no item 4.3.2,
+deverá ser entregue no setor de desenvolvimento de cursos.
+4.3.5 A primeira turma planejada e executada após a entrega de toda a documentação será
+considerada Turma de Validação.
+4.3.6 A validação do curso pelo ICEA será efetuada após as análises:
+a) do Relatório de Validação de Curso, elaborado pelo coordenador do curso;
+b) das fichas de avaliação crítica constantes no item 4.3.2; e
+c) pedagógica realizada pela equipe de desenvolvimento de cursos do ICEA.
+4.3.7 O ICEA poderá, no prazo máximo de 60 dias úteis após o término do curso de
+validação, solicitar ao SDAD a convocação de uma nova reunião do GT, em caso
+de necessidade, para correção e/ou reformulação dos documentos de ensino do
+curso.
+4.3.8 Após a validação do curso o ICEA formalizará o encerramento das atividades do
+GT junto ao seu coordenador e tomará as providências necessárias para a aprovação
+da documentação do GT.
+4.4 INCLUSÃO DE CURSOS NO PAEAT
+4.4.1 Anualmente, será elaborado o PAEAT contendo os cursos que serão ministrados no
+ano seguinte e, se necessário, no ano subsequente.
+4.4.2 Somente os cursos catalogados pela DCTP e dotados dos documentos previstos no
+item 4.1.3, devidamente atualizados poderão ser incluídos no PAEAT. As
+solicitações de vagas e a proposta de turmas deverão ser inseridas pelo setor de
+capacitação de cada OM, no Sistema Eletrônico de Capacitação no mês de julho do
+ano anterior à execução do Programa.
+4.4.3 O ano letivo do PAEAT está compreendido entre os meses de março e dezembro.
+
+--- PÁGINA ---
+22/46 ICA 37-269/2022
+4.4.4 O planejamento de turmas do PAEAT deverá considerar os índices de quantitativo
+mínimo e ideal de profissionais que necessitam ser capacitados em cada OM. Esses
+índices serão definidos quando do desenvolvimento do curso e atualizados pelos
+Subdepartamentos do DECEA, sempre que necessário, para a divulgação pela
+DCTP na página Web do Portal de Capacitação do DECEA.
+4.4.5 Caso seja necessário algum ajuste nos índices citados, as OM deverão enviar ao
+Subdepartamento responsável pelo curso os novos parâmetros, com as devidas
+justificativas. As possíveis alterações somente serão realizadas após coordenação
+entre a DCTP e o Subdepartamento responsável pelo curso.
+4.4.6 Entre o 1º dia útil de agosto e o último dia útil de setembro, o SDAD/DCTP
+realizará as tratativas junto aos responsáveis de cada área dos cursos do PAEAT, de
+cada Subdepartamento, a fim de priorizar as vagas a serem distribuídas, realizar
+eventuais ajustes e proposta de turma no PAEAT.
+4.4.7 O DECEA/SDAD deverá providenciar a confecção final do PAEAT até o último
+dia útil do mês de outubro do ano anterior ao do início dos cursos, para aprovação
+do DGCEA.
+NOTA: Detalhamento do processo de inclusão de cursos no PAEAT, conforme Anexo D.
+4.4.8 Turmas EXTRAPROGRAMA
+4.4.8.1 A ativação de turmas não programadas no PAEAT será classificada como
+EXTRAPROGRAMA.
+4.4.8.2 As turmas sem previsão de custos poderão ser programadas ou reprogramadas
+diretamente no Sistema Eletrônico de Capacitação pelas OM executoras interessadas,
+atendendo suas necessidades, desde que não haja deslocamento de instrutores e/ou alunos.
+4.4.8.3 As turmas com previsão de custos deverão ter sua solicitação encaminhada pelas OM
+interessadas ao SDAD, obedecendo as seguintes condições:
+a) Com os participantes previamente determinados, o encaminhamento da solicitação
+deverá dar entrada no SDAD com antecedência mínima de D-45; e
+b) Com os participantes a serem indicados, o encaminhamento da solicitação deverá dar
+entrada no SDAD com antecedência mínima de D-60.
+NOTA 1: As solicitações realizadas diretamente pelos Subdepartamentos deverão seguir os
+mesmos prazos.
+NOTA 2: Detalhamento do processo de solicitação de turma EXTRAPROGRAMA conforme
+Anexo E.
+
+--- PÁGINA ---
+ICA 37-269/2022 23/46
+4.5 DISTRIBUIÇÃO DE VAGAS EM CURSO
+4.5.1 Compete ao SDAD/DCTP a distribuição das vagas nos cursos previstos no PAEAT,
+considerando os “Índices de Necessidades de Cursos”.
+4.5.2 Toda turma terá suas vagas distribuídas de acordo como previsto no PUD (vagas
+titulares) acrescido de um 1/3 (vagas reservas). O indicado em vaga reserva
+somente será matriculado quando ocorrer uma indisponibilidade de indicação em
+vaga titular.
+4.6 INDICAÇÃO DE ALUNOS NOS CURSOS
+4.6.1 As indicações deverão ser efetuadas pelo Presidente, Comandante, Chefe ou
+Diretor da OM e inseridas pelo setor de capacitação da OM no Sistema Eletrônico
+de Capacitação, em até D-45, onde “D” é a data de início do evento. Após esse
+prazo, o sistema bloqueará automaticamente.
+NOTA: Caberá à DCTP inserir os nomes dos alunos das nações amigas, Exército, Marinha do
+Brasil, Forças Auxiliares e entidades públicas ou privadas no Sistema Eletrônico de
+Capacitação. Exceto no curso CNS014, quando as entidades privadas realizarão as
+indicações diretamente ao ICEA.
+4.6.2 As indicações deverão estar de acordo com os pré-requisitos estabelecidos no PUD,
+disponível na página Web da DCTP.
+4.6.3 As indicações dos alunos deverão priorizar, sempre que possível, aqueles que terão
+maior tempo de serviço a cumprir no SISCEAB.
+4.6.4 Para as indicações nos cursos, os setores de capacitação das OM deverão certificar-
+se de que os dados dos alunos, no Sistema Eletrônico de Capacitação, estão
+corretos.
+4.6.4.1 Condições para Indicação de Alunos
+a) Não deve estar agregado ao respectivo quadro na forma estabelecida no Estatuto dos
+Militares.
+b) Não pode estar em gozo de licença ou férias, no período compreendido entre o início e
+o encerramento do curso.
+c) Não ter realizado o mesmo curso ou similar, exceto nos casos definidos pelo DECEA.
+d) Não ser indicado para cursos que ocorram no mesmo período.
+e) No caso dos militares temporários e os militares prestadores de tarefa por tempo certo
+(PTTC), deverá ser observado o que consta nas legislações pertinentes.
+f) Deve ser levada em consideração a missão da OM e as tarefas a desempenhar pelo
+indicado após o curso.
+g) A OM deve indicar alunos que irão exercer efetivamente função compatível com o curso
+solicitado.
+h) A OM do aluno deve atentar para a maximização da vida profissional do aluno, bem
+como para a multiplicação dos conhecimentos adquiridos, desde que atenda os pré-
+requisitos específicos para o curso.
+
+--- PÁGINA ---
+24/46 ICA 37-269/2022
+i) A indicação de militar ou funcionário civil incluído em Plano de Movimentação
+(PLAMOV) poderá ser realizada, desde que o curso em questão seja do interesse da
+administração.
+j) É obrigatório o correto preenchimento no Sistema Eletrônico de Capacitação dos custos
+de alunos e instrutores.
+4.6.5 As indicações serão priorizadas considerando-se os “Índices de Necessidades de
+Cursos” constantes no Sistema Eletrônico de Capacitação.
+4.6.6 As indicações para realização de cursos nos demais Grandes Comandos do
+COMAER deverão observar as instruções específicas dos respectivos comandos.
+4.6.7 As OM do COMAER não subordinadas ao DECEA deverão efetuar as suas
+solicitações de vagas em cursos ao SDAD, observando as instruções específicas
+dos respectivos Comandos e obedecendo à respectiva cadeia de comando.
+4.6.8 As nações amigas, Exército, Marinha do Brasil, Forças Auxiliares, entidades
+públicas e privadas deverão efetuar suas solicitações de vagas em cursos
+diretamente ao SDAD.
+NOTA: A OM que desejar indicar aluno, e não tenha vaga previamente disponibilizada, deverá
+solicitar, por meio de documento oficial assinado pelo Presidente, Comandante, Chefe ou
+Diretor da OM, ao SDAD/DCTP, com as seguintes informações:
+a) código e nome do Curso;
+b) local e período de realização;
+c) posto/graduação/cargo do indicado seguido de seu nome completo, nº de CPF, e-mail,
+telefone e OM; e
+d) justificativa, de forma detalhada, que fundamente a concessão da vaga.
+Obs. As indicações que não atenderem a essas recomendações serão descartadas. Expressões
+simplificadas como “NECESSIDADE DO SERVIÇO”, não serão aceitas.
+4.7 ATIVAÇÃO, CANCELAMENTO, ALTERAÇÃO DE PERÍODO, MUDANÇA
+DE LOCALIDADE E MUDANÇA NA DISTRIBUIÇÃO DE VAGAS NOS
+CURSOS
+4.7.1 A ativação e o cancelamento de cursos estarão a cargo das OM executoras dos
+cursos.
+4.7.2 As OM executoras dos cursos somente os ativarão após disponibilização dos
+documentos de ensino constantes no item 4.1.3.
+4.7.3 Os cursos com custos de diária, ajuda de custo, e/ou necessidade de transporte serão
+ativados pela OM executora quando o número de candidatos indicados for igual ou
+superior a 50% do número de vagas estipuladas no PUD.
+4.7.4 Caso o número de candidatos seja inferior a 50% de vagas estipuladas para o curso,
+sua ativação estará condicionada a um parecer favorável do SDAD/DCTP.
+
+--- PÁGINA ---
+ICA 37-269/2022 25/46
+4.7.5 Os cursos sem custos de diárias, ajuda de custo, e/ou necessidade transporte,
+quando o número de candidatos não atingir 50% das vagas distribuídas, poderão
+ser ativados a critério do Presidente, Comandante, Chefe ou Diretor da OM
+executora.
+4.7.6 Havendo impedimento para a realização do curso, a OM executora emitirá
+documento de cancelamento, com as devidas justificativas, ao SDAD, ao
+Subdepartamento responsável e demais OM envolvidas no curso cancelado, em D-
+30.
+4.7.7 As OM Executoras poderão realizar mudanças de localidade, alterações nos
+períodos de realização de turma ou distribuição de vagas, sempre que esta for
+destinada ao público interno. Quando houver envolvimento de participantes de
+outras OM, o SDAD/DCTP deverá ser consultado, cumprindo os prazos previstos.
+4.7.8 Caberá à OM executora informar ao SDAD/DCTP a ativação e o cancelamento de
+toda turma que possua alunos e ou previsão de vagas de outras ODS, nações amigas,
+Exército, Marinha do Brasil, Forças Auxiliares e entidades públicas ou privadas.
+4.8 MATRÍCULA, CONFECÇÃO DE ITEM DE BOLETIM, APRESENTAÇÃO E
+CONCLUSÃO
+4.8.1 Nos cursos que implique deslocamento de sede para instrutores e/ou alunos, após a
+indicação, que deverá ocorrer até D-45. A OM executora deverá, no período entre
+D-45 a D-30, sendo “D” a data prevista para o início do curso, selecionar os
+discentes e docentes para a matrícula no Sistema Eletrônico de Capacitação;
+4.8.2 No decorrer do período de seleção de discentes e docentes, observando a OM
+executora um cenário que impeça a realização do curso, obrigar-se-á, em até D-45,
+dar conhecimento detalhado ao SDAD/DCTP, que fará gestões com a área
+responsável pelo curso para possível solução até D-30;
+4.8.3 Caberá à OM executora a confecção do documento de ativação do Curso, com
+antecedência de D-45 a D-30.
+4.8.4 A matrícula da equipe de instrutores nos cursos com duração superior a cinco
+semanas poderá, em caso de necessidade, ser realizada em etapas, não redundando
+em cancelamento do curso por falta de instrutor.
+4.8.5 A apresentação do corpo docente e discente, deverá ser realizada pela OM
+executora, no Sistema Eletrônico de Capacitação, até o 5° dia útil após o início do
+curso. As faltas de início de curso não justificadas e os desligamentos, deverão ser
+informados, imediatamente, à OM de origem do aluno ou instrutor, via documento
+oficial.
+4.8.6 A OM executora deverá providenciar a conclusão dos cursos no Sistema Eletrônico
+de Capacitação, até 15 dias após o encerramento do curso.
+NOTA: O processo encontra-se detalhado no Anexo F.
+
+--- PÁGINA ---
+26/46 ICA 37-269/2022
+4.9 OUTRAS CONSIDERAÇÕES
+4.9.1 O ICEA poderá indicar representantes para prestar apoio nos processos afetos ao
+ensino (execução e avaliação) para os cursos que ocorram fora do ICEA, caso haja
+necessidade.
+4.9.2 Nos cursos previstos no PAEAT, o SDAD/ DCTP coordenará o repasse dos créditos
+de diárias para instrutores, devendo a OM respectiva enviar, até o 5° dia útil do mês
+subsequente, o relatório dos gastos, conforme modelo disponível na página Web da
+DCTP. Nos cursos EXTRAPROGRAMA, os custos envolvendo a composição do
+corpo docente estarão a cargo da OM solicitante do curso.
+4.9.3 As OM que necessitarem de passagens aéreas para o deslocamento dos instrutores
+solicitarão a aquisição com, no mínimo, 20 dias de antecedência em relação ao
+deslocamento. No caso do não cumprimento do prazo estipulado, a OM deverá
+cumprir a regulamentação específica sobre o assunto.
+4.9.4 As OM executoras, ao confeccionarem o documento de matrícula de um curso com
+alunos de entidades públicas e privadas, deverão incluir no endereçamento da
+mensagem o ICEA, organização responsável pela cobrança dos valores relativos ao
+custo do curso.
+4.9.5 Para os cursos onde existam vagas previamente alocadas para Nações Amigas,
+Marinha, Exército e ou Forças Auxiliares, quando não utilizadas deverão ser
+informadas no documento de matrícula.
+
+--- PÁGINA ---
+ICA 37-269/2022 27/46
+5 PROCEDIMENTOS REFERENTES AO PACESP
+5.1 ORIENTAÇÕES GERAIS
+5.1.1 Os cursos especiais somente terão como participantes os militares e civis
+concursados do DECEA e OM subordinadas.
+5.1.2 Os cursos especiais serão solicitados, ao SDAD/DCTP, por meio do cadastramento
+no Sistema Eletrônico de Capacitação e pelo envio da Ficha de Proposta de Curso
+PACESP, disponível na página Web da DCTP para download, devidamente
+preenchida, no período de 1º a 31 de agosto do ano anterior à realização do curso.
+5.1.3 Os cursos especiais não programados no PACESP serão classificados como
+EXTRAPROGRAMA, quando atender ao interesse da Administração.
+5.1.4 Os pedidos de cursos especiais EXTRAPROGRAMA deverão ser encaminhados
+formalmente ao SDAD/DCTP, com a exposição detalhada dos motivos na Ficha de
+Proposta de Curso PACESP, devidamente assinada pelo Presidente, Comandante,
+Chefe ou Diretor.
+5.2 ORIENTAÇÕES ESPECÍFICAS
+5.2.1 SOLICITAÇÃO DE CURSOS ESPECIAIS
+5.2.1.1 Para a solicitação de curso especial é necessário observar o máximo de antecedência
+com relação a sua data de realização, ou seja, deve haver uma programação prévia dos pedidos
+da OM apoiada e dos Subdepartamentos do DECEA, principalmente aqueles cuja realização
+ocorra entre os meses de fevereiro a maio do ano seguinte, de modo que haja tempo hábil para
+a realização dos trâmites a serem seguidos até o momento do empenho do curso. Ressalta-se
+que tal processo só será iniciado após a aprovação do PACESP.
+5.2.1.2 No DECEA, bem como nas OM subordinadas, as solicitações de cursos especiais serão
+centralizadas nos respectivos setores de capacitação.
+5.2.1.3 Os encaminhamentos das solicitações ao SDAD/DCTP deverão ser realizados
+formalmente por meio do Presidente, Comandante, Chefe e Diretor.
+5.2.1.4 A obtenção de documentos necessários junto à instituição e a elaboração do processo
+de contratação do curso são de responsabilidade exclusiva do solicitante.
+5.2.1.5 A relação dos cursos especiais que forem aprovados será disponibilizada na página
+Web da DCTP.
+5.2.1.6 As propostas do PACESP deverão ser preenchidas conforme fichas contidas em
+“Formulários e Modelos” no Portal de Capacitação Corporativa do DECEA.
+
+--- PÁGINA ---
+28/46 ICA 37-269/2022
+5.2.2 PROCEDIMENTOS APÓS APROVAÇÃO DO PACESP
+5.2.2.1 Considerando os cursos aprovados, o SDAD/DCTP providenciará a remessa do crédito
+necessário à OM interessada, mediante o recebimento do Relatório de Solicitação de Recursos
+para Pagamento.
+5.2.2.2 Obrigações das OM dos Alunos Matriculados em Cursos do PACESP
+a) Providenciar a publicação do início e da conclusão do curso, em Boletim Interno;
+b) Encaminhar ao SDAD/DCTP, até o último dia útil dos meses de abril, agosto e
+dezembro, os Relatórios de Acompanhamento do PACESP referentes às atividades
+realizadas no período, cujo modelo encontra-se disponibilizado na página Web da
+DCTP;
+c) Encaminhar ao SDAD a comprovação da aplicação dos recursos recebidos, até o dia 31
+de dezembro, por meio do Relatório Anual de Recursos Aplicados em Cursos do
+PACESP, que se encontra disponível na página Web da DCTP;
+d) Encaminhar, para o SDAD/DCTP o Relatório de Conclusão de Curso, devidamente
+assinado pelo Presidente, Comandante, Chefe ou Diretor, cujo modelo encontra-se
+disponibilizado na página Web da DCTP; e
+e) O setor de capacitação da OM deverá providenciar o cadastramento do curso realizado
+no Sistema de Gerenciamento de Capacitação.
+5.3 OUTRAS ORIENTAÇÕES
+5.3.1 Estarão a cargo da OM solicitante os custos com diárias e deslocamentos de
+participantes.
+5.3.2 A execução ficará condicionada à previsão e à alocação de crédito no Plano Setorial
+do DECEA (PLANSET) ou no Programa de Trabalho Anual (PTA) de cada OM.
+5.3.3 Caso haja necessidade da criação de um curso para disseminar o conhecimento
+adquirido, no âmbito do SISCEAB, deverão ser seguidas as orientações presentes
+no Capítulo 4 desta Instrução, no que couber.
+
+--- PÁGINA ---
+ICA 37-269/2022 29/46
+6 PROCEDIMENTOS REFERENTES AO PLAMENS
+6.1 ORIENTAÇÕES GERAIS
+6.1.1 As propostas de missão de ensino e as respectivas solicitações de acionamentos de
+missão de ensino deverão ser encaminhadas ao SDAD/DCTP e seguir as normas
+preconizadas pelo COMGEP/DIRENS, observando-se o que consta na ICA 37-770
+(Plano de Missões de Ensino), utilizando-se as fichas previstas, bem como
+disponíveis na página Web da DIRENS.
+6.1.2 Após o SDAD/DCTP analisar as solicitações e realizar as possíveis coordenações
+junto à OM solicitante, encaminhará, com o parecer, o conjunto das Fichas de
+Proposta de Missão de Ensino ao DGCEA, para análise e possível inclusão no
+PLAMENS.
+6.1.3 Deverá ser observado que para missões realizadas em Organizações Militares
+Estrangeiras, com exceção dos EUA, faz-se necessário o encaminhamento da Ficha
+Proposta de Atividade Bilateral (FPAB) ao SDAD/DCTP, até o dia 15 de março,
+considerando a antecedência de dois anos para o ano de realização da missão. A
+ficha e a respectiva instrução encontram-se na página Web do EMAER.
+6.1.4 As Fichas de Proposta de Missão de Ensino (FPM), relativas às missões realizadas
+em Organizações Civis Estrangeiras e no Brasil, deverão ser encaminhadas ao
+SDAD/DCTP até o dia 30 de julho, considerando a antecedência de dois anos para
+o ano de realização da missão.
+
+--- PÁGINA ---
+30/46 ICA 37-269/2022
+7 PROCEDIMENTOS REFERENTES AO PDP
+7.1 ORIENTAÇÕES GERAIS
+7.1.1 O Plano de Desenvolvimento de Pessoas tem como objetivo mapear as
+necessidades de desenvolvimento dos servidores e será elaborado anualmente pelas
+SIAT das OM subordinadas e deverá ser enviado ao SDAD, até o dia 10 de maio,
+do ano anterior à vigência, para análise, consolidação e elaboração do PDP do
+ODGSA.
+7.1.2 A SDAD encaminhará à DIRAP o PDP do DECEA e OM subordinadas para a
+elaboração do PDP do COMAER e, após a aprovação pelo Comandante da
+Aeronáutica, o SDAD fará a inserção das ações de desenvolvimento do PDP, no
+Portal SIPEC.
+7.1.3 Até o 2º dia útil de cada mês, as OM subordinadas deverão enviar ao DECEA o
+Relatório Mensal de Execução do mês anterior e o SDAD deverá consolidar as
+informações em planilha e enviar até o 5º dia útil para a DIRAP, para publicação na
+página da FAB, na internet.
+7.1.4 Até o dia 31 de dezembro do ano de vigência do plano, as OM subordinadas que
+demandaram necessidades de capacitação no PDP, deverão enviar ao SDAD seu
+Relatório Anual de Execução, que conterá as informações sobre a execução e a
+avaliação das ações previstas no plano do exercício anterior. O SDAD consolidará
+as informações em planilha única e enviará, até dia 10 de janeiro, do ano posterior
+à vigência do plano, à DIRAP, para inserção no Portal SIPEC.
+7.1.5 O PDP possibilita efetuar ajustes de inclusão, exclusão e edição de ações, ao longo
+do ano de execução. Para tal há a funcionalidade da Revisão do PDP, com
+calendário a ser determinado, anualmente, pelo Ministério da Economia e
+disponibilizado aos Regionais pelo SDAD.
+
+--- PÁGINA ---
+ICA 37-269/2022 31/46
+8 EDUCAÇÃO A DISTÂNCIA – EAD
+8.1 ESTRUTURA DE EAD NO DECEA
+8.1.1 O ICEA é o Centro de EAD do DECEA, responsável pelo planejamento,
+desenvolvimento, validação, suporte técnico no AVA, gerenciamento e supervisão
+das atividades dos cursos de EAD do PAEAT.
+8.1.2 Para os cursos totalmente realizados na modalidade a distância, todas as atividades
+relacionadas à realização do curso ficarão a cargo do ICEA.
+8.1.3 Para os cursos na modalidade semipresencial todas as atividades relacionadas à
+realização do curso ficarão a cargo da OM executora pela fase presencial, devendo
+coordenar junto ao ICEA a realização da fase a distância.
+8.1.4 As OM subordinadas ao DECEA, que possuem alunos inscritos em cursos de EAD,
+deverão disponibilizar acesso do aluno aos recursos materiais e estruturais da
+organização, permitindo, assim, a criação de ambiente propício à aprendizagem.
+8.2 RECURSOS NECESSÁRIOS
+8.2.1 Caberá a cada OM providenciar todos os recursos necessários ao adequado
+funcionamento da estrutura da EAD.
+8.2.2 Dentre os recursos disponíveis a estrutura da EAD deverá disponibilizar
+microcomputadores com multimídia, softwares e acesso à intraer e internet com
+velocidade adequada para ouvir áudios, assistir a vídeos, fazer gravações etc.
+8.2.3 A proporção recomendável de microcomputadores deve ser de 1 microcomputador
+para cada aluno inscrito. Caso não seja possível tal proporção, admite-se a
+proporção de 1 microcomputador para cada dois alunos inscritos, podendo ser
+coordenado horários diferentes durante o dia para o acesso on-line dos alunos ao
+conteúdo do respectivo curso.
+8.2.4 Deverá haver uma dedicação mínima de quatro horas diárias, consecutivas e
+dedicadas exclusivamente para os cursos na modalidade EAD, cabendo ao
+Presidente, Comandante, Chefe e Diretor das Unidades do DECEA determinar
+providências para a adequação da rotina.
+8.2.5 A preparação para a execução dos cursos EAD e/ou semipresencial implica uma
+série de procedimentos baseados em dois documentos: PUD e PTS.
+8.2.6 O número de alunos atendidos pelo instrutor-tutor será o previsto no PUD de cada
+curso. Após o término do curso, o instrutor pleno/tutor deverá enviar ao ICEA,
+imediatamente após o término da turma, o Relatório de Final de Curso.
+8.2.7 Os Relatórios de Final de Curso, para os cursos semipresenciais, deverão ser
+entregues imediatamente após cada uma das fases a distância e presencial.
+
+--- PÁGINA ---
+32/46 ICA 37-269/2022
+8.3 CONSIDERAÇÕES
+8.3.1 Para os cursos na modalidade semipresencial, a fase presencial deverá ocorrer no
+máximo até 30 dias após o término da fase a distância.
+8.3.2 Nos cursos de EAD, preferivelmente, o instrutor-tutor deverá exercer as atividades
+de tutoria no ICEA.
+8.3.3 Para participação como tutor em cursos em EAD, é recomendável que o indicado
+possua curso para tutoria em EAD.
+8.3.4 Para as indicações nos cursos, o setor de capacitação de cada OM deverá certificar-
+se de que os dados dos tutores, no Sistema Eletrônico de Capacitação, estejam
+corretos.
+
+--- PÁGINA ---
+ICA 37-269/2022 33/46
+9 TREINAMENTO
+Será classificada como treinamento toda instrução que possua carga horária
+prática acima de 80% do seu conteúdo total e que não exceda quarenta horas de aulas teóricas.
+9.1 ORIENTAÇÕES GERAIS
+9.1.1 As solicitações de criação de treinamentos deverão ser encaminhadas ao respectivo
+setor de capacitação da OM.
+9.1.2 O setor de capacitação da OM deverá coordenar, junto ao solicitante do
+treinamento, a confecção do Documento de Treinamento Padronizado (disponível
+para download na página Web do DECEA). Os treinamentos receberão códigos,
+conforme exemplo abaixo:
+XXX001ADC1 NOVAS TECNOLOGIAS DE COMUNICAÇÕES -
+TREINAMENTO, onde:
+XXX - conjunto de letras que identificam a área do treinamento (Ex.: MET, AIS,
+ATM, SEL etc.);
+001 - estabelece a sequência dos treinamentos criados;
+A - estabelece a sequência das versões ou atualizações;
+DC1 - OM responsável pela criação do treinamento; e
+NOVAS TECNOLOGIAS DE COMUNICAÇÕES –
+TREINAMENTO - nomenclatura do treinamento.
+NOTA: Para fins de composição do código do treinamento, as OM terão as seguintes
+abreviaturas: DECEA (DEC), CINDACTA1 (DC1), CINDACTA2 (DC2), CINDACTA3
+(DC3), CINDACTA4 (DC4), CRCEA-SE (CRC), PAME-RJ (PRJ), GEIV (GEI), 1°GCC
+(GCC), CGNA (CGN), ICEA (ICE), JJAER (JJA), ICA (ICA) e CIMAER (CIM).
+9.1.3 Quando da necessidade da realização de um Grupo de Trabalho para criação ou
+atualização de um treinamento, a OM proponente é a responsável por todos os
+trâmites referentes ao planejamento, ativação e elaboração da documentação
+pertinente.
+9.1.3.1 A realização do GT deverá ocorrer na sede do regional, em casos excepcionais em OM
+subordinada ao regional.
+9.1.3.2 Todas as despesas para deslocamento de militares e civis estarão a cargo da OM
+proponente.
+9.1.4 Após a conclusão do Documento de Treinamento Padronizado, bem como dos
+demais documentos que possam ter sido desenvolvidos, o setor de capacitação da
+OM deverá providenciar a sua guarda.
+
+--- PÁGINA ---
+34/46 ICA 37-269/2022
+9.1.5 O setor de capacitação da OM deverá realizar o procedimento de apresentação e de
+conclusão no Sistema Eletrônico de Capacitação até o quinto dia útil após o início
+e o término de cada treinamento, respectivamente.
+9.1.6 Os treinamentos que envolvem mais de um Regional deverão ser submetidos à
+apreciação do Subdepartamento interessado e encaminhado ao SDAD.
+9.1.7 Caberá a OM executora do treinamento providenciar todos os meios necessários
+para sua realização, inclusive os recursos de tecnologia da informação (software,
+hardware etc.), para os treinamentos realizados via EAD. Nesse caso, os recursos
+computacionais de EAD do ICEA não deverão ser utilizados como apoio às
+soluções encontradas.
+
+--- PÁGINA ---
+ICA 37-269/2022 35/46
+10 INSTRUTORES
+10.1 CORPO DOCENTE DO PAEAT
+10.1.1 O ICEA deverá aplicar um processo contínuo para compor e manter um corpo
+docente em condições adequadas para a atuação nos diversos cursos do PAEAT.
+10.1.1.1 Inclusão de Instrutor no Banco de Instrutores do DECEA no Sistema Eletrônico de
+Capacitação
+a) PROPOSTA – O interessado preencherá a Ficha de Proposta de Novo Instrutor (FPNI),
+disponível para download na página Web da DCTP, a qual deverá ser encaminhada ao
+setor de capacitação da OM.
+b) CADASTRO DO INSTRUTOR TREINANDO – Com base na análise da FPNI, o setor
+de capacitação da OM do interessado providenciará a inclusão do candidato no banco
+de instrutores, sendo considerado como Instrutor Treinando.
+c) MUDANÇA DE CATEGORIA TREINANDO → INSTRUTOR – O Instrutor
+Treinando será avaliado pelo Instrutor Pleno, em sua primeira participação ministrando
+instrução em um curso e será classificado como Instrutor se a “Ficha de Observação do
+Docente em Instrução” (MCA 37-87) tiver todos os quesitos avaliados entre o
+“ATINGE O ESPERADO” e “ACIMA DO ESPERADO”. Após esse processo de
+avaliação, a documentação pertinente será enviada ao setor de capacitação da OM para
+sua mudança de categoria no banco de instrutores.
+NOTA: O processo de inclusão de instrutor-tutor para cursos em EAD deverá seguir os mesmos
+procedimentos descritos neste item, no que couber.
+10.1.2 Os cursos executados, sempre que possível, deverão possuir em seu corpo docente
+um instrutor pleno, ao qual caberá otimizar os recursos humanos e as facilidades
+administrativas e pedagógicas.
+10.1.3 Na ausência de um instrutor pleno, a OM executora do curso definirá um dos
+demais instrutores como responsável pela turma.
+10.1.4 Para as indicações nos cursos, os setores de capacitação das OM deverão certificar-
+se de que os dados dos instrutores, no Sistema Eletrônico de Capacitação, estão
+corretos.
+10.2 CAPACITAÇÃO DOS INSTRUTORES
+As indicações para cursos de capacitação de instrutores deverão priorizar aqueles
+que já atuam como instrutores e ainda não são qualificados.
+10.3 PARTICIPAÇÃO DE INSTRUTORES EM CURSOS
+10.3.1 A composição do corpo docente para realização de um curso do PAEAT será
+responsabilidade da OM executora, devendo ser feita, preferencialmente, com base
+nos nomes constantes do banco de instrutores do DECEA, no Sistema Eletrônico
+de Capacitação.
+10.3.1.1 Considerações sobre a consulta para Composição do Corpo Docente:
+
+--- PÁGINA ---
+36/46 ICA 37-269/2022
+a) deve-se priorizar a consulta mediante o preenchimento dos requisitos constantes do
+perfil de instrutor definido para cada curso;
+b) a consulta poderá ser feita nominalmente, em virtude das peculiaridades de cada curso,
+ou da necessidade da participação específica de um determinado instrutor;
+c) deve-se observar a necessidade de um rodízio entre os instrutores cadastrados;
+d) para os cursos em EAD, preferencialmente, serão consultados os instrutores que
+possuam curso de tutoria para EAD; e
+e) para as turmas de validação, preferencialmente, serão consultados os participantes do
+Grupo de Trabalho que elaborou/atualizou a documentação didática.
+10.3.1.2 As consultas realizadas poderão sofrer substituições, sendo necessária a coordenação
+entre as OM consultadas e a executora do curso, observando o cumprimento dos prazos
+previstos.
+10.3.1.3 A indicação de instrutores deverá ser realizada, via Sistema Eletrônico de Capacitação,
+pela OM indicante após consulta realizada pela OM executora, obedecendo os prazos previstos.
+10.3.1.4 Procedimentos para Instrutores Externos ao SISCEAB
+a) A OM executora deverá encaminhar a Ordem de Serviço do instrutor à DCTP, que
+providenciará o repasse das diárias; e
+b) A OM executora solicitará emissão de passagem aérea junto ao setor pertinente do
+DECEA.
+
+--- PÁGINA ---
+ICA 37-269/2022 37/46
+11 RESPONSABILIDADES DAS ORGANIZAÇÕES MILITARES
+11.1 TODAS AS OM
+11.1.1 O setor de capacitação da OM deverá atualizar e controlar o cadastro com os dados
+de capacitação dos seus integrantes no Sistema Eletrônico de Capacitação.
+11.1.2 A OM consultada sobre a disponibilidade de instrutor, deverá inserir seus
+indicados, no Sistema Eletrônico de Capacitação, dentro do prazo estipulado no
+documento de consulta, a fim de viabilizar o andamento do processo de composição
+do corpo docente. É imprescindível que a OM atualize os dados dos indicados
+referentes ao nome completo, CPF, telefone, e-mail, bem como informar os custos
+de diárias e/ou ajuda de custo e de passagens aéreas.
+11.1.3 Após a ativação, em caso de impossibilidade de comparecimento de discente e/ou
+docente do seu efetivo a um curso, a OM deverá comunicar, imediatamente, a
+situação à OM executora, por meio de documento assinado pelo Presidente,
+Comandante, Chefe ou Diretor expondo claramente o motivo.
+11.1.4 As OM deverão coordenar e controlar as necessidades relativas à instrução de
+recursos humanos sob sua responsabilidade.
+11.2 OM EXECUTORA
+11.2.1 A OM executora de um curso deverá consultar a disponibilidade dos instrutores de
+acordo com as datas estabelecidas no Sistema Eletrônico de Capacitação.
+11.2.2 Depois de confirmado o corpo docente e discente, a OM executora deverá aprovar,
+no Sistema Eletrônico de Capacitação, as indicações dos participantes,
+selecionando aqueles que serão matriculados.
+11.2.3 Sempre que necessário, as OM executoras deverão encaminhar aos instrutores e
+alunos matriculados, via e-mail, todas as informações e orientações sobre o curso e
+o local de realização.
+
+--- PÁGINA ---
+38/46 ICA 37-269/2022
+12 DISPOSIÇÕES GERAIS
+12.1 PROCESSO DE AVALIAÇÃO DOS CURSOS E TREINAMENTOS
+As OM subordinadas ao DECEA deverão cumprir o MCA 37-87 – Manual de
+Avaliação Aplicado às OM Subordinadas ao DECEA.
+12.2 CANCELAMENTO DE MATRÍCULA E DESLIGAMENTO DO ALUNO
+12.2.1 A solicitação de cancelamento da matrícula deverá ser encaminhada à OM
+executora pelo curso, antes do seu início, com as devidas justificativas assinadas
+pelo Presidente, Comandante, Chefe ou Diretor da OM solicitante.
+12.2.2 O desligamento do aluno do curso ocorrerá após o início do mesmo, de acordo com
+o preconizado no MCA37-87.
+NOTA: O aluno que, na modalidade de EAD, não acessar o ambiente virtual nos dois
+primeiros dias de aula, será desligado.
+12.3 INDICAÇÕES DE ALUNOS PARA CURSOS FORA DO ÂMBITO DO
+DECEA
+12.3.1 Para os cursos realizados no âmbito da FAB, o SDAD/DCTP realizará as análises
+pertinentes, bem como a aprovação, conforme processo estabelecido.
+12.3.2 As solicitações de cursos sob a responsabilidade das demais Forças Armadas,
+Forças Auxiliares, Instituições Públicas e Privadas, bem como as respectivas
+indicações serão encaminhadas para o SDAD/DCTP, que as analisará e
+posteriormente as enviará aos Órgãos competentes.
+12.4 REGISTRO DE CONCLUSÃO DE CURSOS E/OU TREINAMENTOS
+12.4.1 Todos os cursos e treinamentos realizados com recursos do COMAER deverão ser
+cadastrados no Sistema Eletrônico de Capacitação pelo setor de capacitação da OM
+a que pertence o militar.
+12.4.2 Caberá ao SDAD a publicação em BCA das conclusões de cursos e treinamentos
+executados no âmbito do DECEA e OM subordinadas.
+12.5 TRÂMITE DE DOCUMENTOS DE CAPACITAÇÃO
+Toda documentação que trate de cursos, treinamentos, pedido de cooperação de
+ensino e ou pedido de cooperação de instrução, deve obrigatoriamente, transitar pelo setor
+responsável pela instrução e atualização técnica dos integrantes da OM. Para acompanhamento
+dos processos de capacitação, todos os documentos emitidos que tratem de ativação,
+cancelamento e encerramento de cursos e ou GT, além das OM envolvidas, deverão ser também
+endereçados ao SDAD/DCTP.
+
+--- PÁGINA ---
+ICA 37-269/2022 39/46
+13 DISPOSIÇÕES FINAIS
+Este Manual entra em vigor na data da publicação da Portaria de aprovação no
+Boletim do Comando da Aeronáutica.
+Os casos não previstos neste Manual serão resolvidos pelo Chefe do
+Subdepartamento de Administração do DECEA.
+
+--- PÁGINA ---
+40/46 ICA 37-269/2022
+REFERÊNCIAS
+BRASIL. Comando da Aeronáutica. Comando-Geral do Pessoal. Confecção, controle e
+numeração de publicações oficiais do Comando da Aeronáutica: NSCA 5-1. Brasília, 2011.
+. Comando da Aeronáutica. Comando-Geral de Pessoal. Plano de Pessoal da
+Aeronáutica – PPAER: PCA 30-1. Rio de Janeiro, 2019.
+. Comando da Aeronáutica. Estado-Maior da Aeronáutica. Plano de Missões de Ensino
+no Brasil: ICA 37-109. Brasília, 2001.
+. Comando da Aeronáutica. Estado-Maior da Aeronáutica. Plano de Missões de Ensino
+no Exterior: ICA 37-3. Brasília, 2002.
+. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Manual dos
+Requisitos de Proficiência em Inglês Aeronáutico: MCA 37-225. Rio de Janeiro, 2018.
+. Comando da Aeronáutica. Estado-Maior da Aeronáutica. Prestação de tarefa por tempo
+certo: ICA 35-13. Brasília, 2013.
+. Lei Complementar nº97, de 9 de junho de 1999, alterada pela Lei Complementar
+nº117, de 2 de setembro de 2004. Dispõe sobre a organização, preparo e emprego das Forças
+Armadas para estabelecer novas atribuições subsidiárias. Brasília, 1999.
+. Lei nº 7.549, de 11 de dezembro de 1986. Dispõe sobre o ensino no Ministério da
+Aeronáutica. Brasília, 1986
+
+--- PÁGINA ---
+ICA 37-269/2022 41/46
+Anexo A – Tabela de Prazos
+Evento Responsável Prazo
+Solicitação de GT para
+desenvolvimento ou atualização de Subdepartamento solicitante D-60
+curso
+Ativação do GT ICEA D-30
+Remessa da documentação produzida
+Setor de Capacitação 5º dia útil
+pelo GT para o ICEA
+Providências para
+aprovação da documentação de ICEA Não determinado
+ensino
+Imediatamente após a
+aprovação da
+Ativação da turma de validação ICEA documentação de ensino
+e desenvolvimento do
+curso
+Entrega do relatório de validação de Imediatamente após o
+curso e fichas de avaliação crítica ao Coordenador do GT encerramento da turma
+setor responsável pela capacitação de validação
+Período de apreciação pelo ICEA
+ICEA 30 dias
+para pequenos ajustes
+Solicitação de GT para correção e/ou Até 60 dias após o
+reformulação dos documentos de ICEA término da turma de
+ensino do curso validação
+Providências para a aprovação da
+documentação de ensino da turma de ICEA Não determinado
+validação
+Ano Letivo PAEAT MAR a DEZ
+Planejamento PAEAT – Solicitação
+Setor de capacitação de cada
+de vaga em curso e planejamento de Mês de JULHO
+OM solicitante
+turma
+Último dia útil do mês
+Confecção final do PAEAT SDAD/DCTP
+de OUTUBRO
+
+--- PÁGINA ---
+42/46 ICA 37-269/2022
+Continuação do Anexo A – Tabela de Prazos
+Evento Responsável Prazo
+Com alunos e instrutores
+D-45 dias
+determinados
+Turmas EXTRAPROGRAMA
+Com divulgação de vagas a
+D-60 dias
+ser realizada
+OM executora
+Matrícula de alunos e de instrutores (Cursos com deslocamento de D-45 a D-30
+instrutores e/ou alunos)
+Apresentação dos alunos e instrutores
+Até 5 dias úteis após o
+por início do curso, no Sistema
+início do curso
+Eletrônico de Capacitação
+OM executora
+Apresentação dos alunos e instrutores
+Até 5 dias úteis após o
+por término do curso, no Sistema
+término do curso
+Eletrônico de Capacitação
+Cadastrar no Sistema Eletrônico de
+Até 15 dias após o
+Capacitação a conclusão dos cursos e OM executora
+término do curso
+treinamentos
+Relatório de gastos com diárias de Até o 5º dia útil do mês
+OM executora
+instrutores subsequente
+Solicitação de passagens aéreas para Até 20 dias antes do
+OM executora, do militar/civil
+instrutores deslocamento
+De 1º a 31 de agosto do
+Envio de ficha proposta PACESP OM subordinadas ano anterior à realização
+do curso
+Remessa da Ficha Proposta de Até 15 de março,
+Atividade Bilateral considerando a
+OM subordinada
+(FPAB)/PLAMENS ao SDAD/DCTP antecedência de 2 anos
+Remessa da Ficha de Proposta de Até 30 de julho,
+Missão de Ensino (FPM)/PLAMENS considerando a
+OM subordinada
+ao SDAD/DCTP antecedência de 2 anos
+
+--- PÁGINA ---
+ICA 37-269/2022 43/46
+Anexo B – Fluxograma para criação de curso
+SOLICITAÇÃO PARA CRIAÇÃO DE CURSO PAEAT
+SE PO R OM, ENCAMINHAR À SE POR SUBDEPARTAMENTO,
+APRECIAÇÃO DO SUBDEPARTAMENTO ENCAMINHAR AO ICEA ATÉ D-60, SENDO
+CORRESPO NDENTE, QUE SOLICITARÁ “D” O DIA PREVISTO PARA INÍCIO DO GT
+AO ICEA
+N
+POSSIVEIS AJUSTES COM O
+APRECIAÇÃO
+SUBDEPARTAMENTO
+DO ICEA
+CORRESPONDENTE
+S
+ATIVAÇ ÃO DO GT EM D-30
+
+--- PÁGINA ---
+44/46 ICA 37-269/2022
+Anexo C – Fluxograma para atualização de curso
+SOLICITAÇÃO PARA ATUALIZAÇÃO DE CURSO PAEAT
+SE FOR SUBDEPARTAMENTO,
+SE FOR OM, ENCAMINHAR AO
+COORDENAR COM O ICEA
+SUBDEPARTAMENTO
+CORRESPONDENTE PARA
+APRECIAÇÃO
+SUBDEPARTAMENTO
+CORRESPONDENTE ENCAMINHA
+PARA O ICEA
+ICEA
+ORGANIZA O
+GT (ENTRE D-
+60 E D-30)
+N
+S
+ICEA FAZ A ATIVAÇÃO DO GT,
+EM ATÉ D-30
+
+--- PÁGINA ---
+ICA 37-269/2022 45/46
+Anexo D – Fluxograma de inclusão de cursos no PAEAT
+INCLUSÃO DE CURSOS NO PAEAT
+NO MÊS DE JULHO DO ANO ANTERIOR, AS OM
+SOLICITARÃO VAGAS E PROPORÃO TURMAS VIA
+SISTEMA ELETRÔNICO DE CAPACITAÇÃO
+TRATATIVAS ENTRE O SDAD/DCTP E AS ÁREAS
+RESPONSÁVEIS, OBJETIVANDO PRIORIZAÇÃO DE
+VAGAS, ENTRE 1° DIA ÚTIL DE AGOSTO E ÚLTIMO
+DIA ÚTIL DE SETEMBRO
+O SDAD/DCTP CONFECCIONARÁ O PAEAT ATÉ O
+ÚLTIMO DIA ÚTIL DE OUTUBRO, PARA
+APROVAÇÃO DO DGCEA
+APÓS APROVAÇÃO DA PORTARIA, O PAEAT SERÁ
+DISPONIBILIZADO NO SISTEMA ELETRÔNICO DE
+CAPACITAÇÃO
+
+--- PÁGINA ---
+46/46 ICA 37-269/2022
+Anexo E – Fluxograma para solicitação de turma extraprograma
+A SOLICITAÇÃO DE TURMA EXTRAPROGRAMA DEVE SER FEITA AO SDAD
+QUANDO SOLICITADA COM QUANDO SOLICITADA PARA
+INSTRUTORES E ALUNOS DIVULGAÇÃO DE VAGAS PRAZO
+DETERMINADOS PRAZO MÍNIMO D-60
+MÍNIMO D-45
+SDAD CASO NÃO
+ENCAMINHA A N AUTORIZADO, O
+SOLICITAÇÃO AO
+SOLICITANTE É
+SUBDEPARTAMENTO
+INFORMADO PELA
+RESPONSÁVEL
+DCTP
+S
+PARTICIPANTES
+PARTICIPANTES
+AUTORIZADO INDEFINIDOS
+DEFINIDOS
+A TURMA SERÁ CADASTRADA NO A TURMA SERÁ CADASTRADA NO
+SISTEMA ELETRÔNICO DE SISTEMA ELETRÔNICO DE
+CAPACITAÇÃO, PERMITINDO QUE CAPACITAÇÃO, E O SDAD/DCTP FARÁ A
+A OM EXECUTORA ATIVE A TURMA DIVULGAÇÃO AOS ENVOLVIDOS
+OM ENVOLVIDAS REALIZAM AS INDICAÇÕES
+VIA SISTEMA ELETRÔNICO DE CAPACITAÇÃO
+A OM EXECUTORA ATIVA A
+TURMA EXTRAPROGRAMA
+
+--- PÁGINA ---
+ICA 37-269/2022 47/46
+Anexo F – Fluxograma para ativação de curso que implique deslocamento de sede para
+instrutores e/ou alunos
+ATIVAÇÃO DE CURSOS
+INDICAÇÃO DE INSTRUTORES E
+ALUNOS ATÉ D-45
+SELEÇÃO E ANÁLISE DA OM
+EXECUTORA ENTRE D-45 E D-30
+FALTA DE INSTRUTORES E/OU INSTRUTORES E ALUNOS
+INDICAÇÃO DE ALUNOS ABAIXO DE INDICADOS CONFORME
+50%, A OM EXECUTORA INFORMA AO PLANEJADO, OM EXECUTORA ATIVA
+SDAD /ÁREA RESPONSÁVEL EM D-45 A TURMA ENTRE D-45 E D-30
+A ÁREA RESPONSÁVEL APRESENTA
+SOLUÇÃO EM ATÉ D-30 A OM
+EXECUTORA ATIVA A TURMA
+NÃO HAVENDO SOLUÇÃO
+OM EXECUTORA CANCELA O CURSO
+EM D-30
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+ENSINO
+MCA 37-235
+ELABORAÇÃO DE PLANO DE UNIDADES
+DIDÁTICAS PARA CURSOS DO DECEA
+2022

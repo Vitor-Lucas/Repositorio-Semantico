@@ -1,0 +1,862 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+METROLOGIA
+ICA 9-1
+METROLOGIA NO SISCEAB
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AEREO
+METROLOGIA
+ICA 9-1
+METROLOGIA NO SISCEAB
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA Nº 743/SNOT, DE 14 DE FEVEREIRO DE 2023.
+Protocolo COMAER nº 67600.002821/2023-97
+Aprova a reedição da Instrução que
+disciplina a Metrologia no Sistema de
+Controle do Espaço Aéreo Brasileiro
+(SISCEAB).
+O DIRETOR GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 21, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 11.237, de 18 de outubro
+de 2022, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA,
+aprovado pela Portaria nº 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art. 1º Aprovar a reedição da ICA 9-1 “Metrologia no SISCEAB”, que com
+esta baixa.
+Art. 2º Revogar a Portaria DECEA nº 179/DGCEA, de 10 de dezembro de
+2012, publicada no BCA nº 046, de 8 de março de 2013.
+Art. 3º Esta Instrução entra em vigor em 1º de março de 2023.
+(a)Ten Brig Ar ALCIDES TEIXEIRA BARBACOVI
+Diretor-Geral do DECEA
+(Publicado no Boletim do Comando da Aeronáutica nº 39, de 1º de março de 2023.)
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 9-1/2023
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES ...................................................................................... 7
+1.1 FINALIDADE ...................................................................................................................... 7
+1.2 ÂMBITO .............................................................................................................................. 7
+1.3 RESPONSABILIDADE ....................................................................................................... 7
+1.4 ABREVIATURAS ............................................................................................................... 7
+1.5 DEFINIÇÕES ....................................................................................................................... 8
+2 CONFIGURAÇÃO DA METROLOGIA DO SISCEAB ................................................ 11
+2.1 ÓRGÃOS INTEGRANTES PERTENCENTES AO COMAER ....................................... 11
+2.2 LABORATÓRIO CENTRAL DE CALIBRAÇÃO – LCC ............................................... 11
+2.3 LABORATÓRIO REGIONAL DE CALIBRAÇÃO – LRC ............................................. 11
+2.4 LABORATÓRIO SETORIAL DE CALIBRAÇÃO – LSC .............................................. 13
+2.5 USUÁRIOS ........................................................................................................................ 14
+2.6 PESSOAL DO LRC/LSC ................................................................................................... 15
+2.7 ATUALIZAÇÃO TÉCNICA ............................................................................................. 15
+2.8 NAV BRASIL E EPTA ...................................................................................................... 15
+3 ESPECIFICAÇÕES PARA LABORATÓRIO EM NÍVEL REGIONAL E
+SETORIAL DE CALIBRAÇÃO .......................................................................................... 17
+3.1 CARACTERÍSTICAS BÁSICAS...................................................................................... 17
+3.2 CONTROLE AMBIENTAL .............................................................................................. 17
+3.3 GRANDEZAS ABRANGIDAS PELO SETOR DE METROLOGIA .............................. 17
+3.4 INSTRUMENTARIA ........................................................................................................ 17
+3.5 SISTEMA DE GESTÃO DA QUALIDADE .................................................................... 18
+4 TRATAMENTO DOS PADRÕES E INSTRUMENTOS DE MEDIÇÃO .................... 20
+4.1 PADRONIZAÇÃO ............................................................................................................ 20
+4.2 AQUISIÇÃO ...................................................................................................................... 20
+4.3 CALIBRAÇÃO .................................................................................................................. 20
+4.4 CONTROLE ....................................................................................................................... 22
+4.5 MOVIMENTAÇÃO ........................................................................................................... 23
+4.6 OPERAÇÃO ...................................................................................................................... 23
+5 EMBALAGEM, TRANSPORTE E MANUSEIO ............................................................ 24
+5.1 EMBALAGEM .................................................................................................................. 24
+5.2 TRANSPORTE .................................................................................................................. 24
+5.3 MANUSEIO ....................................................................................................................... 24
+6 DISPOSIÇÕES FINAIS ..................................................................................................... 25
+REFERÊNCIAS ..................................................................................................................... 26
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 9-1/2023 7/27
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+A presente Instrução tem por finalidade normalizar, nos órgãos do Sistema de
+Controle do Espaço Aéreo Brasileiro (SISCEAB), a execução das atividades de calibração,
+operação e manutenção de padrões, instrumentos de medição e equipamentos de teste, bem
+como definir as atribuições e as obrigações do Laboratório Regional de Calibração (LRC),
+dos Laboratórios Setoriais de Calibração (LSC) e seus usuários.
+1.2 ÂMBITO
+A presente Instrução aplica-se a todos os elos do SISCEAB prestadores de
+serviços de navegação aérea, seja por intermédio de Organizações Militares do Comando da
+Aeronáutica, seja por intermédio da empresa pública NAV Brasil – Serviços de Navegação
+Aérea S.A. ou operados por Estações Prestadoras de Telecomunicações e de Tráfego Aéreo.
+1.3 RESPONSABILIDADE
+Será responsabilidade dos Comandantes, Diretores e Chefes de Organizações
+Militares do SISCEAB, dos Diretores e Chefes da NAV Brasil e das EPTA, detentoras de
+padrões e instrumentos metrológicos, cumprir e fazer cumprir as ações, obrigações e
+condições estabelecidas na presente ICA, no que for de suas competências.
+1.4 ABREVIATURAS
+Na elaboração desta Instrução, foram usadas as abreviaturas abaixo:
+AC - Corrente Alternada (Alternating Current);
+BT - Boletim Técnico;
+CINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo;
+COMAER - Comando da Aeronáutica;
+CRCEA-SE - Centro Regional de Controle do Espaço Aéreo Sudeste;
+DC - Corrente Continua (Direct Current);
+DCA - Diretriz do Comando da Aeronáutica;
+DCTA - Departamento de Ciência e Tecnologia Aeroespacial;
+DECEA - Departamento de Controle do Espaço Aéreo;
+DTCEA - Destacamento de Controle do Espaço Aéreo;
+ENG - Subdivisão de Engenharia do PAME-RJ;
+EPTA - Estação Prestadora de Serviços de Telecomunicações e Tráfego Aéreo;
+GCC - Grupo de Comunicações e Controle;
+GEIV - Grupo Especial de Inspeção em Voo;
+GMM - Guia de Movimentação de Material;
+ICA - Instituto de Cartografia Aeronáutica;
+
+--- PÁGINA ---
+8/27 ICA 9-1/2023
+ICEA - Instituto de Controle do Espaço Aéreo;
+IFI - Instituto de Fomento e Coordenação Industrial;
+INMETRO - Instituto Nacional de Metrologia, Normalização e Qualidade Industrial;
+ISO - Organização Internacional de Normalização;
+LAI - Subdivisão de Metrologia do PAME-RJ;
+LCC - Laboratório Central de Calibração;
+LRC - Laboratório Regional de Calibração;
+LSC - Laboratório Setorial de Calibração;
+NAV Brasil - NAV Brasil – Serviços de Navegação Aérea S.A;
+NBR - Norma Brasileira Registrada;
+NEB - Número de Estoque Brasileiro;
+NSCA - Norma de Sistema do Comando da Aeronáutica;
+NSN - Número de Estoque Nacional (National Stock Number);
+NTS - Norma Técnica do SISMETRA;
+OJT - Treinamento Prático (On the Job Training);
+OM - Organização Militar;
+PAEAT - Programa de Atividades de Ensino e Atualização Técnica;
+PAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro;
+PACI - Plano Anual de Calibração de Instrumentos;
+PMS - Planejamento de Metrologia do SISCEAB;
+PN - Número de Peça (Part Number);
+PSNA - Provedores de Serviços de Navegação Aérea;
+RBC - Rede Brasileira de Calibração;
+SDTE - Subdepartamento Técnico do DECEA;
+SILOMS - Sistema Integrado de Logística de Material e de Serviços;
+SISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro;
+SISMETRA - Sistema de Metrologia Aeroespacial;
+SUP - Subdivisão de Suprimento Técnico do PAME-RJ; e
+VIM - Vocabulário Internacional de Metrologia.
+1.5 DEFINIÇÕES
+Os significados dos termos e definições utilizados neste documento, que não
+estejam contemplados neste item, são encontrados no Vocabulário Internacional de
+Metrologia (VIM) – Conceitos Fundamentais e Gerais e Termos Associados do Instituto
+Nacional de Metrologia, Qualidade e Tecnologia (INMETRO), e nas normas ABNT NBR
+ISO 9000 – Sistemas de gestão da qualidade - Fundamentos e vocabulário, ABNT NBR
+ISO/IEC 17000 – Avaliação da conformidade - Vocabulário e princípios gerais, ABNT NBR
+
+--- PÁGINA ---
+ICA 9-1/2023 9/27
+ISO/IEC 17025 – Requisitos Gerais para Competência de Laboratórios de Ensaio e
+Calibração, todos em suas versões mais atualizadas, DCA 66-1 – Atividade de Manutenção no
+Sistema de Controle do Espaço Aéreo. NSCA 9-1 – Sistema de Metrologia Aeroespacial
+(SISMETRA), NSCA 9-4 – Estrutura Funcional do Sistema de Metrologia Aeroespacial
+(SISMETRA) e todas as NTS em vigor. Para o fim a que se destina esta ICA, considerar-se-
+ão as seguintes definições:
+1.5.1 CALIBRAÇÃO
+Operação que estabelece, sob condições especificadas, numa primeira etapa,
+uma relação entre os valores e as incertezas de medição fornecidos por padrões e as
+indicações correspondentes com as incertezas associadas; numa segunda etapa, utiliza esta
+informação para estabelecer uma relação visando à obtenção de um resultado de medição a
+partir de uma indicação (item 2.39 do VIM 2012).
+NOTA 1: Uma calibração pode ser expressa por meio de uma declaração, uma função de
+calibração, um diagrama de calibração, uma curva de calibração ou uma tabela de calibração.
+Em alguns casos, pode consistir em uma correção aditiva ou multiplicativa da indicação com
+uma incerteza de medição associada.
+NOTA 2: Convém não confundir a calibração com o ajuste de um sistema de medição,
+frequentemente denominado de maneira imprópria de “auto-calibração”, nem com a
+verificação da calibração.
+NOTA 3: Frequentemente, apenas a primeira etapa na definição acima é entendida como
+sendo calibração.
+1.5.2 CONSERVAÇÃO DE UM PADRÃO
+Conjunto de operações necessárias para a preservação das propriedades
+metrológicas de um padrão, dentro de limites estabelecidos (item 5.11 do VIM 2012).
+NOTA: Geralmente a conservação compreende a verificação periódica de propriedades
+metrológicas pré-definidas ou a calibração, armazenamento em condições adequadas e
+cuidados específicos para a sua utilização.
+1.5.3 ETIQUETA
+Letreiro ou rótulo que se põe sobre o padrão/instrumento, ou solidário a ele,
+cuja finalidade é designar sua identificação e informar a sua condição quanto aos processos de
+calibração envolvidos em sua validação (NTS 9-11 “Padronização do Sistema de
+Identificação das Calibrações”).
+1.5.4 RASTREABILIDADE METROLÓGICA
+Propriedade de um resultado de medição pela qual tal resultado pode ser
+relacionado a uma referência através de uma cadeia ininterrupta e documentada de
+calibrações, cada uma contribuindo para a incerteza de medição (item 2.41 do VIM 2012).
+1.5.5 PRAZO DE VALIDADE DE CALIBRAÇÃO
+É o intervalo de tempo compreendido entre duas calibrações consecutivas.
+
+--- PÁGINA ---
+10/27 ICA 9-1/2023
+NOTA: Caso não se possa determinar estatisticamente o intervalo de calibração do
+instrumento, o prazo entre duas calibrações consecutivas deve ser definido conforme
+orientação do manual técnico do fabricante ou as ordens técnicas K-100 (adquiridas da Força
+Aérea Americana) e na falta destas informações, o prazo a ser usado será de no máximo 1
+(um) ano.
+
+--- PÁGINA ---
+ICA 9-1/2023 11/27
+2 CONFIGURAÇÃO DA METROLOGIA DO SISCEAB
+2.1 ÓRGÃOS INTEGRANTES PERTENCENTES AO COMAER
+Os laboratórios integrantes do Setor de Metrologia, na área do DECEA, são os
+apresentados sinteticamente no organograma a seguir, com os correspondentes níveis de
+calibração e os órgãos do SISCEAB por eles apoiados.
+LCC
+DCTA-IFI
+LRC-PAME
+PAME-RJ
+DTCEATRM-RJ
+LSC-GEIV LSC-SP LSC-BR LSC-CT LSC-RF LSC-MN
+CRCEA-SE CINDACTA I CINDACTA II CINDACTA III CINDACTA IV
+DTCEA-AF DTCEA-AN DTCEA-BI DTCEA-AR DTCEA-AA
+DTCEA-GL DTCEA-BQ DTCEA-CG DTCEA-FN DTCEA-BE
+DTCEA-GW DTCEA-BR DTCEA-CGU DTCEA-FZ DTCEA-BV
+DTCEA-MT DTCEA-BW DTCEA-CO DTCEA-IZ DTCEA-CZ
+DTCEA-SC DTCEA-CC DTCEA-CR DTCEA-LP DTCEA-EG
+DTCEA-SJ DTCEA-CF DTCEA-CT DTCEA-MO DTCEA-EI
+DTCEA-SP DTCEA-CY DTCEA-CTD DTCEA-NT DTCEA-EK
+DTCEA-ST DTCEA-EP DTCEA-FI DTCEA-PL DTCEA-FX
+1º/1º GCC DTCEA-FA DTCEA-FL DTCEA-PS DTCEA-GM
+DTCEA-GA DTCEA-JGI DTCEA-SL DTCEA-MN
+DTCEA-GI DTCEA-MDI DTCEA-SV DTCEA-MQ
+DTCEA-LS DTCEA-PA 3º/1º GCC DTCEA-MY
+DTCEA-PCO DTCEA-SM DTCEA-OI
+DTCEA-SI DTCEA-STI DTCEA-PV
+DTCEA-SRO DTCEA-UG DTCEA-RB
+DTCEA-STA 2º/1º GCC DTCEA-SN
+DTCEA-TNB 4º/1º GCC DTCEA-TF
+DTCEA-TRM DTCEA-TS
+DTCEA-YS DTCEA-TT
+DTCEA-UA
+DTCEA-VH
+5º/1º GCC
+NOTA: O CIMAER, ICA, ICEA e 1º GCC estão sujeitos às obrigatoriedades metrológicas
+desta Instrução e deverão coordenar diretamente com o PAME-RJ suas necessidades
+referentes à calibração e aquisição de instrumentos. Visando à otimização de recursos, o
+Parque coordenará qual laboratório apoiará a demanda de cada OM.
+2.2 LABORATÓRIO CENTRAL DE CALIBRAÇÃO – LCC
+É o laboratório de mais alto nível de Padrões de Referência dentro da estrutura
+do DCTA, responsável por garantir a rastreabilidade metrológica do Sistema aos padrões
+nacionais do Laboratório Nacional de Metrologia do INMETRO ou equivalente, em uma ou
+mais grandezas de interesse do SISMETRA, conforme a NSCA 9-1.
+2.3 LABORATÓRIO REGIONAL DE CALIBRAÇÃO – LRC
+2.3.1 É o laboratório do SISMETRA, adequadamente localizado no território nacional,
+formalmente autorizado pelo Órgão Central para calibrar os padrões dos LSC, conforme a
+NSCA 9-1.
+
+--- PÁGINA ---
+12/27 ICA 9-1/2023
+2.3.2 O único LRC no DECEA é o LRC-PAME (LAI), localizado no Rio de Janeiro (PAME-
+RJ).
+2.3.3 O LAI comporta os laboratórios que conservam as grandezas elétricas, físicas e
+dimensionais de interesse do SISCEAB e tem as seguintes atribuições:
+a) buscar a rastreabilidade da calibração de seus padrões por intermédio dos
+padrões de referência do LCC, dos padrões nacionais do INMETRO, dos
+padrões de laboratórios acreditados no Brasil e/ou de padrões internacionais,
+obedecendo a esta hierarquia metrológica, observando, sempre, os níveis de
+incerteza previstos, para que não haja depreciação de grandezas
+metrológicas;
+b) estabelecer padrões de medidas, em todos os níveis, utilizados nos
+laboratórios de instrumentos dos órgãos subordinados ao DECEA;
+c) calibrar os padrões dos LSC nas dependências do LAI ou de laboratórios
+externos;
+d) prestar apoio técnico na calibração de instrumentos de responsabilidade dos
+LSC para os quais não houver padrões disponíveis no local para seu nível,
+conforme definido no PACI;
+e) adquirir de forma padronizada padrões, equipamentos, instrumentos e
+acessórios de medição para as OM do SISCEAB;
+f) manter atualizados os cadastros de instrumentos/padrões e de pessoal
+envolvido com a metrologia no DECEA;
+g) reparar em bancada ou por meio de oficinas externas os instrumentos das
+OM do SISCEAB em pane;
+h) definir os requisitos e encaminhar à ENG para estudo, elaboração e
+implantação de automação de processos de calibração no âmbito do
+DECEA;
+i) gerir a formação de recursos humanos para a área de metrologia por meio do
+PAEAT, identificando as necessidades das Unidades Subordinadas ao
+DECEA, além de coordenar treinamentos, seminários, auditorias, visitas
+técnicas, workshops, simpósios e demais assuntos de gerenciamento do
+Sistema de Metrologia do SISCEAB;
+j) instruir o pessoal das OM sob sua responsabilidade no que diz respeito ao
+correto manuseio e operação de instrumentos, por meio de
+cursos/treinamentos/estágios de operação de instrumentos, visando à
+utilização adequada destes padrões e instrumentos;
+k) definir diretrizes técnicas e gerenciais para a metrologia no SISCEAB; e
+l) auditar o sistema de gestão da qualidade dos LSC com vistas à garantia da
+qualidade e da confiabilidade das medições no SISCEAB, com base na
+NBR ISO/IEC 17025 “Requisitos Gerais para a Competência de
+Laboratórios de Ensaio e Calibração”.
+
+--- PÁGINA ---
+ICA 9-1/2023 13/27
+2.4 LABORATÓRIO SETORIAL DE CALIBRAÇÃO – LSC
+2.4.1 É laboratório integrante do SISMETRA, localizados em Organizações do Comando da
+Aeronáutica, responsável por medir, inspecionar, ensaiar, calibrar e emitir laudos para
+materiais, padrões/equipamentos/instrumentos de medição ou sistemas de medição.
+2.4.2 São 6 (seis) os LSC do SISCEAB, 5 (cinco) localizados nos Órgãos Regionais de
+Brasília (CINDACTA I), Curitiba (CINDACTA II), Recife (CINDACTA III), Manaus
+(CINDACTA IV), São Paulo (CRCEA-SE) e 1 (um) no Rio de Janeiro (GEIV).
+2.4.3 Os LSC deverão seguir as orientações emitidas pelos órgãos centrais do SISCEAB e do
+SISMETRA, principalmente aquelas contidas na NSCA 9-4 “Estrutura Funcional do Sistema
+de Metrologia Aeroespacial (SISMETRA)”, bem como:
+a) elaborar um PACI dos órgãos do SISCEAB por eles apoiados, dentro de seu
+nível de atuação;
+b) executar as calibrações dos instrumentos sob sua responsabilidade;
+c) condenar instrumentos, se necessário, dentro de seu nível de atuação, após
+consulta ao LRC e atualizar seu cadastro;
+d) manter as condições ambientais para calibrar os instrumentos em sede ou
+em missão, de acordo com os limites previstos para os LSC, pela NTS 9-10,
+utilizando padrões de hierarquia metrológica compatível;
+e) manter seus padrões/instrumentos e garantir que não sejam retirados de suas
+dependências para outras aplicações que não sejam afetas à sua atividade
+fim;
+f) coordenar o recolhimento, ao LRC, dos instrumentos em pane sob sua
+gestão e dos instrumentos para os quais não possua padrões;
+NOTA 1: A gestão/alocação de recursos humanos para cumprimento de suas
+responsabilidades metrológicas é de responsabilidade de cada OM e não deve
+impactar nas atividades de manutenção apoiadas e nem nas atividades do LRC.
+NOTA 2: Caso haja problemas de infraestrutura que impeça o LSC de calibrar parte
+de instrumentos sob sua responsabilidade, poderá excepcionalmente solicitar apoio
+ao LRC.
+g) manter seus técnicos trabalhando, preferencialmente, na área de reparo e
+calibração de instrumentos de medição e testes;
+h) não realizar calibrações quando as condições ambientais não forem as
+previstas na NTS 9-10, comunicando à chefia do LSC, para que esta tome as
+providências cabíveis;
+i) manter registro das condições ambientais e elétricas, dos recursos humanos,
+dos serviços executados, dos laudos e certificados de calibração etc.,
+conforme orientações contidas nas normas emitidas pelo órgão central do
+SISMETRA;
+j) utilizar o Sistema de Identificação de Calibrações preconizado na NTS 9-11;
+
+--- PÁGINA ---
+14/27 ICA 9-1/2023
+k) manter atualizado o cadastro de instrumentos das Organizações sob a sua
+responsabilidade, utilizando o módulo de metrologia do SILOMS;
+l) manter e controlar um setor de instrumentaria para fins de otimização de
+empréstimo sob cautela aos técnicos de sua respectiva OM e,
+eventualmente, das OM apoiadas;
+m) emitir seus próprios procedimentos de calibração, que podem ser baseados
+naqueles emitidos pelo órgão central do SISMETRA ou pelo LAI, nos
+manuais técnicos dos fabricantes e nas ordens técnicas 33K (adquiridas da
+Força Aérea Americana), nessa ordem de preferência;
+n) interagir com os usuários para melhor entendimento das necessidades de
+medições, bem como utilizar esta interação como base para avaliar e filtrar
+as solicitações de aquisições padronizadas de instrumentos;
+o) emitir laudos, medir, inspecionar, ensaiar, calibrar instrumentos de medição
+ou sistemas de medição, dentro de seus níveis de atuação; e
+p) instruir o pessoal das OM sob sua responsabilidade no que diz respeito ao
+correto manuseio e operação de instrumentos, por meio de
+cursos/treinamentos/estágios de operação de instrumentos, visando à
+utilização adequada destes padrões e instrumentos.
+2.5 USUÁRIOS
+2.5.1 São todos os técnicos atuantes no SISCEAB, tanto do COMAER quanto da NAV Brasil
+e EPTA, que se utilizam de instrumentos para realização de medidas nas diversas
+manutenções preventivas e corretivas de equipamentos e sistemas utilizados para Defesa e
+Controle do Espaço Aéreo
+2.5.2 Os técnicos usuários de instrumentos responsáveis pelas manutenções no SISCEAB
+deverão:
+a) utilizar apenas instrumentos que estejam sob a gestão metrológica de um
+laboratório de calibração vinculado à instituição para a qual atua;
+b) utilizar instrumentos com calibração válida dentro da faixa da medição a ser
+realizada;
+c) incluir os dados do instrumento utilizado (PN, SN, nº da etiqueta de
+calibração, data da próxima calibração e data da última calibração) nos
+relatórios de manutenção, livros de registro ou outro meio utilizado para
+descrever ou informar procedimentos técnicos realizados para os quais se
+utilizou o instrumento;
+d) recolher, ao laboratório ao qual seu instrumento está vinculado,
+instrumentos com data de calibração próxima ao vencimento, ou com
+calibração vencida, em pane ou apresentando comportamento que afete sua
+confiabilidade;
+e) atentar para o correto manuseio e operação do instrumento a fim de evitar
+acidentes, avarias ou redução do tempo de vida útil; e
+f) transportar instrumentos em caixas/malas apropriadas para garantir a
+integridade do equipamento, de acordo com boas práticas de logística.
+
+--- PÁGINA ---
+ICA 9-1/2023 15/27
+2.6 PESSOAL DO LRC/LSC
+2.6.1 DESIGNAÇÃO
+O efetivo de pessoal técnico alocado nos laboratórios de metrologia do
+SISCEAB deverá, preferencialmente, ser composto das seguintes especialidades:
+a) Eletrônica e/ou Instrumentos, para as atividades ligadas diretamente a
+calibrações, ensaios e emissão de documentos técnicos;
+b) Administração, para as atividades ligadas diretamente ao controle do
+sistema de gestão da qualidade e de indicadores de desempenho das
+Subdivisões e controle da instrumentaria; e
+c) Suprimento, no LRC, devido ao volume de itens recebidos/expedidos dos
+LSC ao longo do ano.
+NOTA: Os funcionários civis assemelhados devem ser considerados para fins de composição
+do efetivo.
+2.7 ATUALIZAÇÃO TÉCNICA
+2.7.1 O Chefe do laboratório solicitará a inclusão do pessoal de metrologia do SISCEAB, em
+cursos e estágios de especialização e atualização, visando ao seu aprimoramento continuado,
+em prol da eficácia da atividade do setor de metrologia.
+2.7.2 O currículo mínimo e obrigatório para o pessoal de metrologia, outros treinamentos
+desejáveis bem como conhecimentos relativos a atividades gerenciais, administrativas e de
+qualidade estão relacionados no Anexo A – Trilha da Capacitação para Área de Metrologia do
+DECEA.
+NOTA: É importante que cada laboratório observe a sequência de treinamentos nos tempos
+adequados, para a correta formação do técnico metrologista.
+2.7.3 Para os casos de técnicos recém-chegados ao LRC/LSC, provenientes de outras áreas, o
+chefe do LRC/LSC deverá definir de imediato para o referido técnico a equipe que irá atuar, a
+função que irá desempenhar e os instrumentos que irá calibrar.
+2.7.3.1 O LRC/LSC deverá planejar um treinamento em formato de OJT, a fim de habilitar
+esse novo técnico a desempenhar suas funções em um prazo máximo de 90 dias. O OJT
+deverá demonstrar o passo a passo da calibração e supervisionar 3 calibrações de uma dada
+classe de instrumento, habilitando-o após esse processo.
+NOTA: O OJT é uma ferramenta para o LRC/LSC acelerar o processo de inclusão de um
+novo técnico na equipe. Todavia, não exclui a necessidade de realização dos cursos e
+treinamentos previstos, conforme item 2.7.2.
+2.8 NAV BRASIL E EPTA
+A NAV Brasil e as EPTA, como parte integrante do SISCEAB, devem
+observar todos os critérios de qualidade e de precisão previstas para manter seus
+equipamentos e instrumentos, podendo adotar uma estrutura organizacional similar às OM do
+DECEA, bem como as práticas, métodos e tecnologias aplicados.
+
+--- PÁGINA ---
+16/27 ICA 9-1/2023
+2.8.1 Os laboratórios responsáveis por calibrar os instrumentos utilizados pela NAV Brasil ou
+pelas EPTA deverão pertencer à RBC para a grandeza calibrada.
+NOTA: os laboratórios que não pertencem à RBC poderão solicitar credenciamento junto aos
+órgãos responsáveis do DECEA, para que estejam aptos à prestação de serviços de calibração
+para o SISCEAB.
+2.8.2 Os laboratórios credenciados deverão manter um sistema de gestão da qualidade com
+base na norma NBR ISO/IEC 17025 e se submeter anualmente a auditorias, intercalando-se
+auditorias internas com auditorias externas.
+NOTA: os laboratórios credenciados deverão seguir as orientações do item 3.5, no que
+couber.
+2.8.3 Caso a NAV Brasil ou qualquer EPTA possua laboratório de calibração de instrumentos,
+deverá observar a similaridade de obrigações compatíveis com o nível de atuação. Além
+disso, deverá:
+a) buscar a rastreabilidade da calibração de seus padrões por intermédio dos
+padrões nacionais do INMETRO, dos padrões de laboratórios acreditados
+no Brasil e/ou de padrões internacionais, obedecendo a esta hierarquia
+metrológica, observando sempre os níveis de incerteza previstos para que
+não haja depreciação de grandezas metrológicas;
+b) manter as condições ambientais para calibrar os instrumentos em sede ou
+em missão, de acordo com os limites previstos para seu nível de atuação,
+pela NTS 9-10, e utilizando padrões de hierarquia metrológica compatível;
+c) manter seus padrões/instrumentos e garantir que não sejam retirados de suas
+dependências para outras aplicações que não sejam afetas a sua atividade
+fim;
+d) não realizar calibrações quando as condições ambientais não forem as
+previstas na NTS 9-10, comunicando à chefia do laboratório, para que esta
+tome as providências cabíveis;
+e) manter registro das condições ambientais e elétricas, dos recursos humanos,
+dos serviços executados, dos laudos e certificados de calibração etc.;
+f) utilizar o Sistema de Identificação de Calibrações, que é preconizado na
+NTS 9-11;
+g) manter atualizado o cadastro de instrumentos das Organizações sob a sua
+responsabilidade;
+h) emitir seus próprios procedimentos de calibração, que podem ser baseados
+em manuais técnicos dos fabricantes e as ordens técnicas 33K (adquiridas da
+Força Aérea Americana), nessa ordem de preferência; e
+i) instruir os usuários de instrumentos sob sua responsabilidade, no que diz
+respeito ao correto manuseio e operação de instrumentos, por meio de
+cursos/treinamentos/estágios de operação de instrumentos, visando à
+utilização adequada destes padrões e instrumentos.
+
+--- PÁGINA ---
+ICA 9-1/2023 17/27
+3 ESPECIFICAÇÕES PARA LABORATÓRIO EM NÍVEL REGIONAL E SETORIAL
+DE CALIBRAÇÃO
+3.1 CARACTERÍSTICAS BÁSICAS
+Laboratórios do COMAER, NAV Brasil ou EPTA, atuando em nível de LRC
+ou LSC, devem atender a certas características básicas quanto à localização, distribuição de
+áreas funcionais, controle ambiental, instalações, infraestrutura, energia elétrica, aterramento
+e outros aspectos, conforme previsto na NTS 9-10 “Especificação de Laboratórios de
+Metrologia”.
+3.2 CONTROLE AMBIENTAL
+As condições de temperatura e umidade relativa do ar do LRC e dos LSC
+deverão ser monitoradas, registradas e lançadas mensalmente no módulo de metrologia do
+SILOMS, visando à conservação de suas grandezas metrológicas. Essas informações são
+importantes para elaboração dos certificados de calibração emitidos por estes laboratórios e
+para auxílio à manutenção de seus sistemas de climatização.
+NOTA: A NAV Brasil e EPTA deverão seguir o observado neste item, excluindo a
+obrigatoriedade de utilização do SILOMS.
+3.3 GRANDEZAS ABRANGIDAS PELO SETOR DE METROLOGIA
+Os laboratórios integrantes do setor de metrologia do DECEA deverão estar
+capacitados a realizar a calibração e a manutenção nos padrões e instrumentos, respeitando
+seus limites de atuação, nas seguintes grandezas/ grupo de serviço:
+3.3.1 Laboratório Regional de Calibração:
+a) elétrica: corrente AC/DC, tensão AC/DC, ângulo de fase, resistência,
+capacitância, indutância, potência, atenuação e frequência;
+b) dimensional: comprimento, torque e ângulo ótico; e
+c) física: pressão, umidade, temperatura, volume, medidor de oxigênio e
+velocidade e direção do vento.
+3.3.2 Laboratório Setorial de Calibração:
+a) elétrica: corrente AC/DC, tensão AC/DC, resistência, capacitância,
+potência, atenuação e frequência; e
+b) física: pressão, umidade e temperatura.
+NOTA: Independente da capacidade de calibrar um determinado sensor, é de responsabilidade
+de cada elo do Sistema sua gestão metrológica bem como a análise de certificados. A fim de
+mantê-lo calibrado, o elo deverá efetuar gestões para calibração em bancada, interação com
+outros elos do sistema ou por meio de contratações.
+3.4 INSTRUMENTARIA
+3.4.1 Todos os órgãos do DECEA apoiados (conforme item 2.1) deverão manter uma
+instrumentaria, com a finalidade de otimizar a utilização, o controle e a manutenção dos
+instrumentos de medição utilizados pelos técnicos dos setores apoiados.
+
+--- PÁGINA ---
+18/27 ICA 9-1/2023
+3.4.2 O dimensionamento da Instrumentaria deve ser baseado na média de utilização
+observada ao longo dos anos por classe de instrumento.
+NOTA: uma vez finalizada a implementação do módulo de metrologia do SILOMS, este
+deverá ser usado para registro de utilização e cálculo da média.
+3.4.3 A calibração do acervo da Instrumentaria é compulsória, deve ter diagonal própria no
+PACI e seu controle deve ser feito utilizando-se o módulo de metrologia do SILOMS.
+3.4.4 As diagonais de calibração das instrumentarias, tanto do LRC quanto dos LSC, devem
+ser planejadas anualmente e executadas em, no máximo, dois períodos definidos no PACI.
+3.4.5 Em órgãos cujo quantitativo de instrumento seja reduzido, é facultada a criação de um
+espaço físico específico para a instrumentaria, desde que medidas de controle de acesso e
+manuseio dos itens possam ser garantidas.
+3.4.6 Fica proibida a acumulação de instrumentos sobressalentes excedentes na modalidade
+segregado.
+NOTA: A segregação de instrumentos deve ser feita naturalmente quando a evolução dos
+equipamentos instalados no SISCEAB não demandar as mesmas medidas que os modelos
+anteriores. Dessa forma, à medida que o LRC/LSC identifique uma constância de ociosidade
+de uma classe de instrumento ou PN, este deverá disponibilizar o item ao Sistema, visando à
+economicidade e à otimização do uso desses recursos.
+3.5 SISTEMA DE GESTÃO DA QUALIDADE
+3.5.1 O LRC e os LSC deverão manter um sistema de gestão da qualidade baseado na ABNT
+NBR ISO/IEC 17025 com a finalidade não somente de confiabilidade metrológica, mas,
+também, como ferramenta de gestão para controle e aprimoramento de desempenho de cada
+um dos elos do Sistema.
+3.5.2 O LAI será responsável por emitir requisitos básicos de desempenho para adequação do
+sistema.
+3.5.3 Pela natureza dos serviços, os laboratórios estão submetidos exclusivamente à ABNT
+NBR ISO/IEC 17025, dispensando tanto a adequação dos sistemas existentes à NBR ISO/IEC
+9001 quanto as auditorias referentes a esta última norma.
+3.5.4 Anualmente o LRC e os LSC devem se submeter a auditoria do SISMETRA e realizar
+auditoria interna, uma por ano de forma intercalada, a fim de manter um sistema eficiente e
+eficaz de seu laboratório.
+NOTA1: O LRC tem a responsabilidade de planejar anualmente quais LSC receberão
+auditoria do SISMETRA.
+NOTA 2: O planejamento e solicitação de auditoria interna é de responsabilidade de cada
+laboratório. A equipe auditora pode ser contratada, convidada de outros setores da OM ou de
+outras OM do SISMETRA, desde que cumpram os requisitos para serem auditores da NBR
+ISO/IEC 17025.
+
+--- PÁGINA ---
+ICA 9-1/2023 19/27
+3.5.5 Anualmente o LRC procederá auditoria do SISMETRA nos LSC selecionados a fim de
+avaliar o desempenho, avaliar os resultados da auditoria interna conduzida pelo próprio
+Laboratório, reorientar as atividades quando necessário e reportar ao IFI os resultados das
+auditorias.
+3.5.6 Requisitos específicos das auditorias serão disponibilizados anualmente no PMS que o
+LAI emitirá. O processo anual de auditoria obedecerá aos seguintes requisitos:
+a) as datas de auditorias serão divulgadas por meio do PMS, de emissão
+obrigatória para o ano subsequente;
+b) com antecedência mínima de 30 dias a cada auditoria, o LRC deverá
+disponibilizar o plano de auditoria ao LSC;
+c) com antecedência mínima de 15 dias a cada auditoria, o LSC deverá
+responder ao LRC com a documentação solicitada no plano de auditoria;
+d) na reunião de encerramento da auditoria, o LRC disponibilizará o relatório
+de auditoria com os apontamentos observados para tratamento pelo LSC;
+e) o LSC terá 7 dias para responder ao LRC com o plano de ação para
+tratamento das observações e/ou não conformidades;
+f) o prazo máximo para tratamento das observações e/ou não conformidades
+será de 90 dias, a partir da data de encerramento da auditoria;
+g) após o recebimento do relatório de tratamento dos apontamentos de
+auditoria do LSC, o LRC terá 15 dias para emissão de parecer em relação à
+conformidade do Laboratório e à autorização de continuidade dos serviços,
+encaminhando ofício ao LSC; e
+h) o LRC deverá encaminhar ao SDTE e LCC o resultado das auditorias e o
+parecer referente aos LSC no ato da emissão.
+3.5.7 O LRC poderá realizar inspeções/auditorias nas empresas prestadoras de serviços ao
+SISCEAB com a finalidade de verificar o cumprimento das diretrizes emanadas nesta ICA.
+Os resultados destas inspeções/auditorias deverão ser registrados em relatórios e as correções
+necessárias informadas ao órgão interessado.
+
+--- PÁGINA ---
+20/27 ICA 9-1/2023
+4 TRATAMENTO DOS PADRÕES E INSTRUMENTOS DE MEDIÇÃO
+4.1 PADRONIZAÇÃO
+No estabelecimento da dotação de padrões e instrumentos ou no momento da
+sua aquisição, o LAI deverá levar em consideração, entre outros, os seguintes fatores:
+a) padronização, diminuindo a quantidade de modelos de mesmas
+características e facilitando sua logística;
+b) quantidade e tipo de equipamentos ou sistemas que serão apoiados,
+adequando o instrumento ou padrão a sua real aplicação;
+c) as necessidades de Manuais Comerciais ou Publicações Técnicas e
+acessórios aplicáveis à manutenção e à calibração; e
+d) a capacidade dos laboratórios em executar a manutenção e/ou calibração no
+novo padrão ou instrumento.
+4.2 AQUISIÇÃO
+4.2.1 Qualquer padrão ou instrumento, necessário para atendimento às OM do SISCEAB,
+deverá ser requisitado ao PAME-RJ (LAI).
+4.2.2 A solicitação ao PAME-RJ deverá ser precedida de uma análise técnica elaborada pelos
+LSC/1º GCC e deverá apresentar justificativa para aplicação do instrumento, análise de
+utilização com base no acervo existente (a fim de evitar a criação de segregados
+desnecessariamente), nos BT e nas manutenções corretivas, priorização dentro da lista total de
+pedidos do Regional e análise quanto à capacidade do LSC de calibrar posteriormente ao
+recebimento dos itens.
+4.2.3 Para os casos de solicitação de modelos de classes inexistentes no acervo do SISCEAB,
+o LAI interagirá com a ENG para verificar a aplicabilidade no SISCEAB e a possível
+universalização da medida para sistemas de mesma aplicação.
+4.2.4 A solicitação de padrões e instrumentos para atender ao SISCEAB deve ser
+acompanhada, quando aplicável, pelas seguintes informações: PN, PN alternado, modelo,
+nomenclatura, fabricante, código do fabricante, NSN, NEB, manual de manutenção e
+calibração, prioridade, qual tipo de medição, faixa de frequência e potência.
+4.2.5 Nenhum padrão ou instrumento será adquirido sem aquiescência prévia do PAME-RJ.
+4.2.6 O LAI deve consultar o LCC sobre os padrões e instrumentos que forem adquiridos para
+o SISCEAB que deixem dúvida quanto a sua rastreabilidade.
+4.3 CALIBRAÇÃO
+4.3.1 Os padrões e instrumentos deverão ser calibrados periodicamente em virtude de
+alterações no valor de suas características, conforme os procedimentos de calibração emitidos
+pelo órgão central do SISMETRA ou pelo LAI, manuais técnicos dos fabricantes e as ordens
+técnicas 33K (adquiridas da Força Aérea Americana), nessa ordem de preferência.
+
+--- PÁGINA ---
+ICA 9-1/2023 21/27
+4.3.2 As calibrações deverão ser processadas mediante confronto com padrões adequados,
+hierarquicamente superiores, de acordo com a rastreabilidade prevista e aplicando-se as
+normas adequadas ao tipo de atividade.
+4.3.3 Caso não se possa determinar estatisticamente o intervalo de calibração do instrumento,
+o prazo entre duas calibrações consecutivas deve ser definido conforme orientação do manual
+técnico do fabricante ou das ordens técnicas K-100 (adquiridas da Força Aérea Americana) e
+na falta destas informações, o prazo a ser usado será de no máximo 1 (um) ano.
+4.3.4 O instrumento que está com seu prazo de validade vencido ou sem etiqueta de
+calibração não deverá ser utilizado. A sua utilização nestas condições é de responsabilidade
+do usuário, bem como seu recolhimento para o LSC, LRC ou LCC.
+4.3.5 Os laboratórios deverão seguir o Fluxograma Operacional de Calibração do SISMETRA
+(NSCA 9-4).
+4.3.6 ETIQUETAS
+4.3.6.1 O LRC e os LSC utilizar-se-ão do Sistema de Identificação de Calibrações
+preconizado na NTS 9-11.
+4.3.6.2 Nas etiquetas de calibração de instrumentos e padrões, EQ1, EQ2, EQ3 e EQ4,
+deverão constar o número do Certificado de Calibração no campo observação.
+4.3.6.3 Na etiqueta de material condenado EQ10 deverá constar o número do laudo de
+condenação.
+4.3.7 CERTIFICADOS DE CALIBRAÇÃO E LAUDOS DE EXAME DE MATERIAL
+4.3.7.1 O LRC e os LSC emitirão Certificados de Calibração conforme orientações do
+SISMETRA.
+4.3.7.2 Os Certificados de Calibração devem estar todos arquivados eletronicamente em um
+banco de dados e serão impressos para os seguintes casos:
+a) padrões dos laboratórios;
+b) instrumentos e/ou padrões externos ao Comando da Aeronáutica; e
+c) quando solicitado pelo usuário e autorizado pela chefia do laboratório.
+4.3.7.3 Os Laudos de Exame de Material serão confeccionados quando:
+a) do recebimento de fábrica do item;
+b) solicitado pelo usuário; e
+c) julgado necessário pelo chefe do laboratório.
+4.3.8 PROCEDIMENTOS DE CALIBRAÇÃO
+O LRC e os LSC deverão emitir seus próprios procedimentos de calibração,
+revisados pela gerência técnica e aprovado pela chefia de cada laboratório.
+NOTA: Para fins de padronização de documentação, os laboratórios poderão se basear nos
+procedimentos de calibração emitidos pelo órgão central do SISMETRA ou pelo LAI,
+
+--- PÁGINA ---
+22/27 ICA 9-1/2023
+manuais técnicos dos fabricantes e as ordens técnicas 33K (adquiridas da Força Aérea
+Americana), nessa ordem de preferência.
+4.4 CONTROLE
+4.4.1 O PMS é o documento emitido pelo LAI, publicado anualmente, até 31 de outubro, e
+que conterá, além do PACI, outras orientações, eventos e informações da área de Metrologia
+do DECEA.
+4.4.2 Com base no PMS, os LSC consolidarão as necessidades de calibração dos órgãos
+apoiados e confeccionarão seu próprio PACI do ano seguinte.
+4.4.3 Os LSC deverão encaminhar o PACI referente ao ano subsequente ao LAI até 30 de
+novembro.
+4.4.4 O LAI deverá informar ao LCC o PACI referente a todos os laboratórios do SISCEAB
+até 10 de dezembro.
+4.4.5 O LSC deverá encaminhar eletronicamente ao LRC a lista de padrões que serão
+calibrados no LRC com antecedência de 60 dias.
+4.4.6 Havendo previsão no PMS de missão do LRC em apoio aos LSC, o LSC deverá enviar
+com 30 dias de antecedência a lista de solicitação de apoio para fins de análise, parecer e a
+definição de escopo da missão do LRC.
+4.4.7 Todos os dados relativos aos instrumentos deverão ser lançados e atualizados
+constantemente no módulo de metrologia do SILOMS.
+4.4.8 Todos os órgãos/setores apoiados deverão informar ao laboratório de sua área (ver item
+2.1) o nome do responsável e substituto (designados como elos metrológicos) pelos controles
+e procedimentos de metrologia relativos aos instrumentos de sua OM. Os laboratórios, por sua
+vez, deverão repassar todas as informações, juntamente com o nome dos seus responsáveis, ao
+LRC, para fins de cadastro e controle.
+4.4.9 O elo metrológico terá como principais atribuições: o controle de validade dos
+instrumentos, recebimento, atualização do inventário, orientações de uso e manuseio,
+expedição e documentação técnica respectiva.
+4.4.10 O elo metrológico terá também a atribuição de coordenar eventuais empréstimos de
+instrumentos de seu órgão com instrumentarias de outros órgãos do sistema.
+4.4.11 Todo Padrão ou instrumento de medição será individualizado por um número de
+identificação e/ou de série. O LRC e os LSC determinarão o número de série para aqueles que
+não o possuam. O número de série originado poderá ser formado com a sigla do Regional, ou
+Destacamento, seguido do número de ordem do instrumento.
+4.4.12 O LRC e os LSC deverão realizar inspeções/auditorias, resguardados os seus
+respectivos níveis de atuação (ver item 2.1), nos Laboratórios, Seções, oficinas e nas empresas
+prestadoras de serviços com a finalidade de verificar o cumprimento das diretrizes emanadas
+nesta ICA. Os resultados destas inspeções/auditorias deverão ser registrados em relatórios e as
+correções necessárias informadas ao órgão interessado.
+
+--- PÁGINA ---
+ICA 9-1/2023 23/27
+4.4.13 O LRC e os LSC, além das auditorias do órgão central do SISMETRA, estão sujeitos,
+também, àquelas internas do DECEA.
+4.5 MOVIMENTAÇÃO
+4.5.1 O recolhimento de instrumentos dos Destacamentos para os laboratórios, onde serão
+calibrados, será autorizado por meio da aprovação do PACI e o representante da metrologia
+será o responsável pelo agendamento, controle e trânsito dos instrumentos.
+4.5.2 Os instrumentos dos LSC enviados para calibração no PAME-RJ deverão dar entrada na
+SUP com, no mínimo, 5 dias úteis de antecedência para que o período de calibração no LAI
+não seja afetado.
+4.5.3 Excepcionalmente, quando o instrumento do Laboratório Setorial ou Destacamento
+necessitar de manutenção e/ou calibração não programada, o Laboratório Setorial ou
+Destacamento informará ao LRC ou LSC e aguardará as instruções para o seu recolhimento,
+por meio do representante da metrologia.
+4.5.4 O remetente de instrumentos deverá informar ao destinatário os modelos, os números de
+série, a quantidade e o número do documento de recolhimento (GMM). Além da
+documentação prevista, o item deverá estar, sempre que possível, acompanhado de seus
+manuais de manutenção/calibração e acessórios.
+4.5.5 Os LSC poderão calibrar os instrumentos dos Destacamentos que apoiam, por meio de
+uma Equipe Móvel de Calibração, desde que estes possuam condições ambientais dentro dos
+mínimos previstos, pela NTS 9-10, e sejam utilizados padrões de hierarquia metrológica
+compatível.
+4.5.6 O padrão ou instrumento a ser movimentado deverá receber tratamento diferenciado no
+que tange ao seu manuseio, devido à sua sensibilidade e por ter prioridade para o embarque,
+em virtude de seu prazo de calibração. Para tanto, os Suprimentos dos Órgãos Regionais do
+SISCEAB deverão envidar esforços nesse sentido.
+4.5.7 Os instrumentos sem utilização e/ou avariados poderão ser recolhidos ao LRC, após
+consulta prévia e autorização, para aproveitamento de material ou redistribuição no
+SISCEAB.
+4.6 OPERAÇÃO
+O manuseio do padrão ou instrumento deve ser cercado de todos os cuidados
+possíveis, respeitando-se rigorosamente os limites da sua faixa de utilização, assim como
+devem ser tomados todos os preceitos com a segurança pessoal e do equipamento.
+Preferencialmente, deverá ser feita uma leitura prévia do manual que, normalmente,
+acompanha estes equipamentos.
+NOTA: O padrão ou instrumento não deverá ser utilizado para outra finalidade que não
+aquela para qual é prevista.
+
+--- PÁGINA ---
+24/27 ICA 9-1/2023
+5 EMBALAGEM, TRANSPORTE E MANUSEIO
+5.1 EMBALAGEM
+5.1.1 A embalagem do padrão ou instrumento deverá ser tal que ofereça segurança e proteção
+adequada ao seu transporte. Poderá ser utilizada a embalagem recomendada pelo fabricante ou
+similar.
+5.1.2 O invólucro deverá ser rígido o suficiente para evitar danos ao padrão ou instrumento
+em caso de pequenas colisões ou quedas acidentais.
+5.1.3 Deverão ser afixadas na parte externa da embalagem, de forma visível, as etiquetas
+utilizadas normalmente nos setores de expedição dos suprimentos. Pela natureza do material
+em questão, deverão ser utilizadas pelo menos aquelas que alertem quanto aos cuidados
+relativos a calor, umidade, posição correta e fragilidade.
+5.1.4 A parte interna da embalagem deverá ser acolchoada, de forma a minimizar os
+movimentos do seu conteúdo.
+5.1.5 A embalagem deverá ser individual e, preferencialmente, reutilizável, ou seja, servirá
+tanto para o recolhimento quanto para a remessa após a manutenção ou calibração.
+5.2 TRANSPORTE
+O transporte de padrões/equipamentos/instrumentos de medição para
+localidades que distem mais que 300 km deve ser realizado, preferencialmente, por via aérea.
+5.3 MANUSEIO
+5.3.1 O padrão ou instrumento só deverá ser retirado da embalagem pelo pessoal do LRC ou
+dos LSC, evitando-se assim o manuseio destes equipamentos por pessoal não capacitado.
+5.3.2 Quando não estiverem sendo utilizados, os padrões ou instrumentos deverão ser
+guardados em suas embalagens originais, se existirem, e em locais com condições ambientais
+adequadas.
+5.3.3 Demais cuidados e informações estão contidos na NTS 9-12 “Recebimento, Manuseio,
+Armazenagem e Expedição de Padrões/Equipamentos /Instrumentos de Medição”.
+
+--- PÁGINA ---
+ICA 9-1/2023 25/27
+6 DISPOSIÇÕES FINAIS
+Os casos não previstos nesta ICA serão submetidos à apreciação do Sr. Chefe
+do Subdepartamento Técnico do DECEA.
+
+--- PÁGINA ---
+26/27 ICA 9-1/2023
+REFERÊNCIAS
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Atividade
+de Manutenção no Sistema de Controle do Espaço Aéreo: DCA 66-1. Rio de Janeiro, RJ,
+2008.
+BRASIL. Comando da Aeronáutica. Centro de Documentação e Histórico da Aeronáutica.
+Confecção, Controle e Numeração de Publicações Oficiais do Comando da Aeronáutica:
+NSCA 5-1. Rio de Janeiro, RJ, 2011.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Elaboração
+e Padronização das Publicações do SISCEAB: ICA 5-8. Rio de Janeiro, RJ, 2009.
+BRASIL. Comando da Aeronáutica. Instituto de Fomento e Coordenação Industrial. Sistema
+de Metrologia Aeroespacial: NSCA 9-1. São José dos Campos, SP, 2020.
+BRASIL. Comando da Aeronáutica. Departamento de Ciência e Tecnologia Aeroespacial.
+Estrutura Funcional do Sistema de Metrologia Aeroespacial (SISMETRA): NSCA 9-4. São
+José dos Campos, SP, 2009.
+BRASIL. Comando da Aeronáutica. Centro Técnico Aeroespacial. Especificação de
+Laboratórios de Metrologia: NTS 9-10. São José dos Campos, SP, 2002.
+BRASIL. Comando da Aeronáutica. Centro Técnico Aeroespacial. Padronização do Sistema
+de Identificação das Calibrações: NTS 9-11. São José dos Campos, SP, 1996.
+BRASIL. Comando da Aeronáutica. Departamento de Ciência e Tecnologia Aeroespacial.
+Recebimento, Manuseio, Armazenagem e Expedição de Padrões/Equipamentos /Instrumentos
+de Medição: NTS 9-12. São José dos Campos, SP, 2002.
+Associação Brasileira de Normas Técnicas. Requisitos Gerais para a Competência de
+Laboratórios de Ensaio e Calibração: NBR ISO/IEC 17025. Rio de Janeiro, RJ, set. 2017.
+Instituto Nacional de Metrologia, Normalização e Qualidade Industrial. Vocabulário
+Internacional de Metrologia: VIM 2012 Rio de Janeiro, RJ, maio 2012.
+
+--- PÁGINA ---
+ICA 9-1/2022 27/27
+ANEXO A – Trilha da Capacitação da Metrologia no DECEA
+Tempo mínimo (anos)
+Atividade / Equipe Cursos PAEAT, PACESP, PLAMENS e TCA, OJT ou Workshop
+Nível para evoluir ao Lab Obs
+de Atuação respectivo à atividade e experiência do militar
+próximo nível
+Recebimento e OJT com encarregado no setor sobre Entrada e saída de A experiência a ser adquirida é sobre operação de instrumentos, logística da
+1 0,5 LRC
+Expedição (R&E) instrumentos, controle da Instrumentaria metrologia no SISCEAB e o fluxo interno das calibrações do Laboratório.
+2 Instrumentaria CAL 002, CBIT
+Operação de instrumentos. Integrante é introduzido aos conceitos e
+Auxiliar da 0,5 LRC / LSC
+3 CFACC-MB importância dos processos de qualidade.
+Qualidade
+4 Manutenção OJT de manutenção de instrumentos com encarregado
+0,5 LRC
+5 Dimensional I CBS, CMED
+6 Multímetro 0,5 LRC / LSC CMEL
+CAL 001
+7 Potência 1,0 LRC / LSC
+CFACC-ML
+NBR 17025
+8 Baixa Frequência 1,0 LRC / LSC
+Avaliação da Incerteza da Medição
+9 Osciloscópio 0,5 LRC / LSC OJT / Workshop SISCEAB
+10 Física 1,0 LRC / LSC CMEF
+Atualmente não há formação na FAB, sendo o LAI o único laboratório da Força
+Dimensional II
+11 1,0 LRC OJT com encarregado no setor a executar esse tipo de calibração. A formação existente foi adquirida no
+(teodolito)
+exterior há mais de 10 anos.
+Espectro e Calibração de Geradores, Analisadores de Espectro e de
+12 2,0 LRC / LSC
+Network Analyzer Rede
+13 Console AC/DC 2,0 LRC Avançado de Medições em Rádio Frequência (LABELO)
+Console de Tempo
+14 2,0 LRC Calibração GNSS
+e Frequência
+ISO 9001 (*), Gestão da Produção
+(*) Os cursos de qualidade podem ser antecipados em virtude de compor
+LRC / LSC
+Gerência Técnica, ISO 19000 (*) equipe mínima para participação de auditorias
+Controle de ISO 17021 (*)
+15 -
+Produção & CCNP
+Qualidade CMCC
+LRC
+CPNP
+Indicadores

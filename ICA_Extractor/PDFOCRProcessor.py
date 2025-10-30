@@ -9,7 +9,7 @@ from PIL import Image
 import io
 import os
 import utils
-
+from utils import print_mid_warning, print_serious_warning, print_info, print_green, print_delimiter, print_cyan
 
 class PDFOCRProcessor:
     """
@@ -33,7 +33,7 @@ class PDFOCRProcessor:
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
         # Inicializa PaddleOCR
-        print("🔧 Inicializando PaddleOCR...")
+        print_green("🔧 Inicializando PaddleOCR...")
         self.ocr = PaddleOCR(
             use_textline_orientation=True,  # Detecta e corrige rotação de texto
             lang='pt',  # Português
@@ -42,7 +42,7 @@ class PDFOCRProcessor:
             text_det_thresh=0.3,  # Threshold de detecção (0.3 é bom para docs limpos)
             text_det_box_thresh=0.5  # Threshold de confiança da caixa
         )
-        print("✅ PaddleOCR inicializado!")
+        print_green("✅ PaddleOCR inicializado!", bright=True)
 
         # Log de processamento
         self.log_file = self.output_dir / "processing_log.json"
@@ -64,7 +64,7 @@ class PDFOCRProcessor:
     def get_pdf_files(self) -> List[Path]:
         """Retorna lista de todos os arquivos PDF no diretório de entrada."""
         pdf_files = list(self.input_dir.glob("*.pdf"))
-        print(f"📁 {len(pdf_files)} arquivos PDF encontrados em {self.input_dir}")
+        print_info(f"📁 {len(pdf_files)} arquivos PDF encontrados em {self.input_dir}")
         return pdf_files
 
     def extract_text_from_page(self, page_image: Image.Image) -> str:
@@ -118,19 +118,19 @@ class PDFOCRProcessor:
 
         # Verifica se já foi processado
         if pdf_name in self.processing_log["processed_files"] and output_txt.exists():
-            print(f"⏭️  {pdf_name}.pdf já processado anteriormente. Pulando...")
+            print_info(f"⏭️  {pdf_name}.pdf já processado anteriormente. Pulando...")
             return True
 
-        print(f"\n{'=' * 60}")
-        print(f"📄 Processando: {pdf_name}.pdf")
-        print(f"{'=' * 60}")
+        print_delimiter(60)
+        print_info(f"📄 Processando: {pdf_name}.pdf")
+        print_delimiter(60)
 
         try:
             textos_paginas = []
 
             with pdfplumber.open(pdf_path) as pdf:
                 total_pages = len(pdf.pages)
-                print(f"📖 Total de páginas: {total_pages}")
+                print_info(f"📖 Total de páginas: {total_pages}")
 
                 for i, pagina in enumerate(pdf.pages, start=1):
                     print(f"  🔍 Página {i}/{total_pages}...", end=" ")
@@ -141,10 +141,13 @@ class PDFOCRProcessor:
                     if texto_nativo and texto_nativo.strip() and not force_ocr:
                         # Texto nativo encontrado e válido
                         textos_paginas.append(f"--- PÁGINA ---\n{texto_nativo}\n")
-                        print("✅ (texto nativo)")
+                        print_green("✅ (texto nativo)")
+                    elif pagina_vazia(pagina.to_image(resolution=300).original):
+                        print_info('Página vazia!, pulando ela')
+                        textos_paginas.append(f"--- PÁGINA ---\n")
                     else:
                         # Precisa de OCR
-                        print("🔎 (OCR necessário)...", end=" ")
+                        print_green("🔎 (OCR necessário)...", end=" ")
 
                         # Converte página para imagem de alta resolução
                         img = pagina.to_image(resolution=300).original
@@ -165,13 +168,13 @@ class PDFOCRProcessor:
             self.processing_log["processed_files"].append(pdf_name)
             self._save_log()
 
-            print(f"✅ Texto salvo em: {output_txt.name}")
-            print(f"📊 Total de caracteres extraídos: {len(texto_completo)}")
+            print_green(f"✅ Texto salvo em: {output_txt.name}", bright=True)
+            print_info(f"📊 Total de caracteres extraídos: {len(texto_completo)}", bright=True)
 
             return True
 
         except Exception as e:
-            print(f"❌ ERRO ao processar {pdf_name}.pdf: {str(e)}")
+            print_serious_warning(f"❌ ERRO ao processar {pdf_name}.pdf: {str(e)}")
             self.processing_log["failed_files"].append({
                 "file": pdf_name,
                 "error": str(e),
@@ -192,15 +195,16 @@ class PDFOCRProcessor:
 
         if max_files:
             pdf_files = pdf_files[:max_files]
-            print(f"⚠️  Modo teste: processando apenas {max_files} arquivos")
+            print_mid_warning(f"⚠️  Modo teste: processando apenas {max_files} arquivos")
 
-        print(f"\n{'=' * 60}")
-        print(f"🚀 INICIANDO PROCESSAMENTO EM LOTE")
-        print(f"{'=' * 60}")
-        print(f"📂 Diretório de entrada: {self.input_dir}")
-        print(f"💾 Diretório de saída: {self.output_dir}")
-        print(f"📊 Total de arquivos: {len(pdf_files)}")
-        print(f"{'=' * 60}\n")
+        print_delimiter(60)
+        print_green(f"🚀 INICIANDO PROCESSAMENTO EM LOTE", bright=True)
+        print_delimiter(60)
+        print_info(f"📂 Diretório de entrada: {self.input_dir}")
+        print_info(f"💾 Diretório de saída: {self.output_dir}")
+        print_info(f"📊 Total de arquivos: {len(pdf_files)}")
+        print_delimiter(60)
+        print()
 
         inicio = datetime.now()
         sucessos = 0
@@ -218,21 +222,21 @@ class PDFOCRProcessor:
         fim = datetime.now()
         duracao = fim - inicio
 
-        print(f"\n\n{'=' * 60}")
-        print(f"✨ PROCESSAMENTO CONCLUÍDO")
-        print(f"{'=' * 60}")
-        print(f"✅ Sucessos: {sucessos}")
-        print(f"❌ Falhas: {falhas}")
-        print(f"⏱️  Tempo total: {duracao}")
-        print(f"📊 Média por arquivo: {duracao / len(pdf_files) if pdf_files else 0}")
-        print(f"💾 Arquivos salvos em: {self.output_dir}")
-        print(f"{'=' * 60}\n")
+        print_delimiter(60)
+        print_green(f"✨ PROCESSAMENTO CONCLUÍDO", bright=True)
+        print_delimiter(60)
+        print_green(f"✅ Sucessos: {sucessos}")
+        print_mid_warning(f"❌ Falhas: {falhas}")
+        print_info(f"⏱️  Tempo total: {duracao}")
+        print_info(f"📊 Média por arquivo: {duracao / len(pdf_files) if pdf_files else 0}")
+        print_info(f"💾 Arquivos salvos em: {self.output_dir}")
+        print_delimiter(60)
 
         # Mostra arquivos que falharam
         if self.processing_log["failed_files"]:
-            print("\n⚠️  Arquivos com erro:")
+            print_mid_warning("\n⚠️  Arquivos com erro:")
             for failed in self.processing_log["failed_files"]:
-                print(f"  - {failed['file']}: {failed['error']}")
+                print_serious_warning(f"  - {failed['file']}: {failed['error']}")
 
     def get_text_from_processed_file(self, pdf_name: str) -> str:
         """
@@ -250,8 +254,14 @@ class PDFOCRProcessor:
             with open(txt_file, 'r', encoding='utf-8') as f:
                 return f.read()
         else:
-            print(f"⚠️  Arquivo {pdf_name}.txt não encontrado em {self.output_dir}")
+            print_mid_warning(f"⚠️  Arquivo {pdf_name}.txt não encontrado em {self.output_dir}")
             return ""
+
+
+def pagina_vazia(page, threshold=0.98):
+    gray = np.array(page.convert("L")) / 255.0
+    white_ratio = np.mean(gray > 0.9)
+    return white_ratio > threshold
 
 
 # ============================================================================
@@ -262,7 +272,8 @@ if __name__ == "__main__":
     # Configuração
     utils.garantir_cwd_para("Repositorio-Semantico")
     INPUT_DIR = os.path.join(os.getcwd(), "ICA_Extractor", "ICAS")
-    OUTPUT_DIR = os.path.join(os.getcwd(), "ICA_Extractor", "textos_extraidos")
+    # OUTPUT_DIR = os.path.join(os.getcwd(), "ICA_Extractor", "textos_extraidos")
+    OUTPUT_DIR = os.path.join(os.getcwd(), "ICA_Extractor", "textos_diferenciados")
 
     # Cria instância do processador
     processor = PDFOCRProcessor(

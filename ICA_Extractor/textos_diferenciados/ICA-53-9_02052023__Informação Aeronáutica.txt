@@ -1,0 +1,447 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+INFORMAÇÃO AERONÁUTICA
+ICA 53-9
+CIRCULAR DE INFORMAÇÃO AERONÁUTICA (AIC)
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+INFORMAÇÃO AERONÁUTICA
+ICA 53-9
+CIRCULAR DE INFORMAÇÃOÁUTICA (AIC)
+2022
+
+--- PÁGINA ---
+Publicação
+CIRCULAR DE INFORMAÇÃO AERONÁUTICA
+A ICA 53-9, aprovada pela Portaria DECEA nº 210/DNOR4, de 26 de maio de 2022, é
+assim modificada:
+1 SUBSTITUIÇÃO DE PÁGINAS
+Não há.
+2 CORREÇÃO
+PÁGINA ITEM ALÍNEA
+10 1.3 (modificação) 1.3.3 (Assunto)
+13 2.7 (modificação) 2.7.2 (Assunto)
+17 4.1 (modificação) 4.1.2 (Assunto)
+21 Anexo A (modificação) Cabeçalho
+22 Anexo A (modificação) Cabeçalho
+23 Anexo A (modificação) Cabeçalho
+23 Anexo A (modificação) 4.1 (Assunto)
+3 ARQUIVO
+Depois de efetuar as substituições, arquive esta folha após a página de rosto da publicação
+original.
+4 APROVAÇÃO
+Portaria DECEA nº /DNOR4, de de março de 2023.
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA No 796/DNOR4, DE 9 DE MARÇO DE 2023.
+Aprova a 1ª modificação da Instrução que
+disciplina a divulgação da informação
+aeronáutica por meio da Circular de
+Informação Aeronáutica (AIC).
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 21, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 11.237, de 18 de outubro de
+2022, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA, aprovado
+pela Portaria no 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art. 1o Aprovar a 1ª modificação da ICA 53-9 "Circular de Informação
+Aeronáutica (AIC)”, que com esta baixa.
+Art. 2o Esta Instrução entra em vigor em 2 de maio de 2023.
+Ten Brig Ar ALCIDES TEIXEIRA BARBACOVI
+Diretor-Geral do DECEA
+(Publicado no BCA nº 65 de 11 de abril de 2023)
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA No 210/DNOR4, DE 26 DE MAIO DE 2022.
+Aprova a edição da Instrução que
+disciplina a divulgação da informação
+aeronáutica por meio da Circular de
+Informação Aeronáutica (AIC).
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 19, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto no 6.834, de 30 de abril de
+2009, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA, aprovado
+pela Portaria nº 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art. 1o Aprovar a edição da ICA 53-9 "Circular de Informação Aeronáutica
+(AIC)”, que com esta baixa.
+Art. 2o Esta Instrução entra em vigor em 1º de julho de 2022.
+Ten Brig Ar JOÃO TADEU FIORENTINI
+Diretor-Geral do DECEA
+(Publicado no BCA nº 110 de 13 de junho de 2022)
+
+--- PÁGINA ---
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES ..................................................................................... 9
+1.1 FINALIDADE ...................................................................................................................... 9
+1.2 ABREVIATURAS E SIGLAS ............................................................................................. 9
+1.3 CONCEITUAÇÃO ............................................................................................................... 9
+1.4 ÂMBITO ............................................................................................................................ 10
+2 REGRAS GERAIS ............................................................................................................. 11
+2.1 APLICAÇÃO ..................................................................................................................... 11
+2.2 PRAZO ............................................................................................................................... 11
+2.3 IDENTIFICAÇÃO ............................................................................................................. 11
+2.4 DISTRIBUIÇÃO ................................................................................................................ 12
+2.5 DIVULGAÇÃO DA INFORMAÇÃO ............................................................................... 12
+2.6 LISTA DE VERIFICAÇÃO ............................................................................................... 13
+2.7 REVOGAÇÃO OU CANCELAMENTO .......................................................................... 13
+3 FORMATO AIC ................................................................................................................. 14
+3.1 REGRAS PARA CONFECÇÃO ....................................................................................... 14
+4 PROCESSAMENTO .......................................................................................................... 16
+4.1 PROCESSOS DE ELABORAÇÃO E PUBLICAÇÃO ..................................................... 16
+5 DISPOSIÇÕES FINAIS ..................................................................................................... 19
+REFERÊNCIAS ..................................................................................................................... 20
+ANEXO A - Formato AIC ..................................................................................................... 21
+ANEXO B - Processos de elaboração de AIC ...................................................................... 24
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 53-9/2022
+PREFÁCIO
+A Circular de Informação Aeronáutica (AIC) pode ser um excelente Produto de
+Informação Aeronáutica para a disseminação de conteúdos e alinhamento de conhecimentos.
+Se utilizada adequadamente, poderá fazer com que os clientes do Gerenciamento de Tráfego
+Aéreo (ATM) recebam informações valiosas que facilitarão o entendimento de novas
+conceituações ou a utilização de sistemas novos ou antigos. A AIC também poderá atender às
+necessidades de difusão de considerações importantes acerca de segurança de voo ou navegação
+aérea, diferentes daquelas de NOTAM ou AIP, ou questões técnicas, administrativas ou
+legislativas, realizadas pela autoridade responsável aos seus clientes.
+Então, em resumo, pode-se dizer que uma AIC não introduz uma mudança, mas
+poderá ser utilizada para fornecer:
+a) explicações relacionadas a uma previsão de longo prazo para mudanças
+importantes na legislação, regulamentos, procedimentos ou instalações;
+b) informações de natureza puramente explicativa ou consultiva que
+possam afetar a segurança de voo; e
+c) informações ou notificações de natureza explicativa ou consultiva sobre
+questões técnicas, legislativas ou puramente administrativas.
+Dessa forma, o DECEA, revogará a AIC-N 20/16, através da edição da presente
+Instrução.
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 53-9/2022
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+A presente Instrução tem por finalidade estabelecer os procedimentos para a
+elaboração e disponibilização da Circular de Informação Aeronáutica (AIC).
+1.2 ABREVIATURAS E SIGLAS
+Para efeito desta Instrução, as abreviaturas e siglas abaixo apresentadas têm os
+seguintes significados:
+AIP - Publicação de Informação Aeronáutica
+AIRAC - Regulação e Controle de Informação Aeronáutica
+AIS - Serviço de Informação Aeronáutica
+AIC - Circular de Informação Aeronáutica
+AIM - Gestão da Informação Aeronáutica
+DCA - Diretriz do Comando da Aeronáutica
+DECEA - Departamento de Controle do Espaço Aéreo
+ICA - Instituto de Cartografia Aeronáutica
+ICA - Instrução do Comando da Aeronáutica
+INFOTEMP - Informações temporárias do ROTAER divulgadas no AISWEB
+MANINV - Manual Brasileiro de Inspeção em Voo
+MCA - Manual do Comando da Aeronáutica
+NOTAM - Aviso aos Aeronavegantes
+NOF - Centro de NOTAM
+PCA - Plano do Comando da Aeronáutica
+Pág - Página
+eROTAER - Publicação Auxiliar de Rotas Aéreas eletrônico
+SDAD - Subdepartamento de Administração do DECEA
+SDIA - Solicitação de Divulgação de Informação Aeronáutica
+SDOP - Subdepartamento de Operações do DECEA
+SDTE - Subdepartamento Técnico do DECEA
+SISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro
+1.3 CONCEITUAÇÃO
+1.3.1 AUTORIDADE FORNECEDORA
+Autoridade responsável pelo recebimento e validação da informação ou dado
+aeronáutico e dos metadados, bem como pelo envio ao AIS.
+
+--- PÁGINA ---
+10/24 ICA 53-9/2022
+1.3.2 AUTORIDADE ORIGINADORA
+Autoridade responsável pela coleta, verificação e validação da informação ou
+dado aeronáutico necessários para o envio à Autoridade Fornecedora.
+1.3.3 NOTAM
+Aviso distribuído pelos meios de telecomunicações contendo informações
+quanto ao estabelecimento, condição ou mudança em qualquer instalação, serviço,
+procedimento ou risco de acidente aeronáutico e cujo conhecimento em tempo hábil seja
+essencial para o pessoal envolvido em operações aéreas. (NR) – Portaria DECEA nº /DNOR4,
+de de março de 2023.
+1.3.4 SUPLEMENTO AIP
+Documento cujo objetivo é alertar os usuários tanto das modificações
+temporárias de longa duração (três meses ou mais) como das informações de curta duração que
+contenham textos longos (acima de 1.800 caracteres) ou gráficos que afetem uma ou mais partes
+da AIP.
+1.4 ÂMBITO
+A presente Instrução, de observância obrigatória, aplica-se a todos aqueles que,
+no desempenho de suas funções, necessitam utilizar-se dos critérios para confecção de AIC.
+
+--- PÁGINA ---
+ICA 53-9/2022 11/24
+2 REGRAS GERAIS
+2.1 APLICAÇÃO
+2.1.1 A AIC é utilizada para disponibilizar informação que se relaciona à navegação aérea, à
+segurança de voo, a questões administrativas, técnicas ou normativas associadas e que não se
+qualifica para divulgação por meio de AIP, Suplemento AIP, Cartas Aeronáuticas, NOTAM ou
+INFOTEMP.
+2.1.2 A AIC não deve ser utilizada para introduzir uma nova norma.
+2.1.3 A AIC deve referir-se a informações:
+a) sobre previsão de longo prazo para mudanças importantes na legislação,
+regulamentos, procedimentos ou instalações;
+b) de natureza puramente explicativa ou consultiva, que possam afetar a
+segurança de voo; e
+c) de natureza explicativa ou consultiva, relativas a questões técnicas,
+legislativas ou puramente administrativas.
+2.2 PUBLICAÇÃO
+2.2.1 A AIC pode ser publicada a qualquer tempo, no entanto, recomenda-se que seja publicada
+com antecedência de pelo menos um ciclo AIRAC em relação ao seu conteúdo.
+2.3 IDENTIFICAÇÃO
+2.3.1 As AIC podem ser publicadas em duas séries: série N e série A.
+2.3.2 Cada AIC deve ser identificada, separadamente, por um número dentro de cada série,
+consecutivo e baseado no ano civil de sua publicação.
+2.3.3 O número de série deve ser composto pelas letras A ou N seguidos por dois dígitos; de
+uma barra diagonal e do ano da publicação da AIC, com dois dígitos, tudo sem espaços.
+2.3.4 A série N de AIC contém informações que afetam apenas a aviação nacional e é
+distribuída nacionalmente, no idioma português.
+2.3.5 A série A da AIC contém informações que afetam a aviação civil internacional e é
+distribuída internacionalmente, no idioma inglês.
+
+--- PÁGINA ---
+12/24 ICA 53-9/2022
+2.4 DISPONIBILIZAÇÃO
+2.4.1 A AIC é um Produto de Informação Aeronáutica, cujo processo de aprovação dispensa a
+publicação em Boletim Interno.
+2.4.2 As AIC são disponibilizadas no portal AISWEB, em https://aisweb.decea.mil.br/ ou
+http://aisweb.decea.intraer/.
+2.4.3 O Subdepartamento do DECEA que encaminhar a proposta ao ICA deverá definir quais
+AIC deverão ser confeccionadas na série A.
+2.5 DIVULGAÇÃO DA INFORMAÇÃO
+2.5.1 Uma AIC deve ser utilizada sempre que for desejável publicar:
+a) previsões de mudanças importantes nos procedimentos, serviços e instalações
+de navegação aérea;
+b) previsões relativas à implantação de novos sistemas de navegação;
+c) informações importantes decorrentes de investigações de acidentes ou
+incidentes de aviação que influenciem a segurança de voo;
+d) informações sobre os regulamentos relativos à proteção da aviação contra atos
+de interferência ilícita;
+e) conselho médico de especial interesse para os pilotos;
+f) advertências aos pilotos quanto à necessidade de evitar perigos materiais;
+g) efeitos de fenômenos meteorológicos nas operações das aeronaves;
+h) informação sobre perigos que afetam as técnicas de manejo de aeronaves;
+i) regulamentos relativos ao transporte aéreo de itens restritos;
+j) referência aos requisitos impostos pela legislação nacional e publicação de
+suas modificações;
+k) disposições para o licenciamento de tripulações;
+l) treinamento profissional do pessoal da aviação;
+m) aplicação ou isenção de requisitos da legislação nacional;
+n) conselhos sobre o uso e manutenção de tipos específicos de equipamentos;
+o) existência ou disponibilidade prevista de edições novas ou revisadas de cartas
+aeronáuticas;
+p) transporte de equipamentos de comunicação;
+q) informações explicativas sobre redução de ruído;
+
+--- PÁGINA ---
+ICA 53-9/2022 13/24
+r) certas instruções de aeronavegabilidade;
+s) alterações nas séries ou distribuição de NOTAM, novas emendas da AIP ou
+alterações importantes em seu conteúdo, cobertura ou formato; e
+t) outras informações de natureza similar.
+2.6 LISTA DE VERIFICAÇÃO
+2.6.1 A validade e as informações de uma AIC frequentemente se mantêm inalteradas por
+longos períodos, e podem requerer poucas alterações ou, até mesmo, uma nova publicação. No
+entanto, isso deve ser avaliado pelo menos uma vez por ano pela autoridade responsável pelo
+conteúdo da informação.
+2.6.2 A Lista de Verificação de AIC em Vigor pode ser consultada a qualquer momento e está
+disponível no AISWEB, por meio dos endereços eletrônicos http://aisweb.decea.intraer/ ou
+https://aisweb.decea.mil.br/, acessando o link específico da publicação.
+2.7 REVOGAÇÃO OU CANCELAMENTO
+2.7.1 Uma AIC pode ser revogada, conforme o caso:
+a) por uma nova AIC, que a substitui. Neste caso, essa informação estará contida
+no item “Disposições finais” da nova AIC; ou
+b) por uma publicação convencional ou não convencional padronizada emitida
+pelo DECEA (DCA, PCA, ICA, MCA, MANINV, etc.). Neste caso, essa
+informação constará na Norma em questão.
+2.7.2 Uma AIC é cancelada por meio de sua exclusão no AISWEB, conforme solicitação ao
+Instituto de Cartografia Aeronáutica por um dos Subdepartamentos do DECEA. (NR) –
+Portaria DECEA nº /DNOR4, de de março de 2023
+
+--- PÁGINA ---
+14/24 ICA 53-9/2022
+3 FORMATO AIC
+3.1 REGRAS PARA CONFECÇÃO
+A AIC é composta por cabeçalho, título e texto e, caso necessário, pode-se
+adicionar anexos. O formato AIC (Anexo A) tem por objetivo padronizar a apresentação dos
+diversos tipos de informação, bem como facilitar a compreensão pelos usuários.
+3.1.1 CABEÇALHO
+3.1.1.1 Cada edição de AIC deverá começar com o cabeçalho padrão de identificação e com o
+título, conforme a figura abaixo:
+AIC
+Contato: AIC
+Ministério da Defesa Brasil
+Comando da Aeronáutica
+N XX/YY
+Departamento de Controle
+do Espaço Aéreo –
+DECEA
+Av. Gen. Justo, 160 Data de publicação
+CEP 20021-130 DD MMM
+Rio de Janeiro, RJ – Brasil
+AFS: SBRJZXIC AIM || Brasil
+https://www.decea.mil.br
+MODELO DE AIC
+Figure 1 - Cabeçalho
+3.1.1.2 Os cabeçalhos a partir da segunda página, incluindo cabeçalhos dos anexos, conterão o
+número da página alinhado à esquerda, no formato “Pág. X”, e o número completo da AIC, no
+formato “AIC N XX/YY”, alinhado à direita.
+3.1.1.3 Os cabeçalhos das AIC A e N serão idênticos, com exceção da identificação “N” ou “A”
+que antecede a numeração.
+Exemplo:
+3.1.2 TEXTO
+3.1.2.1 Será utilizada fonte Arial, impressa em preto, com tamanho 12 no texto, 11 nas citações
+e 10 nas notas de rodapé.
+
+--- PÁGINA ---
+ICA 53-9/2022 15/24
+NOTA: Poderão ser usadas cores para a impressão, caso seja relevante para a interpretação da
+informação divulgada.
+3.1.2.2 O texto dos documentos será dividido em até três níveis numerados com algarismos
+arábicos, conforme segue:
+a) nível 1: título em negrito, em caixa alta, a 18 pontos do texto que o precede;
+b) nível 2: título sublinhado, em caixa alta, a 12 pontos do texto que o precede;
+c) nível 3: título em caixa alta, a 12 pontos do texto que o precede.
+3.1.2.3 O uso de um quarto nível deverá ser evitado, mas, se necessário, possuirá título com
+iniciais em caixa alta, sublinhado, a 12 pontos do texto que o precede.
+3.1.2.4 Parágrafos são as principais divisões do texto e são numerados com algarismos arábicos,
+na margem esquerda da folha, seguindo a lógica de numeração em níveis.
+NOTA: Nos níveis em que houver somente um parágrafo, este não deverá possuir numeração.
+Neste caso, terá recuo de 2,5 cm na primeira linha.
+3.1.2.5 Poderão ser utilizadas alíneas, itens ou notas, quando necessário, seguindo as seguintes
+especificações:
+a) Alíneas são ordenadas alfabeticamente por letras minúsculas, seguidas de
+parêntese;
+b) Itens são iniciados com um hífen;
+c) Notas são iniciadas com a palavra “NOTA”, em caixa alta, sendo que, quando
+houver mais de uma nota relacionada ao mesmo parágrafo, alínea ou item,
+estas deverão ser numeradas em ordem crescente;
+NOTA 1: Alíneas, itens ou notas iniciam sob a primeira letra da divisão que lhe deu origem.
+NOTA 2: Os parágrafos, alíneas, itens e notas terão espaçamento simples entre as linhas,
+antecedidos por espaçamento de 6 pontos.
+
+--- PÁGINA ---
+16/24 ICA 53-9/2022
+4 PROCESSAMENTO
+Este capítulo tem por objetivo estabelecer a sequência das atividades sob
+responsabilidade dos órgãos do SISCEAB envolvidos na elaboração, modificação,
+homologação e publicação de uma AIC.
+4.1 PROCESSOS DE ELABORAÇÃO E PUBLICAÇÃO
+4.1.1 O processo para publicação de uma AIC poderá ser iniciado pelos Subdepartamentos do
+DECEA, Órgãos Regionais e demais unidades subordinadas, Órgãos externos ao DECEA ou
+pelo Instituto de Cartografia Aeronáutica. As ações e responsabilidades, ao longo do processo,
+estão descritas conforme o Anexo B.
+4.1.2 O responsável pelo início do processo, Autoridade Originadora, deverá levantar todas as
+informações necessárias que serão publicadas na AIC, devendo adotar os seguintes
+procedimentos:
+a) planejar a divulgação da informação a fim de que seja divulgada com
+antecedência necessária;
+b) elaborar a proposta de AIC observando estritamente o modelo, instruções e
+formatação descritos no anexo A;
+c) avaliar a necessidade de publicação da AIC série A e, caso seja pertinente,
+providenciar também a versão em inglês do documento, antes de seu envio ao
+DECEA ou Organização Regional, conforme o caso.
+4.1.3 Caso a necessidade de divulgação de informação por meio de AIC tenha origem em órgão
+externo ao DECEA, este deverá encaminhar a proposta de AIC ao Órgão Regional que tenha
+jurisdição sobre a sua área para apreciação ou, caso o assunto tenha alcance nacional,
+encaminhar a proposta de AIC ao SDOP.
+4.1.4 As propostas de AIC que tenham origem da Autoridade da Aviação Civil deverão ser
+encaminhadas diretamente ao DECEA.
+4.1.5 As AIC de Publicações Aeronáuticas, emitidas a cada ciclo AIRAC, serão propostas,
+analisadas, aprovadas e publicadas pelo ICA, não sendo necessário seu encaminhamento ao
+DECEA.
+
+--- PÁGINA ---
+ICA 53-9/2022 17/24
+4.1.6 Os Subdepartamentos do DECEA são responsáveis por analisar e aprovar as propostas de
+AIC, podendo também originar AIC de assuntos sob sua competência.
+4.1.7 Os Subdepartamentos do DECEA poderão aceitar ou rejeitar a proposta de AIC após
+analisar os seguintes conteúdos:
+a) compatibilidade com sua finalidade;
+b) âmbito da divulgação do conteúdo da proposta de AIC;
+c) propriedade de seu título;
+d) correspondência entre a versão em inglês e a versão em português; e
+e) anexos, caso existam, conforme a natureza do assunto a ser abordado.
+4.1.8 As AIC relacionadas a assuntos operacionais serão analisadas e aprovadas pelo SDOP.
+4.1.9 As que estão relacionadas a assuntos exclusivamente técnicos, pelo SDTE.
+4.1.10 As que estão relacionadas a assuntos exclusivamente administrativos, pelo SDAD.
+4.1.11 Caso uma AIC esteja relacionada a assuntos da competência de mais de um
+Subdepartamentos, deverá ser apreciada por todos os envolvidos.
+4.1.12 A data de publicação das AIC será estabelecida pelo Subdepartamento do DECEA
+responsável pela aprovação. (NR) – Portaria DECEA nº /DNOR4, de de março de 2023.
+4.1.13 Após a aprovação, os Subdepartamentos do DECEA devem encaminhar a AIC em
+arquivo doc. ao Instituto de Cartografia Aeronáutica para dar continuidade ao processo de
+publicação.
+4.1.14 Para garantir o controle, a rastreabilidade e a consistência das informações aeronáuticas,
+todas as solicitações para publicação, revogação ou cancelamento de AIC devem ser
+encaminhadas ao ICA por meio do Sistema SDIA.
+4.1.15 O ICA é responsável por controlar e atribuir a numeração às AIC, bem como
+providenciar a publicação destas no AISWEB.
+4.1.16 Na revogação ou cancelamento de uma AIC, a Autoridade Originadora da AIC ou
+responsável pela informação deverá adotar os seguintes procedimentos, conforme o caso:
+a) se uma AIC motivar a revogação de uma ou mais AIC, deverá providenciar
+nas Disposições Finais da nova AIC o item referente à revogação e solicitar
+
+--- PÁGINA ---
+18/24 ICA 53-9/2022
+ao ICA a atualização do AISWEB, informando o número da AIC revogada;
+e
+b) se o conteúdo de uma AIC for cancelado, deverá solicitar ao ICA a
+atualização do AISWEB, após submeter o assunto à apreciação da autoridade
+competente.
+
+--- PÁGINA ---
+ICA 53-9/2022 19/24
+5 DISPOSIÇÕES FINAIS
+5.1 As sugestões, para o contínuo aperfeiçoamento desta publicação, deverão ser enviadas por
+meio dos endereços eletrônicos http://publicacoes.decea.intraer/ ou
+http://publicacoes.decea.mil.br/, acessando o link específico da publicação.
+5.2 Os casos não previstos nesta Instrução serão submetidos à apreciação do Sr. Chefe do
+Subdepartamento de Operações do Departamento de Controle do Espaço Aéreo.
+
+--- PÁGINA ---
+20/24 ICA 53-9/2022
+REFERÊNCIAS
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Solicitação
+de Divulgação de Informação Aeronáutica: ICA 53-4. Rio de Janeiro, 2019.
+____. Serviço de Informação Aeronáutica: ICA 53-8. Rio de Janeiro, 2020.
+____. Catálogo de Requisitos de Dados e Informações Aeronáuticas: TCA 53-2. Rio de Janeiro,
+2019.
+CANADÁ. Organização da Aviação Civil Internacional (OACI). Serviços de Informação
+Aeronáutica: Anexo 15. Montreal, 2018.
+_____. Manual para os Serviços de Informação Aeronáutica: Doc 8126. Montreal, 2022.
+_____. PANS Gestão da Informação Aeronáutica: Doc 10066. Montreal, 2018.
+
+--- PÁGINA ---
+ICA 53-9/2022 21/24
+ANEXO A - Formato AIC
+
+--- PÁGINA ---
+22/24 ICA 53-9/2022
+Continuação do Anexo A – Formato AIC
+
+--- PÁGINA ---
+ICA 53-9/2022 23/24
+Continuação do Anexo A – Formato AIC
+
+--- PÁGINA ---
+24/24 ICA 53-9/2022
+ANEXO B - Processos de elaboração de AIC

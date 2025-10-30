@@ -1,0 +1,1436 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+QUALIDADE
+ICA 800-8
+GARANTIA DA SEGURANÇA AVSEC PARA O
+SISCEAB
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+QUALIDADE
+ICA 800-8
+GARANTIA DA SEGURANÇA AVSEC PARA O
+SISCEAB
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA Nº 174/SDAD_AVSEC, DE 3 DE MAIO DE 2022.
+Protocolo COMAER nº 67600.008005/2022-14
+Aprova a reedição da ICA 800-8,
+que dispõe sobre Garantia da
+Segurança AVSEC para o
+SISCEAB.
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 19, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 6.834, de 30 de abril
+de 2009, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA,
+aprovado pela Portaria nº 2.030/GC3, de 22 de novembro de 2019, e nos incisos II e VI
+do art. 14 do Decreto 7.168, de 5 de maio de 2010, resolve:
+Art. 1º Aprovar a reedição da ICA 800-8 “Garantia da Segurança AVSEC
+para o SISCEAB”, que com esta baixa.
+Art. 2º Esta Instrução entra em vigor em 1º de junho de 2022.
+Ten Brig Ar JOÃO TADEU FIORENTINI
+Diretor-Geral do DECEA
+(Publicada no BCA nº 88, de 12 de maio de 2022)
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 800-8/2022
+SUMÁRIO
+1.1 FINALIDADE .................................................................................................................. 9
+1.2 ÂMBITO ........................................................................................................................... 9
+2.1 SIGLAS ........................................................................................................................... 10
+2.2 DEFINIÇÕES ................................................................................................................. 12
+3.1 OBJETIVOS DA GARANTIA DA SEGURANÇA AVSEC ........................................ 21
+4.1 DIREÇÃO-GERAL DO DECEA ................................................................................... 22
+4.2 SUBDEPARTAMENTOS DO DECEA – SDAD, SDOP E SDTE ............................... 22
+4.3 AVSECCEA .................................................................................................................... 22
+4.4 ÓRGÃOS REGIONAIS EXECUTIVOS E 1º GCC ....................................................... 23
+4.5 CIMAER, CGNA, GEIV, ICA E PAME-RJ .................................................................. 23
+4.6 ÓRGÃOS ATS (DTCEA, DNB E EPTA CATEGORIAS “ESPECIAL” E “A”) E
+ESQUADRÕES DO GCC .............................................................................................. 24
+4.7 JUNTA DE JULGAMENTO DA AERONÁUTICA ..................................................... 24
+5.1 VISTORIA DE SEGURANÇA AVSEC DAS INSTALAÇÕES ................................... 25
+5.2 VISITA TÉCNICA AVSEC NO SISCEAB ................................................................... 25
+5.3 INSPEÇÕES AVSEC ..................................................................................................... 26
+5.4 AUDITORIAS AVSEC NO SISCEAB .......................................................................... 27
+5.5 TESTES E EXERCÍCIOS SIMULADOS AVSEC PARA OS ELOS DO SISCEAB ... 28
+6.1 PCQ AVSEC (PNCQ, PRCQ E PLCQ) – DIRETRIZES .............................................. 31
+6.2 PCQ AVSEC (PNCQ, PRCQ E PLCQ) – PLANEJAMENTO ...................................... 32
+7.1 RCQ AVSEC (RLCQ, RRCQ E RNCQ) – DIRETRIZES ............................................. 34
+7.2 RCQ AVSEC (RNCQ, RRCQ E RLCQ) – PLANEJAMENTO .................................... 35
+8.1 RECURSOS HUMANOS ............................................................................................... 37
+8.2 RECURSOS FINANCEIROS ......................................................................................... 38
+9.1 GENERALIDADES ....................................................................................................... 39
+9.2 INDICADORES AVSEC ............................................................................................... 39
+
+--- PÁGINA ---
+ICA 800-8/2022
+Anexo A – Modelo de Programa de Controle de Qualidade AVSEC ...................... 45
+Anexo B – Modelo de Relatório de Controle de Qualidade AVSEC ........................ 46
+
+--- PÁGINA ---
+ICA 800-8/2022
+PREFÁCIO
+De acordo com as recomendações do Anexo 17 da OACI, o Brasil deve
+desenvolver um programa nacional de controle de qualidade de segurança da aviação civil como
+um componente fundamental de um sistema de Segurança (Security), com a finalidade de
+monitorar a eficácia das medidas AVSEC estabelecidas.
+O Programa Nacional de Segurança da Aviação Civil contra Atos de
+Interferência Ilícita (PNAVSEC) institui a implementação de um Programa Nacional de
+Controle de Qualidade AVSEC (PNCQ/AVSEC) para o SISCEAB.
+O DECEA normatizou a Segurança AVSEC no SISCEAB, por meio da DCA
+205-7 “Diretriz de Segurança AVSEC para o SISCEAB”, em atendimento ao PNAVSEC, a fim
+de estar em conformidade com os padrões e práticas recomendadas (SARP – Standards and
+Recommended Practices) pela OACI, bem como com as normas e os regulamentos
+estabelecidos pelo Estado Brasileiro e pelo COMAER.
+O COMAER, por meio do DECEA, Órgão Central do SISCEAB, instituiu a ICA
+205-48 “PNAVSECCEA” com base na implementação de um Sistema de Gerenciamento de
+Segurança (SeMS – Security Management System), o qual apresenta como um de seus pilares
+principais a Garantia da Segurança, estabelecida a partir do Programa de Controle de Qualidade
+AVSEC.
+A Garantia da Segurança AVSEC, descrita nesta Instrução, monitora e mede o
+nível de aderência das normas AVSEC no SISCEAB mediante a realização das atividades de
+Controle de Qualidade AVSEC. Os objetivos da Garantia da Segurança AVSEC devem ser
+alcançados pelo estabelecimento de um cronograma de vistorias de Segurança AVSEC nas
+instalações, em visitas técnicas, inspeções, auditorias, testes e exercícios simulados.
+Desta forma, os Elos do SISCEAB devem desenvolver as atividades de controle
+de qualidade para avaliar e melhorar continuamente a eficácia do Sistema de Gerenciamento de
+Segurança AVSEC (SeMS).
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 800-8/2022
+DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+Implementar a Garantia da Segurança AVSEC mediante a realização de
+atividades de Controle de Qualidade descritas no PCQ AVSEC que contribuem para o
+monitoramento do Sistema de Gerenciamento da Segurança (SeMS) do SISCEAB, por meio de
+diagnóstico apresentado no RCQ AVSEC.
+1.2 ÂMBITO
+Esta Instrução aplica-se a todos os Elos do SISCEAB.
+
+--- PÁGINA ---
+ICA 800-8/2022 10/46
+SIGLAS E DEFINIÇÕES
+2.1 SIGLAS
+ACC Centro de Controle de Área
+ANAC Agência Nacional de Aviação Civil
+ANO A Ano de realização das atividades
+ANO A+1 Ano subsequente
+ANO A-1 Ano anterior
+ATC Controle de Tráfego Aéreo
+ATS Serviço de Tráfego Aéreo
+ASOCEA Assessoria de Segurança Operacional do Controle do Espaço Aéreo
+AVSEC Segurança da Aviação Civil contra Atos de Interferência Ilícita
+AVSECCEA Assessoria de Segurança da Aviação Civil no Controle do Espaço Aéreo
+CGNA Centro de Gerenciamento da Navegação Aérea
+CIMAER Centro Integrado de Meteorologia Aeronáutica
+CINDACTA Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo
+COMAER Comando da Aeronáutica
+CRCEA-SE Centro Regional de Controle do Espaço Aéreo Sudeste
+CSA Comissão de Segurança Aeroportuária
+DCA Diretriz do Comando da Aeronáutica
+DECEA Departamento de Controle do Espaço Aéreo
+DGCEA Direção-Geral do DECEA
+DNB Dependência da NAV Brasil
+DTCEA Destacamento de Controle do Espaço Aéreo
+DTCEATM-RJ Destacamento de Controle do Espaço Aéreo e Telemática do Rio de
+Janeiro
+EPTA Estação Prestadora de Serviços de Telecomunicação e de Tráfego Aéreo
+1º GCC 1º Grupo de Comando e Controle
+GEIV Grupo Especial de Inspeção em Voo
+
+--- PÁGINA ---
+11/46 ICA 800-8/2022
+ICA Instituto de Cartografia da Aeronáutica
+JJAer Junta de Julgamento da Aeronáutica
+N/C Não Conformidade
+OACI Organização da Aviação Civil Internacional
+OM Organização Militar
+PAME-RJ Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro
+PCQ/AVSEC Programa de Controle de Qualidade AVSEC
+PENTEST Teste de ataque cibernético aos Sistemas ATM
+PES-AVSEC Plano Específico de Segurança AVSEC
+PLANSET Plano Setorial do DECEA
+PLCQ Programa Local de Controle de Qualidade AVSEC
+PNAVSEC Programa Nacional de Segurança da Aviação Civil Contra Atos de
+Interferência Ilícita
+PNAVSECCEA Programa Nacional de Segurança AVSEC para o Sistema de Controle do
+Espaço Aéreo Brasileiro
+PNCQ Programa Nacional de Controle de Qualidade AVSEC
+PRCQ Programa Regional de Controle de Qualidade AVSEC
+PSA Programa de Segurança Aeroportuária
+PSNA Provedor de Serviço de Navegação Aérea
+RLCQ Relatório Local de Controle de Qualidade AVSEC
+RNCQ Relatório Nacional de Controle de Qualidade AVSEC
+RRCQ Relatório Regional de Controle de Qualidade AVSEC
+SDAD Subdepartamento de Administração
+SDOP Subdepartamento de Operações
+SDTE Subdepartamento Técnico
+SISCEAB Sistema de Controle do Espaço Aéreo Brasileiro
+SeMS Security Management System – Sistema de Gerenciamento da Segurança
+AVSEC
+
+--- PÁGINA ---
+ICA 800-8/2022 12/46
+2.2 DEFINIÇÕES
+Os termos empregados nesta Instrução são de uso corrente no Comando da
+Aeronáutica, na ICA 205-48 “Programa Nacional de Segurança AVSEC para o SISCEAB” e
+demais Normas de Segurança AVSEC; no PNAVSEC; no Anexo 17, Doc 8973, 9985 e 9807
+da OACI.
+2.2.1 ADMINISTRAÇÃO AEROPORTUÁRIA
+Órgão, entidade ou empresa responsável pela exploração de um ou mais
+aeroportos com estrutura organizacional definida e dedicada à gestão de aeroportos.
+2.2.2 AGENTE AVSEC
+É o profissional capacitado para coordenar, controlar e executar atividades
+AVSEC no SISCEAB.
+2.2.3 AMEAÇA
+Intenção declarada de causar prejuízo, dano ou outra ação hostil a alguém, não
+se restringindo apenas a um evento isolado, podendo ser compreendida como circunstância ou
+tendência.
+2.2.4 ÁREA RESTRITA DE SEGURANÇA AVSEC (ARS AVSEC)
+Área interna que contém as instalações operacionais de um elo do SISCEAB,
+identificada como área prioritária de risco, onde, além do controle de acesso, outros controles
+de segurança podem ser aplicados. Somente pessoal devidamente autorizado poderá adentrar.
+Essas áreas incluem, mas não se limitam a: salas operacionais das rádios, ACC, APP e Torres
+de Controle, casas de força, grupo de geradores, salas de servidores de rede de computadores,
+dos sistemas críticos e outras, de acordo com a análise de risco local.
+2.2.5 ARTEFATO QBRN – QUÍMICO, BIOLÓGICO, RADIOLÓGICO E NUCLEAR
+Dispositivo constituído de material químico, biológico, radiológico ou nuclear
+capaz de provocar danos a pessoas, aeronaves ou ambientes.
+2.2.6 ASSESSORIA DE AVALIAÇÃO DE RISCO (AAR)
+Grupo ativado em nível local (aeroporto), com a finalidade de avaliar o nível de
+ameaça da segurança da aviação civil, definir os procedimentos decorrentes e acionar as
+organizações envolvidas, conforme previsto no PNAVSEC e nos atos normativos da ANAC,
+do COMAER e da Polícia Federal, visando garantir continuidade dos serviços e atividades de
+acordo com o plano de contingência aplicável.
+2.2.7 ASSESSORIA DE SEGURANÇA OPERACIONAL DO CONTROLE DO ESPAÇO
+AÉREO – ASOCEA
+É um órgão externo ao SISCEAB e de assessoria direta ao Comandante da
+Aeronáutica (CMTAER), com a missão de assessorá-lo nos assuntos relativos à supervisão da
+segurança do Serviço de Navegação Aérea.
+
+--- PÁGINA ---
+13/46 ICA 800-8/2022
+2.2.8 ATO DE INTERFERÊNCIA ILÍCITA CONTRA A AVIAÇÃO CIVIL
+Ato ou atentado que compromete a segurança da aviação civil e o transporte
+aéreo, incluindo, mas não limitado a:
+a) apoderamento de aeronave;
+b) destruição de aeronave em serviço;
+c) manutenção de refém a bordo de aeronaves ou em aeródromos;
+d) invasão a aeronave, aeroporto ou instalação aeronáutica;
+e) introdução de arma, artefato ou material perigoso, com intenções criminosas,
+a bordo de aeronave ou em um aeroporto;
+f) uso de aeronave em serviço com propósito de causar morte, ferimentos
+graves ou prejuízos graves à propriedade ou ao meio ambiente;
+g) comunicação de informação falsa que coloque em risco a segurança de
+aeronave em voo ou no solo, dos passageiros, da tripulação, do pessoal de
+terra ou público em geral, no aeroporto ou nas dependências de instalação de
+navegação aérea;
+h) ataque a aeronaves utilizando Sistema Antiaéreo Portátil;
+i) ataque a aeronaves utilizando arma de fogo;
+j) interferência nos auxílios a navegação;
+k) interferência em sistema de informação de missão crítica do SISCEAB;
+l) uso de drone que possa afetar a segurança da aviação; e
+m) acionamento do código transponder 7500.
+2.2.9 AUDITOR AVSEC
+É o Agente AVSEC, capacitado em curso específico realizado pelo ICEA, que
+em cumprimento a um Programa de Auditoria, ou determinação expressa do DECEA, realiza,
+junto aos Elos do SISCEAB, verificação do grau de conformidade da implementação e
+manutenção das normas e procedimentos de Segurança AVSEC.
+2.2.10 AUDITORIA AVSEC
+As auditorias AVSEC no SISCEAB verificam o grau de conformidade da
+implementação das diretrizes, processos e procedimentos previstos nas normas de Segurança
+AVSEC, bem como a apresentação de suas evidências de cumprimento.
+A Auditoria AVSEC deve ser precedida pela entrega de protocolos para os Elos
+do SISCEAB auditados e devem ser realizadas por profissional capacitado no curso SEC 006
+E do ICEA.
+2.2.11 AVSEC – AVIATION SECURITY
+Salvaguarda da aviação civil contra atos de interferência ilícita, por meio da
+combinação de medidas, recursos humanos e materiais.
+
+--- PÁGINA ---
+ICA 800-8/2022 14/46
+2.2.12 CONTROLE DE QUALIDADE AVSEC
+Técnicas e atividades de supervisão empregadas para avaliar a Segurança AVSEC
+nos Elos do SISCEAB e correção das deficiências identificadas.
+São consideradas atividades programadas para o controle de qualidade nas
+Organizações do SISCEAB:
+a) as vistorias de Segurança AVSEC;
+b) as visitas técnicas;
+c) as inspeções;
+d) as auditorias;
+e) os testes; e
+f) os exercícios simulados.
+2.2.13 COMISSÃO DE SEGURANÇA AEROPORTUÁRIA (CSA)
+É a comissão que reúne, regular ou extraordinariamente, as organizações e
+representantes de empresas com atividades operacionais nos aeroportos públicos brasileiros,
+envolvidos com a segurança da aviação civil, para tratar dos aspectos relacionados ao PSA.
+2.2.14 CRONOGRAMA DE AUDITORIA AVSEC
+Descrição cronológica das auditorias que constam no PCQ AVSEC.
+Conjunto de atividades planejadas para um período anual (ciclo) e direcionadas
+para verificar a aplicação e formas de cumprimento das normas AVSEC no SISCEAB.
+2.2.15 CRONOGRAMA DE VISITA TÉCNICA AVSEC
+Descrição cronológica das visitas técnicas que constam no PCQ AVSEC.
+Conjunto de atividades planejadas para um período anual (ciclo) e direcionadas
+para verificar o cumprimento das normas AVSEC no SISCEAB.
+2.2.16 DEPENDÊNCIA DA NAV BRASIL (DNB)
+Filial da NAV Brasil com autonomia administrativa e responsável por prestar os
+serviços delegados à empresa em determinada localidade.
+Para efeito da presente Instrução, serão consideradas as DNB Categorias
+“Especial” e “A”.
+2.2.17 ELOS DO SISCEAB
+Conforme a NSCA 351-1/2022, constituem Elos do SISCEAB as entidades civis
+e militares que desenvolvem, de forma permanente ou eventual, atividades relacionadas com o
+controle do espaço aéreo, tais como:
+a) organizações subordinadas ao DECEA;
+
+--- PÁGINA ---
+15/46 ICA 800-8/2022
+b) órgãos operacionais, estações prestadoras de serviços de telecomunicações e
+de tráfego aéreo (EPTA);
+c) entidades da administração pública direta ou indireta vinculadas ou não ao
+COMAER; e
+d) entidades privadas, independentemente de seu nível ou grau, mediante
+convênio, contrato, concessão ou autorização específica, outorgada pelo
+Órgão Central.
+Os Elos do SISCEAB ficam sujeitos às orientações normativas, à supervisão
+técnica e operacional, bem como às fiscalizações específicas do órgão central, respeitada a
+subordinação à estrutura a que pertencem.
+2.2.18 EXERCÍCIO SIMULADO AVSEC
+Simulação de um ato de interferência ilícita para verificar a eficiência e eficácia
+dos procedimentos contidos no(s) plano(s) de contingência (ações que devem ser executadas
+para resposta a um determinado ato de interferência ilícita).
+2.2.19 EXERCÍCIO SIMULADO DE MESA (TABLE TOP)
+Exercício avançado, desenvolvido para treinar e analisar planos e procedimentos
+afetos à coordenação e avaliação de responsabilidades em um ambiente informal, sem restrições
+de tempo-resposta e estresse de uma simulação. Essa metodologia é discutida com a figura de
+um facilitador e sua eficácia é determinada pelo feedback dos participantes que analisam
+impactos na revisão de procedimentos e investimento de recursos.
+2.2.20 GARANTIA DA SEGURANÇA AVSEC
+Parte integrante da gestão do SeMS focada em prover a confiança de que os
+requisitos da Segurança AVSEC serão atendidos.
+A Garantia da Segurança AVSEC para o SISCEAB verifica a eficiência e a eficácia
+do SeMS, melhorando, continuamente, esse sistema. Está dividida em duas partes: Controle de
+Qualidade AVSEC e Melhoria Contínua.
+2.2.21 GERENCIAMENTO DA MUDANÇA
+Processo para identificar, analisar e planejar as mudanças com potencial de afetar a
+Segurança AVSEC nos Elos do SISCEAB.
+2.2.22 GERENTE LOCAL AVSEC
+É o profissional capacitado responsável por coordenar, controlar e executar as
+atividades AVSEC desenvolvidas em sua Organização.
+2.2.23 GERENTE NACIONAL AVSEC
+É o profissional capacitado para realizar a gestão estratégica das atividades
+AVSEC no SISCEAB.
+
+--- PÁGINA ---
+ICA 800-8/2022 16/46
+2.2.24 GERENTE REGIONAL AVSEC
+É o profissional capacitado para gerenciar as atividades AVSEC nos Órgãos
+Regionais Executivos e nas Organizações sob sua jurisdição, bem como controlar e executar as
+atividades afetas à sua Organização.
+2.2.25 INDICADORES AVSEC
+Segundo a definição descrita na ICA 63-38/2015, os indicadores são
+instrumentos de gestão que utilizam dados estatísticos, obtidos de maneira padronizada e
+regular, que permitem medir o desempenho de determinado processo, bem como o alcance da
+meta a ele associado. Além de sinalizar oportunamente possíveis desvios, os Indicadores
+possuem um caráter preventivo, já que permitem uma previsão da probabilidade de determinado
+evento vir a ocorrer.
+2.2.26 INSPETOR AVSEC
+É o profissional capacitado pela ASOCEA, para executar as atividades de
+Inspeção AVSEC designadas pelo COMAER.
+2.2.27 INSPEÇÃO AVSEC
+Processo, coordenado pela ASOCEA, de verificação da conformidade normativa
+das atividades desenvolvidas pelas organizações inspecionadas quanto ao que estabelece o
+Órgão Central do SISCEAB, em relação à segurança da aviação civil contra atos de
+interferência ilícita. No DECEA, este processo verifica a conformidade com as disposições
+constantes dos Anexos à Convenção de Aviação Civil Internacional e do nível de
+implementação dos elementos críticos de um sistema de supervisão da segurança da aviação
+civil contra atos de interferência ilícita.
+As atividades de Inspeção AVSEC no SISCEAB, designadas pelo COMAER,
+são realizadas pela ASOCEA.
+2.2.28 MELHORIA CONTÍNUA
+Atividade recorrente que visa melhorar expectativas de desempenho, por meio
+de metas estabelecidas. A implementação dessas metas e o estudo de resultados alcançados com
+propostas de medidas corretivas devem projetar um processo contínuo de aperfeiçoamento de
+um sistema.
+2.2.29 NÃO CONFORMIDADE (N/C)
+Não atendimento de um protocolo e/ou requisito de uma Auditoria AVSEC.
+2.2.30 NORMAS DE SEGURANÇA AVSEC
+Conjunto de legislações elaboradas pelo DECEA que normatizam as atividades
+de Segurança AVSEC para o SISCEAB.
+
+--- PÁGINA ---
+17/46 ICA 800-8/2022
+2.2.31 ÓRGÃO CENTRAL DO SISCEAB
+Organização responsável pela elaboração das normas nacionais que aplicam no
+país as provisões constantes dos Anexos à Convenção de Aviação Civil Internacional e seus
+documentos complementares. No caso do SISCEAB, o órgão central é o DECEA.
+2.2.32 ÓRGÃO DE CONTROLE DE TRÁFEGO AÉREO
+Expressão genérica que se aplica, segundo o caso, a um Centro de Controle de
+Área, Controle de Aproximação ou Torre de Controle de Aeródromo.
+2.2.33 ÓRGÃO DOS SERVIÇOS DE TRÁFEGO AÉREO
+Expressão genérica que se aplica, segundo o caso, a um órgão de controle de
+tráfego aéreo ou a um órgão de informação de voo.
+São os Elos do SISCEAB que prestam os serviços de tráfego aéreo (Air Traffic
+Service) autorizados pelo DECEA.
+NOTA: Por conveniência, a expressão “órgão dos serviços de tráfego aéreo” é abreviada para
+“Órgão ATS” nesta publicação.
+2.2.34 ÓRGÃO REGIONAL EXECUTIVO
+Organização do DECEA que tem sob sua jurisdição os Elos do SISCEAB que
+executam atividades relacionadas com o controle do espaço aéreo, telecomunicações,
+meteorologia e informações aeronáuticas. São os CINDACTA e o CRCEA-SE.
+2.2.35 PLANO ESPECÍFICO DE SEGURANÇA AVSEC (PES-AVSEC)
+Documento de caráter reservado que descreve as ações necessárias para
+salvaguardar os Elos do SISCEAB contra atos de interferência ilícita.
+2.2.36 PLANO DE AÇÕES CORRETIVAS
+Plano elaborado pela Organização Auditada, após submeter-se a uma auditoria
+AVSEC, que se destina a informar ao Órgão Regional as ações que serão implementadas para
+eliminar as não conformidades (correção) e eliminar a causa raiz (ação corretiva) observadas e
+registradas pelos auditores em seus relatórios.
+2.2.37 PROGRAMA DE SEGURANÇA AEROPORTUÁRIA (PSA)
+Programa veiculado em documento reservado, elaborado pela administração
+aeroportuária, aprovado pela ANAC, que define responsabilidades, bem como a coordenação
+entre os órgãos e entidades envolvidos e as ações e medidas de segurança a serem adotadas no
+aeroporto, relacionadas à proteção da aviação civil contra atos de interferência ilícita.
+2.2.38 PROGRAMA NACIONAL DE SEGURANÇA DA AVIAÇÃO CIVIL CONTRA
+ATOS DE INTERFERÊNCIA ILÍCITA (PNAVSEC)
+Programa criado por intermédio do Decreto Presidencial nº 7.168, de 5 de maio
+de 2010, que tem como objetivo disciplinar a aplicação de medidas de segurança destinadas a
+
+--- PÁGINA ---
+ICA 800-8/2022 18/46
+garantir a integridade de passageiros, tripulantes, pessoal de terra, público em geral, aeronaves
+e instalações de aeroportos brasileiros, a fim de proteger as operações da aviação civil contra
+atos de interferência ilícita cometidos no solo ou em voo.
+2.2.39 PROGRAMA NACIONAL DE SEGURANÇA AVSEC PARA O SISCEAB
+(PNAVSECCEA)
+O PNAVSECCEA (ICA 205-48) tem por finalidade definir procedimentos para
+aplicação de medidas nas camadas de segurança, visando garantir a Segurança AVSEC nas
+diversas atividades do SISCEAB.
+2.2.40 PROTOCOLOS DE AUDITORIA AVSEC
+Relação de itens, baseados nos requisitos das Normas AVSEC do SISCEAB, que
+têm a finalidade de orientar uma auditoria, auxiliando o auditor em suas pesquisas de evidências
+de conformidade da Organização Auditada.
+2.2.41 REQUISITO
+Necessidade ou expectativa que é declarada, geralmente implícita ou obrigatória
+para atender a uma Auditoria, descrita nas Normas AVSEC do SISCEAB.
+2.2.42 RELATÓRIO DE AUDITORIA OU VISITA TÉCNICA AVSEC
+Documento elaborado pelo Auditor Líder que retrata a condição da Organização
+Auditada no período da auditoria.
+2.2.43 RESPONSÁVEL DO ELO DO SISCEAB
+É o Diretor/Comandante/Chefe/Gerente de um Elo do SISCEAB.
+2.2.44 SEGURANÇA AVSEC (SECURITY)
+São ações e medidas implementadas contra ilícitos para a segurança patrimonial de
+instalações, equipamentos, pessoas, comunicações e transmissão de dados.
+O termo Security nos Anexos 17, Doc 8973 e Doc 9985 da OACI deve ser entendido
+como Segurança AVSEC neste Programa.
+2.2.45 SISTEMA DE CONTROLE DO ESPAÇO AÉREO BRASILEIRO (SISCEAB)
+Sistema que tem por finalidade prover os meios necessários para o gerenciamento
+e o controle do espaço aéreo e o serviço de navegação aérea, de modo seguro e eficiente,
+conforme estabelecido nas normas nacionais e nos acordos e tratados internacionais dos quais
+o Brasil faça parte. As atividades desenvolvidas no âmbito do SISCEAB são aquelas realizadas
+em prol do gerenciamento e do controle do espaço aéreo, de forma integrada, civil e militar,
+com vistas à vigilância, à segurança e à defesa do espaço aéreo sob a jurisdição do Estado
+Brasileiro.
+
+--- PÁGINA ---
+19/46 ICA 800-8/2022
+2.2.46 SISTEMA DE GERENCIAMENTO DA SEGURANÇA AVSEC (SEMS)
+Sistema para gerenciar a Segurança AVSEC, com uma abordagem sistêmica e
+integrada, que permite o monitoramento das atividades de controle de qualidade desenvolvidas
+pelos Elos do SISCEAB.
+Esse Sistema contém quatro macroprocessos: a Diretriz, o Gerenciamento do
+Risco, a Garantia da Segurança (Controle de Qualidade) e a Promoção da Segurança.
+2.2.47 TESTES AVSEC
+Simulação de uma tentativa de ato de interferência ilícita para verificar a eficiência
+e eficácia dos procedimentos preventivos de Segurança AVSEC.
+2.2.48 VISITAS TÉCNICAS AVSEC
+Atividade de controle de qualidade que verifica a conformidade das normas e
+procedimentos de Segurança AVSEC no SISCEAB.
+A Visita Técnica precede o processo de uma Auditoria e deve registrar, por meio
+de diagnóstico, as vulnerabilidades no sistema de Segurança AVSEC do Elo do SISCEAB,
+definindo prazos para a adoção de medidas corretivas, bem como os seus responsáveis.
+2.2.49 VISTORIA DE SEGURANÇA AVSEC DAS INSTALAÇÕES
+É uma atividade do controle de qualidade que tem como objetivo informar ao
+chefe/gerente a situação da Segurança das instalações ou sistema de segurança interna no Elo
+do SISCEAB.
+
+--- PÁGINA ---
+ICA 800-8/2022 20/46
+GARANTIA DA SEGURANÇA AVSEC NO SISTEMA DE GERENCIAMENTO
+(SeMS)
+O Programa Nacional de Segurança AVSEC para o SISCEAB (PNAVSECCEA)
+– ICA 205-48 – implementa um Sistema de Gerenciamento da Segurança AVSEC (Security
+Management System – SeMS) para gerenciar de forma mais eficiente e eficaz a Segurança
+AVSEC em todo o SISCEAB.
+É atribuído ao Órgão Central a supervisão e a gestão do Sistema de
+Gerenciamento de Segurança AVSEC (SeMS), cabendo aos Órgãos Regionais Executivos e aos
+Elos do SISCEB o planejamento, a execução e a coordenação das diversas atividades relativas
+à Segurança AVSEC.
+O SeMS no SISCEAB (figura 1) está fundamentado em quatro pilares principais:
+Diretriz de Segurança AVSEC; Gerenciamento do Risco AVSEC; Garantia da Segurança
+AVSEC; e Promoção da Segurança AVSEC.
+Security Manag ement System
+SeM S
+Diretriz de Gerenciamento
+Segurança AVSEC do Risco AVSEC
+Garantia da Promoção da
+Segurança AVSEC Segurança AVSEC
+Figura 1 - Pilares fundamentais do Sistema de Gerenciamento da Segurança (SeMS)
+Ao implementar o processo da Garantia da Segurança AVSEC no Sistema de
+Gerenciamento (SeMS), os Elos do SISCEAB devem verificar:
+a) a eficiência, por meio da análise dos seus resultados descritos nos RCQ,
+identificando oportunidades de aperfeiçoamento do SeMS;
+b) a eficácia, confirmando se o SeMS atinge os objetivos da Segurança
+definidos na Diretriz de Segurança AVSEC para o SISCEAB – DCA 205-7.
+
+--- PÁGINA ---
+21/46 ICA 800-8/2022
+Garantia da
+Segurança AVSEC
+Controle de Qualidade
+Monitoramento e Melhoria Contínua
+Medição
+Nível de aderência das Normas
+AVSEC .
+- Auditorias Oportunidades de melhorias.
+- Inspeções Indicadores de desempenho
+- Visitas Técnicas, e (eficiência) e resultado (eficácia).
+- Testes e Exercícios Simulados
+Figura 2 – Garantia da Segurança AVSEC e seus macroprocessos
+O Órgão Central deve supervisionar e avaliar a Garantia da Segurança AVSEC
+no SISCEAB através da análise dos indicadores previamente estabelecidos e gerados nos RCQ
+AVSEC, buscando aperfeiçoar continuamente o SeMS, com base nos resultados das avaliações
+de risco (PES-AVSEC), objetivando a melhoria contínua dos processos de controle de qualidade
+AVSEC.
+3.1 OBJETIVOS DA GARANTIA DA SEGURANÇA AVSEC
+a) Verificar o cumprimento das Normas AVSEC estabelecidas pelo Órgão
+Central na execução dos processos do SeMS;
+b) Avaliar a eficácia das medidas de Segurança AVSEC implementadas;
+c) Identificar deficiências nos processos de Segurança AVSEC, aperfeiçoando,
+continuamente, o SeMS;
+d) Estabelecer protocolos para a realização de auditorias AVSEC;
+e) Permitir ao Órgão Central a supervisão das atividades de controle de
+qualidade realizadas no SISCEAB; e
+f) Avaliar e monitorar o desempenho do Programa Nacional de Segurança para
+a Aviação Civil do Sistema de Controle do Espaço Aéreo Brasileiro
+(PNAVSECCEA) por meio dos resultados das atividades desenvolvidas no
+PCQ AVSEC.
+
+--- PÁGINA ---
+ICA 800-8/2022 22/46
+ATRIBUIÇÕES E RESPONSABILIDADES
+4.1 DIREÇÃO-GERAL DO DECEA
+4.1.1 Prover os recursos necessários para o cumprimento das atividades previstas nesta
+Instrução.
+4.2 SUBDEPARTAMENTOS DO DECEA – SDAD, SDOP e SDTE
+4.2.1 Prover o suporte técnico para a elaboração e a atualização de normas AVSEC, em
+coordenação com a AVSECCEA, nos serviços e áreas de suas respectivas competências.
+4.2.2 O Subdepartamento Técnico (SDTE) do DECEA planeja e prepara os ambientes a serem
+realizados para os Testes de Penetração (PENTEST) em coordenação com os Elos do
+SISCEAB.
+4.3 AVSECCEA
+4.3.1 Assessorar o DGCEA na aplicação e supervisão das atividades previstas nesta Instrução.
+4.3.2 Definir os protocolos para a realização de auditorias.
+4.3.3 Definir o modelo para a realização de Visitas Técnicas.
+4.3.4 Definir os procedimentos para a realização de testes e exercícios simulados no
+SISCEAB, para compor o PCQ/AVSEC – PNCQ.
+4.3.5 Definir e divulgar para os Órgãos Regionais Executivos os indicadores para avaliação
+dos resultados das atividades de controle de qualidade AVSEC.
+4.3.6 Coordenar a distribuição de recursos aos Órgãos Regionais Executivos, visando à
+realização das auditorias e visitas técnicas AVSEC no SISCEAB, bem como supervisionar a
+execução dessas atividades.
+4.3.7 Verificar com a ASOCEA e coordenar com os Órgãos Regionais Executivos o
+planejamento anual de Inspeções do COMAER nos Elos do SISCEAB;
+4.3.8 Coordenar o cronograma de visitas técnicas, auditorias, testes e exercícios AVSEC com
+os Órgãos Regionais Executivos e 1º GCC.
+4.3.9 Coordenar o cronograma de visitas técnicas, auditorias, testes e exercícios AVSEC com
+o CIMAER, CGNA, GEIV, ICA e PAME-RJ.
+4.3.10 Elaborar o Programa Nacional de Controle de Qualidade AVSEC do Órgão Central do
+SISCEAB.
+4.3.11 Coordenar com o ICEA a capacitação de auditores AVSEC para o SISCEAB.
+4.3.12 Credenciar e descredenciar auditores AVSEC no SISCEAB.
+4.3.13 Elaborar o Relatório Nacional de Controle de Qualidade AVSEC do Órgão Central do
+SISCEAB.
+
+--- PÁGINA ---
+23/46 ICA 800-8/2022
+4.4 ÓRGÃOS REGIONAIS EXECUTIVOS E 1º GCC
+4.4.1 Planejar, coordenar, controlar e executar vistorias de segurança das instalações, visitas
+técnicas, auditorias, testes e exercícios AVSEC em sua Organização.
+4.4.2 Planejar, coordenar, controlar e executar auditorias, visitas técnicas, testes e exercícios
+AVSEC nos Elos do SISCEAB sob a sua jurisdição,
+4.4.3 Elaborar o Programa Regional de Controle de Qualidade (PRCQ AVSEC).
+4.4.4 Executar, quando solicitado pelo Órgão Central, auditorias, visitas técnicas, testes e
+exercícios AVSEC em Elos do SISCEAB fora da sua jurisdição.
+4.4.5 Coordenar com o Órgão Central a manutenção de equipe mínima de auditores AVSEC
+capacitada.
+4.4.6 Supervisionar e controlar as não conformidades descritas nos Planos de Ação Corretiva
+das auditorias AVSEC realizadas nos Elos do SISCEAB sob sua jurisdição.
+4.4.7 Comunicar à JJAER a ocorrência do descumprimento das normas AVSEC no SISCEAB,
+após a devida apuração, tramitação do processo e prazos previstos em regulamentação
+específica.
+4.4.8 Estabelecer os indicadores AVSEC definidos pelo Órgão Central do SISCEAB.
+4.5 CIMAER, CGNA, GEIV, ICA E PAME-RJ
+4.5.1 Elaborar o Programa Local de Controle de Qualidade (PLCQ AVSEC).
+4.5.2 Planejar, coordenar, controlar e executar testes e exercícios simulados de ameaça de
+bomba (ESAB).
+4.5.3 Alocar os recursos humanos e materiais necessários para a realização de vistorias ou
+auditorias internas AVSEC em sua Organização.
+4.5.4 Elaborar e executar o Plano de Ações Corretivas para corrigir as não conformidades
+observadas no âmbito de sua Organização, durante as auditorias AVSEC.
+4.5.5 Realizar as ações e as coordenações necessárias para solucionar as não conformidades
+e vulnerabilidades observadas no âmbito de sua Organização.
+4.5.6 Planejar e Executar os Testes e Exercícios Simulados AVSEC que irão compor o PLCQ
+AVSEC e encaminhar à AVSECCEA.
+4.5.7 Coordenar com a AVSECCEA a manutenção de equipe mínima de auditores AVSEC
+capacitada.
+4.5.8 Apresentar os resultados no RLCQ dos indicadores AVSEC definidos pela AVSECCEA.
+
+--- PÁGINA ---
+ICA 800-8/2022 24/46
+4.6 ÓRGÃOS ATS (DTCEA, DNB E EPTA CATEGORIAS “ESPECIAL” E “A”) E
+ESQUADRÕES DO GCC
+4.6.1 Elaborar o Programa Local de Controle de Qualidade (PLCQ AVSEC).
+4.6.2 Alocar os recursos humanos e materiais necessários para a realização de vistorias de
+segurança AVSEC nas instalações e auditorias AVSEC, quando aplicáveis, em sua Organização.
+4.6.3 Elaborar e executar as Ações propostas para atender às não conformidades observadas
+no âmbito de sua organização, após a realização de visita técnica AVSEC.
+4.6.4 Elaborar e executar o Plano de Ações Corretivas para atender às não conformidades
+observadas no âmbito de sua organização, durante as auditorias AVSEC.
+4.6.5 Realizar as ações e as coordenações necessárias para solucionar as não conformidades
+e vulnerabilidades observadas no âmbito de sua organização, durante as atividades de controle
+de qualidade AVSEC.
+4.6.6 Planejar e Executar os Testes e Exercícios Simulados AVSEC que irão compor o
+PCQ/AVSEC – PLCQ e encaminhar a programação anual ao Órgão Regional Executivo
+jurisdicionado.
+4.6.7 Apresentar os indicadores AVSEC estabelecidos pelo Órgão Regional Executivo.
+4.7 JUNTA DE JULGAMENTO DA AERONÁUTICA
+4.7.1 Apurar, julgar administrativamente e aplicar as penalidades previstas por
+descumprimento das normas AVSEC que regulam o SISCEAB, conforme legislação específica.
+
+--- PÁGINA ---
+25/46 ICA 800-8/2022
+ATIVIDADES DE CONTROLE DE QUALIDADE AVSEC NO SISCEAB
+As Vistorias de Segurança AVSEC das instalações, as Visitas Técnicas, as
+Inspeções, as Auditorias, bem como a realização de Testes e Exercícios Simulados AVSEC são
+atividades previstas para todos os Elos do SISCEAB, realizadas sob a coordenação dos Órgãos
+Regionais Executivos e supervisão do Órgão Central do SISCEAB (Figura 3).
+Atividades da Qualidade AVSEC
+Vistoria de Segurança Visita Técnica Inspeção
+Auditoria Exercícios Simulados Testes
+Figura 3 – Atividades do Controle de Qualidade AVSEC no SISCEAB
+5.1 VISTORIA DE SEGURANÇA AVSEC DAS INSTALAÇÕES
+A Vistoria de Segurança AVSEC nas instalações dos Elos do SISCEAB é
+realizada pelo Agente AVSEC Local e tem como objetivo identificar e informar ao chefe/gerente
+sobre possíveis riscos ou ameaças no sistema de segurança interna ou preparar a Organização
+para uma visita técnica, inspeção ou auditoria, verificando no local:
+a) a aderência no cumprimento da legislação AVSEC; ou
+b) a conformidade com determinado protocolo (Inspeção ou Auditoria); ou
+c) o funcionamento de um sistema de vigilância eletrônica implantado; ou
+d) a situação da Segurança AVSEC numa camada de defesa específica.
+5.1.1 Uma Vistoria de Segurança AVSEC das instalações deve ser realizada anualmente por
+cada Elo do SISCEAB e ser incluída no cronograma de atividades do PCQ AVSEC.
+5.1.2 Em caso de realização de Vistoria de Segurança AVSEC nas Instalações ser determinada
+por Chefe/Gerente de um Elo do SISCEAB e não estar contemplada no PCQ, os seus resultados
+devem, obrigatoriamente, estar descritos no RCQ.
+5.1.3 As orientações básicas e os formulários para a realização da Vistoria de Segurança
+AVSEC nas Instalações constam no MCA 800-12 “Manual para Programação, Registro e
+Controle das Atividades da Qualidade AVSEC no SISCEAB”.
+5.2 VISITA TÉCNICA AVSEC NO SISCEAB
+Atividade designada para as Gerências Nacional e Regional que tem como
+objetivo a verificação e conformidade na aplicação das normas AVSEC e orientação ao Elo do
+SISCEAB para a identificação de não conformidades e elaboração de propostas para ações
+corretivas.
+5.2.1 Os Gerentes e Agentes AVSEC capacitados pelo ICEA (SEC001E) estão aptos a realizar
+Visita Técnica no SISCEAB.
+
+--- PÁGINA ---
+ICA 800-8/2022 26/46
+5.2.2 A AVSECCEA deve planejar e coordenar a execução de Visitas Técnicas aos Órgãos
+Regionais Executivos e nas seguintes OM: 1º GCC, CGNA, GEIV, ICA, PAME-RJ e CIMAER
+(Figura 4).
+5.2.3 Os Órgãos Regionais Executivos devem planejar, coordenar e executar Visitas Técnicas
+nos DTCEA, DNB e nas EPTA Categorias “Especial” e “A” sob sua jurisdição (Figura 4).
+5.2.4 O 1º GCC deve planejar, coordenar e executar Visitas Técnicas nos Esquadrões
+Subordinados (Figura 4).
+Figura 4 – Visitas Técnicas AVSEC no SISCEAB
+5.2.5 As orientações básicas e os formulários para a realização de Visitas Técnicas AVSEC
+constam no MCA 800-12 “Manual para Programação, Registro e Controle das Atividades da
+Qualidade AVSEC no SISCEAB”.
+NOTA: Quando os Elos do SISCEAB estiverem com número de auditores capacitados abaixo
+do mínimo previsto na Tabela 6, as atividades programadas no PCQ AVSEC serão
+implantadas por meio de Visitas Técnicas pelo Órgão Central, pelos Órgãos Regionais
+Executivos e pelo 1º GCC.
+5.2.6 O Cronograma de Visitas Técnicas será estabelecido em consonância com o Programa
+Anual de Inspeções da ASOCEA nos Elos do SISCEAB, com o objetivo de evitar a junção
+dessas atividades em um mesmo Elo do Sistema durante um ciclo.
+5.2.7 Em caso de realização de Visita Técnica ser determinada por Chefe/Gerente de um Elo
+do SISCEAB e não estar contemplada no PCQ AVSEC, os seus resultados devem,
+obrigatoriamente, estar descritos no RCQ AVSEC.
+5.3 INSPEÇÕES AVSEC
+Processo coordenado pela ASOCEA para verificação da conformidade
+normativa das atividades desenvolvidas pelas organizações inspecionadas quanto ao que
+estabelece o Órgão Central do SISCEAB em relação à segurança da aviação civil contra atos
+de interferência ilícita. No DECEA, este processo verifica a conformidade com as disposições
+constantes dos Anexos à Convenção de Aviação Civil Internacional e do nível de
+implementação dos elementos críticos de um sistema de supervisão da segurança da aviação
+civil contra atos de interferência ilícita.
+5.3.1 As Inspeções AVSEC no SISCEAB são externas, sendo planejadas, coordenadas e
+controladas pela ASOCEA, de acordo com as normas do COMAER em vigor. Todos os Elos
+do SISCEAB devem observar os protocolos de Inspeção e o Plano Anual de Inspeções,
+disponível pela internet no portal da ASOCEA (www.asocea.aer.mil.br).
+
+--- PÁGINA ---
+27/46 ICA 800-8/2022
+5.4 AUDITORIAS AVSEC NO SISCEAB
+Atividade designada para as Gerências Nacional e Regional que tem como
+objetivo verificar o grau de conformidade da implementação de todas as diretrizes, processos e
+procedimentos contidos nas normas de Segurança AVSEC para o SISCEAB.
+É um processo sistemático, independente, documentado com avaliação de todos
+os aspectos implementados previstos nas normas AVSEC, visando à apresentação de evidências
+para determinar de que forma os critérios dispostos na legislação são atendidos durante a
+auditoria.
+5.4.1 Para a realização de auditorias no SISCEAB, os profissionais AVSEC devem ser
+capacitados com o certificado do Curso de Auditor AVSEC, realizado no ICEA (SEC006E).
+5.4.2 A AVSECCEA deve planejar e coordenar a execução de Auditorias aos Órgãos
+Regionais Executivos e nas seguintes OM: 1º GCC, CGNA, GEIV, ICA, PAME-RJ e CIMAER
+(Figura 5).
+5.4.3 Os Órgãos Regionais Executivos devem planejar, coordenar e executar auditorias nos
+DTCEA, DNB e nas EPTA Categorias “Especial” e “A” sob sua jurisdição (Figura 5).
+5.4.4 O 1º GCC deve planejar, coordenar e executar auditorias nos Esquadrões Subordinados
+(Figura 5).
+Órgão Regional e 1º GCC
+DECEA Calendário Anual Regional de Auditorias AVSEC
+Calendário Anual de Auditorias AVSEC
+EPTA Categoria
+1º GCC, CGNA, GEIV, ICA,
+Órgãos Regionais Executivos DTCEA / DNB “Especial” e “A”
+PAME-RJ e CIMAER
+Esquadrões do 1º GCC
+Figura 5 – Visão geral do Calendário de Auditorias AVSEC Anuais no SISCEAB
+5.4.5 O Cronograma de Auditorias será estabelecido em consonância com o Programa Anual
+de Inspeções da ASOCEA nos Elos do SISCEAB, com o objetivo de evitar a junção dessas
+atividades em um mesmo Elo do Sistema durante um ciclo.
+5.4.6 As orientações básicas e os formulários para a realização de Auditorias AVSEC estão
+constam no MCA 800-12 “Manual para Programação, Registro e Controle das Atividades da
+Qualidade AVSEC no SISCEAB”.
+NOTA: Ao atingir o número mínimo de auditores capacitados no Curso SEC006E do ICEA,
+previsto na Tabela 7, a AVSECCEA, os Órgãos Regionais Executivos e o 1º GCC
+devem implantar o Programa de Anual Auditorias no SISCEAB. Caso o Elo do
+SISCEAB não reúna o número mínimo de auditores, deve ser utilizada a Visita Técnica
+como atividade AVSEC alternativa, supervisionada pela AVSECCEA.
+
+--- PÁGINA ---
+ICA 800-8/2022 28/46
+5.5 TESTES E EXERCÍCIOS SIMULADOS AVSEC PARA OS ELOS DO SISCEAB
+5.5.1 TESTES
+São simulações de atos de interferência ilícita contra atividades específicas do
+SISCEAB, para a verificação da eficácia e da eficiência das medidas de segurança e dos
+procedimentos AVSEC em vigor, identificando possíveis equívocos ou falhas.
+Os testes devem ser coordenados exclusivamente com as organizações,
+autoridades e profissionais imprescindíveis para a execução destes, de forma a assegurar a
+confidencialidade, integridade e eficiência do processo.
+Os testes devem ser realizados com total preservação da segurança operacional
+das atividades do SISCEAB. Caso ocorra alguma emergência real durante a execução, o teste
+deve ser imediatamente encerrado.
+Ao final do teste, deverá haver uma análise do comportamento da equipe e
+quanto à aplicação dos procedimentos previstos nas normas em vigor. Se foram fielmente
+cumpridos, considerar como satisfatório; ou considerar como não satisfatório caso ocorra
+alguma não conformidade na sua execução.
+Os testes de Falso Credenciamento e Intrusão de Instalações tem por finalidade
+analisar o controle de acesso às áreas operacionais dos Órgãos ATC, bem como aos sítios e aos
+equipamentos de auxílio à navegação aérea.
+5.5.1.1 Os testes AVSEC a serem aplicados ao SISCEAB são:
+a) Falso Credenciamento;
+b) Intrusão nas Instalações;
+c) Proficiência AVSEC dos ATCO/OEA; e
+d) Invasão cibernética (PENTEST).
+5.5.1.2 Os Testes de Penetração (PENTEST) são planejados e coordenados pelo
+Subdepartamento Técnico (SDTE) do DECEA.
+5.5.1.3 O Teste de Proficiência AVSEC dos ATCO/OEA consiste na verificação dos
+procedimentos e conhecimento, conforme o previsto na ICA 63-12 “Procedimentos de
+Segurança AVSEC para o SISCEAB” e na CIRCEA 100-56 “Ações dos Órgãos ATS em caso
+de Atos de Interferência Ilícita contra a Aviação Civil”.
+5.5.1.4 Os Testes de Proficiência AVSEC para todos os ATCO/OEA devem ser planejados e
+descritos no PCQ AVSEC. Todos os profissionais ATCO/OEA devem ser examinados
+anualmente pelos Agentes AVSEC de cada Elo do SISCEAB.
+5.5.1.5 O Teste de Proficiência AVSEC dos ATCO/OEA deve ser aplicado pelo Gerente ou
+Agente Local AVSEC da própria Organização e não deve interferir nas operações de Controle
+de Tráfego Aéreo.
+5.5.1.6 O Gerente ou Agente Local AVSEC, responsável pelo Teste de Proficiência AVSEC
+dos ATCO/OEA, deve coordenar com o Chefe do Órgão ATS envolvido o horário mais
+
+--- PÁGINA ---
+29/46 ICA 800-8/2022
+adequado para realizar o teste. O ATCO/OEA avaliado deve estar escalado para o serviço no
+dia e não deve estar na posição de Controle de Tráfego Aéreo no momento da atividade.
+5.5.1.7 Deve ser verificada a aderência do ATCO/OEA quanto a procedimentos e ações a
+serem tomadas em caso de atos de interferência ilícita aplicáveis ao SISCEAB previstos nos
+anexos da CIRCEA 100-56.
+5.5.2 EXERCÍCIOS SIMULADOS
+Os Exercícios Simulados (ESAIA e ESAB) verificam os procedimentos
+previstos nos planos de contingência e ações em resposta a um determinado ato de interferência
+ilícita. Seus resultados fornecerão subsídios para identificar e propor melhorias nos processos
+de Segurança AVSEC.
+5.5.2.1 Os Exercícios Simulados AVSEC no SISCEAB são:
+a) Exercício Simulado de Ameaça de Bomba ou artefato QBRN (ESAB); e
+b) Exercício Simulado de Apoderamento Ilícito de Aeronaves (ESAIA).
+NOTA: Os ESAIA são coordenados pela administração aeroportuária dos aeroportos aos quais
+os DTCEA, DNB e EPTA estão vinculados operacionalmente.
+5.5.2.2 Os Exercícios Simulados AVSEC têm como objetivo:
+a) treinar o efetivo dos Órgãos ATS na aplicação dos procedimentos de
+contingência;
+b) aferir a eficácia das medidas; e
+c) verificar a adequação dos procedimentos em relação às normas, para ajustes
+necessários, conforme o caso.
+5.5.3 PLANEJAMENTO PARA A REALIZAÇÃO DOS TESTES E EXERCICÍOS
+SIMULADOS AVSEC
+5.5.3.1 Deverá prever: cenário a ser executado, cronograma de eventos, local de realização,
+recursos humanos envolvidos, critérios a serem avaliados, conduta dos participantes.
+5.5.3.2 A Tabela 1, a seguir, resume o planejamento para a realização dos Testes e Exercícios
+Simulados, bem como descreve as atividades, as organizações envolvidas, setores para
+aplicação, periodicidade mínima e órgão supervisor.
+Tabela 1 – Testes e Exercícios Simulados AVSEC no SISCEAB.
+Atividade Organizações Setores Periodicidade Supervisão
+▪ CINDACTA I, II, III, IV,
+CRCEA-SE e 1º GCC
+Áreas Restritas de
+Falso credenciamento
+▪ DTCEA Segurança AVSEC
+(ARS-AVSEC)
+▪ DNB Gerência Nacional
+TESTES ▪ EPTA “ESP” e “A” ACC, COpM, APP, Anual e Regional
+TWR, AFIS, Sala
+▪ Esquadrões do 1º GCC Técnica e Casa de
+Intrusão de instalações
+Força
+▪ CGNA, GEIV, ICA, PAME-
+RJ e CIMAER
+
+--- PÁGINA ---
+ICA 800-8/2022 30/46
+Atividade Organizações Setores Periodicidade Supervisão
+▪ CINDACTA I, II, III, IV,
+CRCEA-SE
+Proficiência AVSEC ▪ DTCEA ACC, COpM, APP,
+Anual Gerência Regional
+dos ATCO/OEA TWR e AFIS
+▪ DNB
+▪ EPTA “ESP” e “A”
+▪ CINDACTA I, II, III, IV,
+TESTES CRCEA-SE e 1º GCC
+▪ DTCEA
+Invasão cibernética A critério do A critério do
+(PENTEST) ▪ DNB Subdepartamento Subdepartamento SDTE
+▪ EPTA “ESP” e “A” Técnico do DECEA Técnico do
+(SDTE) DECEA (SDTE)
+▪ Esquadrões do 1º GCC
+▪ CGNA, GEIV, ICA, PAME-
+RJ e CIMAER
+▪ CINDACTA I, II, III, IV,
+CRCEA-SE
+▪ DTCEA
+▪ DNB ACC, COpM, APP, Gerência Nacional
+ESAB A cada 2 anos
+▪ EPTA “ESP” e “A” TWR e AFIS e Regional
+▪ Esquadrões do 1º GCC
+EXERCÍCIOS ▪ CGNA, GEIV, ICA, PAME-
+RJ e CIMAER
+ESAIA ▪ CINDACTA I, II, III, IV e
+CRCEA-SE Seguir
+▪ DTCEA ACC, APP, TWR e cronograma do Gerência Regional
+AFIS aeroporto de sua
+▪ DNB operação
+▪ EPTA “ESP” e “A”
+NOTA: No MCA 800-12 “Manual para Programação, Registro e Controle das Atividades da
+Qualidade AVSEC no SISCEAB” estão contidos as orientações básicas e os
+formulários para o planejamento, execução e registro das atividades.
+5.5.3.3 Os Órgãos Regionais Executivos, o 1º GCC, CGNA, GEIV, ICA, PAME-RJ e
+CIMAER devem planejar os Testes e Exercícios Simulados AVSEC, conforme descrito na
+Tabela 1.
+5.5.3.4 A AVSECCEA deve monitorar a realização dos Testes e Exercícios Simulados
+AVSEC no CGNA, GEIV, ICA, PAME-RJ e CIMAER.
+5.5.3.5 A AVSECCEA deve supervisionar a realização dos Testes e Exercícios Simulados
+AVSEC nos Órgãos Regionais Executivos.
+5.5.3.6 Os Órgãos Regionais Executivos devem monitorar a realização dos Testes e
+Exercícios Simulados AVSEC nos Elos do SISCEAB de sua área de jurisdição.
+5.5.3.7 O 1º GCC deve coordenar e monitorar os Testes e Exercícios Simulados AVSEC dos
+Esquadrões subordinados.
+
+--- PÁGINA ---
+31/46 ICA 800-8/2022
+PROGRAMA DE CONTROLE DE QUALIDADE AVSEC (PCQ AVSEC)
+Em atendimento às recomendações da OACI descritas no Anexo 17, bem como
+no PNAVSEC, o Órgão Central do SISCEAB deve implementar e manter junto aos demais
+Elos um PCQ – Programa de Controle de Qualidade – AVSEC, que pode ser Nacional-PNCQ,
+Regional-PRCQ ou Local-PLCQ, conforme modelo apresentado no Anexo A.
+Os PCQ AVSEC são elaborados e aprovados pelo Responsável do Elo do
+SISCEAB e devem abordar a estrutura, as responsabilidades e os procedimentos que promovam
+o monitoramento das medidas de Segurança AVSEC em conformidade com a ICA 205-48
+“Programa Nacional de Segurança da Aviação Civil para o Controle do Espaço Aéreo –
+PNAVSECCEA”, proporcionando um ambiente e uma cultura de melhoria contínua no suporte
+para as operações de Controle do Espaço Aéreo.
+Para que as atividades de Controle de Qualidade AVSEC dos Elos do SISCEAB
+sejam constantemente supervisionadas, os Órgãos Regionais Executivos e o 1º GCC devem
+elaborar seus PRCQ – Programas Regionais de Controle de Qualidade AVSEC.
+Nos PRCQ devem conter todos os Programas Locais de Controle de Qualidade
+AVSEC – PLCQ de sua área de jurisdição.
+A consolidação e apresentação das atividades de controle de qualidade realizadas
+pelos diferentes Elos do SISCEAB, expressas no PCQ, são apresentadas em níveis de
+gerenciamento e planejamento conforme figura 6 a seguir:
+PNCQ PRCQ
+DECEA Órgãos Regionais Executivos e 1º GCC
+PRCQ PLCQ PLCQ
+Órgãos Regionais CGNA, GEIV, ICA, PLCQ EPTA Categoria
+Executivos e 1º GCC PAME-RJ, DTCEA / DNB “Especial” e “A”
+e CIMAER Esquadrões do 1º GCC
+Figura 6 – Níveis de PCQ AVSEC
+6.1 PCQ AVSEC (PNCQ, PRCQ E PLCQ) – DIRETRIZES
+Os Programas relacionam as atividades de controle de qualidade a serem
+desenvolvidas em um determinado ano ou período, local, regional e nacionalmente, no âmbito
+do SISCEAB.
+Os PCQ devem permitir ao Órgão Central a supervisão e o registro das atividades
+de Controle de Qualidade AVSEC realizadas no SISCEAB.
+6.1.1 O PCQ AVSEC deve abranger as seguintes atividades, definidas e descritas no Capítulo
+5 desta Instrução:
+a) Vistoria de Segurança das Instalações;
+b) Visitas técnicas;
+c) Inspeções;
+
+--- PÁGINA ---
+ICA 800-8/2022 32/46
+d) Auditorias;
+e) Testes; e
+f) Exercícios Simulados.
+6.1.2 Os PCQ AVSEC devem ser apresentados de acordo com o modelo do Anexo “A”,
+observando as orientações descritas no MCA 800-12 “Manual para Programação, Registro e
+Controle das Atividades da Qualidade AVSEC no SISCEAB”.
+6.1.3 O CGNA, CIMAER, GEIV, ICA e PAME-RJ devem elaborar, aprovar e encaminhar o
+respectivo Programa Local de Controle de Qualidade (PLCQ) à AVSECCEA.
+6.1.4 Os DTCEA, DNB e EPTA (Categorias “A” e “Especial”) devem elaborar, aprovar e
+encaminhar o Programa Local de Controle de Qualidade (PLCQ) de sua organização ao
+respectivo Órgão Regional Executivo.
+6.1.5 Os Órgãos Regionais Executivos devem analisar os PLCQ de sua área de jurisdição e,
+caso necessário, propor alterações. Após a análise dos PLCQ, os Órgãos Regionais Executivos
+devem elaborar, aprovar e encaminhar seu respectivo Programa Regional de Controle de
+Qualidade (PRCQ) AVSEC à AVSECCEA, de acordo com os prazos definidos na Tabela 2.
+6.1.6 O 1º GCC deve analisar os PLCQ dos seus Esquadrões subordinados e, caso necessário,
+propor alterações. Após a análise dos PLCQ, o 1º GCC deve elaborar, aprovar e encaminhar
+seu respectivo Programa Regional de Controle de Qualidade (PRCQ) AVSEC à AVSECCEA,
+de acordo com os prazos definidos na Tabela 2.
+6.1.7 A AVSECCEA deve analisar os PRCQ e os PLCQ do CGNA, do CIMAER, do GEIV,
+do ICA e do PAME-RJ. Após a análise dos Programas Regionais e Locais, a Assessoria deve
+elaborar o Programa Nacional de Controle de Qualidade (PNCQ) AVSEC, com a aprovação do
+DGCEA, de acordo com os prazos definidos na Tabela 2.
+6.2 PCQ AVSEC (PNCQ, PRCQ E PLCQ) – PLANEJAMENTO
+6.2.1 PROGRAMA LOCAL DE CONTROLE DE QUALIDADE – PLCQ
+Tem como foco as atividades de controle de qualidade dos Elos do SISCEAB,
+possibilitando monitorar a Segurança AVSEC em âmbito local.
+6.2.1.1 É elaborado por cada Elo Local do SISCEAB contendo a programação das atividades
+de controle de qualidade (Vistoria de Segurança das Instalações, Testes e Exercícios Simulados)
+que serão realizadas no ano A.
+6.2.2 PROGRAMA REGIONAL DE CONTROLE DE QUALIDADE – PRCQ
+Tem como foco as atividades de controle de qualidade do Órgão Regional
+Executivo e dos Elos Locais do SISCEAB sob sua jurisdição, possibilitando monitorar a
+Segurança AVSEC em âmbito regional.
+6.2.2.1 O PRCQ é elaborado por cada Elo Regional do SISCEAB contendo a programação das
+atividades de controle de qualidade (Vistoria de Segurança das Instalações, Visitas Técnicas,
+Auditorias, Testes e Exercícios Simulados) que serão realizadas no ano A.
+
+--- PÁGINA ---
+33/46 ICA 800-8/2022
+6.2.2.2 O PRCQ reúne as atividades de controle de qualidade descritas nas informações dos:
+a) Órgãos Regionais Executivos (Vistorias de Segurança das Instalações, Visita
+Técnica, Auditorias, Testes e Exercícios Simulados); e
+b) PLCQ dos Elos Locais jurisdicionados.
+6.2.3 PROGRAMA NACIONAL DE CONTROLE DE QUALIDADE – PNCQ
+Tem como foco a supervisão das atividades de controle de qualidade dos Órgãos
+Regionais Executivos, 1º GCC e dos Elos Locais do SISCEAB, possibilitando monitorar a
+Segurança AVSEC em âmbito nacional.
+6.2.3.1 Permite ao Órgão Central verificar a conformidade com:
+a) as recomendações estabelecidas pela OACI;
+b) o PNAVSEC; e
+c) as normas do COMAER.
+6.2.3.2 O PNCQ deve reunir as atividades de controle de qualidade descritas nos:
+a) PRCQ; e
+b) PLCQ do CGNA, do GEIV, do ICA, do PAME-RJ e do CIMAER.
+6.2.4 Prazos para entrega dos PCQ AVSEC das atividades que serão realizadas no ano A:
+Tabela 2 – Prazos para entrega dos PCQ AVSEC
+PLCQ PRCQ PNCQ
+Até 30 de outubro Até 30 de novembro Até 30 de dezembro
+do ano A-1 do ano A-1 do ano A-1
+
+--- PÁGINA ---
+ICA 800-8/2022 34/46
+RELATÓRIO DE CONTROLE DE QUALIDADE AVSEC (RCQ AVSEC)
+Em atendimento às recomendações da OACI descritas no Anexo 17, bem como
+no PNAVSEC, o Órgão Central do SISCEAB deve implementar e manter junto aos demais
+Elos um RCQ – Relatório de Controle de Qualidade – AVSEC, que pode ser Nacional-RNCQ,
+Regional-RRCQ ou Local-RLCQ, conforme modelo apresentado no Anexo B.
+Os RCQ AVSEC são elaborados e aprovados pelo Responsável do Elo do
+SISCEAB e tem como objetivo principal o registro, aferição e avaliação das atividades
+realizadas e previstas nos PCQ.
+7.1 RCQ AVSEC (RLCQ, RRCQ E RNCQ) – DIRETRIZES
+7.1.1 Os Relatórios relacionam os resultados das atividades de controle de qualidade que foram
+desenvolvidas no ano A, local, regional e nacionalmente, no âmbito do SISCEAB.
+7.1.2 Os RCQ AVSEC devem ser apresentados de acordo com o modelo do Anexo B,
+observando as orientações descritas no MCA 800-12 “Manual para Programação, Registro e
+Controle das Atividades da Qualidade AVSEC no SISCEAB”.
+7.1.3 O CGNA, CIMAER, GEIV, ICA e PAME-RJ devem elaborar, aprovar e encaminhar o
+respectivo Relatório Local de Controle de Qualidade (RLCQ) à AVSECCEA.
+7.1.4 Os DTCEA, DNB e EPTA (Categorias “A” e “Especial”) devem elaborar, aprovar e
+encaminhar o Relatório Local de Controle de Qualidade (RLCQ) de sua organização ao
+respectivo Órgão Regional Executivo.
+7.1.5 Os Órgãos Regionais Executivos devem analisar os resultados das atividades de controle
+de qualidade descritos nos RLCQ de sua área de jurisdição. Após a análise dos RLCQ, os
+Órgãos Regionais Executivos devem elaborar, aprovar e encaminhar seu respectivo Relatório
+Regional de Controle de Qualidade (RRCQ) à AVSECCEA, de acordo com os prazos definidos
+na Tabela 3.
+7.1.6 O 1º GCC deve analisar os resultados das atividades de controle de qualidade descritos
+nos RLCQ dos seus Esquadrões subordinados. Após a análise dos RLCQ, o 1º GCC deve
+elaborar, aprovar e encaminhar seu respectivo Relatório Regional de Controle de Qualidade
+(RRCQ) à AVSECCEA, de acordo com os prazos definidos na Tabela 3.
+7.1.7 A AVSECCEA deve analisar os RRCQ e os RLCQ do CGNA, do CIMAER, do GEIV,
+do ICA e do PAME-RJ. Após a análise dos Relatórios Locais de sua competência e dos
+Relatórios Regionais, a Assessoria deve elaborar o Relatório Nacional de Controle de
+Qualidade (RNCQ), com a aprovação do DGCEA, de acordo com os prazos definidos na Tabela
+3.
+7.1.8 A consolidação e apresentação das atividades de controle de qualidade realizadas pelos
+diferentes Elos do SISCEAB, expressas no RCQ, são apresentadas para gerenciamento e
+avaliação, conforme figura 7 a seguir:
+
+--- PÁGINA ---
+35/46 ICA 800-8/2022
+RNCQ
+RRCQ
+DECEA
+Órgãos Regionais Executivos e 1º GCC
+RLCQ
+RRCQ RLCQ
+CGNA, GEIV, ICA, RLCQ
+Órgãos Regionais PAME-RJ, EPTA Categoria
+Executivos e 1º G CC e CIMAER DTCEA / DNB “Especial” e “A”
+Esquadrões do 1º GCC
+Figura 7 – Níveis de Responsabilidade para apresentação dos RCQ AVSEC com os resultados das
+atividades dos PCQ AVSEC
+7.2 RCQ AVSEC (RNCQ, RRCQ E RLCQ) – PLANEJAMENTO
+7.2.1 RELATÓRIO LOCAL DE CONTROLE DE QUALIDADE – RLCQ
+Tem como foco a apresentação do resultado das atividades de controle de
+qualidade dos Elos do SISCEAB, possibilitando monitorar a Segurança AVSEC em âmbito
+local.
+7.2.1.1 É elaborado por cada Elo Local do SISCEAB contendo o resultado das atividades de
+controle de qualidade (Vistoria de Segurança das Instalações, Testes e Exercícios Simulados)
+que foram realizadas no ano A.
+7.2.2 RELATÓRIO REGIONAL DE CONTROLE DE QUALIDADE – RRCQ
+Tem como foco a apresentação do resultado das atividades de controle de
+qualidade dos Elos do SISCEAB jurisdicionados, possibilitando monitorar a Segurança AVSEC
+em âmbito Regional.
+7.2.2.1 O RRCQ é elaborado pelos Órgãos Regionais Executivos contendo o resultado das
+atividades de controle de qualidade (Vistoria de Segurança das Instalações, Visitas Técnicas,
+Auditorias, Testes e Exercícios Simulados) que foram realizadas no ano A.
+7.2.2.2 O RRCQ reúne os resultados das atividades de controle de qualidade descritas nas
+informações dos:
+a) Órgãos Regionais Executivos (Vistorias de Segurança das Instalações, Visita
+Técnica, Auditorias, Testes e Exercícios Simulados); e
+b) RLCQ dos Elos Locais jurisdicionados.
+7.2.3 RELATÓRIO NACIONAL DE CONTROLE DE QUALIDADE – RNCQ
+Tem como foco a análise dos resultados das atividades de controle de qualidade
+dos Órgãos Regionais Executivos, 1º GCC e dos Elos Locais do SISCEAB, possibilitando
+monitorar a Segurança AVSEC em âmbito nacional.
+7.2.3.1 Permite ao Órgão Central verificar a conformidade com:
+a) as recomendações estabelecidas pela OACI;
+
+--- PÁGINA ---
+ICA 800-8/2022 36/46
+b) o PNAVSEC; e
+c) as normas do COMAER.
+7.2.3.2 O RNCQ deve reunir os resultados das atividades de controle de qualidade descritas
+nos:
+a) RRCQ;
+b) RLCQ do CIMAER, do CGNA, do GEIV, do ICA e do PAME-RJ.
+7.2.4 O Anexo B apresenta modelo de Relatório de Controle de Qualidade (RCQ).
+7.2.5 Prazos para entrega dos RCQ AVSEC das atividades realizadas no ano A:
+Tabela 3 – Prazos para entrega dos RCQ AVSEC
+RLCQ RRCQ RNCQ
+Até 15 de fevereiro do Até 15 de março Até 15 de abril
+ano A+1 do ano A+1 do ano A+1
+NOTA: No MCA 800-12 “Manual para Programação, Registro e Controle das Atividades da
+Qualidade AVSEC no SISCEAB” estão contidos os formulários, prazos e orientações
+básicas para o registro das atividades.
+
+--- PÁGINA ---
+37/46 ICA 800-8/2022
+RECURSOS
+8.1 RECURSOS HUMANOS
+8.1.1 Os Gerentes e Agentes AVSEC são responsáveis por planejar, conduzir e registrar as
+atividades de controle de qualidade deste Programa, de acordo com as suas atribuições e
+responsabilidades definidas na ICA 205-48.
+8.1.2 Todos os profissionais integrantes da área AVSEC no SISCEAB devem possuir o curso
+SEC001E para exercer suas atividades, realizar visitas técnicas e emitir relatórios, conforme a
+tabela a seguir:
+Tabela 4 – Capacitação requerida em Segurança AVSEC para o SISCEAB
+CAPACITAÇÃO NECESSÁRIA PARA REALIZAR VISITA TÉCNICA AVSEC
+NO SISCEAB
+Conhecimento Necessário Organização Formadora Observação
+Curso Agente AVSEC ICEA SEC001E
+8.1.3 As Inspeções AVSEC no SISCEAB são externas e realizadas somente por inspetores
+credenciados pela ASOCEA, conforme normativa daquela Organização.
+8.1.4 A Auditoria AVSEC, realizada por profissionais capacitados pelo ICEA e credenciados
+pelo Órgão Central, é orientada por meio do MCA 800-12 “Manual para Programação, Registro
+e Controle das Atividades da Qualidade AVSEC no SISCEAB”.
+8.1.5 Para planejamento e execução de auditorias AVSEC no SISCEAB, o profissional deve
+possuir, necessariamente, o curso SEC001E e realizar, obrigatoriamente, o curso de Auditor
+AVSEC do ICEA, conforme tabela a seguir:
+Tabela 5 – Capacitação necessária para realização de Auditorias AVSEC no SISCEAB
+CAPACITAÇÃO PARA REALIZAR AUDITORIA AVSEC NO SISCEAB
+Conhecimento Necessário Organização Formadora Observação
+Curso Agente AVSEC ICEA SEC001E
+Curso de Auditor AVSEC ICEA SEC006E
+8.1.6 Auditor AVSEC é o militar (da ativa ou veterano) ou servidor público do COMAER
+credenciado pelo Órgão Central para realizar auditorias AVSEC. A AVSECCEA poderá, ainda,
+credenciar como auditores os consultores contratados por Organização da Sociedade Civil de
+Interesse Público que prestam serviço para o SISCEAB.
+8.1.7 A Gerência Nacional deve coordenar e supervisionar a formação e o credenciamento dos
+Auditores AVSEC do SISCEAB.
+
+--- PÁGINA ---
+ICA 800-8/2022 38/46
+8.1.8 Quantidade mínima e ideal de auditores AVSEC:
+Tabela 6 – Quantidade mínima e ideal de auditores
+Quantidade Mínima e Ideal de Auditores AVSEC
+Organização Mínimo Ideal Observação
+DECEA (AVSECCEA) 50% do efetivo 100% do efetivo
+Pessoal do efetivo
+dos DTCEA sob a
+jurisdição de cada
+CINDACTA I, II, III, IV
+Órgão Regional
+e CRCEA-SE 3 auditores 6 auditores Executivo poderá
+compor o quadro de
+auditores.
+Pessoal do efetivo
+dos Esquadrões do 1º
+GCC poderá compor
+1º GCC 1 auditor 2 auditores
+o quadro de
+auditores.
+8.2 RECURSOS FINANCEIROS
+8.2.1 Os recursos financeiros para custeio de diárias (hospedagem e alimentação) dos Agentes
+AVSEC designados para a realização de visitas técnicas e auditorias no DECEA e Órgãos
+Regionais Executivos são planejados anualmente e revistos no PLANSET. Esses recursos
+devem estar descritos nos cronogramas dos PRCQ e PNCQ AVSEC.
+8.2.2 Os recursos financeiros (custos) para a realização das atividades de controle de qualidade
+nas DNB e EPTA são de acordo com o orçamento próprio de cada Organização e não devem
+ser descritos no PLCQ AVSEC.
+8.2.3 Os recursos financeiros (custos) para a realização de atividades de controle de qualidade
+nos DTCEA, no CIMAER, no CGNA, no GEIV, no ICA e no PAME-RJ não devem ser
+considerados na elaboração dos PLCQ AVSEC.
+
+--- PÁGINA ---
+39/46 ICA 800-8/2022
+MELHORIA CONTÍNUA
+9.1 GENERALIDADES
+A Gerência Nacional deve promover ações que permitam aprimorar
+continuamente o SeMS e as normas AVSEC para o SISCEAB.
+Os Órgãos Regionais Executivos e demais Elos do SISCEAB devem propor
+aperfeiçoamentos no SeMS do SISCEAB e das normas AVSEC.
+As Inspeções realizadas pela ASOCEA permitem uma visão externa do nível de
+aplicação das normas AVSEC pelos Elos do SISCEAB, enquanto as Auditorias possibilitam
+uma visão interna do Sistema. Ambas se complementam e permitem ao Órgão Central a
+supervisão, a melhoria contínua dos processos e as medidas de Segurança AVSEC a serem
+implementadas.
+A ICA 37-733 “Programa de Instrução AVSEC para o SISCEAB” define a
+realização de cursos, treinamentos, painéis, seminários e jornadas AVSEC como atividades de
+promoção da Segurança, que contribuem para o processo de melhoria contínua.
+9.2 INDICADORES AVSEC
+9.2.1 O processo de melhoria contínua para a Garantia da Segurança AVSEC permite que o
+SeMS seja continuamente aperfeiçoado, por meio:
+a) da análise de indicadores;
+b) do tratamento e resolução das não conformidades detectadas pelas visitas
+técnicas, auditorias e inspeções; e
+c) da realização e de resultados das atividades de controle de qualidade de testes
+e exercícios simulados.
+9.2.2 As metas e seus respectivos indicadores AVSEC são definidos e atualizados pelo Órgão
+Central do SISCEAB. Os indicadores serão relacionados a:
+a) Visitas Técnicas;
+b) Inspeções;
+c) Auditorias;
+d) Testes;
+e) Exercícios Simulados;
+f) Gerenciamento de Risco; e
+g) Ocorrências AVSEC.
+9.2.3 Após analisados, os indicadores devem ser apresentados ao Comitê Nacional de
+Segurança AVSEC do SISCEAB.
+9.2.4 Os indicadores são definidos pelo Órgão Central do SISCEAB, após a análise do RNCQ
+e dos resultados das Análises de Risco descritas na ICA 205-51 “Gerenciamento do Risco
+AVSEC no SISCEAB”.
+
+--- PÁGINA ---
+ICA 800-8/2022 40/46
+9.2.5 As Gerências Regionais devem coordenar com os Gerentes Locais de sua jurisdição
+(DTCEA, DNB e EPTA Categorias “Especial” e “A”) a forma de recebimento dos dados para
+elaboração dos indicadores, definidos pela Gerência Nacional, por meio de um sistema
+integrado de gestão AVSEC.
+9.2.6 O 1º GCC deve coordenar com os Esquadrões Subordinados a forma de recebimento
+dos dados para elaboração dos indicadores, definidos pela Gerência Nacional, por meio de um
+sistema integrado de gestão AVSEC.
+9.2.7 Os Órgãos Regionais Executivos, o 1º GCC, o CGNA, o GEIV, o ICA, o PAME-RJ e
+o CIMAER devem considerar os parâmetros estabelecidos pelos indicadores definidos pela
+AVSECCEA.
+9.2.8 A Gerência Nacional deve utilizar um sistema integrado de gestão AVSEC para coleta
+e análise das informações procedentes de fontes internas ou externas.
+9.2.9 Os indicadores dos testes de invasão cibernética (PENTEST) são definidos pelo
+Subdepartamento Técnico do DECEA (SDTE).
+
+--- PÁGINA ---
+41/46 ICA 800-8/2022
+DISPOSIÇÕES TRANSITÓRIAS
+10.1 A formação de auditores está prevista com a implantação do Curso SEC006E no ICEA
+no ano de 2022.
+10.2 O Cronograma de Auditorias AVSEC no SISCEAB será elaborado a partir do ano de 2023.
+10.3 As Auditorias AVSEC no SISCEAB terão início no ano de 2024.
+
+--- PÁGINA ---
+ICA 800-8/2022 42/46
+DISPOSIÇÕES FINAIS
+11.1 Para o contínuo aperfeiçoamento desta publicação, as sugestões devem ser enviadas por
+intermédio dos endereços eletrônicos http://publicacoes.decea.intraer ou
+http://publicacoes.decea.mil.br, acessando o link específico da publicação.
+11.2 Os casos não previstos neste Programa devem ser submetidos ao Diretor-Geral do
+DECEA.
+
+--- PÁGINA ---
+43/46 ICA 800-8/2022
+REFERÊNCIAS
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR ISO 9000: Sistemas
+de Gestão da Qualidade: Fundamentos e Vocabulário. Rio de Janeiro: ABNT, 2015.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR ISO 19011:
+Diretrizes para Auditoria de Sistemas de Gestão. Rio de Janeiro: ABNT, 2018.
+BRASIL. Comando da Aeronáutica. Comando-Geral do Pessoal. Confecção, Controle e
+Numeração de Publicações Oficiais do Comando da Aeronáutica: NSCA 5-1. [Rio de Janeiro],
+2011.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Ações de
+Segurança e Defesa no SISCEAB: ICA 205-40. [Rio de Janeiro], 2018.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Ações dos
+Órgãos ATS em Caso de Atos de Interferência Ilícita contra a Aviação Civil: CIRCEA 100-
+56. [Rio de Janeiro], 2019.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Classificação
+dos Sistemas de Informação do SISCEAB: ICA 7-31. [Rio de Janeiro], 2014.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Diretriz de
+Segurança AVSEC para o Sistema de Controle do Espaço Aéreo Brasileiro: DCA 205-7. [Rio
+de Janeiro], 2021.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Diretriz para
+o Sistema de Gestão da Qualidade Integrada (SGQI) do DECEA: DCA 800-1. [Rio de Janeiro],
+2021.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Indicadores
+de Desempenho da Segurança Operacional no SISCEAB: ICA 63-38. [Rio de Janeiro], 2015.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Manual para
+Programação, Registro e Controle das Atividades da Qualidade AVSEC no SISCEAB: MCA
+800-12. [Rio de Janeiro], 2022.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Modelo
+Operacional e Manual do Órgão ATC: CIRCEA 100-57. [Rio de Janeiro], 2012.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Órgãos
+Provedores de Serviço de Navegação Aérea – PSNA: ICA 63-46. [Rio de Janeiro], 2021.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Plano de
+Degradação, Plano Regional de Emergência e Plano de Contingência: DCA 63-1. [Rio de
+Janeiro], 2018.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Política de
+Segurança da Informação do Departamento de Controle do Espaço Aéreo: DCA 7-2. [Rio de
+Janeiro], 2010.
+
+--- PÁGINA ---
+ICA 800-8/2022 44/46
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Programa
+Nacional de Segurança AVSEC para o SISCEAB: ICA 205-48. [Rio de Janeiro], 2021.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo.
+Gerenciamento de Risco AVSEC no SISCEAB: ICA 205-51. [Rio de Janeiro], 2022.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Sistema de
+Controle do Espaço Aéreo Brasileiro: NSCA 351-1. [Rio de Janeiro], 2022.
+BRASIL. Comando da Aeronáutica. Estado-Maior da Aeronáutica. Procedimentos para os
+Órgãos do COMAER referentes à Segurança da Aviação Civil contra Atos de Interferência
+Ilícita: DCA 205-6. [Brasília], 2011.
+BRASIL. Decreto nº 7.168, de 5 de maio de 2010. Dispõe sobre o Programa Nacional de
+Segurança da Aviação Civil contra Atos de Interferência Ilícita (PNAVSEC). Diário Oficial
+da União: Poder Executivo, Brasília, DF, p. 4, 6 maio 2010.
+BRASIL. Decreto nº 7.845, de 14 de novembro de 2012. Regulamenta procedimentos para
+credenciamento de segurança e tratamento de informação classificada em qualquer grau de
+sigilo, e dispõe sobre o Núcleo de Segurança e Credenciamento. Diário Oficial da União:
+Poder Executivo, Brasília, DF, p. 1, 16 nov. 2012.
+BRASIL. Lei nº 7.565, de 19 de dezembro de 1986. Dispõe sobre o Código Brasileiro de
+Aeronáutica. Diário Oficial da União: Poder Executivo, Brasília, DF, p. 19.567, 23 dez. 1986.
+BRASIL. Comando da Aeronáutica. Portaria DECEA nº 258/JJAER, de 10 de dezembro de
+2018. Aprova a reedição da regulamentação da competência, da organização e do
+funcionamento da Junta de Julgamento da Aeronáutica, assim como dos procedimentos dos
+respectivos processos. Diário Oficial da União: Seção 1, Brasília, DF, n. 4, p. 11, 7 jan.
+2019.
+BRASIL. Comando da Aeronáutica. Portaria nº 1.359, de 30 de novembro de 2005. Reformula
+o Sistema de Controle do Espaço Aéreo. Diário Oficial da União: Seção 1, Brasília, DF, n.
+231, p. 33, 2 dez. 2005.
+CANADÁ. OACI. Anexo 17 à Convenção de Aviação Civil Internacional: Segurança. Proteção
+da Aviação Civil Internacional contra Atos de Interferência Ilícita. 11. ed. 2020.
+CANADÁ. OACI. Manual de Segurança para a Proteção da Aviação Civil contra Atos de
+Interferência Ilícita. DOC 8973. 12. ed. 2020.
+CANADÁ. OACI. Manual de Segurança para o Gerenciamento do Tráfego Aéreo contra Atos
+de Interferência Ilícita. DOC 9985. 11. ed. 2019
+CANADÁ. OACI. Programa de Auditoria de Segurança Universal – Manual de
+Monitoramento Contínuo. DOC 9807. 2. ed. 2016
+
+--- PÁGINA ---
+45/46 ICA 800-8/2022
+Anexo A – Modelo de Programa de Controle de Qualidade AVSEC
+PROGRAMA (LOCAL/REGIONAL/NACIONAL) DE CONTROLE DE
+QUALIDADE AVSEC
+ELO DO SISCEAB: DTCEA-XX / EPTA XXXX / CINDACTA X
+PERÍODO DE VIGÊNCIA: Jan/AAAA a Dez/AAAA
+1. OBJETIVO
+Relacionar as atividades de controle de qualidade previstas no (PLCQ/PRCQ/PNCQ) do(a) (Elo do
+SISCEAB) que contribuem para o monitoramento do Sistema de Gerenciamento da Segurança
+(SeMS) do SISCEAB.
+2. CRONOGRAMA
+ATIVIDADES DE CONTROLE DE QUALIDADE AVSEC
+TESTES DATA(S)
+PROFICIÊNCIA ATCO
+FALSO CREDENCIAMENTO
+INTRUSÃO DAS INSTALAÇÕES
+PENTEST
+EXERCÍCIOS DATA(S)
+ESAB
+ESAIA
+VISTORIAS DATA(S)
+SEGURANÇA AVSEC DAS INSTALAÇÕES
+ATIVIDADES ESPECÍFICAS PARA PRCQ E PNCQ
+CONFORMIDADES DATA(S) CUSTO (R$)
+VISITAS TÉCNICAS
+AUDITORIAS
+Elaborado por
+___________________________________
+Gerente AVSEC do Elo do SISCEAB
+Aprovado por
+____________________________________
+Responsável do Elo do SISCEAB
+
+--- PÁGINA ---
+ICA 800-8/2022 46/46
+Anexo B – Modelo de Relatório de Controle de Qualidade AVSEC
+RELATÓRIO (LOCAL/REGIONAL/NACIONAL) DE CONTROLE DE
+QUALIDADE AVSEC
+ELO DO SISCEAB: DTCEA-XX / EPTA XXXX / CINDACTA X
+PERÍODO DE VIGÊNCIA: Jan/AAAA a Dez/AAAA
+1. OBJETIVO
+Registrar, aferir e avaliar as atividades de controle de qualidade previstas no (PLCQ/PRCQ/PNCQ)
+que contribuem para a melhoria contínua dos processos e medidas de Segurança AVSEC
+implementadas.
+2. CRONOGRAMA
+ATIVIDADES DE CONTROLE DE QUALIDADE AVSEC
+RESULTADO(S)
+Quantidade Data(s) de
+TESTES Observações
+de eventos realização S I
+PROFICIÊNCIA ATCO
+FALSO CREDENCIAMENTO
+INTRUSÃO DAS INSTALAÇÕES
+PENTEST
+RESULTADO(S)
+EXERCÍCIOS
+Q
+d
+u
+e
+a
+e
+n
+v
+t
+e
+i
+n
+d
+t
+a
+o
+d
+s
+e D
+re
+a
+a
+t
+l
+a
+iz
+(s
+a
+)
+ç ã
+d
+o
+e
+S I
+Observações
+ESAB
+ESAIA
+RESULTADO(S)
+VISTORIAS
+Q
+d
+u
+e
+a
+e
+n
+v
+t
+e
+i
+n
+d
+t
+a
+o
+d
+s
+e D
+re
+a
+a
+t
+l
+a
+iz
+(s
+a
+)
+ç ã
+d
+o
+e
+S I
+Observações
+SEGURANÇA AVSEC DAS INSTALAÇÕES
+ATIVIDADES ESPECÍFICAS PARA PRCQ E PNCQ
+CONFORMIDADES DATA(S) CUSTO (R$)
+VISITAS TÉCNICAS
+AUDITORIAS
+Legenda: S – Satisfatório / I – Insatisfatório
+Elaborado por
+___________________________________
+Gerente AVSEC do Elo do SISCEAB
+Aprovado por
+____________________________________
+Responsável do Elo do SISCEAB

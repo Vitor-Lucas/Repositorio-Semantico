@@ -1,0 +1,1012 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+QUALIDADE
+ICA 800-9
+GARANTIA DA QUALIDADE E DA SEGURANÇA
+DE SISTEMAS E PRODUTOS NO ÂMBITO DO
+SISCEAB
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA No 102/DNAT, DE 4 DE ABRIL DE 2022.
+Aprova a reedição da ICA 800-9,
+Instrução sobre “Garantia da Qualidade e
+da Segurança de Sistemas e Produtos no
+Âmbito do SISCEAB”.
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 19, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 6.834, de 30 de abril de
+2009, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA, aprovado
+pela Portaria nº 1.668/GC3, de 16 de setembro de 2013, resolve:
+Art. 1o Aprovar a reedição da ICA 800-9, “Garantia da Qualidade e da
+Segurança de Sistemas e Produtos no Âmbito do SISCEAB”, que com esta baixa.
+Art. 2o Revogar a Portaria DECEA nº 59/DGCEA, de 17 de maio de 2019,
+publicada no Boletim do Comando da Aeronáutica nº 92, de 30 de maio de 2019.
+Art. 3o Esta Portaria entra em vigor em 2 de maio de 2022.
+(a)Ten Brig Ar JOÃO TADEU FIORENTINI
+Diretor-Geral do DECEA
+(Publicado no BCA nº 072, de 18 de abril de 2022)
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 800-9/2022
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES .................................................................................. 9
+1.1 FINALIDADE ................................................................................................................ 9
+1.2 ÂMBITO ......................................................................................................................... 9
+1.3 ESCOPO ......................................................................................................................... 9
+1.4 CONCEITUAÇÃO ......................................................................................................... 9
+1.5 ABREVIATURAS ........................................................................................................ 16
+2 INTRODUÇÃO .............................................................................................................. 18
+2.1 AVALIAÇÃO DA CONFORMIDADE ......................................................................... 18
+2.2 AVALIAÇÃO DA ORGANIZAÇÃO FORNECEDORA .............................................. 19
+2.3 OPERACIONALIDADE CONTINUADA .................................................................... 19
+2.4 RESPONSABILIDADES .............................................................................................. 19
+3 APLICAÇÃO DOS PROCESSOS DE AVALIAÇÃO DA CONFORMIDADE ......... 21
+3.1 REGRA GERAL ........................................................................................................... 21
+3.2 PCEA EM OPERAÇÃO NO SISCEAB (LEGADO) ...................................................... 21
+3.3 PCEA A SER IMPLANTADO POR OMIMP DO DECEA ............................................ 21
+3.4 PCEA A SER IMPLANTADO POR OUTRAS ORGANIZAÇÕES ............................... 21
+4 AVALIAÇÃO DA CONFORMIDADE DO TIPO ACEITAÇÃO ............................... 23
+4.1 ELEGIBILIDADE......................................................................................................... 23
+4.2 PROCEDIMENTO GENÉRICO ................................................................................... 23
+4.3 EVIDÊNCIAS ............................................................................................................... 23
+4.4 CONCLUSÃO DA ACEITAÇÃO DE PRODUTO ........................................................ 23
+5 AVALIAÇÃO DA CONFORMIDADE DO TIPO APROVAÇÃO.............................. 24
+5.1 ELEGIBILIDADE......................................................................................................... 24
+5.2 PROCEDIMENTO GENÉRICO ................................................................................... 24
+5.3 BASE DE REQUISITOS DE AVALIAÇÃO DA CONFORMIDADE....................................... 24
+5.4 PLANO DE AVALIAÇÃO DA CONFORMIDADE ................................................................. 24
+5.5 AVALIAÇÃO DO DESEMPENHO .............................................................................. 25
+5.6 EMISSÃO DO ATESTADO DE APROVAÇÃO ........................................................... 25
+5.7 DISPONIBILIDADE E SALVAGUARDA DE REGISTROS ........................................ 26
+5.8 MODIFICAÇÕES AO PROJETO DE PCEA CUJO DESEMPENHO FOI AVALIADO 26
+6 AVALIAÇÃO DA CONFORMIDADE DO TIPO CERTIFICAÇÃO ........................ 27
+6.1 ELEGIBILIDADE......................................................................................................... 27
+6.2 AVALIAÇÃO DE PROJETO ........................................................................................ 27
+6.3 BASE DE REQUISITOS DO PROJETO ....................................................................... 27
+6.4 PLANEJAMENTO DA AVALIAÇÃO DE PROJETO .................................................. 27
+6.5 DESENVOLVIMENTO DA AVALIAÇÃO DO PROJETO .............................................. 28
+6.6 MATRIZ DE COMPROVAÇÃO DE REQUISITOS (MCR).......................................... 28
+6.7 CONCLUSÃO DA AVALIAÇÃO DE PROJETO ......................................................... 29
+6.8 DISPONIBILIDADE E SALVAGUARDA DE REGISTROS ........................................ 29
+6.9 MODIFICAÇÕES EM PROJETO AVALIADO ............................................................ 29
+
+--- PÁGINA ---
+ICA 800-9/2022
+6.10 AVALIAÇÃO DE ORGANIZAÇÃO FORNECEDORA ............................................. 30
+6.11 REQUISITOS PARA A AVALIAÇÃO DE ORGANIZAÇÃO FORNECEDORA ....... 30
+6.12 CONCLUSÃO DA AVALIAÇÃO DE ORGANIZAÇÃO FORNECEDORA .............. 31
+6.13 MUDANÇA DA INSTALAÇÃO DE PRODUÇÃO ..................................................... 31
+6.14 OBRIGAÇÕES DA ORGANIZAÇÃO FORNECEDORA AVALIADA ...................... 32
+6.15 EMISSÃO DO CERTIFICADO DE CERTIFICAÇÃO ................................................ 32
+7 PROCEDIMENTO DE VALIDAÇÃO DE AVALIAÇÃO DA CONFORMIDADE .. 33
+7.1 ELEGIBILIDADE ......................................................................................................... 33
+7.2 PROCEDIMENTO GENÉRICO.................................................................................... 33
+7.3 REQUISITOS PARA O PROCEDIMENTO VALIDAÇÃO .......................................... 33
+8 OPERACIONALIDADE CONTINUADA .................................................................... 34
+8.1 INDICADORES DE DESEMPENHO ........................................................................... 34
+8.2 GESTÃO DOS PROCESSOS DE OPERACIONALIDADE CONTINUADA ................ 34
+8.3 AÇÕES APLICÁVEIS .................................................................................................. 34
+9 CREDENCIAMENTO DE REPRESENTANTES ........................................................ 36
+10 DISPOSIÇÕES TRANSITÓRIAS............................................................................... 37
+11 DISPOSIÇÕES FINAIS ............................................................................................... 38
+REFERÊNCIAS ................................................................................................................. 39
+
+--- PÁGINA ---
+ICA 800-9/2022
+PREFÁCIO
+O DECEA, Órgão Certificador dos Produtos de Controle do Espaço Aéreo,
+assim designado pelo Comando da Aeronáutica pela DCA 800-2, percebeu o amadurecimento
+das perspectivas relacionadas à atividade de Avaliação da Conformidade no SISCEAB no
+transcorrer da efetividade da primeira edição desta Instrução.
+Tal percepção decorreu das suas atuações consistentes em Processos de
+Avaliação da Conformidade, bem como da discussão técnica constante, permitindo um olhar
+mais sóbrio acerca do tema.
+Entretanto, há ainda espaço para refinamento, considerando-se que a
+melhoria da qualidade dos serviços e a segurança das operações suportadas pela infraestrutura
+da navegação aérea devem ser buscadas constantemente.
+Dessa forma, esta segunda edição busca refletir os avanços observados,
+alinhando-se aos entendimentos detalhados em publicações específicas.
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 800-9/2022
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+Esta Instrução tem por finalidade disciplinar as atividades de Avaliação da Conformidade de
+Produto de Controle do Espaço Aéreo.
+1.2 ÂMBITO
+A presente Instrução aplica-se ao Sistema de Controle do Espaço Aéreo Brasileiro.
+1.3 ESCOPO
+Este documento apresenta aspectos gerais sobre os serviços de Avaliação da Conformidade, a
+serem observadas por todas as Organizações que compõem o SISCEAB.
+1.4 CONCEITUAÇÃO
+1.4.1 AVALIAÇÃO DA CONFORMIDADE (AC)
+Procedimento que objetiva demonstrar que os requisitos especificados relativos a um produto,
+a um serviço, a um processo, a um sistema, a uma pessoa ou a um organismo, são atendidos.
+No contexto desta edição desta Instrução, a expressão Avaliação da Conformidade restringe-
+se a um termo geral que designa os possíveis Processos de Avaliação de um PCEA.
+1.4.2 AVALIAÇÃO DA CONFORMIDADE DO TIPO ACEITAÇÃO
+Processo de AC que se vale dos resultados obtidos durante o recebimento e homologação de
+um sistema ou produto implantado no SISCEAB pelo DECEA e seus elos, como forma de
+AC, dispensando execução de Processos de Aprovação ou Certificação.
+O Processo de Aceitação de Produto, no contexto da edição desta Instrução, não se confunde
+com os processos de aceitação realizados pelas OMIMP durante as fases de aquisição e de
+recebimento de um PCEA.
+A Avaliação da Conformidade do tipo Aceitação é documentada por intermédio de Carta de
+Aceitação e será definida em Norma específica.
+1.4.3 AVALIAÇÃO DA CONFORMIDADE DO TIPO APROVAÇÃO
+Processo que objetiva demonstrar que um sistema ou produto é adequado para o propósito a
+que se destina, após verificação dos requisitos técnico-operacionais do equipamento.
+O Processo de Aprovação de Produto, no contexto da edição desta Instrução, não se confunde
+com os processos de aprovação realizados pelas OMIMP durante os processos de aquisição e
+de recebimento de um PCEA, ou pelo DECEA e seus CRM, quando da homologação.
+A Avaliação da Conformidade do tipo Aprovação é documentada por intermédio de Atestado
+de Aprovação e será definida em Norma específica.
+1.4.4 AVALIAÇÃO DA CONFORMIDADE DO TIPO CERTIFICAÇÃO
+Processo pelo qual o DECEA verifica se o projeto de um PCEA está em conformidade com os
+requisitos técnicos, operacionais e de segurança, bem como se foi fabricado corretamente, de
+acordo com as especificações de projeto.
+
+--- PÁGINA ---
+10/39 ICA 800-9/2022
+Compreende as atividades de Avaliação de Projeto, de Avaliação da Organização
+Fornecedora e de Certificação do Produto.
+A Avaliação da Conformidade do tipo Certificação é documentada por intermédio de
+Certificado de Certificação e será definida em Norma específica.
+1.4.5 AVALIAÇÃO DE ORGANIZAÇÃO FORNECEDORA
+Processo pelo qual o DECEA reconhece que o Sistema de Gestão da Qualidade da
+Organização Fornecedora (e, quando aplicável, de sua cadeia de fornecedores) está
+implantado em conformidade com os requisitos da qualidade aplicáveis à fabricação de um
+determinado PCEA.
+1.4.6 AVALIAÇÃO DE PROJETO
+Processo pelo qual o DECEA reconhece que o projeto de um PCEA está em conformidade
+com seus requisitos de projeto relativos ao cumprimento de sua função com segurança, após
+verificação técnica adequada.
+1.4.7 BASE DE REQUISITOS DE AC MÍNIMA (BRAC-M)
+Conjunto de requisitos definidos pelo DECEA que definem quais características mínimas o
+PCEA deve possuir, de modo a garantir o cumprimento de sua função, tendo como base
+padrões nacionais e internacionais técnicos e operacionais.
+1.4.8 BASE DE REQUISITOS DE AC PROPOSTA (BRAC-P)
+Conjunto de requisitos propostos pelo Requerente que traduzem quais características do
+PCEA, além daquelas mínimas previamente definidas, que contribuem de forma consistente
+para o cumprimento seguro da sua função.
+1.4.9 BASE DE REQUISITOS DE AC APROVADA (BRAC-A)
+Conjunto de requisitos resultantes da junção das Bases de Requisitos de Avaliação da
+Conformidade, Mínima e Proposta.
+1.4.10 BASE DE REQUISITOS DE PROJETO (BRP)
+Conjunto de critérios aprovados que definem a adequação do projeto aos requisitos de
+mercado e sua aderência às entregas do produto. É composta pelos requisitos do projeto
+associados à BRAC-A.
+1.4.11 CENTRO REGIONAL DE MANUTENÇÃO (CRM)
+São os CINDACTA, o CRCEA-SP e o 1º GCC, com atribuição, dentre outras, de executar as
+manutenções de níveis Orgânico e Base dos PCEA sob a sua responsabilidade.
+1.4.12 CICLO DE VIDA DE PRODUTOS E SISTEMAS
+Período da existência útil do PCEA, previsto na DCA 400-6, que compreende as fases de: (1)
+concepção, (2) viabilidade, (3) definição, (4) desenvolvimento/aquisição, (5) produção, (6)
+implantação, (7) utilização, (8) revitalização, modernização ou melhoria e (9) desativação.
+
+--- PÁGINA ---
+ICA 800-9/2022 11/39
+1.4.13 CONFIGURAÇÃO BASE
+Descrição dos principais Part Numbers que formam os módulos, sensores, funções, sistemas e
+subsistemas que caracterizam o PCEA.
+1.4.14 DOCUMENTO DE AC
+Documento que demonstra a conclusão do Processo de AC. Integra as Especificações de AC,
+onde são descritos aspectos dos resultados obtidos.
+São esses os Documentos de AC emitidos pelo DECEA:
+a) Carta de Aceitação;
+b) Carta de Validação;
+c) Atestado de Aprovação; e
+d) Certificado de Certificação.
+1.4.15 EPTA
+Estação Prestadora de Serviço de Telecomunicações e de Tráfego Aéreo é uma autorizada de
+serviço público pertencente a pessoa física ou jurídica de direito público ou privado, dotada de
+pessoal, instalações, equipamentos, sistemas e materiais suficientes para prestar, isolada ou
+cumulativamente, os seguintes serviços: Controle de Tráfego Aéreo (Controle de
+Aproximação e/ou Controle de Aeródromo), Informação de Voo de Aeródromo (AFIS),
+Telecomunicações Aeronáuticas, Meteorologia Aeronáutica, Informações Aeronáuticas e de
+Alerta; apoiar a navegação aérea por meio de auxílios à navegação aérea; apoiar as operações
+de pouso e decolagem em plataformas marítimas, ou ainda veicular mensagens de caráter
+geral entre as entidades autorizadas e suas respectivas aeronaves, em complemento à
+infraestrutura de apoio à navegação aérea provida e operada pela União-COMAER-DECEA.
+1.4.16 ESPECIFICAÇÃO TÉCNICA
+Conjunto de dados técnicos que definem as características do PCEA, abrangendo, dentre
+outros, os requisitos de desenvolvimento, de manufatura, de emprego, de manutenção, de
+desempenho técnico, de desempenho operacional e de segurança na execução de sua função.
+1.4.17 GARANTIA DA QUALIDADE
+Parte da gestão da qualidade focada em prover confiança de que os requisitos da qualidade
+são atendidos.
+1.4.18 GARANTIA DA SEGURANÇA
+Todas as ações de gestão e engenharia focadas em prover confiança de que os requisitos de
+segurança do produto são devidamente estabelecidos, rastreados e atendidos.
+1.4.19 INOPERÂNCIA
+É a interrupção temporária, programada ou não, da operação de um equipamento ou de parte
+integrante deste.
+
+--- PÁGINA ---
+12/39 ICA 800-9/2022
+1.4.20 INTEGRADOR DE SISTEMAS OU EQUIPAMENTOS
+Pessoa física ou jurídica que detêm a competência de instalar os componentes de um PCEA e
+garantir que todos os recursos estejam harmonizados no cumprimento da missão do conjunto.
+1.4.21 LABORATÓRIO CREDENCIADO (LC)
+São os Laboratórios não acreditados pelo INMETRO para execução de ensaios demandados
+por algum Processo de AC, que são avaliados pelo DECEA segundo requisitos da norma
+ABNT NBR ISSO/IEC 17025, com efeito específico para o evento que provocou a auditoria.
+1.4.22 MANUTENÇÃO
+Compreende todas as ações destinadas a garantir que sistemas e produtos mantenham-se
+operando segundo as especificações funcionais e de desempenho, dentro das margens de
+segurança estabelecidas em projeto. Consideram-se ações de manutenção: a inspeção, a
+revisão geral, o reparo, a preservação, a substituição de partes e modificação segundo dados
+técnicos aprovados ou aceitos pela Organização Avaliadora do projeto, entre outras práticas
+consagradas e de ampla aceitação mundial.
+1.4.23 MATRIZ DE COMPROVAÇÃO DE REQUISITOS (MCR)
+Documentos que apontam os modos de comprovação para demonstração de conformidade
+com os requisitos da Base de Requisitos de Avaliação da Conformidade Proposta (BRAC-P),
+denominados MCR-P, ou da Base de Requisitos de Avaliação da Conformidade Aprovada
+(BRAC-A), denominados MCR-A.
+1.4.24 MODIFICAÇÃO
+Qualquer alteração levada a efeito em PCEA já avaliado.
+1.4.25 OPERACIONALIDADE CONTINUADA
+É o conjunto de processos estabelecidos que visam manter hígidos os requisitos aprovados,
+visitados em avaliação anterior, com a finalidade de resguardar a segurança e a qualidade dos
+serviços prestados pelo PCEA durante a sua vida em serviço.
+1.4.26 ORGANIZAÇÃO CERTIFICADORA (OC)
+Conforme disposto na DCA 800-2, “Garantia da Qualidade e da Segurança de Sistemas e
+Produtos no COMAER”, o DECEA é a OC no âmbito do SISCEAB.
+Como OC, o DECEA é responsável por regular, supervisionar e controlar todas as atividades
+afetas à Garantia da Qualidade e da Segurança dos PCEA por meio da atividade de Avaliação
+da Conformidade dos tipos Aceitação, Aprovação, Certificação e Validação, bem como da
+Avaliação de Projeto e de Organização Fornecedora, assim como da gestão da
+Operacionalidade Continuada.
+
+--- PÁGINA ---
+ICA 800-9/2022 13/39
+1.4.27 ORGANIZAÇÃO FORNECEDORA
+Pessoa jurídica, pública ou privada, responsável pelo fornecimento de sistema, produto e
+serviços de interesse do DECEA ou previsto em contrato, que atua em uma ou mais fases do
+ciclo de vida do sistema ou produto.
+1.4.28 ORGANIZAÇÃO IMPLANTADORA (OMIMP)
+São Organizações Militares (DECEA, CISCEA, PAME-RJ ou CRM) responsáveis pela
+implantação de PCEA.
+1.4.29 PERIGO
+Qualquer condição, potencial ou real, que possa causar dano físico, doença ou morte a
+pessoas; dano ou perda de um sistema, equipamento ou propriedade, ou dano ao meio
+ambiente.
+1.4.30 PLANO DE AVALIAÇÃO DA CONFORMIDADE (PLAC)
+Documento composto pelo Requerente e que contém o programa de trabalho, a BRAC e a
+MCR.
+A composição inicial desse documento será denominada Plano de Avaliação da
+Conformidade Proposto (PLAC-P). Após os ajustes necessários e sua aprovação pelo ICEA, o
+documento passará a ser denominado Plano de Avaliação da Conformidade Aprovado
+(PLAC-A).
+1.4.31 PROCESSO DE AC COMPULSÓRIO
+Exigência imposta ao prestador (ou pretendente) de serviços do Controle do Espaço Aéreo,
+com intenção de uso de PCEA ainda não avaliado conforme requisitos mínimos de qualidade
+e segurança definidos pelo DECEA.
+1.4.32 PROCESSO DE AC VOLUNTÁRIO
+Transcurso das ações previstas para o tipo de Processo de AC escolhido, sem sua preliminar
+obrigatoriedade de execução.
+1.4.33 PRODUTO DE CONTROLE DO ESPAÇO AÉREO (PCEA)
+Equipamento ou sistema em uso ou elegível a ser utilizado como componente da estrutura de
+suporte ao Controle do Espaço Aéreo brasileiro, que se enquadre em uma das categorias
+abaixo relacionadas:
+a) sistema ou equipamento de telecomunicações aeronáuticas;
+b) auxílio à navegação aérea;
+c) sistema ou equipamento de vigilância aérea;
+d) sistema ou equipamento de gerenciamento de tráfego aéreo;
+e) sistema ou equipamento de meteorologia aeronáutica;
+f) sistema de tecnologia de informação de emprego operacional no SISCEAB; e
+g) sistema ou equipamento de energia elétrica ou climatização.
+
+--- PÁGINA ---
+14/39 ICA 800-9/2022
+1.4.34 PROJETO
+Conjunto organizado de documentos que define todas as características e informações acerca
+de um produto desde sua concepção, fornecendo informações apropriadas para sua fabricação,
+operação e manutenção.
+O projeto de um PCEA, para fins de avaliação, consiste em:
+a) descrição do produto e suas especificações operacionais;
+b) critérios da BRP;
+c) detalhamento de todos os artefatos de engenharia e de análise de segurança gerados
+durante a concepção do PCEA;
+d) desenhos e especificações, incluindo uma listagem daqueles necessários para definir a
+configuração do PCEA e as características de projeto;
+e) informações sobre dimensões, materiais e processos necessárias à definição e
+fabricação do PCEA (dossiê de construção); e
+f) Manuais do PCEA que orientem os processos de Operacionalidade Continuada
+(manuais de operação, de instalação e de manutenção/reparos).
+1.4.35 PROTÓTIPO
+Produto de trabalho da fase de testes e/ou planejamento de um projeto. É implementado para
+realização de ensaios visando à verificação de requisitos e não deve ser considerado versão
+final e, por isso, não pode ser utilizado para fins de prestação de serviço relacionado ao
+Controle do Espaço Aéreo no SISCEAB.
+1.4.36 QUALIDADE
+Grau no qual um conjunto de características inerentes satisfaz a requisitos.
+1.4.37 REPRESENTANTE CREDENCIADO (RC)
+Pessoa física autorizada pelo DECEA a atuar em atividades pertinentes aos Processos de AC,
+como preposto do OC ou do Requerente.
+1.4.38 REQUERENTE
+Pessoa física ou jurídica que solicite os Serviços de AC ao DECEA e que apresente pessoas
+devidamente qualificadas para a condução dos respectivos processos.
+Caso não seja o fabricante ou o integrador de sistemas (ou o representante legal desses), o
+Requerente deverá apresentar documento comprobatório de que está por eles autorizado a
+abrir e a conduzir o respectivo Processo de AC.
+1.4.39 REQUISITO
+Termo que expressa uma necessidade ou expectativa, um critério ou exigência a ser atendida
+cujo desvio não é permitido ou um elemento identificável de uma especificação que pode ser
+validado.
+Para efeito desta Instrução, um requisito pode ser de natureza técnica, operacional ou de
+segurança.
+
+--- PÁGINA ---
+ICA 800-9/2022 15/39
+1.4.40 SEGURANÇA
+Estado de um PCEA no qual todas as condições que podem levar à morte ou causar
+ferimentos, doenças ocupacionais, danos ou perda de equipamentos, danos à propriedade ou
+ao meio ambiente são eliminados, ou os riscos decorrentes de sua existência são reduzidos,
+controlados e mantidos dentro de níveis aceitáveis.
+Para os efeitos desta Instrução, segurança não contempla os atos deliberados que visam causar
+danos ou acidentes, tais como atos de sabotagem e terrorismo.
+1.4.41 SEGURANÇA OPERACIONAL
+É a capacidade comprovada de um PCEA realizar sua função de modo seguro, em toda
+configuração aprovada, quando usado e mantido dentro dos limites operacionais
+estabelecidos.
+1.4.42 SISTEMA
+É um conjunto de elementos inter-relacionados ou interconectados de modo a formar um todo
+organizado, operando num ambiente especificado, que visa realizar funções especificadas ou
+alcançar um determinado propósito.
+NOTA: Dependendo do contexto, os elementos de um sistema podem ser pessoas,
+informações, procedimentos, software, ferramentas, materiais, equipamentos e instalações.
+1.4.43 SISTEMA DE CONTROLE DO ESPAÇO AÉREO BRASILEIRO (SISCEAB)
+Sistema estabelecido com a finalidade de consolidar a integração dos Sistemas de Proteção ao
+Voo (SPV), de Telecomunicações do Comando da Aeronáutica (STCA) e de Defesa Aérea e
+Controle de Tráfego Aéreo (SISDACTA), tendo todos o DECEA como Órgão Central.
+1.4.44 VALIDAÇÃO DE AVALIAÇÃO DE CONFORMIDADE
+Procedimento pelo qual o DECEA reconhece a AC realizada por Organização Governamental
+de Certificação nacional ou estrangeira.
+O Procedimento de Validação de AC é documentado por intermédio de uma Carta de
+Validação, que tem aplicação exclusiva no âmbito do SISCEAB.
+
+--- PÁGINA ---
+16/39 ICA 800-9/2022
+1.5 ABREVIATURAS
+1.5.1 AC – Avaliação da Conformidade.
+1.5.2 ANAC – Agência Nacional da Aviação Civil.
+1.5.3 ATS – Air Traffic Services.
+1.5.4 BRAC-A – Base de Requisitos de Avaliação da Conformidade Aprovada.
+1.5.5 BRAC-M – Base de Requisitos de Avaliação da Conformidade Mínima.
+1.5.6 BRAC-P – Base de Requisitos de Avaliação da Conformidade Proposta.
+1.5.7 BRP – Base de Requisitos de Projeto.
+1.5.8 CGTEC – Centro de Gerenciamento Técnico.
+1.5.9 CISCEA – Comissão de Implantação do Sistema de Controle do Espaço Aéreo.
+1.5.10 COMAER – Comando da Aeronáutica.
+1.5.11 CRM – Centro Regional de Manutenção.
+1.5.12 DCA – Diretriz do Comando da Aeronáutica.
+1.5.13 DECEA – Departamento de Controle do Espaço Aéreo.
+1.5.14 EPTA – Estações Prestadoras de Serviços de Telecomunicações e de Tráfego Aéreo.
+1.5.15 FAA – Federal Aviation Administration (Administração Federal de Aviação
+Americana).
+1.5.16 ICA – Instrução do Comando da Aeronáutica.
+1.5.17 ICEA – Instituto de Controle do Espaço Aéreo.
+1.5.18 INMETRO – Instituto Nacional de Metrologia, Qualidade e Tecnologia.
+1.5.19 MCR-P – Matriz de Comprovação de Requisitos Proposta.
+1.5.20 MCR – Matriz de Comprovação de Requisitos Aprovada.
+1.5.21 OC – Organização Certificadora.
+1.5.22 OCM – Órgão Central de Manutenção.
+1.5.23 OM – Organização Militar.
+1.5.24 OMIMP – Organização Militar Implantadora.
+1.5.25 OPCONT – Operacionalidade Continuada.
+1.5.26 PAC – Processo de Avaliação da Conformidade.
+1.5.27 PAME-RJ – Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro.
+1.5.28 PCEA – Produto de Controle do Espaço Aéreo.
+1.5.29 PLAC – Plano de Avaliação da Conformidade.
+1.5.30 PEC – Plano de Ensaios e Comprovações.
+1.5.31 PN – Part Number.
+1.5.32 PSNA – Prestador de Serviço de Navegação Aérea.
+1.5.33 PVPAC – Procedimento de Validação de Processo de Avaliação da Conformidade.
+
+--- PÁGINA ---
+ICA 800-9/2022 17/39
+1.5.34 RBC – Rede Brasileira de Calibração.
+1.5.35 RBE – Rede Brasileira de Ensaios.
+1.5.36 RC – Representante Credenciado.
+1.5.37 RFA – Relatório Final de Aceitação.
+1.5.38 RSAC – Requerimento de Serviço de Avaliação da Conformidade.
+1.5.39 SDTE – Subdepartamento Técnico.
+1.5.40 SN – Serial Number.
+1.5.41 SISCEAB – Sistema de Controle do Espaço Aéreo Brasileiro.
+
+--- PÁGINA ---
+18/39 ICA 800-9/2022
+2 INTRODUÇÃO
+A Garantia da Qualidade e Segurança dos produtos e sistemas a serem aplicados no SISCEAB
+tem por finalidade verificar se os requisitos estabelecidos para sua destinação foram
+cumpridos e sua implantação e manutenção garantem um nível de segurança aceitável para as
+aplicações do Controle do Espaço Aéreo.
+2.1 AVALIAÇÃO DA CONFORMIDADE
+No âmbito do DECEA, os possíveis tipos de Processos de AC a serem utilizados são:
+a) Aceitação;
+b) Aprovação; e
+c) Certificação.
+Além dos processos elencados, há a possibilidade de se efetuar um Procedimento de
+Validação de AC realizada por outro Órgão Governamental, nacional ou estrangeiro, que
+poderá substituir a Aprovação ou a Certificação.
+Figura 1 – Avaliação da Conformidade de Produto e seus processos
+A Aceitação de Produto é um processo de reconhecimento formal, pelo DECEA, de que os
+processos de recebimento e homologação são suficientes para comprovar que um PCEA é
+adequado ao propósito a que se destina.
+A Aprovação de Produto é um processo que objetiva demonstrar que os requisitos
+especificados para um sistema ou equipamento são atendidos e cumprem com sua função. É
+realizada através de avaliação sistemática das características de um exemplar do PCEA
+segundo as etapas estabelecidas pelo processo. A Aprovação de Produto empreende uma
+avaliação funcional do modelo do PCEA, não entrando, contudo, no mérito do projeto nem do
+processo de produção do produto.
+A Certificação de Produto é um processo que objetiva verificar se um sistema ou produto está
+em conformidade com os requisitos de projeto relativos ao cumprimento de sua função com
+segurança. É realizada através da verificação da conformidade das etapas de projeto e
+
+--- PÁGINA ---
+ICA 800-9/2022 19/39
+fabricação do PCEA, visando garantir que qualquer item de série seja capaz de cumprir, com
+o grau de segurança e de confiabilidade necessários, a função a que se destina. A Avaliação
+de Projeto e a Avaliação da Organização Fornecedora são etapas desse tipo de AC.
+Para os Processos de Aprovação e Certificação de Produto há ainda a possibilidade de valer-
+se do Procedimento de Validação, aplicável quando a Organização Certificadora (OC)
+reconhecer a aprovação ou a certificação (ou processo equivalente) concedida por outra
+Organização Governamental de Certificação, nacional ou estrangeira, tendo os mesmos
+efeitos como se realizado pela própria OC.
+2.2 AVALIAÇÃO DA ORGANIZAÇÃO FORNECEDORA
+2.2.1 A Avaliação da Organização Fornecedora é um processo que objetiva garantir que o
+Requerente e, quando aplicável, sua cadeia de fornecedores possuam um Sistema de Gestão
+da Qualidade adequado implantado na linha de fabricação do PCEA. Componente da
+Certificação de Produto, este processo visa a assegurar que os requisitos relativos à qualidade
+sejam atendidos pelo PCEA.
+2.3 OPERACIONALIDADE CONTINUADA
+2.3.1 A Operacionalidade Continuada é o conjunto de processos devidamente estabelecidos e
+aprovados que visam a identificar e manter hígido o atendimento aos requisitos por um PCEA
+ao longo de sua vida em serviço, requisitos esses verificados e confirmados durante um
+processo de Avaliação da Conformidade.
+2.4 RESPONSABILIDADES
+2.4.1 Em suas respectivas esferas de competência, cabe às Organizações e Setores abaixo
+mencionados as seguintes responsabilidades:
+a) SDTE: atuar como Autoridade Reguladora dos Serviços de Avaliação da
+Conformidade no SISCEAB, incluindo os critérios de habilitação dos profissionais que
+atuarão nas atividades de AC;
+b) ICEA: coordenar e controlar a execução dos Processos de AC, dos Procedimentos de
+Validação de Processos de AC, da qualificação e da habilitação dos profissionais que atuarão
+em atividades de AC;
+c) OCM, CRM, Centros Especiais ou Órgãos Locais de Manutenção e Órgãos de
+Manutenção Autorizados: executar ou coordenar a execução da manutenção dos PCEA;
+d) PAME-RJ/CGTEC: gerenciar as informações de apoio à Operacionalidade
+Continuada, tais como desempenho, confiabilidade e disponibilidade dos PCEA instalados
+pelo Comando da Aeronáutica ou pelas EPTA e disponibilizá-las ao ICEA;
+e) CRM: avaliar os projetos de instalação e/ou modificação de PCEA a serem
+implantados pelas EPTA/PSNA e realizar as inspeções e/ou auditorias técnicas nessas
+entidades;
+f) OMIMP: executar as atividades de implantação, modernização e substituição dos
+PCEA no âmbito do COMAER;
+g) EPTA/PSNA: coordenar e/ou executar as atividades de instalação e manutenção dos
+PCEA sob sua responsabilidade;
+
+--- PÁGINA ---
+20/39 ICA 800-9/2022
+h) SDOP/CRM: realizar a homologação dos PCEA; e
+i) OM do DECEA: disponibilizar pessoal qualificado, quando necessário, para apoiar
+tecnicamente a execução dos Processos de AC, dos Procedimentos de Validação dos
+Processos de AC e das atividades de qualificação profissional coordenados pelo ICEA.
+
+--- PÁGINA ---
+ICA 800-9/2022 21/39
+3 APLICAÇÃO DOS PROCESSOS DE AVALIAÇÃO DA CONFORMIDADE
+3.1 REGRA GERAL
+3.1.1 Qualquer PCEA implantado ou a ser implantado no SISCEAB deve ser submetido a um
+Processo de Avaliação da Conformidade.
+3.1.2 Os Processos de AC poderão ser compulsórios ou voluntários.
+3.1.3 Os Processos de AC compulsórios referem-se aos PCEA que se pretendam implantar,
+mas que ainda não tenham sido submetidos a um Processo de AC conduzido ou validado pelo
+DECEA.
+3.1.4 O Processo voluntário implica o interesse do fornecedor em submeter um PCEA a um
+Processo de AC, sem que se configure, sob hipótese alguma, qualquer vínculo de aquisição do
+PCEA com o fornecedor ao final do processo de AC.
+3.1.5 O SDTE definirá em última instância qual o tipo de Procedimento ou Processo de AC
+mais adequado a ser cumprido na Avaliação da Conformidade do PCEA.
+3.1.6 Quando necessário, o ICEA e o Requerente deverão assinar cláusulas de
+confidencialidade que assegurem o sigilo das informações.
+3.1.7 As Cartas de Aceitação, os Atestados de Aprovação e as Cartas de Validação e as
+Especificações de AC associadas aos mesmos, aplicam-se a todos os PCEA que tenham sido
+produzidos ou que venham a ser produzidos nas mesmas configurações e características (PN)
+dos espécimes avaliados nos respectivos Processos de AC.
+3.1.8 Os Certificados de Certificação, em função de suas vinculações às avaliações dos
+projetos e das Organizações Fornecedoras, deverão ter descritos em suas Especificações de
+AC os SN que serão alcançados pelo Processo de AC realizado. Será necessário aditar as
+Especificações de AC sempre que se quiser abranger novo conjunto de espécimes similares
+àqueles inicialmente avaliados.
+3.2 PCEA EM OPERAÇÃO NO SISCEAB (LEGADO)
+3.2.1 O DECEA, após avaliar o desempenho técnico dos PCEA em operação no SISCEAB até
+a data de aprovação do Manual do Processo de Aceitação, instruirá o ICEA a emitir as
+respectivas Cartas de Aceitação, no que for aplicável.
+3.3 PCEA A SER IMPLANTADO POR OMIMP
+3.3.1 Quando o DECEA for implantar um PCEA no SISCEAB deverá, conforme aplicável,
+estabelecer o Processo ou o Procedimento de Avaliação de Conformidade pertinente, ou seja,
+a Aceitação, a Aprovação, a Certificação ou a Validação.
+3.4 PCEA A SER IMPLANTADO POR OUTRAS ORGANIZAÇÕES
+3.4.1 A EPTA ou o PSNA deverão apresentar ao CRM os Documentos de AC de todos os
+PCEA inclusos no projeto de implantação ou de alteração. O CRM poderá acatá-los, caso tais
+Documentos refiram-se a um PCEA constante da listagem atualizada de PCEA já avaliados
+
+--- PÁGINA ---
+22/39 ICA 800-9/2022
+pelo ICEA. Caso algum PCEA não conste dessa listagem, o CRM deverá oferecer tais
+Documentos à apreciação do ICEA.
+3.4.2 Caso o CRM seja informado pelo ICEA da necessidade de realização de um PAC
+aplicado a PCEA a ser implantado por EPTA, deverá indicar ao interessado a necessidade de
+que o fabricante ou seu representante submeta o Produto ao referido Processo, devendo ser
+concluído satisfatoriamente antes da homologação da Estação.
+
+--- PÁGINA ---
+ICA 800-9/2022 23/39
+4 AVALIAÇÃO DA CONFORMIDADE DO TIPO ACEITAÇÃO
+4.1 ELEGIBILIDADE
+A Avaliação da Conformidade do tipo Aceitação é cabível aos PCEA já em operação (legado)
+ou que venham a ser implantados por OMIMP.
+4.2 PROCEDIMENTO GENÉRICO
+4.2.1 Após o PCEA ter sido implantado (OMIMP), o SDTE deverá enviar ao ICEA, tão logo
+receba, cópia do Relatório Final de Aceitação (RFA), da Planilha de Configuração Base
+elaborada e cópia da publicação do item de homologação do produto, instruindo a emissão da
+respectiva Carta de Aceitação, conforme Norma específica.
+4.3 EVIDÊNCIAS
+4.3.1 Caso o PCEA seja implantado por OMIMP do DECEA, considera-se como evidências
+suficientes para fins de Avaliação da Conformidade do tipo Aceitação a emissão do Relatório
+Final de Aceitação com parecer satisfatório, da Planilha de Configuração Base e do Ato de
+Homologação da operação do produto publicado em boletim apropriado.
+4.4 CONCLUSÃO DA ACEITAÇÃO DE PRODUTO
+4.4.1 O ICEA, após ser instado pelo DECEA conforme procedimentos citados neste Capítulo
+e em Norma específica, publicará em seu sítio eletrônico a Lista dos PCEA Legados (que
+posteriormente será denominada Lista de PCEA Avaliados Conforme).
+4.4.2 A Carta de Aceitação aplicar-se-á somente aos exemplares do modelo constante da Lista
+de PCEA Legados ou da Lista de PCEA Avaliados, possuindo a mesma Configuração Base.
+A Carta não se estenderá a produtos similares ou de diferentes séries, modelos, versões ou
+configurações.
+
+--- PÁGINA ---
+24/39 ICA 800-9/2022
+5 AVALIAÇÃO DA CONFORMIDADE DO TIPO APROVAÇÃO
+5.1 ELEGIBILIDADE
+5.1.1 É elegível ao processo de Avaliação da Conformidade do tipo Aprovação qualquer
+PCEA nas condições estabelecidas neste Capítulo.
+5.1.2 Os processos de Avaliação da Conformidade do tipo Aprovação poderão ser
+compulsórios ou voluntários.
+5.2 PROCEDIMENTO GENÉRICO
+5.2.1 O início formal do Processo de Avaliação da Conformidade do tipo Aprovação deverá
+ser realizado por meio da entrega ao ICEA do RSAC e seus anexos, preenchidos pelo
+Requerente.
+5.3 BASE DE REQUISITOS DE AVALIAÇÃO DA CONFORMIDADE
+5.3.1 A BRAC-M consiste no conjunto dos requisitos mínimos definidos pelo DECEA acerca
+do PCEA, relativos ao cumprimento do seu desempenho funcional.
+5.3.2 A BRAC-P será proposta pelo fornecedor do PCEA e submetida à apreciação do ICEA,
+acompanhada das informações gerais do PCEA e suas características técnico-operacionais.
+5.3.3 A BRAC-A é o universo aprovado pelo ICEA dos requisitos resultantes da junção das
+BRAC-M e BRAC-P.
+5.3.4 Durante o processo de Avaliação da Conformidade do tipo Aprovação, o Requerente
+deverá demonstrar que o PCEA satisfaz os requisitos definidos na BRAC-A, por intermédio
+da utilização de laboratórios previamente credenciados para os ensaios do produto.
+5.4 PLANO DE AVALIAÇÃO DA CONFORMIDADE
+5.4.1 O Requerente deverá elaborar e apresentar ao ICEA um PLAC que contenha o programa
+de trabalho (contendo as informações necessárias para a realização dos ensaios), a BRAC-P e
+a MCR-P.
+5.4.2 Este conjunto de documentos será apreciado e eventualmente editado pelas partes, até
+sua aprovação, quando será denominado PLAC-A, inclusive nas eventuais revisões
+posteriores realizadas durante o transcorrer do Processo de AC.
+
+--- PÁGINA ---
+ICA 800-9/2022 25/39
+5.5 AVALIAÇÃO DO DESEMPENHO
+5.5.1 O Requerente deverá apresentar à OC, por intermédio de uma MCR-P, de que forma
+pretende comprovar o cumprimento de cada um dos requisitos da BRAC-P.
+5.5.2 No corpo da MCR-P, o Requerente deverá apresentar um PEC, detalhando os
+procedimentos a serem realizados, de que forma serão executados, assim como o local onde
+serão realizados e, quando aplicável, a indicação nominal do RC que acompanhará e
+testemunhará os ensaios.
+5.5.3 São considerados procedimentos de comprovação: ensaios, inspeções, simulações,
+análises de engenharia e demais métodos, considerados aceitáveis pelo ICEA, que possam
+demonstrar a conformidade do produto com o requisito avaliado.
+5.5.4 Os procedimentos de comprovação deverão atestar, com completude, os requisitos da
+MCR-P. Cada requisito poderá ser avaliado por um ou mais procedimentos, conforme
+aplicável. Cada procedimento poderá atestar um ou mais requisitos, conforme aplicável.
+5.5.5 Os procedimentos deverão ser baseados, preferencialmente, em normas de referência
+conexas aos requisitos a serem avaliados.
+5.5.6 Os ensaios deverão ser realizados em laboratório acreditado pelo INMETRO (membro
+da RBC ou RBE) ou devidamente credenciado pelo DECEA.
+5.5.7 Nos laboratórios acreditados pelo INMETRO não haverá a obrigatoriedade de
+acompanhamento de representação do DECEA no transcorrer dos ensaios previstos no PLAC.
+5.5.8 Em ensaios previstos no PLAC propostos para laboratório que, para tanto, não seja
+acreditado pelo INMETRO, o Requerente poderá solicitar o credenciamento para a realização
+das avaliações. Nesse caso, após o credenciamento pelo DECEA, os ensaios deverão ser
+acompanhados pela Equipe de AC e pelo Requerente (ou seu RC).
+5.5.9 O Requerente deverá atestar junto ao ICEA que os espécimes a serem submetidos aos
+procedimentos de comprovação foram construídos conforme o projeto e na linha de produção
+do PCEA sob avaliação.
+5.5.10 O ICEA poderá, a seu critério, dentro do Processo de AC do tipo Aprovação, aceitar
+formas de comprovação, tais como documentos, dados e procedimentos de responsabilidade
+do Requerente.
+5.6 EMISSÃO DO ATESTADO DE APROVAÇÃO
+5.6.1 O Atestado de Avaliação da Conformidade do tipo Aprovação de PCEA será emitido
+pelo ICEA depois de demonstrado, pelos procedimentos de comprovação, que o produto ou
+sistema avaliado cumpre com os requisitos da BRAC-A.
+5.6.2 O Atestado emitido aplicar-se-á somente aos exemplares do modelo do PCEA avaliado,
+não se estendendo, salvo expresso o contrário, a produtos similares ou de diferentes séries,
+versões ou configurações.
+5.6.3 Não obstante o Atestado emitido no Processo de AC do tipo Aprovação, o fornecedor
+será responsável pela correta produção em série dos seus produtos.
+
+--- PÁGINA ---
+26/39 ICA 800-9/2022
+5.7 DISPONIBILIDADE E SALVAGUARDA DE REGISTROS
+5.7.1 Cópias de todos os documentos, relatórios, artefatos e demais evidências geradas
+durante o processo de AC do tipo Aprovação deverão ser mantidas pelo ICEA.
+5.8 MODIFICAÇÕES AO PROJETO DE PCEA CUJO DESEMPENHO FOI AVALIADO
+5.8.1 Os artefatos e as comprovações necessárias assim como os critérios para a aprovação de
+uma modificação ao projeto de PCEA que não interfira em suas funcionalidades serão
+definidos pelo ICEA, de acordo com cada caso.
+5.8.2 Em caso de modificação do projeto que altere as funcionalidades no todo ou em parte do
+produto, o Requerente deverá solicitar novo processo de AC do tipo Aprovação, no qual o
+ICEA, a seu critério, poderá tomar crédito de evidências geradas no processo de Aprovação
+do PCEA original.
+
+--- PÁGINA ---
+ICA 800-9/2022 27/39
+6 AVALIAÇÃO DA CONFORMIDADE DO TIPO CERTIFICAÇÃO
+6.1 ELEGIBILIDADE
+6.1.1 Este processo compreende as atividades de Avaliação de Projeto e de Avaliação da
+Organização Fornecedora, sendo concluído com a emissão do Certificado de Certificação do
+PCEA.
+6.1.2 Estará apto ao Processo de AC do tipo Certificação qualquer PCEA produzido por
+Organização Fornecedora, pública ou privada, nacional ou estrangeira, com Sistema de
+Gestão da Qualidade em sua linha de produção, nas condições estabelecidas neste capítulo e
+em Norma específica.
+6.1.3 Poderá ser elegível a um Processo de AC do tipo Certificação um PCEA cujo
+Requerente apresente ao ICEA o Requerimento de Serviço de Avaliação de Conformidade
+(RSAC), de forma voluntária.
+6.2 AVALIAÇÃO DE PROJETO
+6.2.1 Estará apto à Avaliação de Projeto qualquer PCEA produzido ou a ser produzido por
+Organização, pública ou privada, que detenha as capacidades técnicas para desenvolver um
+projeto e produzir ou desenvolver um sistema ou equipamento nas condições estabelecidas
+neste capítulo e em Norma específica.
+6.3 BASE DE REQUISITOS DO PROJETO
+6.3.1 A BRP consiste no conjunto de requisitos do projeto do PCEA, relativos ao
+cumprimento fidedigno da função do produto.
+6.3.2 A BRP será proposta pelo Requerente e aprovada pelo ICEA.
+6.3.3 O PCEA e seus sistemas deverão ser projetados de modo a garantir que desempenhem
+suas funções pretendidas sob quaisquer condições de operações previsíveis.
+6.3.4 Poderá o ICEA, a fim de garantir um nível aceitável de segurança do projeto do PCEA,
+solicitar a adição ou adequação de requisitos caso considere que a BRP apresentada não
+contenha requisitos adequados ou apropriados em face das características do produto ou das
+condições contratuais.
+6.3.5 Durante o processo, o Requerente deverá demonstrar que o projeto do PCEA satisfaz os
+requisitos definidos na BRP aprovada pelo ICEA.
+6.4 PLANEJAMENTO DA AVALIAÇÃO DE PROJETO
+6.4.1 O Requerente deverá elaborar um programa de trabalho que contenha as informações
+necessárias para a realização dos ensaios.
+6.4.2 Juntar-se-ão à BRP as informações gerais do PCEA, suas características técnicas, de
+projeto e de operação, os requisitos de segurança e limitações operacionais, a MCR e demais
+informações que se fizerem necessárias, compondo um Plano de Avaliação do Projeto.
+
+--- PÁGINA ---
+28/39 ICA 800-9/2022
+6.4.3 O Plano de Avaliação do Projeto deverá incluir ainda uma visão geral dos processos de
+engenharia de sistemas e de análises de segurança a serem seguidas pelo Requerente durante o
+desenvolvimento do projeto, permitindo demonstrar que o projeto atende de forma satisfatória
+ao nível de segurança necessário ao PCEA.
+6.4.4 O Plano deverá ser apreciado e aprovado pelo ICEA, inclusive nas eventuais revisões
+posteriores realizadas durante o transcorrer do processo de Avaliação da Conformidade do
+tipo Certificação do PCEA.
+6.5 DESENVOLVIMENTO DA AVALIAÇÃO DO PROJETO
+6.5.1 O Requerente deverá realizar o desenvolvimento da avaliação do projeto do PCEA de
+acordo com o Plano aprovado pelo ICEA.
+6.5.2 Durante a fase de desenvolvimento, o Requerente deverá gerar artefatos referentes ao
+projeto do PCEA, incluindo, dentre outros:
+a) artefatos de engenharia e de análise de segurança;
+b) dossiê de construção – informações sobre dimensões, materiais e processos
+necessários para a sua fabricação;
+c) desenhos e especificações técnicas e de projeto, inclusive aquelas necessárias para
+definir a sua configuração; e
+d) manuais de operação, de instalação e de manutenção/reparo, que orientem e
+contribuam para a Operacionalidade Continuada dos PCEA.
+6.5.3 O Requerente deverá gerar evidências de que seguiu os processos de engenharia de
+sistemas e análises de segurança definidos no Plano de Avaliação de Projeto aprovado pelo
+ICEA.
+6.5.3.1 O ICEA acompanhará a fase de desenvolvimento da Avaliação do Projeto para
+verificar se o Requerente efetivamente seguiu os processos de engenharia de sistemas e
+análises de segurança definidos no Plano aprovado.
+6.6 MATRIZ DE COMPROVAÇÃO DE REQUISITOS (MCR)
+6.6.1 O Requerente deverá apresentar ao ICEA uma MCR-P, sugerindo de que forma
+pretende demonstrar o cumprimento dos requisitos da BRP aprovada.
+6.6.2 Para a comprovação dos requisitos, o Requerente deverá apresentar um PEC,
+componente da MCR da BRP, detalhando os procedimentos a serem realizados, de que forma
+serão executados, assim como o local onde serão realizados, quando aplicável.
+6.6.3 São considerados procedimentos de comprovação: ensaios, inspeções, simulações,
+análises de engenharia e demais métodos, considerados aceitáveis pelo ICEA, que possam
+demonstrar a conformidade do requisito a ser avaliado.
+6.6.4 Os procedimentos deverão atestar, com completude, os respectivos requisitos da MCR
+da BRP. Cada requisito da BRP poderá ser avaliado por um ou mais procedimentos, conforme
+aplicável. Cada procedimento poderá atestar um ou mais requisitos, conforme aplicável.
+
+--- PÁGINA ---
+ICA 800-9/2022 29/39
+6.6.5 Os procedimentos deverão ser baseados, preferencialmente, em normas de referência
+conexas aos requisitos a serem avaliados.
+6.6.6 O ICEA poderá, a seu critério, dentro do processo de Avaliação do Projeto, aceitar
+formas de comprovação, tais como documentos, dados e procedimentos de responsabilidade
+do Requerente.
+6.7 CONCLUSÃO DA AVALIAÇÃO DE PROJETO
+6.7.1 A Avaliação de Projeto de PCEA será conclusa depois de demonstrado que:
+a) o Projeto cumpre com requisitos da BRP e que quaisquer disposições não cumpridas
+foram compensadas por fatores que fornecem um nível de segurança equivalente;
+b) o Projeto do PCEA satisfez aos requisitos de segurança e de cumprimento de função
+aplicáveis, mediante a análise de todos os dados necessários do projeto e a execução dos
+ensaios e inspeções pertinentes; e
+c) nenhum aspecto ou característica torna o produto a que se refere o projeto inseguro
+para as condições de operação para as quais a avaliação foi requerida.
+6.8 DISPONIBILIDADE E SALVAGUARDA DE REGISTROS
+6.8.1 Cópias dos documentos, relatórios, artefatos e demais evidências geradas durante o
+processo de Avaliação de Projeto deverão ser mantidas pelo ICEA.
+6.9 MODIFICAÇÕES EM PROJETO AVALIADO
+6.9.1 Os artefatos e as comprovações necessárias bem como os critérios para a aprovação de
+modificação no Projeto avaliado serão definidos pelo ICEA, de acordo com cada caso.
+
+--- PÁGINA ---
+30/39 ICA 800-9/2022
+6.9.2 Em caso de modificação no projeto que altere funcionalidades do produto, no todo ou
+em parte, o Requerente deverá solicitar novo processo de Certificação, no qual o ICEA, a seu
+critério, poderá tomar crédito de evidências geradas no processo de Avaliação do Projeto
+original.
+6.10 AVALIAÇÃO DE ORGANIZAÇÃO FORNECEDORA
+6.10.1 Estará apta ao processo de Avaliação de Organização Fornecedora de Produto qualquer
+Organização nacional, pública ou privada, fabricante de PCEA cujo projeto foi avaliado
+conforme pelo ICEA.
+6.11 REQUISITOS PARA A AVALIAÇÃO DE ORGANIZAÇÃO FORNECEDORA
+6.11.1 A Organização Fornecedora deve dispor de um Sistema de Garantia da Qualidade
+implementado que garanta que todo PCEA ou componentes fabricados por ela, por seus
+parceiros ou subcontratados estejam em conformidade com o projeto avaliado e em condições
+de operação segura.
+6.11.2 Para que a Organização Fornecedora de PCEA possa ser avaliada, o Requerente deverá
+comprovar o cumprimento dos seguintes requisitos:
+6.11.2.1 A implementação e manutenção de um Sistema de Garantia da Qualidade, certificado
+pela norma NBR ISO 9001 ou equivalente para todas as etapas envolvidas no processo de
+fabricação do PCEA cujo projeto foi certificado.
+6.11.2.2 O Sistema de Garantia da Qualidade deverá contemplar, no mínimo:
+a) o controle de dados de projeto – procedimentos para controle e modificação dos dados
+de projeto que assegurem somente a utilização de dados atualizados, corretos e aprovados.
+b) o controle de documentos – procedimentos para o controle documental e de suas
+alterações, que assegurem somente a utilização de documentos aprovados e em suas corretas
+versões.
+c) o controle de fornecedores – procedimentos que assegurem que:
+i. o produto/serviço fornecido está de acordo com o projeto certificado; e
+ii. o fornecedor notifique o fabricante principal do PCEA quando constatar
+desvio de qualidade em seu produto/serviço.
+d) o controle do processo de fabricação – procedimentos para controle dos processos de
+fabricação que assegurem a conformidade do PCEA produzido com o projeto certificado.
+e) as inspeções e os ensaios – procedimentos para gerenciamento e controle de inspeções
+e ensaios que assegurem a conformidade do PCEA produzido com o projeto certificado,
+segundo critérios aceitos pelo DECEA.
+f) o controle de instrumentos – procedimentos que assegurem o uso e controle de
+instrumentos de inspeção, medição e ensaio adequados e calibrados, segundo padrões
+nacionais ou internacionais aceitos pelo DECEA, de modo a assegurar a conformidade do
+PCEA produzido com o projeto certificado.
+g) o controle de não conformidades – procedimentos que:
+
+--- PÁGINA ---
+ICA 800-9/2022 31/39
+i. assegurem que apenas exemplares de PCEA produzidos em
+conformidade com o projeto certificado sejam liberados para emprego no SISCEAB;
+ii. descrevam a forma de identificação, avaliação, segregação, disposição e
+registro dos exemplares de PCEA não conformes; e
+iii. garantam que os exemplares de PCEA classificados como sucata sejam
+destruídos ou marcados de modo permanente para impedir seu uso.
+h) o manuseio e armazenamento de materiais – procedimentos que previnam danos e
+deterioração do PCEA durante o manuseio, armazenamento, preservação e embalagem.
+i) as ações corretivas e preventivas – procedimentos que assegurem a implementação de
+ações corretivas e preventivas que eliminem as causas das não conformidades, potenciais ou
+reais, na fabricação ou do sistema da qualidade implementado.
+j) o controle de registros da qualidade – procedimentos para a identificação,
+armazenamento, proteção, recuperação e retenção de registros da qualidade, mantidos nos
+prazos estipulados pelo DECEA.
+k) a auditoria interna – procedimentos para planejar, conduzir e documentar auditorias
+internas realizadas a fim de assegurar a conformidade do sistema da qualidade implementado.
+l) os desvios de qualidade – procedimentos para identificar, analisar, comunicar e iniciar
+ações corretivas e preventivas de PCEA liberado pela organização em desacordo com o
+projeto certificado ou com os requisitos do seu sistema de qualidade.
+m) os requisitos adicionais – o DECEA, a seu critério, poderá determinar o cumprimento
+de requisitos adicionais para garantir a qualidade final do PCEA.
+6.11.2.3 Todos os documentos emitidos por organizações e autoridades internacionais devem
+ser apresentados conforme preconiza as normas do Ministério das Relações Exteriores para a
+legalização consular (Decreto nº 8742, de 04/05/2016).
+6.12 CONCLUSÃO DA AVALIAÇÃO DE ORGANIZAÇÃO FORNECEDORA
+6.12.1 A Avaliação de Organização Fornecedora de PCEA será conclusa depois de
+demonstrado, pela organização fornecedora, o cumprimento dos requisitos estabelecidos nesta
+Instrução.
+6.12.2 Os requisitos atendidos pela Organização Fornecedora dizem respeito à produção e ao
+fornecimento do PCEA cujo projeto foi avaliado, não se estendendo, salvo expresso em
+contrário, ao fornecimento de outros produtos, similares ou de diferentes séries, versões ou
+configurações.
+6.13 MUDANÇA DA INSTALAÇÃO DE PRODUÇÃO
+A Organização Fornecedora avaliada deverá comunicar ao ICEA a previsão de qualquer
+mudança física das suas instalações de produção, no organograma da organização ou no seu
+sistema da qualidade. O ICEA tomará, então, as ações e providências cabíveis.
+
+--- PÁGINA ---
+32/39 ICA 800-9/2022
+6.14 OBRIGAÇÕES DA ORGANIZAÇÃO FORNECEDORA AVALIADA
+6.14.1 A Organização Fornecedora de PCEA avaliada, sob pena de suspensão ou revogação
+de sua avaliação, fica obrigada a:
+a) manter o ICEA atualizado acerca do seu Sistema de Gestão da Qualidade em
+conformidade com os dados e procedimentos aprovados;
+b) assegurar ao ICEA que cada PCEA avaliado e seus componentes estão conforme o
+projeto certificado e em condições de operação segura;
+c) estabelecer, manter e preservar documentos e registros das inspeções e ensaios
+realizados de forma a demonstrar a conformidade de cada artigo produzido; e
+d) obedecer aos critérios e às disposições estabelecidas em contrato e demais normas do
+COMAER.
+6.15 EMISSÃO DO CERTIFICADO DE CERTIFICAÇÃO
+6.15.1 O Certificado de AC do tipo Certificação será emitido pelo ICEA depois de concluídas
+satisfatoriamente as atividades previstas para a Fase de Execução.
+6.15.2 O Certificado emitido aplicar-se-á a todos os exemplares produzidos em cumprimento
+às especificações do projeto avaliado do PCEA, não se estendendo, salvo expresso o
+contrário, a produtos similares ou de diferentes séries, versões ou configurações.
+
+--- PÁGINA ---
+ICA 800-9/2022 33/39
+7 PROCEDIMENTO DE VALIDAÇÃO DE AVALIAÇÃO DA CONFORMIDADE
+7.1 ELEGIBILIDADE
+7.1.1 Estará apto ao Procedimento de Validação de AC, nas condições estabelecidas neste
+capítulo e em Norma específica, o PCEA produzido por qualquer Organização, pública ou
+privada, nacional ou internacional, que tenha obtido um Documento de AC emitido por
+Organização Governamental de Certificação, nacional ou internacional, reconhecida pelo
+DECEA.
+7.1.1.1 Independentemente do tipo de Processo de AC que originou o Documento de AC
+mencionado acima, a Carta de Validação a ser emitida pelo ICEA aplicar-se-á somente aos
+PCEA a serem implantados no SISCEAB (mesma limitação do Atestado de Aprovação).
+7.2 PROCEDIMENTO GENÉRICO
+7.2.1 A solicitação para submissão ao Procedimento de Validação deverá ser realizada por
+meio da entrega ao ICEA do RSAC e seus anexos, preenchido pelo fornecedor ou fabricante
+requerente.
+7.3 REQUISITOS PARA O PROCEDIMENTO VALIDAÇÃO
+7.3.1 Para a emissão da Carta de Validação de Avaliação de Conformidade será necessário
+que os seguintes requisitos sejam atendidos:
+7.3.1.1 A Organização emissora do Certificado ou documento equivalente deve ter realizado
+processo compatível com as diretrizes dos Processos de Avaliação de Conformidade dos tipos
+Aprovação ou Certificação definidas neste documento; e
+7.3.1.2 Os requisitos avaliados pela Organização emissora devem ser compatíveis com
+aqueles exigidos para a operação do PCEA no Brasil.
+7.3.2 Quando a operação do produto no Brasil exigir requisitos e/ou análises diferentes
+daquelas utilizadas, o Requerente poderá ser orientado a submeter o seu PCEA a um outro
+Processo de AC descrito nesta Instrução.
+7.3.2.1 Aceito o novo Processo de AC, é facultado ao ICEA tomar crédito das evidências, ou
+parte dessas, do processo realizado pela OC emissora, conforme julgar aplicável.
+7.3.3 Será responsabilidade do Requerente fornecer toda a documentação técnica ou
+administrativa produzida ou utilizada no Processo de AC considerado no Procedimento de
+Validação.
+
+--- PÁGINA ---
+34/39 ICA 800-9/2022
+8 OPERACIONALIDADE CONTINUADA
+8.1 INDICADORES DE DESEMPENHO
+8.1.1 A diversidade tecnológica, a quantidade de ativos e a criticidade do emprego dos PCEA
+do SISCEAB tornam evidente a necessidade de ferramentas adequadas não só para medir o
+seu desempenho como facilitar a tomada de decisão estratégica na área de manutenção.
+8.1.2 Tais ferramentas devem estar estabelecidas em instrumentos normativos do DECEA. É
+interessante a correlação com indicadores operacionais, com vistas a contemplar como o
+estado dos equipamentos influencia no desempenho dos serviços prestados pelo SISCEAB, na
+perspectiva do usuário final.
+8.1.3 Os indicadores de desempenho ou de manutenção são entendidos, no contexto da
+Operacionalidade Continuada, como insumo para possível revisão de um determinado
+Processo de Avaliação da Conformidade.
+8.2 GESTÃO DOS PROCESSOS DE OPERACIONALIDADE CONTINUADA
+8.2.1 A função do OCM, no SISCEAB, é exercida pelo PAME-RJ. Dentre as
+responsabilidades desse Órgão está a manutenção de um sistema de gestão das informações
+referente aos PCEA do SISCEAB, visando a um adequado gerenciamento dos seus ciclos de
+vida. Além disso, participa, em coordenação com os demais elos de manutenção, da
+modelagem de uma estrutura funcional de pronta resposta às inoperâncias desses PCEA.
+8.2.2 Com vistas a antecipar a identificação de vulnerabilidades e evitar que inoperâncias ou
+falhas de um PCEA possam impactar a prestação de serviços de navegação aérea, o ICEA, em
+coordenação com o OCM, os CRM, e demais Organizações internas ou externas ao
+COMAER, deve publicar e manter atualizados processos e procedimentos para a Garantia da
+Qualidade e da Segurança dos serviços prestados pelos ativos, que permitam identificar
+alguma vulnerabilidade funcional de um determinado PCEA em operação no SISCEAB,
+interrompendo, quando cabível, sua utilização.
+8.2.3 De maneira análoga, quando um PCEA for submetido a um reparo, seu retorno à
+operação só deverá ocorrer após comprovação, pelo Órgão de Manutenção responsável por
+sua operacionalidade, de que os serviços de manutenção foram executados por profissionais
+devidamente habilitados e de acordo com procedimentos aprovados e em vigor.
+8.2.4 O Certificado e demais documentos emitidos pelo ICEA referentes à Avaliação da
+Conformidade do PCEA poderão ser descontinuados temporária ou permanentemente, após
+cumpridos os procedimentos que permitam constatar que aquele PN, ou outro código
+identificador do fabricante, não mais atende aos requisitos operacionais e técnicos
+estabelecidos pelo DECEA.
+8.3 AÇÕES APLICÁVEIS
+8.3.1 São ações aplicáveis, decorrentes dos processos de Operacionalidade Continuada e de
+Análise de Risco, não a elas se limitando:
+8.3.1.1 Suspensão do Documento de AC: limitação temporária da efetividade do PCEA, no
+todo ou em partes; e
+
+--- PÁGINA ---
+ICA 800-9/2022 35/39
+8.3.1.2 Revogação do Documento de AC: limitação permanente da efetividade do PCEA, no
+conjunto maior de seus componentes descritos na Especificação de AC.
+
+--- PÁGINA ---
+36/39 ICA 800-9/2022
+9 CREDENCIAMENTO DE REPRESENTANTES
+9.1 O RC é uma pessoa física credenciada e autorizada pelo DECEA a executar determinadas
+atividades pertencentes aos Processos de AC.
+9.2 Dentro de limites estabelecidos, o RC poderá representar o DECEA para acompanhar e
+testemunhar ensaios, bem como representar os Requerentes na condução dos Processos de
+AC.
+
+--- PÁGINA ---
+ICA 800-9/2022 37/39
+10 DISPOSIÇÕES TRANSITÓRIAS
+10.1 As Organizações do DECEA que tenham responsabilidades nos Processos de AC
+deverão adequar as suas atividades para atender às disposições desta Instrução e emitir os
+procedimentos pertinentes, relativos às atividades de suas esferas de competência.
+10.2 Os Manuais emitidos pelo DECEA concernentes ao detalhamento dos processos e
+procedimentos descritos neste Instrução deverão ser fielmente observados pelas Organizações
+do SISCEAB, fornecedores e demais entidades envolvidas com os Processos de AC.
+10.3 Os PCEA tipificados na letra “g” do item 1.4.33 deverão ser considerados elegíveis aos
+Processos de AC somente a partir de um ano após a publicação da edição desta Instrução.
+
+--- PÁGINA ---
+38/39 ICA 800-9/2022
+11 DISPOSIÇÕES FINAIS
+11.1 Com vistas ao contínuo aperfeiçoamento desta Instrução, sugestões deverão ser
+encaminhadas ao Subdepartamento Técnico do DECEA.
+11.2 Os casos não previstos nesta Instrução serão submetidos ao Chefe do Subdepartamento
+Técnico do DECEA.
+
+--- PÁGINA ---
+ICA 800-9/2022 39/39
+REFERÊNCIAS
+BRASIL. Presidência da República. Lei nº 7.565, de 19 de dezembro de 1986. Código
+Brasileiro de Aeronáutica. [Brasília], 1986.
+BRASIL. Presidência da República. Decreto nº 8.742, de 4 de maio de 2016. Disposições
+sobre os atos notariais e de registro civil do serviço consular brasileiro e da dispensa de
+legalização no Brasil das assinaturas e atos emanados das autoridades consulares brasileiras.
+BRASIL. Comando da Aeronáutica. Estado-Maior da Aeronáutica. Ciclo de Vida de Sistemas
+e Materiais da Aeronáutica. DCA 400-6. [Brasília], 2007.
+BRASIL. Comando da Aeronáutica. Estado-Maior da Aeronáutica. Garantia da Qualidade e
+da Segurança de Sistemas e Produtos no COMAER. DCA 800-2. [Brasília], 2019.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo.
+Gerenciamento do Ciclo de Vida de Sistemas e Materiais do SISCEAB. ICA 400-31. [Rio de
+Janeiro], 2010.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo.
+Gerenciamento do Risco à Segurança Operacional (GRSO) no SISCEAB. ICA 63-26. [Rio de
+Janeiro], 2010.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Validação
+de Sistemas de Software de Comunicação, Navegação e Vigilância para o SISCEAB. ICA
+800-2. [Rio de Janeiro], 2011.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo.
+Procedimentos Administrativos para Homologação, Ativação e Desativação de Auxílios,
+Equipamentos, Sistemas e Órgãos Operacionais no Âmbito do SISCEAB. MCA 63-4. [Rio de
+Janeiro], 2010.
+BRASIL. Agência Nacional de Aviação Civil. Credenciamento de Pessoas. RBAC 183.
+[Brasília], 2011.
+BRASIL. Associação Brasileira de Normas Técnicas. Sistemas de Gestão da Qualidade -
+Requisitos. ABNT NBR ISO 9001:2015. Rio de Janeiro, 2015.
+BRASIL. Associação Brasileira de Normas Técnicas. Avaliação da conformidade -
+Vocabulário e princípios gerais. ABNT NBR ISO 17000:2021. Rio de Janeiro, 2021.
+BRASIL. Associação Brasileira de Normas Técnicas. Requisitos Gerais para a Competência
+de Laboratórios de Ensaios e Calibração. ABNT NBR ISO 17025:2017. Rio de Janeiro,
+2017.
+BRASIL. Associação Brasileira de Normas Técnicas. Diretrizes para Auditoria de Sistemas
+de Gestão. ABNT NBR ISO 19011:2018. Rio de Janeiro, 2018.

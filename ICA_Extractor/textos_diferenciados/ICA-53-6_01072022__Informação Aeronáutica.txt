@@ -1,0 +1,428 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+INFORMAÇÃO AERONÁUTICA
+ICA 53-6
+SUPLEMENTO AIP
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+INFORMAÇÃO AERONÁUTICA
+ICA 53-6
+SUPLEMENTO AIP
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA Nº 196/DNOR4, DE 18 DE MAIO DE 2022.
+Aprova a reedição da Instrução que
+disciplina a divulgação da informação
+aeronáutica por Suplemento AIP.
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 19, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto no 6.834, de 30 de abril de
+2009, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA, aprovado
+pela Portaria no 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art. 1o Aprovar a reedição da ICA 53-6 "Suplemento AIP", que com esta baixa.
+Art. 2o Esta Instrução entra em vigor em 1 de julho de 2022.
+Art. 3o Revoga-se a Portaria DECEA no 204/DGCEA, de 14 de setembro de
+2016, publicada no Boletim do Comando da Aeronáutica no 167, de 29 de setembro de 2016.
+Ten Brig Ar JOÃO TADEU FIORENTINI
+Diretor-Geral do DECEA
+(Publicado no BCA n° 103 de 2 de junho de 2022)
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 53-6/2022
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES .................................................................................. 9
+1.1 FINALIDADE ..................................................................................................................... 9
+1.2 ABREVIATURA E SIGLAS .............................................................................................. 9
+1.3 CONCEITUAÇÃO.............................................................................................................. 9
+1.4 ÂMBITO ........................................................................................................................... 10
+2 GERERALIDADES ........................................................................................................ 11
+2.1 FINALIDADE ................................................................................................................... 11
+2.2 ORIGEM ........................................................................................................................... 11
+2.3 CLASSIFICAÇÃO ............................................................................................................ 11
+2.4 PRAZOS ............................................................................................................................ 11
+2.5 CARACTERÍSTICAS ....................................................................................................... 11
+2.6 VERIFICAÇÃO E VALIDAÇÃO .................................................................................... 12
+3 ESPECIFICAÇÕES ........................................................................................................ 13
+3.1 IDENTIFICAÇÃO ............................................................................................................ 13
+3.2 CANCELAMENTO .......................................................................................................... 13
+3.3 DIVULGAÇÃO ................................................................................................................ 13
+3.4 LISTA DE VERIFICAÇÃO.............................................................................................. 14
+3.5 CONFECÇÃO ................................................................................................................... 14
+3.6 PRIMEIRA PARTE – CABEÇALHO .............................................................................. 15
+3.7 SEGUNDA PARTE – TEXTO ......................................................................................... 15
+4 DISPOSIÇÕES TRANSITÓRIAS ................................................................................. 18
+5 DISPOSIÇÕES FINAIS .................................................................................................. 19
+REFERÊNCIAS ..................................................................................................................... 20
+ANEXO A - Modelo de Suplemento AIP não AIRAC .................................................... 21
+ANEXO B - Modelo de Suplemento AIP AIRAC ........................................................... 22
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 53-6/2022
+PREFÁCIO
+A Publicação de Informação Aeronáutica (AIP) está sujeita a modificações
+frequentes e as Emendas AIP são utilizadas para essas atualizações. Além disso, mudanças
+temporárias que afetam o conteúdo da AIP são frequentemente necessárias para divulgar
+circunstâncias imprevistas ou, em alguns casos, modificações planejadas de um serviço ou
+instalação.
+Com a finalidade de regulamentar os procedimentos para a divulgação das
+mudanças temporárias nas informações contidas na AIP, o DECEA editou a presente Instrução,
+que deverá ser utilizada por todos aqueles que, no desempenho de suas funções, necessitam
+utilizar os critérios e procedimentos para a divulgação da informação aeronáutica por meio de
+Suplemento AIP.
+Esta publicação foi reeditada em 2022 com o objetivo de:
+a) Definir que cada Suplemento AIP deverá ser divulgado em páginas
+diferentes, para que possa ser facilmente distinguido do conteúdo da AIP;
+b) Modificar o cabeçalho de identificação do Suplemento AIP; e
+c) Estabelecer que as informações a serem divulgadas por meio de
+Suplemento AIP são as modificações temporárias contidas na AIP, bem
+como as de aeródromos que operem IFR ou com operações da aviação
+regular.
+Ademais, foram introduzidas melhorias editoriais na publicação.
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 53-6/2022
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+A presente Instrução tem por finalidade estabelecer os procedimentos para a
+divulgação da informação aeronáutica por Suplemento AIP.
+1.2 ABREVIATURA E SIGLAS
+AD - Aeródromo
+AIC - Circular de Informação Aeronáutica
+AIP - Publicação de Informação Aeronáutica
+AIRAC - Regulação e Controle de Informação Aeronáutica
+AISWEB - Informações Aeronáuticas Oficiais na WEB
+ANAC - Agência Nacional de Aviação Civil
+CGNA - Centro de Gerenciamento da Navegação Aérea
+CINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo
+CRCEA-SE - Centro Regional de Controle do Espaço Aéreo Sudeste
+DECEA - Departamento de Controle do Espaço Aéreo
+ENR - Em rota
+GEN - Generalidades
+ICA - Instituto de Cartografia Aeronáutica
+NIL - Nada ou Nada tenho a transmitir-lhe
+NOTAM - Aviso aos Aeronavegantes
+NOTAMR - NOTAM Substituidor
+OACI - Organização de Aviação Civil Internacional
+PAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro
+ROTAER - Publicação Auxiliar de Rotas Aéreas
+SDOP - Subdepartamento de Operações do DECEA
+SISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro
+UTC - Tempo Universal Coordenado
+1.3 CONCEITUAÇÃO
+1.3.1 INFORMAÇÃO PERMANENTE
+Informação cujo período de vigência seja igual ou superior a três anos.
+1.3.2 INÍCIO DE EFETIVAÇÃO
+Informa a data e hora de início de efetivação da informação.
+
+--- PÁGINA ---
+10/22 ICA 53-6/2022
+1.3.3 PERÍODO DE VIGÊNCIA
+Período compreendido entre o início de efetivação e o término de validade da
+informação.
+1.3.4 PRODUTOS DE INFORMAÇÃO AERONÁUTICA
+Dados e informações aeronáuticas fornecidos na forma de um conjunto de dados
+digitais ou em uma apresentação padrão em papel ou em formato eletrônico, que incluem: AIP,
+Emendas AIP, Suplementos AIP, AIC, NOTAM, Cartas Aeronáuticas, ROTAER, Emenda
+Digital (D-AMDT), INFOTEMP, AIXM e Conjunto de Dados Digitais. Os produtos de
+informação aeronáutica destinam-se principalmente a satisfazer os requisitos internacionais
+para o intercâmbio de informações aeronáuticas.
+1.3.5 SOLICITAÇÃO DE DIVULGAÇÃO DE INFORMAÇÃO AERONÁUTICA
+Todo documento emitido por autoridade competente com a intenção de incluir,
+excluir ou modificar dado ou informação aeronáutica contida nos Produtos de Informação
+Aeronáutica.
+1.4 ÂMBITO
+A presente Instrução, de observância obrigatória, aplica-se a todos aqueles que,
+no desempenho de suas funções, necessitem divulgar informação aeronáutica por meio de
+Suplemento AIP.
+
+--- PÁGINA ---
+ICA 53-6/2022 11/22
+2 GERERALIDADES
+2.1 FINALIDADE
+Modificar temporariamente as informações contidas na AIP, além das
+informações de aeródromos que operem IFR ou com operações da aviação regular.
+2.2 ORIGEM
+2.2.1 Todo Suplemento AIP deverá ser originado de uma Solicitação de Divulgação de
+Informação Aeronáutica (SDIA).
+2.2.2 Quando a SDIA contiver informação permanente, a AIP deverá ser atualizada por meio
+de uma Emenda AIP. Caso contenha informação temporária, deverá ser atualizada por meio de
+Suplemento AIP.
+2.3 CLASSIFICAÇÃO
+2.3.1 Os Suplementos AIP são classificados quanto ao sistema de distribuição como “AIRAC”
+ou “Não AIRAC”.
+2.3.2 Os Suplementos AIP são classificados quanto à série como “N” ou “A”:
+a) N – Nacional – Contém informação divulgada em português; ou
+b) A – Internacional – Contém informação divulgada em inglês.
+2.4 PRAZOS
+O prazo para divulgação de Informação Aeronáutica por meio de Suplemento
+AIP deverá se adequar ao Calendário AIRAC, conforme previsto na ICA 53-4 “Solicitação de
+Divulgação de Informação Aeronáutica”.
+2.5 CARACTERÍSTICAS
+2.5.1 A informação temporária divulgada por meio de Suplemento AIP deverá ter pelo menos
+uma das seguintes características básicas:
+a) ser de longa duração, ou seja, três meses ou mais;
+b) ser de curta duração, mas conter textos longos; e
+c) conter desenhos que afetem uma ou mais Partes da AIP.
+
+--- PÁGINA ---
+12/22 ICA 53-6/2022
+2.5.2 Além das características básicas, a informação temporária divulgada por meio de
+Suplemento AIP deverá:
+a) ser publicada 28 ou 56 dias antes da data de efetivação para o Suplemento
+AIP AIRAC;
+b) ser publicada 7 ou 14 dias antes da data de efetivação para o Suplemento AIP
+não AIRAC;
+c) não sofrer alteração durante o período de vigência, a menos que as
+circunstâncias a serem alteradas sejam temporárias e não subsistam por todo
+o período; e
+d) ter caráter operacional.
+2.5.3 No caso de informações que requeiram um ciclo AIRAC, os Suplementos AIP AIRAC
+deverão possuir um intervalo de 28 dias entre a data de publicação e a data de efetivação.
+2.5.4 No caso de informações que requeiram dois ciclos AIRAC, os Suplementos AIP AIRAC
+deverão possuir um intervalo de 56 dias entre a data de publicação e a data de efetivação.
+2.6 VERIFICAÇÃO E VALIDAÇÃO
+A informação contida na SDIA e seus respectivos metadados deverão estar de
+acordo com os requisitos especificados na TCA 53-2 “Catálogo de Requisitos de Dados e
+Informações Aeronáuticas”.
+
+--- PÁGINA ---
+ICA 53-6/2022 13/22
+3 ESPECIFICAÇÕES
+3.1 IDENTIFICAÇÃO
+3.1.1 A numeração dos Suplementos AIP deverá ser crescente e independente, dentro de cada
+série, e será reiniciada na primeira edição de cada ano civil.
+3.1.2 Os Suplementos AIP, AIRAC ou Não AIRAC, N ou A, deverão ser publicados em
+edições distintas.
+3.1.3 Os Suplementos AIP deverão ser disponibilizados em páginas na cor amarela.
+3.2 CANCELAMENTO
+3.2.1 Quando ocorrer um erro em um Suplemento AIP ou seu período de vigência for alterado,
+um novo Suplemento AIP deverá ser publicado em substituição.
+3.2.2 Os requisitos de NOTAM deverão ser aplicados, quando não houver tempo suficiente
+para a divulgação da informação aeronáutica por meio de Suplemento AIP.
+3.2.3 As informações temporárias, previstas para permanecer em vigor por um período menor
+do que três meses, deverão ser divulgadas por meio de NOTAM. Quando este período for
+excedido, um Suplemento AIP deverá ser publicado em substituição ao NOTAM.
+3.2.4 Quando um Suplemento AIP for publicado em substituição a um NOTAM, deverão ser
+mantidos o indicador de localidade e o assunto contidos no NOTAM.
+3.2.5 No Suplemento AIP publicado em substituição a um NOTAM deverá ser incluída uma
+referência a este NOTAM.
+3.2.6 O Suplemento AIP cancelado por um NOTAM deixará de ter validade no momento da
+expedição do NOTAM.
+3.2.7 O Suplemento AIP cancelado deverá ser retirado da próxima edição da Lista de
+Suplementos AIP Válidos.
+3.3 DIVULGAÇÃO
+3.3.1 Cada Suplemento AIP deverá ser divulgado em páginas diferentes, para que possa ser
+facilmente distinguido do conteúdo da AIP.
+
+--- PÁGINA ---
+14/22 ICA 53-6/2022
+3.3.2 Um Suplemento AIP AIRAC será divulgado, quando o tipo de informação constar da lista
+“Quando empregar o Sistema AIRAC”, previsto na ICA 53-4 “Solicitação de Divulgação de
+Informação Aeronáutica”.
+3.3.3 Os Suplementos AIP deverão ser disponibilizados em formato digital no AISWEB.
+3.3.4 Quando um Suplemento AIP for publicado, um NOTAM chamado “Iniciador” deverá ser
+expedido, fornecendo uma breve descrição do conteúdo do Suplemento AIP, bem como a sua
+identificação e a data e hora de efetivação.
+3.3.5 No caso de um Suplemento AIP com o período de vigência superior a 14 dias, o NOTAM
+“Iniciador” terá um período de vigência de 14 dias.
+3.3.6 No caso de um Suplemento AIP com o período de vigência inferior a 14 dias, o NOTAM
+“Iniciador” terá um período de vigência igual ao publicado no Suplemento AIP.
+3.3.7 A formatação das páginas do Suplemento AIP deverá ser, preferencialmente, a mesma da
+AIP.
+3.3.8 Todo Suplemento AIP deverá conter uma data de início de efetivação e de término de
+validade da informação.
+3.3.9 Os horários indicados nos Suplementos AIP deverão ser referenciados à hora UTC.
+3.4 LISTA DE VERIFICAÇÃO
+3.4.1 Deverá ser publicada, mensalmente, uma Lista de Suplementos AIP válidos como parte
+da Lista de Verificação de NOTAM.
+3.4.2 Uma Lista de Suplementos AIP Válidos poderá ser consultada também a qualquer
+momento no AISWEB, por meio dos endereços eletrônicos http://aisweb.decea.intraer/ ou
+https://aisweb.decea.mil.br/, acessando o link específico do Produto de Informação
+Aeronáutica.
+3.5 CONFECÇÃO
+3.5.1 O formato do Suplemento AIP tem por objetivo padronizar a apresentação dos diversos
+tipos de informação, bem como facilitar a compreensão pelos usuários, conforme o Anexo A.
+
+--- PÁGINA ---
+ICA 53-6/2022 15/22
+3.5.2 Os Suplementos AIP AIRAC deverão ser confeccionados da mesma forma que os
+Suplementos AIP Não AIRAC, seguindo a mesma numeração, e identificados pelo acrônimo
+AIRAC, colocado em lugar de destaque, conforme o Anexo B.
+3.5.3 O Suplemento AIP deverá ser composto por duas partes: cabeçalho e texto.
+3.6 PRIMEIRA PARTE – CABEÇALHO
+3.6.1 Cada edição do Suplemento AIP deverá começar com cabeçalho padrão de identificação,
+conforme a figura abaixo:
+Suplemento AIP
+AIP
+Contato:
+Ministério da Defesa Brasil
+Comando da Aeronáutica N XXX / YY
+Departamento de
+Controle do Espaço
+Data de publicação
+Aéreo – DECEA
+DD MMM YY
+Av. Gen. Justo, 160
+CEP 20021-130 Efetivação
+Rio de Janeiro, RJ – Brasil DD MMM YY
+AFS: SBRJZXIC AIM || Brasil
+http://www.decea.gov.br
+Título do Suplemento AIP
+Figura 1 – Cabeçalho
+3.6.2 Um título curto que indique a informação que está sendo divulgada deverá complementar
+o cabeçalho.
+3.7 SEGUNDA PARTE – TEXTO
+Contém informações que alteram as contidas na AIP e é composto pelos
+seguintes campos:
+a) município/instalação;
+b) período de vigência;
+c) conteúdo da informação; e
+d) referências.
+3.7.1 MUNICÍPIO/INSTALAÇÃO
+3.7.1.1 Nome do município seguido do nome da instalação, seguido da unidade da federação
+e do indicador de localidade.
+Exemplo: RIO DE JANEIRO/Galeão – Antônio Carlos Jobim, RJ (SBGL).
+
+--- PÁGINA ---
+16/22 ICA 53-6/2022
+3.7.1.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e
+maiúsculas.
+3.7.2 PERÍODO DE VIGÊNCIA
+3.7.2.1 Todo Suplemento AIP deverá conter neste campo a data e a hora de início de efetivação
+e de término de validade da informação.
+Exemplo: De 20 de julho de 2021, 1100 UTC até 21 de outubro de 2021, 2100
+UTC.
+3.7.2.2 O período de vigência deverá ser posicionado antes do texto.
+3.7.2.3 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e
+maiúsculas.
+3.7.2.4 Quando o período de vigência da informação não for suficiente para expressar todos
+os períodos de atividade da informação, estes deverão ser representados após o texto do
+Suplemento AIP.
+Exemplo: Dias e horários:
+JUL 20 1100 TIL JUL 22 2100
+OCT 19 1100 TIL OCT 21 2100
+3.7.3 CONTEÚDO DA INFORMAÇÃO
+3.7.3.1 Contém informações que alteram as contidas na AIP.
+Exemplo: Pista 15 / 33 fechada devido serviço de manutenção.
+3.7.3.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e
+maiúsculas.
+3.7.3.3
+3.7.4 REFERÊNCIAS
+3.7.4.1 Este campo deverá conter referência à AIP, ao Suplemento AIP, em caso de
+substituição, ou ao NOTAM que divulgou a informação, se houver.
+
+--- PÁGINA ---
+ICA 53-6/2022 17/22
+3.7.4.2 Este campo deverá ser apresentado em fonte Arial, corpo 12 em letras minúsculas e
+maiúsculas.
+3.7.4.3 A referência à AIP deverá conter a parte, a seção e a subseção modificada pelo
+Suplemento AIP.
+Exemplo: Ref.: AD SBGL 2.12
+3.7.4.4 A referência a um Suplemento AIP deverá conter a série, o número e o ano do
+Suplemento AIP substituído entre parênteses.
+Exemplo: (RPLC SUP N125/22)
+3.7.4.5 A referência a um NOTAM deverá conter a série, o número e o ano do NOTAM
+substituído pelo Suplemento AIP entre parênteses.
+Exemplo: (RPLC NOTAM G0420/22)
+
+--- PÁGINA ---
+18/22 ICA 53-6/2022
+4 DISPOSIÇÕES TRANSITÓRIAS
+O ICA terá um prazo de dois anos, a partir da data de entrada em vigor desta
+Intrução, para concluir a nova estrutura do Suplemento AIP, conforme previsto nos itens 3.6 e
+3.7.
+
+--- PÁGINA ---
+ICA 53-6/2022 19/22
+5 DISPOSIÇÕES FINAIS
+5.1 As sugestões para o contínuo aperfeiçoamento desta publicação deverão ser enviadas por
+meio dos endereços eletrônicos http://publicacoes.decea.intraer/ ou
+http://publicacoes.decea.mil.br/, acessando o link específico da publicação.
+5.2 Os casos não previstos serão submetidos à apreciação do Sr. Chefe do Subdepartamento
+de Operações do Departamento de Controle do Espaço Aéreo.
+
+--- PÁGINA ---
+20/22 ICA 53-6/2022
+REFERÊNCIAS
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Solicitação
+de Divulgação de Informação Aeronáutica: ICA 53-4. Rio de Janeiro, RJ, 2019.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Catálogo de
+Requisitos de dados e Informações Aeronáuticas: TCA 53-2. Rio de Janeiro, RJ, 2019.
+CANADÁ. Organização da Aviação Civil Internacional. Serviços de Informação Aeronáutica:
+Anexo 15. Montreal, 2018.
+CANADÁ. Organização da Aviação Civil Internacional. Manual para os Serviços de
+Informação Aeronáutica: Doc 8126. Montreal, 2003.
+CANADÁ. Organização da Aviação Civil Internacional. Procedimentos para os Serviços de
+Navegação Aérea – Gestão da Informação Aeronáutica: PANS-AIM, Doc. 10066. Montreal,
+2018.
+
+--- PÁGINA ---
+ICA 53-6/2022 21/22
+ANEXO A - Modelo de Suplemento AIP não AIRAC
+Suplemento AIP
+AIP
+Contato:
+Ministério da Defesa Brasil
+Comando da Aeronáutica N XX/22
+Departamento de
+Controle do Espaço
+Data de publicação
+Aéreo – DECEA
+17 MAY 22
+Av. Gen. Justo, 160
+CEP 20021-130 Data de efetivação
+Rio de Janeiro, RJ – Brasil 31 MAY 22
+AFS: SBRJZXIC AIM || Brasil
+http://www.decea.gov.br
+Fechamento de Pista
+BELO HORIZONTE/Tancredo Neves, MG (SBCF)
+Período: De 31 de maio de 2022, 0455 UTC até 15 de outubro de 2022, 0745
+UTC.
+Pista 16/34 fechada devido serviço de manutenção.
+Dias e horários: MAY 31 0455-0745 JUN 01 02 28 TIL 30 0455-0745 JUL 26 TIL
+28 0455-0745 AUG 23 TIL 25 0435-0745 SEP 12 20 TIL 22 0435-0745 OCT 13
+TIL 15 0435-0745
+Ref.: AIP SBCF AD 2.12
+
+--- PÁGINA ---
+22/22 ICA 53-6/2022
+ANEXO B - Modelo de Suplemento AIP AIRAC
+Suplemento AIP
+AIRAC AIP
+Contato:
+Ministério da Defesa Brasil
+Comando da Aeronáutica N XXX / 22
+Departamento de
+Controle do Espaço
+Data de publicação
+Aéreo – DECEA
+18 MAR 22
+Av. Gen. Justo, 160
+CEP 20021-130 Data de efetivação
+Rio de Janeiro, RJ – Brasil 15 ABR 22
+AFS: SBRJZXIC AIM || Brasil
+http://www.decea.gov.br
+CATEGORIA DE AERÓDROMO
+NATAL/ São Gonçalo do Amarante – Governador Aluizio Alves, RN (SBSG)
+Período: De 15 de abril de 2022, 0141 UTC até 22 de abril de 2022, 2359 UTC
+AD CATEGORIA MODIFICADA PARA INTL
+Ref. : AIP SBSG AD 2.1

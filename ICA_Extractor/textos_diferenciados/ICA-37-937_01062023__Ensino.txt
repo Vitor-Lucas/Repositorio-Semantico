@@ -1,0 +1,480 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+ENSINO
+ICA 37-937
+CREDENCIAMENTO DE INSTITUIÇÕES DE
+ENSINO PARA APLICAÇÃO DOS CURSOS
+CNS014 E CNS018
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+ENSINO
+ICA 37-937
+CREDENCIAMENTO DE INSTITUIÇÕES DE
+ENSINO PARA APLICAÇÃO DOS CURSOS
+CNS014 E CNS018
+2023
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇOAÉREO
+PORTARIA DECEA Nº 920/DCTP, DE 4 DE MAIO DE 2023.
+Aprova a edição da ICA 37-937,
+Instrução sobre “Credenciamento de
+Instituições de Ensino para Aplicação dos
+Cursos CNS014 e CNS018.”
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 21, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 11.237, de 18 de outubro
+de 2022, e considerando o disposto no art.10, inciso IV, do Regulamento do DECEA, aprovado
+pela Portaria nº 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art.1º Aprovar a edição da ICA 37-937, “Credenciamento de Instituições de
+Ensino para Aplicação dos Cursos CNS014 E CNS018”, que com esta baixa.
+Art. 2º Esta Portaria entra em vigor em 1º de junho de 2023.
+Ten Brig Ar ALCIDES TEIXEIRA BARBACOVI
+Diretor-Geral do DECEA
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 37-937/2023
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES ................................................................................. 9
+1.1 FINALIDADE .................................................................................................................... 9
+1.2 OBJETIVO ......................................................................................................................... 9
+1.3 ABREVIATURAS ............................................................................................................. 9
+1.4 LISTA DE DEFINIÇÕES .................................................................................................. 9
+1.5 ÂMBITO ............................................................................................................................ 9
+1.6 ESTRUTURA E COMPETÊNCIAS ............................................................................... 10
+2 CREDENCIAMENTO ................................................................................................... 11
+2.1 DAS CONDIÇÕES PARA O CREDENCIMENTO ....................................................... 11
+2.2 SOLICITAÇÃO ............................................................................................................... 11
+2.3 PROCESSO DE CREDENCIAMENTO ......................................................................... 11
+2.4 VALIDADE DO CREDENCIAMENTO ........................................................................ 11
+2.5 CANCELAMENTO DO CREDENCIAMENTO ............................................................ 11
+3 INSPEÇÕES DE CREDENCIAMENTO ..................................................................... 13
+4 REQUISITOS PEDAGÓGICOS .................................................................................. 14
+5 REQUISITOS DE INFRAESTRUTURA .................................................................... 15
+6 RECURSOS HUMANOS............................................................................................... 16
+7 REGISTROS ................................................................................................................... 17
+8 LIMITAÇÕES AO USO DE MARCAS E SINAIS DE PROPAGANDA ................. 18
+9 DISPOSIÇÕES GERAIS ............................................................................................... 19
+10 DISPOSIÇÕES TRANSITÓRIAS ................................................................................ 20
+11 DISPOSIÇÕES FINAIS ................................................................................................. 21
+REFERÊNCIAS ............................................................................................................. 22
+ANEXO A – CHECK LIST DE INSPEÇÃO ....................................................................... 23
+ANEXO B – RELATÓRIO DE CRÍTICA FINAL DE CURSO ........................................ 24
+ANEXO C – CERTIFICADO DE CREDENCIAMENTO ................................................ 26
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 37-937/2023 9/26
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+Esta Instrução tem por finalidade definir o processo para o credenciamento das
+Instituições que desejarem ministrar os cursos CNS014 – Radioperação em Plataforma
+Marítima e/ou CNS018 – Operação de Estação Aeronáutica e de Sala AIS, conforme previsto
+nos itens 4.4.2 e 9.4.2 da ICA 102-7 Habilitação Técnica para Operador de Telecomunicações.
+1.2 OBJETIVO
+Normatizar o processo de credenciamento, renovação de credenciamento e
+descredenciamento, definindo as competências e responsabilidades do DECEA, ICEA e das
+Instituições a serem credenciadas.
+1.3 ABREVIATURAS
+DCTP Divisão de Capacitação e Treinamento Profissional
+DECEA Departamento de Controle do Espaço Aéreo
+ICA Instrução do Comando da Aeronáutica
+PUD Plano de Unidades Didáticas
+ICEA Instituto de Controle do Espaço Aéreo
+EAD Educação a Distância
+1.4 LISTA DE DEFINIÇÕES
+1.4.1 INSTITUIÇÃO CREDENCIADA
+Instituição autorizada pelo DECEA a aplicar os cursos CNS014 e/ou CNS018,
+conforme processo e requisitos estabelecidos nesta Instrução.
+1.4.2 CURSO CNS014
+Curso de RADIOPERAÇÃO EM PLATAFORMA MARÍTIMA – EPTA CAT
+“M” destinado ao exercício de atividades operacionais em estações prestadoras de serviços de
+telecomunicações e de tráfego aéreo de categoria “M” (EPTA CAT “M”).
+1.4.3 CURSO CNS018
+Curso de OPERAÇÃO DE ESTAÇÃO AERONÁUTICA E DE SALA AIS
+destinado à execução das tarefas inerentes à operação da Estação Aeronáutica, da Sala AIS e
+de EMS-3 e de CMA-3.
+1.5 ÂMBITO
+A presente Instrução, de observância obrigatória, aplica-se ao DECEA, ICEA e
+às Instituições credenciadas ou às que desejarem se tornar credenciadas para aplicação dos
+cursos CNS014 ou CNS018.
+
+--- PÁGINA ---
+10/26 ICA 37-937/2023
+1.6 ESTRUTURA E COMPETÊNCIAS
+Participam do processo de credenciamento, compondo estrutura de capacitação
+do DECEA, o Subdepartamento de Administração (SDAD) e o Instituto de Controle do Espaço
+Aéreo (ICEA).
+1.6.1 SUBDEPARTAMENTO DE ADMINISTRAÇÃO
+Ao SDAD compete:
+a) estabelecer as diretrizes necessárias para a consecução do processo de
+credenciamento;
+b) recepcionar e analisar a solicitação inicial das Instituições;
+c) após o aceite pelo SDAD da solicitação inicial, encaminhá-la ao ICEA para
+análise diagnóstica; e
+d) Providenciar a documentação prevista de credenciamento para as Instituições
+agraciadas.
+1.6.2 INSTITUTO DE CONTROLE DO ESPAÇO AÉREO
+Ao ICEA compete:
+a) a análise diagnóstica das informações fornecidas pela instituição solicitante;
+b) a verificação in situ das instalações físicas e equipamentos necessários para
+a execução da instrução; e
+c) após as checagens previstas, encaminhar ao SDAD parecer quanto à
+concessão do documento de credenciamento.
+1.6.3 INSTITUIÇÕES CREDENCIADAS
+Às Instituições credenciadas pelo DECEA compete a execução dos cursos
+CNS014 e/ou CNS018 conforme os parâmetros estabelecidos nesta Instrução.
+
+--- PÁGINA ---
+ICA 37-937/2023 11/26
+2 CREDENCIAMENTO
+2.1 DAS CONDIÇÕES PARA O CREDENCIMENTO
+2.1.1 Poderão ser credenciadas Instituições legalmente autorizadas pelo Poder Público a
+atuarem na área do objeto deste credenciamento.
+2.2 SOLICITAÇÃO
+2.2.1 A solicitação de credenciamento deve ser encaminhada, em processo individualizado
+por curso, pela Instituição interessada, formalmente, ao DECEA.
+2.2.2 A solicitação de credenciamento deve dar entrada no DECEA em, no mínimo, 3 meses
+antes da data planejada para o início da primeira turma pela Instituição.
+2.2.3 A empresa solicitante juntará à solicitação de credenciamento a cópia da autorização de
+funcionamento fornecida pelo Poder Público.
+2.3 PROCESSO DE CREDENCIAMENTO
+2.3.1 O DECEA, após analisar a solicitação e constatar que o requerente atende às condições
+para ministrar o pleiteado curso, emitirá um ofício e um certificado à Empresa com as
+informações sobre o credenciamento.
+2.3.2 A solicitação de credenciamento será indeferida caso a Instituição tenha fornecido
+informações falsas, incompletas ou que não atendam às condições estabelecidas para ministrar
+o curso.
+2.4 VALIDADE DO CREDENCIAMENTO
+2.4.1 O credenciamento terá validade de 3 anos, a contar da data de sua concessão.
+2.4.2 O DECEA pode suspender um credenciamento caso seja constatado que a Empresa
+credenciada deixou de cumprir algum item do regulamento.
+2.4.3 O credenciamento suspenso implica imediata interrupção na execução do curso em
+andamento e/ou no impedimento de se iniciar qualquer outra turma.
+2.4.4 A suspensão do credenciamento terá a duração de 30 dias, período no qual caberá à
+empresa realizar as medidas corretivas em relação às não conformidades encontradas.
+2.4.5 Após realizados os devidos ajustes, a empresa terá seu credenciamento restabelecido, até
+o prazo inicialmente concedido.
+2.5 CANCELAMENTO DO CREDENCIAMENTO
+O credenciamento será cancelado caso a instituição tenha:
+a) deixado de comunicar ao DECEA alguma alteração nas condições
+apresentadas na ocasião do credenciamento;
+b) sido suspensa e não regularize a situação que motivou a suspensão no prazo
+máximo de 30 dias;
+
+--- PÁGINA ---
+12/26 ICA 37-937/2023
+c) deixado de cumprir os requisitos deste Regulamento e não tenha interesse ou
+capacidade de regularizar a situação;
+d) simulado o cumprimento de qualquer requisito ou padrão mínimo exigido
+pelo DECEA;
+e) fornecido informações falsas ou incompletas, ou tenha omitido ou recusado
+a fornecer documentações solicitadas pelo DECEA;
+f) realizado qualquer tipo de fraude nas instruções, cursos ou avaliações; ou
+g) manifestado desinteresse em mantê-lo.
+
+--- PÁGINA ---
+ICA 37-937/2023 13/26
+3 INSPEÇÕES DE CREDENCIAMENTO
+3.1 Toda Instituição em processo de Credenciamento passará por uma inspeção
+coordenada pelo DECEA e realizada pelo ICEA, com a finalidade de verificar o
+cumprimento dos requisitos estabelecidos nesta Instrução.
+3.2 As Instituições credenciadas no escopo desta Instrução, e suas filiais, estão sujeitas
+a Visitas de Inspeção do DECEA, agendadas ou inopinadas, para verificação a
+respeito do cumprimento dos requisitos ou manutenção das condições apresentadas
+na ocasião do credenciamento.
+3.3 As Instituições credenciadas, sempre que solicitado pelo DECEA, devem fornecer,
+no prazo estabelecido, as informações necessárias para a realização das inspeções
+acima mencionadas.
+3.4 Durante as visitas de inspeção, a Empresa deve viabilizar acesso dos representantes
+do DECEA a pessoas, instalações, equipamentos ou documentações, conforme
+solicitado por eles.
+3.5 Na ocasião das Inspeções pode ser solicitada uma demonstração das atividades de
+ensino realizadas na Empresa, com ou sem alunos.
+
+--- PÁGINA ---
+14/26 ICA 37-937/2023
+4 REQUISITOS PEDAGÓGICOS
+4.1 A empresa credenciada deverá cumprir o Plano de Unidade Didática do respectivo
+curso, desenvolvido pelo DECEA.
+4.2 Possíveis pedidos de alteração de conteúdo ou na forma de aplicação de um curso
+por parte da Empresa Credenciada deve ser encaminhado ao DECEA em até 45 dias
+antes do início programado da turma ou ao final dela, para análise.
+4.3 Caso o curso seja em EaD ou semipresencial, a Empresa deve disponibilizar:
+a) uma descrição geral da plataforma utilizada, incluindo as funcionalidades; e
+b) descrição do sistema de tutoria.
+4.4 A Instituição interessada no credenciamento deverá possuir procedimentos
+definidos para:
+a) a capacitação dos instrutores, assim como o controle de licenças e
+habilitações, de forma a atender ao Quadro Perfil de Instrutor necessário para
+a realização do curso;
+b) o controle e arquivo dos registros de instrução e desempenho nas avaliações
+e término das atividades teóricas e práticas dos alunos; e
+c) ao final de cada curso, enviar ao DECEA o Relatório de Crítica de Curso,
+conforme Anexo B, preenchido pelos alunos, considerando aspectos de
+condições físicas do ambiente, materiais disponíveis, recursos utilizados,
+atuação dos instrutores, conteúdo ministrado nas aulas etc.
+4.5 Os demais assuntos relacionados ao desenvolvimento dos Cursos, bem como as
+Avaliações Teóricas, deverão seguir o que preconiza a MCA 37-87, Plano de
+Avaliação Aplicado às Organizações do DECEA.
+4.6 Condições para o desenvolvimento de estágio supervisionado, objetivando a
+vivência da prática em situação real de trabalho, nos termos da Lei no 11.788, de 25
+de setembro de 2008 e das normas específicas definidas pelo Conselho Nacional de
+Educação (CNE), quando previsto pela instituição de ensino, ou quando obrigatório
+em função da natureza da ocupação, especificando a respectiva carga horária.
+
+--- PÁGINA ---
+ICA 37-937/2023 15/26
+5 REQUISITOS DE INFRAESTRUTURA
+5.1 As instalações devem ser compatíveis com o tamanho e complexidade dos cursos,
+estabelecendo um ambiente favorável à aprendizagem.
+5.2 Para os cursos ministrados na modalidade de EaD a instituição credenciada deve
+manter os registros requeridos nesta Instrução arquivados em uma sede com
+endereço fixo.
+5.3 Deve ser observada a adequação das instalações físicas às legislações aplicáveis
+(saneamento, saúde, construção civil etc.).
+5.4 O número máximo de alunos na mesma sala de aula (no ensino presencial) deve ser
+definido pela Instituição em conformidade com o PUD do curso, considerando a
+área mínima de 1,00 m² por aluno.
+5.5 Para o treinamento prático devem ser disponibilizados, no mínimo, os equipamentos
+previstos no PUD de cada curso.
+5.6 Cada sala de aula deve conter equipamentos de apoio à instrução adequados, que
+permitam o desenvolvimento da proposta pedagógica aprovada pelo DECEA.
+5.7 O DECEA poderá, a qualquer momento, solicitar adequações na infraestrutura
+oferecida pelas Instituições credenciadas, visando à adequação às necessidades do
+curso ministrado.
+5.8 A Instituição Credenciada deve manter a sede estabelecida no endereço que consta
+na solicitação inicial e, consequentemente, na autorização emitida pelo DECEA.
+Alterações de endereço devem ser imediatamente informadas, formalmente, ao
+DECEA.
+5.9 A sede deve possuir instalações adequadas para a manutenção dos registros
+estabelecidos nesta Instrução.
+5.10 Caso uma Instituição já credenciada deseje realizar o curso em uma filial, deverá
+fazer nova solicitação ao DECEA, para que seja feita a análise relativa à nova
+infraestrutura oferecida. Após aprovação, a manutenção, na filial, dos requisitos
+aprovados pelo DECEA deve ser garantida pela Instituição credenciada.
+5.11 Na ocasião de encerramento de atividade de uma filial, a Empresa Credenciada deve
+comunicar, formalmente, ao DECEA.
+5.12 A Empresa deverá apresentar os laboratórios onde serão realizadas as aulas práticas
+e estágios supervisionados, devendo apresentar, também, os Gerentes Operacionais
+responsáveis pelos estágios supervisionados.
+
+--- PÁGINA ---
+16/26 ICA 37-937/2023
+6 RECURSOS HUMANOS
+6.1 A empresa deve possuir entre seus colaboradores um Gestor de Capacitação.
+6.2 A empresa deve possuir também entre seus colaboradores um Coordenador do
+Curso.
+6.3 A empresa deve possuir entre seus colaboradores, durante a elaboração de aulas,
+material didático e itens de teste, um profissional de pedagogia para orientação dos
+trabalhos.
+6.4 A empresa deve possuir em seu banco de dados o cadastro de instrutores
+qualificados, em número suficiente para a execução do curso.
+6.5 Ao solicitar o credenciamento, a Empresa deve informar nome do Gestor de
+Capacitação.
+6.6 O coordenador do curso será responsável por:
+a) supervisionar o progresso dos alunos e o trabalho dos instrutores;
+b) garantir que a instrução seja realizada de forma padronizada e conforme
+estabelecido no PUD desenvolvido pelo DECEA; e
+c) garantir que os registros de instrução sejam preenchidos e armazenados,
+conforme estabelecido nesta Instrução.
+
+--- PÁGINA ---
+ICA 37-937/2023 17/26
+7 REGISTROS
+7.1 Toda Instituição credenciada deve possuir e manter atualizado, em meio físico e/ou
+digital, um registro individual para cada um de seus alunos, contendo:
+a) o nome do aluno, data de nascimento, filiação e CPF;
+b) a data de matrícula;
+c) cópia dos documentos de matrícula (identidade, CPF e certificado de
+conclusão do Ensino Médio);
+d) registro de frequência e desempenho;
+e) data e resultado das avaliações, teóricas e práticas, realizadas ao longo do
+curso, bem como o nome do instrutor que conduziu cada avaliação; e
+f) cópia do certificado de conclusão de curso e do histórico escolar, com a data
+de sua expedição;
+7.2 Manutenção dos registros:
+a) Os registros mencionados no item 7.1 devem ser mantidos por, pelo menos,
+5 anos;
+b) os registros de treinamento e qualificação dos instrutores e avaliadores devem
+ser mantidos, no mínimo, por 5 anos após o encerramento da turma; e
+c) os registros de que trata a letra “f” do item 7.1 devem ser mantidos por todo
+o período em que a Instituição estiver atuando.
+7.3 A Instituição deve:
+a) informar ao DECEA o nome dos alunos matriculados;
+b) emitir, impresso ou digital, o certificado de conclusão de curso e o respectivo
+histórico escolar, para o aluno que concluir satisfatoriamente os requisitos
+para aprovação naquele curso;
+c) executar o curso no prazo máximo de duas vezes o previsto no Plano de
+Unidade Didática; e
+d) encaminhar ao DECEA documento de conclusão do curso contendo: nome
+do curso, local de realização, período (início e término), nome do concluinte
+e seu CPF.
+7.4 A Instituição deve publicar em Diário Oficial do Estado a realização do curso com
+as seguintes informações:
+a) Nome da instituição;
+b) Nome do curso;
+c) Carga horária;
+d) Local de realização;
+e) Período de realização; e
+f) Nome do aluno, seguido do CPF.
+
+--- PÁGINA ---
+18/26 ICA 37-937/2023
+8 LIMITAÇÕES AO USO DE MARCAS E SINAIS DE PROPAGANDA
+8.1 É proibida a utilização dos símbolos do DECEA, ou imagens semelhantes, em
+certificados de conclusão, publicidade ou qualquer documento emitido pela
+Instituição credenciada.
+8.2 É permitido o uso da sigla DECEA apenas para informar que a Empresa é
+credenciada e possui autorização para ministrar o Programa de Curso desenvolvido
+pelo DECEA, sem que haja qualquer insinuação de que o DECEA recomende ou dê
+preferência a qualquer curso executado pela Instituição.
+
+--- PÁGINA ---
+ICA 37-937/2023 19/26
+9 DISPOSIÇÕES GERAIS
+9.1 Após a conclusão do curso, o aluno deverá realizar, no prazo de 60 dias, uma Prova
+de Final de Curso, sob a gestão do ICEA, na qual deverá obter o grau mínimo para
+aprovação, conforme previsto no Plano de Avaliação Aplicado às Organizações do
+DECEA (MCA 37-87), antes de prosseguir no processo de habilitação.
+9.2 O aluno que deixar de comparecer para a realização da Prova Final de Curso ou não
+obtiver grau mínimo para aprovação, solicitará à sua Instituição Credenciada a
+realização de uma Segunda Chamada, indenizável ao ICEA, que terá até 60 dias para
+a marcação do evento.
+9.3 Não haverá limite de tentativas por parte do aluno para a realização de prova de
+Segunda Chamada.
+9.4 O DECEA deverá manter disponível em seu portal institucional uma lista com as
+Instituições de Ensino credenciadas, nos termos desta Instrução.
+9.5 Os credenciamentos tratados nesta Instrução permitem que as Instituições
+credenciadas ministrem as aulas teóricas e práticas necessárias para o cumprimento
+do Programa do curso desenvolvido pelo DECEA.
+9.6 O DECEA não responde solidariamente pela relação Instituição credenciada aluno.
+
+--- PÁGINA ---
+20/26 ICA 37-937/2023
+10 DISPOSIÇÕES TRANSITÓRIAS
+Até que haja previsão formal no MCA 37-87, quanto ao processo de avaliação
+dos egressos dos cursos ministrados pelas empresas credenciadas pelo DECEA, na avaliação
+realizada após a conclusão do curso, visando ao processo de obtenção da respectiva licença, o
+aluno deverá obter grau mínimo igual a 7,0 (sete vírgula zero), tanto na avaliação teórica quanto
+na avaliação prática.
+
+--- PÁGINA ---
+ICA 37-937/2023 21/26
+11 DISPOSIÇÕES FINAIS
+11.1 Esta Instrução entra em vigor na data da publicação de sua Portaria de aprovação,
+no Boletim do Comando da Aeronáutica.
+11.2 Os casos não previstos nesta Instrução serão resolvidos pelo Chefe do
+Subdepartamento de Administração do DECEA.
+
+--- PÁGINA ---
+22/26 ICA 37-937/2023
+REFERÊNCIAS
+BRASIL. Comando da Aeronáutica. Comando-Geral do Pessoal. Confecção, controle e
+numeração de publicações oficiais do Comando da Aeronáutica: NSCA 5-1. Brasília, 2011.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Normas
+Reguladoras de Cursos: ICA 37-269. Rio de Janeiro, 2022.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Plano de
+Avaliação Aplicado às OM do DECEA. MCA 37-87. Rio de Janeiro, 2018.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Elaboração
+de Planos de Unidades Didáticas do DECEA: MCA 37-235. Rio de Janeiro, 2022.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Habilitação
+Técnica para Operador de Telecomunicações: ICA 102-7. Rio de Janeiro, 2022.
+
+--- PÁGINA ---
+ICA 37-937/2023 23/26
+ANEXO A – CHECK LIST DE INSPEÇÃO
+1. Os instrutores estão devidamente qualificados para o exercício de suas atribuições?
+2. A empresa possui local para controle e armazenamento dos registros de instrução dos
+alunos, inclusive possibilitando que, ao término dos cursos práticos, se verifique e
+declare que o aluno cumpriu todos os requisitos regulamentares para obter a licença,
+habilitação ou certificado pretendido?
+3. A empresa emite/emitirá certificado de conclusão de curso e do histórico de instrução?
+4. A empresa possui um processo para realizar a publicação no Diário Oficial do Estado
+da conclusão de curso dos seus alunos?
+5. A empresa disponibiliza em fácil acesso a cópia mais atualizada do PUD e os orienta
+sobre quaisquer alterações deste Plano aplicáveis as suas respectivas atividades?
+INSTALAÇÕES
+1. As instalações físicas da organização são compatíveis com a complexidade dos cursos
+ministrados de forma a estabelecer um ambiente propício à aprendizagem?
+2. As organizações que ministram treinamentos teóricos na modalidade EaD mantém os
+arquivos em ambientes seguros e possuem uma sede com endereço fixo?
+3. A empresa obedece ao número máximo de alunos que podem ser treinados
+simultaneamente na mesma sala de aula, conforme respectivo PUD?
+EQUIPAMENTOS
+1. Cada sala de aula da empresa dispõe de equipamentos de instrução adequados, que
+permitam aos alunos e instrutores o desenvolvimento adequado da proposta
+pedagógica?
+PESSOAL DE ADMINISTRAÇÃO REQUERIDO
+1. A organização conta, pelo menos, com um coordenador de curso, para cada curso
+ministrado e ele(s) estava(m) presente(s) na inspeção?
+INSTRUTORES
+1. A organização possui, para todos os seus cursos, um número suficiente de instrutores
+devidamente qualificados para ministrar as instruções previstas?
+2. O instrutor que ministra instrução teórica possui conhecimento e experiência
+compatíveis com a instrução a ser ministrada?
+
+--- PÁGINA ---
+24/26 ICA 37-937/2023
+ANEXO B – RELATÓRIO DE CRÍTICA FINAL DE CURSO
+CRÍTICA DE FINAL DE CURSO
+CURSO: __________________________________________ DATA: ____/____/____
+INSTRUÇÕES:
+Neste questionário, o aluno irá avaliar o curso em sua totalidade (infraestrutura, disciplinas, material
+didático, avaliação e autoavaliação). Complemente com os comentários que julgar pertinentes, no verso.
+Como você avalia:
+MUITO ABAIXO ATINGIU O ACIMA DO MUITO
+QUESITOS ABAIXO DO DO ESPERADO ESPERADO ACIMA DO
+ESPERADO ESPERADO ESPERADO
+1 - Adequação do ambiente físico onde o curso foi
+realizado.
+Infraestrutura
+2 - Condições gerais do local.
+3 - Eficiência do pessoal de apoio.
+4 - Foram coerentes com os objetivos propostos.
+5 - Nível de satisfação do conteúdo às suas
+Disciplinas necessidades profissionais.
+6 - Sequência lógica dos conteúdos ministrados.
+7 - A apresentação visual dos slides foi agradável
+quando utilizado datashow ou computador.
+Material Didático
+8 - O material impresso foi de boa qualidade.
+9 - Uso de recursos audiovisuais.
+10 - Relacionamento entre avaliações e conteúdos
+propostos no curso.
+Avaliação 11 - Os tipos de avaliações utilizadas (prática e/ou
+teórica).
+12 - Discussão das provas.
+13 - Compreensão dos assuntos apresentados.
+Autoavaliação 14 - Interesse e participação no decorrer do curso.
+15 - Sou capaz de aplicar os conhecimentos,
+habilidades ou atitudes ensinadas no curso em
+diferentes situações.
+
+--- PÁGINA ---
+ICA 37-937/2023 25/26
+Continuação da Ficha de crítica de final de curso
+1) Deixe uma linha em branco entre os comentários;
+2) Escreva com letra legível, permitindo-nos compreender e adotar as providências necessárias;
+3) Se possível, resuma algum fato concreto que ampare sua avaliação;
+4) A identificação do aluno não é obrigatória.
+____________________________________
+Assinatura do Aluno (opcional)
+
+--- PÁGINA ---
+26/26 ICA 37-937/2023
+ANEXO C – CERTIFICADO DE CREDENCIAMENTO

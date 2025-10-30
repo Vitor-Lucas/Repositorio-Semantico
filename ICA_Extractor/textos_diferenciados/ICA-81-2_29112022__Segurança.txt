@@ -1,0 +1,1612 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+SEGURANÇA OPERACIONAL
+ICA 81-2
+GERENCIAMENTO DA SEGURANÇA
+OPERACIONAL DO SISCEAB
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+SEGURANÇA OPERACIONAL
+ICA 81-2
+GERENCIAMENTO DA SEGURANÇA
+OPERACIONAL DO SISCEAB
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA No 574/ASEGN, DE 22 DE NOVEMBRO DE 2022.
+Protocolo COMAER nº 67600.023558/2022-99
+Aprova a edição da ICA 81-2, Instrução
+sobre “Gerenciamento da Segurança
+Operacional do SISCEAB”.
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 21, inciso I, da Estrutura
+Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 11.237, de 18 de outubro
+de 2022, e considerando o disposto no art. 10, inciso IV, do Regulamento do DECEA,
+aprovado pela Portaria nº 2.030/GC3, de 22 de novembro de 2019:
+Art. 1o Aprovar a edição da ICA 81-2 "Gerenciamento da Segurança
+Operacional do SISCEAB", que com esta baixa.
+Art. 2o A entrada em vigor do presente ato, justificada em função da urgência,
+conforme disposto no parágrafo único do art. 4º do Decreto nº 10.139, de 28 de novembro de
+2019, será na data da sua publicação.
+Art. 3o Revoga-se a Portaria DECEA no 137/DGCEA, de 25 de maio de 2015,
+publicada no Boletim do Comando da Aeronáutica no 100, de 29 de maio de 2015, que
+aprovou a reedição da DCA 63-3 “Sistema de Gerenciamento da Segurança Operacional no
+SISCEAB”.
+Ten Brig Ar JOÃO TADEU FIORENTINI
+Diretor-Geral do DECEA
+(Publicado no BCA no 219, de 29 de novembro de 2022)
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 81-2/2022
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES ..................................................................................... 9
+1.1 FINALIDADE ..................................................................................................................... 9
+1.2 ÂMBITO .............................................................................................................................. 9
+2 ABREVIATURAS E CONCEITUAÇÕES ...................................................................... 10
+2.1 ABREVIATURAS ............................................................................................................ 10
+2.2 CONCEITUAÇÕES .......................................................................................................... 11
+3 SISTEMA DE GERENCIAMENTO DA SEGURANÇA OPERACIONAL. ............... 18
+3.1 INTRODUÇÃO ................................................................................................................. 18
+3.2 DIMENSÃO DO SMS ....................................................................................................... 18
+3.3 ALCANCE DO SMS ......................................................................................................... 18
+3.4 ESCOPO DO SMS ............................................................................................................. 18
+3.5 INTERAÇÃO ENTRE SISTEMAS AFINS ...................................................................... 18
+3.6 ESTRUTURA DO SMS .................................................................................................... 19
+4 COMPONENTES DO SMS ............................................................................................... 20
+4.1 POLÍTICAS E OBJETIVOS DA SEGURANÇA OPERACIONAL ................................. 20
+4.2 DOCUMENTAÇÃO DO SMS .......................................................................................... 27
+4.3 GERENCIAMENTO DOS RISCOS À SEGURANÇA OPERACIONAL ....................... 29
+4.4 GARANTIA DA SEGURANÇA OPERACIONAL .......................................................... 30
+5 IMPLEMENTAÇÃO DO SMS ......................................................................................... 35
+6 ACEITAÇÃO DO SMS ..................................................................................................... 36
+6.5 ACEITAÇÃO E MONITORAMENTO CONTÍNUO DO SMS ....................................... 36
+6.6 SUSPENSÃO OU CANCELAMENTO DO SMS ............................................................. 37
+6.7 REQUISITOS DE CAPACITAÇÃO PARA VISTORIADORES DO SMS ..................... 37
+6.8 VISTORIADOR DE SEGURANÇA OPERACIONAL .................................................... 38
+7 AUTORIZAÇÃO DE NOVAS ENTIDADES PROVEDORAS DO ANS ..................... 39
+7.1 REQUISITOS DO SMS PARA O INÍCIO DAS OPERAÇÕES ....................................... 39
+8 COLETA, ANÁLISE, PROTEÇÃO, COMPARTILHAMENTO E INTERCÂMBIO
+DE DADOS E DE INFORMAÇÕES DE SEGURANÇA OPERACIONAL .................... 40
+8.1 SISTEMAS DE COLETA E PROCESSAMENTO DE DADOS DE SEGURANÇA
+OPERACIONAL .................................................................................................................. 40
+8.2 ANÁLISE DE DADOS E INFORMAÇÕES DE SEGURANÇA OPERACIONAL ........ 41
+8.3 PROTEÇÃO DE DADOS E INFORMAÇÕES DE SEGURANÇA OPERACIONAL .... 41
+8.4 COMPARTILHAMENTO E INTERCÂMBIO DE DADOS E INFORMAÇÕES DE
+SEGURANÇA OPERACIONAL ......................................................................................... 42
+
+--- PÁGINA ---
+ICA 81-2/2022
+9 PRINCÍPIOS PARA A PROTEÇÃO DE DADOS E INFORMAÇÕES DE
+SEGURANÇA OPERACIONAL E RESPECTIVAS FONTES ........................................ 43
+9.6 PRINCÍPIOS GERAIS ...................................................................................................... 43
+9.7 PRINCÍPIOS PARA PROTEÇÃO .................................................................................... 44
+9.8 PRINCÍPIOS DE EXCEÇÃO ........................................................................................... 44
+9.9 DIVULGAÇÃO AO PÚBLICO ........................................................................................ 45
+9.10 RESPONSABILIDADE PELA PROTEÇÃO DOS DADOS DE SEGURANÇA E
+INFORMAÇÕES DE SEGURANÇA .................................................................................. 45
+10 DISPOSIÇÕES FINAIS .................................................................................................. 46
+10.1 RECURSOS NECESSÁRIOS ........................................................................................ 46
+10.2 SUPERVISÃO ................................................................................................................ 46
+10.3 CASOS NÃO PREVISTOS ............................................................................................ 46
+REFERÊNCIAS ..................................................................................................................... 47
+
+--- PÁGINA ---
+ICA 81-2/2022
+PREFÁCIO
+Considerando a crescente complexidade do sistema de transporte aéreo global e
+a inter-relação de suas atividades de aviação necessárias para garantir a operação segura das
+aeronaves, bem como a necessidade de melhorar continuamente as disposições normativas
+para fazer frente às exigências da evolução natural da aviação, a ICAO, adicionalmente às
+questões de protocolo para monitoramento contínuo do Índice de Efetividade (EI) de
+implementação do SSP pelos Estados signatários, a partir de 2020 estabeleceu novos
+requisitos para avaliar os Níveis de Maturidade alcançado pelos Estados na implementação de
+seus SSP
+Esses novos requisitos, além de mais abrangentes, aprofundam os níveis de
+exigência para os Estados signatários para atendimento às normas, métodos recomendados e
+procedimentos associados. Tais níveis de exigência acarretou a necessidade de reestruturar a
+normatização do Gerenciamento da Segurança Operacional no SISCEAB. Assim sendo, esta
+Instrução estabelece as disposições normativas que devem ser utilizadas como referência
+pelos PSNA em apoio à evolução contínua para incrementar o desempenho da segurança
+operacional, o índice de efetividade e o nível de maturidade de implementação de seus SMS,
+o que contribui substancialmente para o incremento desses mesmos parâmetros a serem
+atendidos pelo Programa de Segurança Operacional da Aviação Civil Brasileira. Isso inclui o
+suporte regulamentar para assegurar que os prestadores de serviços implementem sistemas de
+gestão de segurança (SMS) consistentes com as melhores práticas e princípios de gestão de
+segurança.
+Nesse sentido esta publicação contempla todas os temas do Gerenciamento da
+Segurança Operacional apresentados no Anexo 19 e no DOC 9859 da ICAO, buscando
+contemplar os requisitos de índice de efetividade e de níveis de maturidade relativos à
+implementação do SSP e do SMS, que adicionalmente às demais normas do SEGCEA,
+desenvolve os seguintes temas principais:
+a) Sistemas de Gerenciamento da Segurança Operacional (SMS);
+b) Componentes do SMS;
+c) Requisitos para Implementação, Aceitação, Suspensão e Cancelamento da
+Aceitação do SMS;
+d) Requisitos de SMS para emissão de autorização de novos PSNA;
+e) Requisitos para Coleta, Análise, Proteção, Compartilhamento e Intercâmbio
+de Dados e de Informações de Segurança Operacional; e
+f) Proteção de Dados e Informações de Segurança Operacional.
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 81-2/2022
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+Esta Instrução tem por finalidade estabelecer a regulamentação para o
+Gerenciamento da Segurança Operacional no SISCEAB.
+1.2 ÂMBITO
+A presente Instrução, de observância obrigatória, aplica-se a todas as
+Organizações e Entidades Provedoras dos Serviços de Navegação Aérea integrantes do
+SISCEAB e respectivos PSNA, que possuam órgão ATS sob sua subordinação administrativa.
+
+--- PÁGINA ---
+10/47 ICA 81-2/2022
+2 ABREVIATURAS E CONCEITUAÇÕES
+2.1 ABREVIATURAS
+ANS - Serviços de Navegação Aérea.
+APSO - Análise Preliminar de Segurança Operacional.
+ASEGCEA - Assessoria de Segurança Operacional no Controle do Espaço Aéreo.
+ASSIPACEA - Assessoria de Investigação e Prevenção de Acidentes/Incidentes do
+Controle do Espaço Aéreo.
+ASO - Avaliação de Segurança Operacional.
+ATS - Serviços de Tráfego Aéreo.
+CENIPA - Centro de Investigação e Prevenção de Acidentes Aeronáuticos.
+CINDACTA - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo.
+COI - Centro Operacional Integrado.
+COP - Centro de Operações.
+CRCEA-SE - Centro Regional de Controle do Espaço Aéreo Sudeste.
+CSO-SISCEAB - Comitê de Segurança Operacional do SISCEAB.
+DECEA - Departamento de Controle do Espaço Aéreo.
+DGRSO - Documento de Gerenciamento do Risco à Segurança Operacional.
+DNB - Dependência da NAV Brasil.
+DTCEA - Destacamento de Controle do Espaço Aéreo.
+EPTA - Estação Prestadora de Serviços de Telecomunicações e de Tráfego
+Aéreo.
+EPSNA - Entidade Provedora de Serviços de Navegação Aérea.
+ER - Executivo Responsável.
+GSOp - Gerente da Segurança Operacional.
+IDSO - Indicador de Desempenho da Segurança Operacional.
+MDSO - Meta de Desempenho da Segurança Operacional.
+MGSO - Manual de Gerenciamento da Segurança Operacional.
+NADSO - Nível Aceitável de Desempenho da Segurança Operacional.
+OPSNA - Organização Provedora de Serviços de Navegação Aérea.
+PEAA - Plano de Emergência Aeronáutica em Aeródromo.
+PLEM - Plano de Emergência em Aeroporto.
+PRE - Planejamento de Resposta às Emergências.
+PSA - Plano de Segurança Aeroportuária.
+RAPSO - Registro de Análise Preliminar de Segurança Operacional.
+RASOp - Registro de Avaliação de Segurança Operacional.
+
+--- PÁGINA ---
+ICA 81-2/2022 11/47
+SEGCEA - Subsistema de Segurança Operacional do SISCEAB.
+SIGCEA - Sistema de Informações Gerenciais do SEGCEA.
+SIPACEA - Seção de Investigação e Prevenção de Acidentes/Incidentes do Controle
+do Espaço Aéreo.
+SIPAER - Sistema de Investigação e Prevenção de Acidentes Aeronáuticos.
+PSNA - Provedor de Serviços de Navegação Aérea.
+SISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro.
+SDCPS - Sistema de Coleta e Processamento de Dados de Segurança Operacional
+(Safety Data Collection and Processing Systems).
+SMS - Sistema de Gerenciamento da Segurança Operacional (Safety
+Management System).
+RCSV - Relato ao CENIPA para Segurança de Voo.
+RELPREV - Relato de Prevenção.
+VSO SMS-ACT - Vistoria de Segurança Operacional para Aceitação do SMS.
+VSO SMS-DSP - Vistoria de Segurança Operacional de Desempenho do SMS.
+2.2 CONCEITUAÇÕES
+2.2.1 ACEITAÇÃO DO SMS
+Ato administrativo por meio do qual o Departamento de Controle do Espaço
+Aéreo (DECEA) certifica que o Sistema de Gerenciamento da Segurança Operacional (SMS)
+de uma Organização ou Entidade Provedora dos Serviços de Navegação Aérea está
+implementado.
+2.2.2 AVALIAÇÃO DE SEGURANÇA OPERACIONAL (ASO)
+Expressão genérica relativa à aplicação de metodologias, que tem por objetivo
+o gerenciamento dos riscos à segurança operacional na provisão dos Serviços de Navegação
+Aérea (ANS).
+NOTA: A Avaliação de Segurança Operacional pode ser aplicada a riscos correntes ou às
+mudanças no ANS que têm potencial para afetar a segurança operacional na
+prestação dos Serviços de Tráfego Aéreo (ATS).
+2.2.3 DADOS DE SEGURANÇA OPERACIONAL
+Um conjunto definido de fatos ou conjunto de valores de segurança
+operacional coletados de várias fontes relacionadas à aviação, que é usado para manter ou
+melhorar a segurança operacional.
+2.2.4 COMITÊ DE SEGURANÇA OPERACIONAL DO SISCEAB
+Comitê estabelecido no DECEA com a finalidade de analisar e deliberar sobre
+políticas, estratégias e outros pontos relevantes relacionados à segurança operacional.
+
+--- PÁGINA ---
+12/47 ICA 81-2/2022
+2.2.5 COMITÊ REGIONAL DE SEGURANÇA OPERACIONAL
+Comitê estabelecido nos CINDACTA e no CRCEA-SE para o assessoramento
+ao Executivo Responsável sobre a política, as estratégias e a manutenção do SMS da
+Organização, por meio da proposição de medidas para o seu aperfeiçoamento.
+2.2.6 COMITÊ LOCAL DE SEGURANÇA OPERACIONAL
+Comitê estabelecido nas Estações Prestadoras de Serviços de
+Telecomunicações e de Tráfego Aéreo (EPTA), nos Destacamentos de Controle do Espaço
+Aéreo (DTCEA), nos Centros Operacionais Integrados (COI) dos CINDACTA, no COP
+(Centro de Operações) e nas Dependências da NAV Brasil (DNB), com o objetivo de
+desenvolver e aperfeiçoar constantemente a Segurança Operacional.
+2.2.7 DEPENDÊNCIA DA NAV BRASIL (DNB)
+Filial da NAV Brasil com autonomia administrativa, responsável por prestar os
+serviços delegados à empresa em determinada localidade.
+2.2.8 DESEMPENHO DA SEGURANÇA OPERACIONAL
+Resultados obtidos pelo Estado ou por um PSNA, conforme o desempenho
+evidenciado pelos IDSO, quanto ao cumprimento das MDSO estabelecidas para o período
+considerado.
+2.2.9 DESTACAMENTO DE CONTROLE DO ESPAÇO AÉREO (DTCEA)
+Organização da estrutura do Departamento de Controle do Espaço Aéreo que
+presta os serviços de tráfego aéreo, telecomunicações, informação aeronáutica e
+meteorológica nas diversas localidades de interesse da aviação.
+2.2.10 DOCUMENTO DE GERENCIAMENTO DO RISCO À SEGURANÇA
+OPERACIONAL (DGRSO)
+Documento que registra e formaliza uma Avaliação de Segurança Operacional,
+aplicada para o Gerenciamento dos Riscos relativo a riscos correntes ou a mudanças no ANS,
+cuja abrangência afete ou envolva a participação de organizações fora da subordinação da
+OPSNA ou da EPSNA.
+2.2.11 ENTIDADE AUTORIZADA
+É a pessoa física ou jurídica a quem foi concedida, pela União-COMAER-
+DECEA, a autorização para implantação, manutenção e operação de uma EPTA que será
+responsável pelo funcionamento da estação, podendo delegar a operação a uma Prestadora de
+Serviços Especializados (PSE).
+2.2.12 ENTIDADE DESIGNADA
+São as Organizações Regionais do DECEA ou a empresa pública NAV Brasil,
+responsáveis pelo funcionamento dos órgãos operacionais que prestam os serviços de
+navegação aérea em localidades e porções do espaço aéreo brasileiro atingidas pelas
+prioridades do COMAER.
+
+--- PÁGINA ---
+ICA 81-2/2022 13/47
+2.2.13 ENTIDADE OPERADORA
+É a pessoa física ou jurídica responsável pela operação do PSNA, podendo ser
+a própria entidade designada/autorizada ou uma PSE.
+2.2.14 ENTIDADE PROVEDORA DE SERVIÇOS DE NAVEGAÇÃO AÉREA (EPSNA)
+Organização responsável por uma ou mais Estações Prestadoras de Serviços de
+Telecomunicações e de Tráfego Aéreo (EPTA) ou Dependência da NAV Brasil (DNB),
+provedoras dos serviços de navegação aérea do SISCEAB, de acordo com o respectivo ato de
+autorização ou de designação.
+2.2.15 ESTAÇÃO PRESTADORA DE SERVIÇO DE TELECOMUNICAÇÕES E DE
+TRÁFEGO AÉREO (EPTA)
+É uma Entidade Autorizada de serviço público pertencente a pessoa física ou
+jurídica de direito público ou privado, dotada de pessoal, instalações, equipamentos, sistemas
+e materiais suficientes para prestar serviços específicos conforme a sua categoria.
+2.2.16 EXECUTIVO RESPONSÁVEL (ER)
+Pessoa física, única e identificável, pertencente à Alta Direção da organização,
+dotada de autoridade funcional que lhe confira autonomia para tomada de decisões em nome
+da organização, para o controle dos recursos necessários à operação e manutenção do SMS, e
+responsável pela eficiência e eficácia do desempenho da segurança operacional.
+2.2.17 GERENCIAMENTO DE MUDANÇAS
+Um processo formal para gerenciar, de maneira sistemática, as mudanças em
+uma organização ou no ANS, com a finalidade de identificar possíveis perigos consequentes
+da mudança ou se podem ter impacto nas estratégias de mitigação dos perigos e riscos já
+identificados, antes da implementação de tais mudanças.
+2.2.18 GERENTE DE SEGURANÇA OPERACIONAL (GSOp)
+Pessoa física, membro do pessoal-chave do SMS, designada pelo Executivo
+Responsável para coordenar o desenvolvimento, a implementação, a operação, a manutenção
+e a melhoria contínua do SMS de uma Organização ou Entidade Provedora de Serviços de
+Navegação Aérea.
+2.2.19 INDICADORES
+São instrumentos de gestão que utilizam dados estatísticos, obtidos de maneira
+padronizada e regular, que permitem medir o desempenho de determinado processo, bem
+como o alcance da meta a ele associado. Além de sinalizar oportunamente possíveis desvios,
+os Indicadores possuem um caráter preventivo, já que permitem antever a probabilidade de
+determinado evento vir a ocorrer.
+2.2.20 INDICADOR DE DESEMPENHO DE SEGURANÇA OPERACIONAL (IDSO)
+São parâmetros baseados em dados de segurança operacional utilizados para
+monitorar e avaliar o desempenho de segurança operacional.
+
+--- PÁGINA ---
+14/47 ICA 81-2/2022
+2.2.21 INFORMAÇÕES DE SEGURANÇA OPERACIONAL
+São dados de segurança operacional processados, organizados ou analisados
+em um determinado contexto para torná-los úteis para fins de gerenciamento da segurança
+operacional.
+2.2.22 MANUAL DE GERENCIAMENTO DA SEGURANÇA OPERACIONAL (MGSO)
+Documento que apresenta a abordagem da Segurança Operacional da
+Organização ou Entidade Provedora de Serviços de Navegação Aérea a todos os seus
+membros e demais envolvidos na sua operação. Apresenta todos os componentes e elementos
+do SMS, incluindo a política e os objetivos de segurança operacional, as responsabilidades e
+atribuições individuais, bem como os procedimentos para o Gerenciamento dos Riscos, para
+Garantia e para a Promoção da Segurança Operacional.
+2.2.23 META DE DESEMPENHO DE SEGURANÇA OPERACIONAL (MDSO)
+É a meta planejada ou pretendida para o Estado ou para um PSNA, relacionada
+a um indicador de desempenho de segurança operacional, estabelecida para um período de
+tempo determinado.
+NOTA: As MDSO devem ser estabelecidas de forma a contribuir para a consecução dos
+objetivos de segurança operacional definidos pelo Estado e ou pelo PSNA.
+2.2.24 META DE DESEMPENHO DA SEGURANÇA OPERACIONAL
+É a meta planejada ou pretendida para o Estado ou para um PSNA, relacionada
+a um indicador de desempenho de segurança operacional, estabelecida para um período de
+tempo determinado e alinhada com os objetivos de segurança operacional.
+2.2.25 NÍVEL ACEITÁVEL DE DESEMPENHO DA SEGURANÇA OPERACIONAL
+O NADSO é expresso por um conjunto de Indicadores de Desempenho da
+Segurança Operacional (IDSO) e respectivas Metas de Desempenho da Segurança
+Operacional (MDSO) e reflete o nível de desempenho do Estado ou do PSNA, quanto ao
+cumprimento das metas de segurança operacional estabelecidas.
+2.2.26 OBJETIVOS DE SEGURANÇA OPERACIONAL
+Uma declaração concisa e de alto nível dos objetivos de segurança operacional
+ou resultados desejados, a serem alcançados pelo Programa de Segurança Operacional do
+Estado ou pelo Sistema de Segurança Operacional de uma OPSNA ou EPSNA.
+NOTA: Os objetivos de segurança operacional podem ser desenvolvidos a partir dos
+principais riscos de segurança operacional, que devem ser levados em
+consideração durante o desenvolvimento subsequente de indicadores e metas de
+desempenho de segurança operacional.
+2.2.27 ORGANIZAÇÃO PROVEDORA DE SERVIÇOS DE NAVEGAÇÃO AÉREA
+(OPSNA)
+Designação genérica atribuída às Organizações Regionais do DECEA
+responsáveis pelos Destacamentos de Controle do Espaço Aéreo (DTCEA), pelos Centros
+
+--- PÁGINA ---
+ICA 81-2/2022 15/47
+Operacionais Integrados (COI) e pelo Centro de Operações (COP), provedores dos serviços
+de navegação aérea prestados pelo SISCEAB.
+2.2.28 PERIGO
+Condição ou objeto com potencial para contribuir ou causar um incidente ou
+acidente aeronáutico.
+NOTA: Em outras palavras, perigo pode ser descrito como qualquer condição, real ou
+potencial, que possa causar dano físico, doença ou morte a pessoas, dano ou perda
+de sistemas, equipamentos ou propriedades, ou danos ao meio ambiente.
+2.2.29 PERIGO NO ATS
+Qualquer condição real ou potencial que possa acarretar risco para a segurança
+operacional na prestação dos Serviços de Tráfego Aéreo.
+2.2.30 PROVEDOR DE SERVIÇOS DE NAVEGAÇÃO AÉREA (PSNA)
+Expressão genérica utilizada para caracterizar as organizações operacionais
+responsáveis pela provisão dos Serviços de Navegação Aérea prestados pelo SISCEAB.
+NOTA 1: Por convenção, no Brasil, os Serviços de Navegação Aérea são parte integrante do
+“Controle do Espaço Aéreo”, abrangendo as áreas de Tráfego Aéreo (ATS), de
+Informações Aeronáuticas (AIS); de Comunicações, Navegação e Vigilância
+(CNS); de Meteorologia Aeronáutica (MET), de Cartografia Aeronáutica (CTG) e
+de Busca e Salvamento (SAR).
+NOTA 2: Essas organizações podem ser de natureza pública civil ou militar e, ainda, de
+natureza privada.
+NOTA 3: Esta conceituação não contempla os serviços prestados exclusivamente à
+Circulação Operacional Militar (COM).
+2.2.31 PSNA LOCAL
+Organização operacional, normalmente situado na localidade do órgão ATS,
+cuja estrutura organizacional possui os recursos humanos, operacionais, técnicos e ou
+administrativos, necessários à operação e manutenção da prestação dos serviços atribuídos ao
+PSNA.
+NOTA 1: O Responsável Local deve fazer parte do quadro de recursos humanos do PSNA
+Local.
+NOTA 2: Nos casos de R-TWR e R-AFIS, cujos serviços ATS são prestados remotamente,
+o Responsável Local deve ser o profissional que faz parte do Pessoal Chave,
+responsável pelo gerenciamento da segurança operacional na prestação dos
+serviços atribuídos ao(s) PSNA.
+NOTA 3: Os DTCEA, os COI, o COP, as DNB e as EPTA são exemplos de PSNA Local.
+2.2.32 REGISTRO DE AVALIAÇÃO DE SEGURANÇA OPERACIONAL (RASOp)
+Documento que registra e formaliza uma Avaliação de Segurança Operacional
+simplificada, aplicada para o Gerenciamento dos Riscos relativos a riscos correntes ou a
+
+--- PÁGINA ---
+16/47 ICA 81-2/2022
+mudanças no ANS, cuja abrangência não afete ou não envolva a participação de organizações
+fora da subordinação da OPSNA ou da EPSNA.
+2.2.33 REGISTRO DE ANÁLISE PRELIMINAR DE SEGURANÇA OPERACIONAL
+(RAPSO)
+Documento que registra e formaliza a realização de uma Análise Preliminar de
+Segurança Operacional (APSO), aplicado a mudanças no ANS, quando ficar evidente que o
+objeto da avaliação, afetando ou não o ANS, não tem potencial para acarretar risco à
+segurança operacional, não cabendo, portanto, a adoção de medidas mitigadoras.
+2.2.34 RESPONSÁVEL LOCAL DO SMS
+Pessoa física, formalmente designada pelo Executivo Responsável, incumbida
+do cumprimento dos processos, procedimentos e atividades de segurança operacional
+estabelecidos nas normas do SEGCEA, bem como da operação, manutenção e melhoria
+contínua do SMS nos PSNA Locais.
+NOTA 1: O Responsável Local deve fazer parte do quadro de recursos humanos do PSNA
+Local.
+NOTA 2: Nos casos de R-TWR e R-AFIS, cujos serviços ATS são prestados remotamente,
+o Responsável Local deve ser o profissional que faz parte do pessoal-chave,
+responsável pelo gerenciamento da segurança operacional na prestação dos
+serviços atribuídos ao(s) PSNA.
+2.2.35 RISCO
+É expresso pela combinação da probabilidade com a gravidade esperadas,
+resultantes das consequências de um perigo.
+2.2.36 RISCO CORRENTE
+É o risco consequente de um perigo identificado, presente nas operações do
+PSNA, com potencial para acarretar risco para a segurança operacional na prestação dos
+Serviços de Tráfego Aéreo
+2.2.37 RISCO NO ATS
+É o risco cujas consequências resultantes do perigo devem estar relacionadas à
+Redução da Separação, Perda da Capacidade ATC ou à Carga de Trabalho, e podem afetar
+adversamente segurança operacional na prestação do ATS.
+2.2.38 SEGURANÇA OPERACIONAL
+É o estado no qual os riscos associados às atividades da aviação, relativas à
+operação de aeronaves ou em apoio a tais operações, são reduzidos e mantidos controlados a
+um nível aceitável.
+NOTA: Em outras palavras, Segurança Operacional é o estado no qual os riscos no ATS
+são reduzidos e mantidos em um nível aceitável, ou abaixo deste, mediante um
+processo contínuo de identificação de perigos e gerenciamento de riscos.
+
+--- PÁGINA ---
+ICA 81-2/2022 17/47
+2.2.39 SISTEMA DE GERENCIAMENTO DA SEGURANÇA OPERACIONAL (SMS)
+Uma abordagem sistemática para gerenciar a segurança operacional, incluindo
+as estruturas organizacionais necessárias, linhas de prestações de contas, responsabilidades,
+políticas e procedimentos.
+2.2.40 SUBSISTEMA DE SEGURANÇA OPERACIONAL DO SISCEAB (SEGCEA)
+Subsistema que tem por finalidade o gerenciamento das atividades de
+prevenção de acidentes, de incidentes aeronáuticos e de Incidentes de Tráfego Aéreo,
+incluindo as relativas ao gerenciamento da Segurança Operacional, bem como das atividades
+referentes aos processos de apuração e de investigação das Ocorrências de Tráfego Aéreo.
+2.2.41 SUPERVISÃO DE SEGURANÇA OPERACIONAL
+Função desempenhada pelo Estado para garantir que indivíduos e
+organizações, que desempenham atividades de aviação, cumpram as leis e os regulamentos
+nacionais relacionados à segurança operacional.
+2.2.42 VIGILÂNCIA DA SEGURANÇA OPERACIONAL
+Atividades desempenhadas pelo Estado nas quais se verifica, proativamente,
+por meio de inspeções e auditorias que os detentores de licenças, certificados, autorizações,
+outorgas ou aprovações continuam a cumprir os requisitos e funções estabelecidos pelo
+Estado.
+
+--- PÁGINA ---
+18/47 ICA 81-2/2022
+3 SISTEMA DE GERENCIAMENTO DA SEGURANÇA OPERACIONAL.
+3.1 INTRODUÇÃO
+3.1.1 O Sistema de Gerenciamento da Segurança Operacional (SMS) tem o propósito de
+assegurar o mais elevado grau possível de segurança na prestação dos serviços de navegação
+aérea, mediante o controle eficaz dos riscos que afetam a segurança operacional.
+3.1.2 O SMS está estruturado de modo a buscar o aperfeiçoamento no desempenho da
+segurança operacional, mediante um processo contínuo de identificação dos perigos,
+avaliação e análise dos dados, adoção de medidas mitigadoras e avaliação contínua dos riscos
+envolvidos, de modo a minimizar a possibilidade da ocorrência de eventos indesejáveis.
+3.1.3 Toda Organização Provedora de Serviço de Navegação Aérea (OPSNA) ou Entidade
+Provedora de Serviço de Navegação Aérea (EPSNA), que possua dentre os seus PSNA pelo
+menos um órgão ATS, deve implementar um Sistema de Gerenciamento da Segurança
+Operacional (SMS), em conformidade com esta Instrução e demais disposições normativas
+pertinentes do SEGCEA.
+3.2 DIMENSÃO DO SMS
+3.2.1 As OPSNA e EPSNA devem implementar e manter um Sistema de Gerenciamento da
+Segurança Operacional, incluindo política, processos e procedimentos que reflitam a
+magnitude da organização e que seja apropriado à complexidade e à natureza das operações
+dos provedores dos serviços de navegação aérea sob sua responsabilidade.
+3.2.2 A estrutura organizacional e os recursos disponibilizados para dar suporte às atividades
+e aos processos do SMS das OPSNA e EPSNA devem ser proporcionais à quantidade de
+PSNA subordinados e que fazem parte do escopo do seu SMS, bem como à complexidade e à
+natureza dos serviços prestados pelos PSNA Locais.
+3.3 ALCANCE DO SMS
+3.3.1 As OPSNA e EPSNA devem estabelecer a abrangência do SMS por meio da designação
+explícita dos PSNA sob sua subordinação que fazem parte de seus SMS.
+3.4 ESCOPO DO SMS
+3.4.1 As OPSNA e EPSNA devem especificar e publicar, em seus Manual de Gerenciamento
+da Segurança Operacional (MGSO), os serviços prestados pelos PSNA que constituem o
+alcance do seu SMS.
+3.4.2 Os PSNA que não prestam os Serviços ATS, porém seus serviços ou produtos (Serviços
+de Informações e/ou de Meteorologia Aeronáuticas) dão suporte ao órgão ATS local, devem
+fazer parte do escopo do SMS das OPSNA e EPSNA.
+3.5 INTERAÇÃO ENTRE SISTEMAS AFINS
+3.5.1 Os Provedores de Serviços de Navegação Aérea (PSNA) devem designar,
+explicitamente, a interação do seu SMS com o SMS de outros provedores que tenham ligação
+com os serviços de navegação aérea e ou tenham influência recíproca de procedimentos e
+serviços, de forma que não haja solução de continuidade no gerenciamento da segurança
+operacional, de modo a garantir a segurança das operações em quaisquer condições.
+
+--- PÁGINA ---
+ICA 81-2/2022 19/47
+3.6 ESTRUTURA DO SMS
+3.6.1 O SMS das Organizações e das Entidades Provedoras de Serviços de Navegação Aérea
+deve ter uma abordagem ampla da segurança operacional e deve ser estruturado de modo a
+contemplar os 4 (quatro) componentes e os 12 (doze) elementos, conforme o Quadro 1.
+Quadro 1: Estrutura do SMS.
+COMPONENTES ELEMENTOS
+1.1 - Compromisso da Alta Direção;
+1.2 - Responsabilidades e Prestação de Contas da
+Segurança Operacional;
+1 - Política e Objetivos da Segurança 1.3 - Designação do Pessoal-chave para a Segurança
+Operacional Operacional;
+1.4 - Coordenação da Resposta às Situações de
+Emergência e de Contingência; e
+1.5 - Documentação do SMS.
+2.1 - Identificação de Perigos (inclusive do Perigo
+2 - Gerenciamento dos Riscos à Fadiga);
+Segurança Operacional 2.2 - Avaliação e Mitigação dos Riscos à Segurança
+Operacional.
+3.1 - Controle e Medição do Desempenho em
+Segurança Operacional;
+3 - Garantia da Segurança
+3.2 - Gerenciamento de Mudanças; e
+Operacional
+3.3 - Melhoria Contínua do SMS.
+4.1 - Capacitação em Segurança Operacional; e
+4 - Promoção da Segurança
+Operacional
+4.2 - Comunicação da Segurança Operacional.
+
+--- PÁGINA ---
+20/47 ICA 81-2/2022
+4 COMPONENTES DO SMS
+4.1 POLÍTICAS E OBJETIVOS DA SEGURANÇA OPERACIONAL
+4.1.1 COMPROMISSO DA ALTA DIREÇÃO
+4.1.1.1 Toda Organização ou Entidade Provedora de Serviços de Navegação Aérea do
+SISCEAB deve definir sua Política de Segurança Operacional, em conformidade com os
+requisitos desta Instrução.
+4.1.1.2 O compromisso com a segurança operacional deve ser formalmente expresso na
+Política de Segurança Operacional e deve refletir a filosofia da Organização ou da Entidade
+Provedora de Serviços de Navegação Aérea, constituindo a base sobre a qual é instituído o
+seu Sistema de Gerenciamento da Segurança Operacional.
+4.1.1.3 O Executivo Responsável (ER) pelo SMS de uma Organização ou de uma Entidade
+Provedora de Serviços de Navegação Aérea deve aprovar a sua Política de Segurança
+Operacional e divulgar a todos os setores da sua organização, demonstrando claramente o
+comprometimento da Alta Direção com a segurança operacional nos serviços prestados.
+4.1.1.4 A Política de Segurança Operacional deverá ser revista a cada 02 (dois) anos, ou em
+prazo inferior, sempre que as circunstâncias revelarem fatos ou tendências que requeiram
+atualizações ou ações complementares para o aperfeiçoamento da segurança operacional ou,
+ainda, quando houver mudança do Executivo Responsável.
+4.1.1.5 A Política de Segurança Operacional deve apresentar uma declaração clara sobre a
+busca contínua da organização com a eficiência e a segurança na prestação dos serviços de
+navegação aérea, devendo estar em conformidade com a Política de Segurança Operacional
+do DECEA estabelecida para o SISCEAB e incluir, pelo menos, os seguintes aspectos:
+a) manutenção de um SMS, em conformidade plena com os requisitos, normas
+e regulamentos estabelecidos pelo DECEA;
+b) reflexão sobre o compromisso da organização com a Segurança
+Operacional, incluindo a promoção de uma cultura de segurança positiva;
+c) declaração clara de destinação de recursos para atender às demandas do
+SMS, considerando a complexidade e o desempenho da segurança
+operacional dos PSNA;
+d) procedimentos para a apresentação de reportes de segurança operacional;
+e) apoio ostensivo da Política por meio de ampla divulgação para toda a
+organização;
+f) garantia de que a segurança operacional seja uma responsabilidade
+fundamental e básica de todos os gerentes da organização;
+g) definição de regras claras para as responsabilidades nos diversos níveis da
+segurança operacional e para os comportamentos inaceitáveis;
+h) manutenção de processos contínuos de monitoramento do desempenho da
+segurança operacional;
+
+--- PÁGINA ---
+ICA 81-2/2022 21/47
+i) manutenção de processos regulares para gerenciamento dos riscos à
+segurança operacional, incluindo o gerenciamento dos riscos relacionados à
+fadiga e à implementação de mudanças;
+j) implantação de medidas para eliminar os riscos ou mitigá-los ao nível mais
+baixo praticável;
+k) garantia do monitoramento dos riscos residuais e verificação da eficácia das
+medidas de mitigação;
+l) manutenção de meios formais para a comunicação das ações de segurança
+operacional;
+m) garantia da capacitação e do treinamento necessários aos profissionais
+envolvidos na provisão do ANS;
+n) garantia da segurança operacional e da melhoria contínua na provisão do
+ANS;
+o) supervisão do desempenho da segurança operacional;
+p) ações de promoção da segurança operacional e desenvolvimento de uma
+cultura de segurança operacional positiva;
+q) garantia de conformidade às normas para os equipamentos adquiridos e os
+serviços contratados;
+r) preservação dos dados de segurança operacional e suas fontes contra usos
+que não sejam do interesse da segurança operacional;
+s) isenção de sanção disciplinar àqueles que relatarem uma ocorrência que
+envolva a segurança operacional, exceto se houver ato ilegal ou desrespeito
+intencional às normas vigentes; e
+t) princípios de cultura justa, estabelecendo regras claras no que se refere a
+erros e violações cometidos na prestação dos serviços.
+4.1.1.6 Objetivos de Segurança Operacional do SISCEAB
+4.1.1.6.1 O objetivo principal do Sistema de Controle do Espaço Aéreo Brasileiro
+(SISCEAB), gerenciado pelo DECEA, é a manutenção de um nível aceitável do desempenho
+da segurança operacional na provisão do ANS, por meio da redução de ocorrências, buscando
+o índice zero de Incidentes de Tráfego Aéreo.
+4.1.1.6.2 Alinhado com os objetivos de segurança operacional do Estado Brasileiro, constante
+no Programa de Segurança Operacional da Aviação Civil Brasileira, bem como com o
+objetivo principal de segurança operacional do SISCEAB, o DECEA, por meio da
+ASEGCEA, deve estabelecer os Indicadores de Desempenho da Segurança Operacional de
+interesse do SISCEAB, aos quais deverão estar associados as MDSO e ser monitorados e
+controlados pela ASEGCEA.
+4.1.1.6.3 Os IDSO e respectivas MDSO, estabelecidos pelo DECEA por meio da ASEGCEA,
+deverão compor o Nível Aceitável de Desempenho da Segurança Operacional do SISCEAB, o
+qual deve contribuir para a consecução dos Objetivos de Segurança Operacional do
+SISCEAB, bem como com os objetivos do Estado Brasileiro, constantes no Plano de
+Segurança Operacional da Aviação Civil Brasileira.
+
+--- PÁGINA ---
+22/47 ICA 81-2/2022
+4.1.1.6.4 Os IDSO e respectivas MDSO devem ser analisados, monitorados e, quando
+necessário, revisados periodicamente, de modo a garantir que permaneçam relevantes e
+apropriados para o desempenho da segurança operacional do PSNA, do SISCEAB e do
+Estado Brasileiro.
+4.1.1.6.5 Os IDSO e suas MDSO, estabelecidos conforme o subitem 4.1.1.6.3 , deverão ser e
+divulgados por meio de um PCA ou por outro meio a ser determinado pela ASEGCEA.
+4.1.1.7 Objetivos de Segurança Operacional para os PSNA
+4.1.1.7.1 As OPSNA e as EPSNA devem estabelecer seus objetivos de segurança operacional
+específicos, os quais devem estar relacionados e contribuir para os objetivos de segurança
+operacional do SISCEAB.
+4.1.1.7.2 Os Objetivos de Segurança Operacional a serem estabelecidos pelas OPSNA e
+EPSNA devem considerar as seguintes características:
+a) formar a base para a verificação e medição do desempenho de segurança,
+conforme os Indicadores e Metas de Desempenho da Segurança Operacional
+estabelecidos para os seus PSNA, em conformidade com o previsto no
+componente Garantia da Segurança Operacional (vide item 4.4 )
+b) refletir o compromisso da OPSNA ou EPSNA em manter e melhorar
+continuamente a eficácia geral do SMS;
+c) serem comunicados a toda organização; e
+d) serem revisados periodicamente para garantir que permaneçam relevantes e
+apropriados para os seus PSNA.
+4.1.1.7.3 Adicionalmente, as Organizações e Entidades Provedoras de Serviços de Navegação
+Aérea poderão estabelecer outros objetivos de segurança operacional específicos para suas
+organizações e ou para seus PSNA Locais. Nesse caso, deverão estabelecer os Indicadores e
+as Metas de Desempenho de Segurança Operacional associados a esses objetivos.
+4.1.2 RESPONSABILIDADES E PRESTAÇÃO DE CONTAS DA SEGURANÇA
+OPERACIONAL
+4.1.2.1 O Sistema de Gerenciamento da Segurança Operacional de uma Organização ou de
+uma Entidade Provedora de Serviços de Navegação Aérea deve ter a linha de
+responsabilidade bem definida, com pessoas formalmente identificadas e com atribuições
+específicas.
+4.1.2.2 As Organizações e as Entidades Provedoras de Serviços de Navegação Aérea devem
+designar um Executivo Responsável (ER) pelo SMS que tenha as seguintes características e
+atribuições:
+a) autonomia funcional e gerência sobre os recursos humanos, financeiros e
+técnicos requeridos para a prestação dos serviços sob a responsabilidade da
+Organização ou da Entidade;
+b) independentemente das demais funções, responda, em nome da organização,
+pela implementação, manutenção e eficácia do seu SMS;
+
+--- PÁGINA ---
+ICA 81-2/2022 23/47
+c) responsabilidade direta na condução dos assuntos de Segurança Operacional
+da Organização ou da Entidade;
+d) responsabilidade final sobre o gerenciamento da segurança operacional de
+sua Organização ou da Entidade;
+e) defina claramente as linhas de responsabilidade pela segurança operacional
+em toda a organização, incluindo a responsabilidade direta pela segurança
+da alta administração da organização;
+f) determine, em termos de segurança operacional, as responsabilidades de
+prestação de contas de todos os gerentes da organização, independentemente
+de suas demais funções, bem como as atribuições do pessoal responsável
+pelos processos de medição e desempenho de segurança operacional da
+organização;
+g) documente e comunique as informações sobre a obrigatoriedade de
+prestação de contas, as responsabilidades e as atribuições de segurança
+operacional a toda organização; e
+h) defina os níveis de gestão com poderes para tomar decisões sobre a
+tolerabilidade do risco à segurança.
+4.1.2.3 O Executivo Responsável será uma única pessoa, identificável, e que,
+independentemente de outras funções, terá como responsabilidade a manutenção do SMS, não
+podendo acumular o cargo de GSOp.
+4.1.2.4 A autoridade e a responsabilidade do Executivo Responsável das Organizações e das
+Entidades Provedoras dos Serviços de Navegação Aérea não são delegáveis.
+4.1.2.5 Nas Organizações Provedoras dos Serviços de Navegação Aérea subordinadas ao
+Departamento de Controle do Espaço Aéreo (DECEA), os Executivos Responsáveis pelo
+SMS são:
+a) o Comandante do Centro Integrado de Defesa Aérea e de Controle de
+Tráfego Aéreo (CINDACTA); e
+b) o Comandante do Centro Regional de Controle do Espaço Aéreo Sudeste
+(CRCEA-SE).
+4.1.2.6 As Entidades e as Organizações Provedoras dos Serviços de Navegação Aérea devem
+definir, documentar e comunicar a todos os setores da organização os cargos e as
+responsabilidades relativos à segurança operacional.
+4.1.2.7 As Organizações e as Entidades Provedoras de Serviços de Navegação Aérea devem
+comunicar formalmente à Assessoria de Segurança Operacional no Controle do Espaço Aéreo
+(ASEGCEA) os nomes, os telefones e os endereços eletrônicos do Executivo Responsável e
+do Gerente da Segurança Operacional da organização, bem como manter a ASEGCEA
+informada nos casos de substituição desses nomes.
+4.1.3 DESIGNAÇÃO DO PESSOAL CHAVE PARA A SEGURANÇA OPERACIONAL
+4.1.3.1 Gerente de Segurança Operacional (GSOp)
+4.1.3.1.1 Toda Organização ou Entidade Provedora de Serviços de Navegação Aérea deve
+designar, formalmente, um Gerente de Segurança Operacional (GSOp) para atuar como
+
+--- PÁGINA ---
+24/47 ICA 81-2/2022
+Assessor de Segurança Operacional junto ao Executivo Responsável da Organização ou
+Entidade.
+4.1.3.1.2 O Gerente da Segurança Operacional responde pela coordenação da manutenção do
+SMS da sua organização e deve, adicionalmente, prestar assessoria técnica aos Provedores de
+Serviços de Navegação Aérea (PSNA) subordinados.
+4.1.3.1.3 É da responsabilidade do Gerente de Segurança Operacional a implementação,
+operação, manutenção e a melhoria contínua do SMS da sua organização.
+4.1.3.1.4 O GSOp deve manter a supervisão dos processos e do desempenho da segurança
+operacional dos PSNA subordinados, notadamente aqueles relativos aos componentes
+Gerenciamento do Risco e Garantia da Segurança Operacional.
+4.1.3.1.5 Nas Organizações Provedoras de Serviços de Navegação Aérea subordinadas ao
+Departamento de Controle do Espaço Aéreo (DECEA), os Gerentes de Segurança
+Operacional (GSOp) devem ser:
+a) os Chefes das SIPACEA dos Centros Integrados de Defesa Aérea e de
+Controle de Tráfego Aéreo (CINDACTA); e
+b) o Chefe da SIPACEA do Centro Regional do Controle do Espaço Aéreo
+Sudeste (CRCEA-SE).
+4.1.3.2 Responsável Local do SMS
+4.1.3.2.1 O Responsável Local do SMS de uma Entidade Provedora de Serviços de
+Navegação Aérea é a pessoa designada, pelo Executivo Responsável, para a manutenção do
+SMS nos PSNA Locais.
+4.1.3.2.2 Os Responsáveis Locais do SMS de uma Organização Provedora de Serviços de
+Navegação Aérea devem ser:
+a) nos CINDACTA: os Chefes dos Centros Operacionais Integrados (COI) e
+os Comandantes dos Destacamentos de Controle do Espaço Aéreo
+(DTCEA); e
+b) no CRCEA-SE: o Chefe do Centro de Operações (COP) e os Comandantes
+dos Destacamentos de Controle do Espaço Aéreo (DTCEA).
+4.1.3.3 Comitê de Segurança Operacional do SISCEAB
+4.1.3.3.1 O Comitê de Segurança Operacional do SISCEAB é estabelecido no DECEA e tem
+a sua estrutura, atribuições em funcionamento, em conformidade com o que especifica o
+Regimento do Comitê de Segurança Operacional do SISCEAB (CSO – SISCEAB).
+4.1.3.3.2 O CSO-SISCEAB tem por finalidade analisar e deliberar sobre políticas, estratégias,
+diretrizes e outros pontos relevantes relacionados à segurança operacional no SISCEAB.
+4.1.3.3.3 O Comitê de Segurança Operacional do SISCEAB tem a seguinte constituição:
+a) Presidente do Comitê: o Diretor-Geral do DECEA;
+b) Secretário: o Chefe da ASEGCEA;
+
+--- PÁGINA ---
+ICA 81-2/2022 25/47
+c) Membros Permanentes: Presidentes, Comandantes, Chefes e Diretores das
+organizações subordinadas ao DECEA, além dos Chefes de seus
+Subdepartamentos, em conformidade com o contido no Regimento do
+Comitê de Segurança Operacional do SISCEAB e publicado na respectiva
+Portaria de estabelecimento do Comitê;
+d) Membros Eventuais: conforme convocação do Presidente do CSO-
+SISCEAB.
+4.1.3.3.4 Reuniões do Comitê de Segurança Operacional – SISCEAB
+4.1.3.3.4.1O Presidente do Comitê de Segurança Operacional do SISCEAB deve convocar
+reuniões do comitê, no mínimo duas vezes a cada ano, para deliberar sobre políticas,
+estratégias e outros pontos relevantes relacionados à segurança operacional do Sistema de
+Controle do Espaço Aéreo Brasileiro.
+4.1.3.4 Comitê Regional de Segurança Operacional
+4.1.3.4.1 O Comitê Regional de Segurança Operacional é estabelecido nos CINDACTA e no
+CRCEA-SE para assessoramento do Executivo Responsável sobre políticas, estratégias
+regionais e para a manutenção do SMS da Organização.
+4.1.3.4.2 O Comitê Regional de Segurança Operacional tem a seguinte constituição:
+a) Presidente do Comitê: Comandante do CINDACTA e do CRCEA-SE;
+b) Secretário: Chefe da SIPACEA;
+c) Membros Permanentes: Chefes de Divisão, o Chefe da SIAT, os
+Comandantes de COI, COP e DTCEA; e
+d) Membros Eventuais: os convocados pelo presidente para participação em
+reunião específica.
+4.1.3.4.3 Reuniões do Comitê Regional de Segurança Operacional
+4.1.3.4.3.1O Presidente do Comitê Regional de Segurança Operacional deve convocar
+reuniões do comitê, no mínimo duas vezes a cada ano, para a revisão das políticas da
+Organização e para a análise crítica das estratégias regionais para a manutenção do SMS.
+4.1.3.5 Comitê Local de Segurança Operacional
+4.1.3.5.1 O Comitê Local de Segurança Operacional é estabelecido nos Centros Operacionais
+Integrados (COI) dos CINDACTA, no Centro de Operações (COP) do CRCEA-SE e nos
+Destacamentos de Controle do Espaço Aéreo (DTCEA), com o objetivo de desenvolver e
+aperfeiçoar constantemente o Sistema de Gerenciamento da Segurança Operacional (SMS).
+4.1.3.5.2 O Comitê Local de Segurança Operacional tem a seguinte constituição:
+a) Presidente do Comitê: os Chefes de COI, do COP e os Comandantes de
+DTCEA;
+b) Secretário do Comitê: os Chefes de ASSIPACEA, se houver, ou elo do
+SEGCEA definido pelo Presidente do Comitê;
+c) Membros Permanentes do Comitê: os Chefes e os Gerentes dos PSNA
+Local, conforme o caso; e
+
+--- PÁGINA ---
+26/47 ICA 81-2/2022
+d) Membros Eventuais: os convocados pelo presidente para participação em
+reunião específica.
+4.1.3.5.3 Reuniões do Comitê Local de Segurança Operacional
+4.1.3.5.3.1 O Presidente do Comitê Local de Segurança Operacional deve convocar reuniões
+do comitê, no mínimo uma vez a cada semestre, para o trato dos assuntos inerentes ao
+desenvolvimento do SMS na provisão do ANS e para a análise crítica do desempenho da
+segurança operacional nos PSNA subordinados.
+4.1.3.6 Comitê de Segurança Operacional de Entidade Provedora de Serviços de
+Navegação Aérea
+4.1.3.6.1 A estrutura do Comitê de Segurança Operacional das Entidades Provedoras de
+Serviços de Navegação Aérea deverá ser estabelecida pelo Executivo Responsável (ER) e
+deve ser compatível com o porte e a complexidade da Entidade.
+4.1.3.6.2 Reuniões do Comitê de Segurança Operacional de Entidade Provedora de Serviços
+de Navegação Aérea
+4.1.3.6.2.1 O Presidente do Comitê de Segurança Operacional de uma Entidade deve
+convocar reuniões do comitê, no mínimo, uma vez a cada semestre, para a revisão das
+políticas da Entidade, para a análise crítica das estratégias para a manutenção do SMS, para o
+trato dos assuntos inerentes ao desenvolvimento do SMS na provisão dos ANS e para a
+análise crítica do desempenho da segurança operacional de seus PSNA.
+4.1.4 COORDENAÇÃO DA RESPOSTA ÀS SITUAÇÕES DE EMERGÊNCIA E DE
+CONTINGÊNCIA
+4.1.4.1 Os Provedores de Serviços de Navegação Aérea devem desenvolver e manter, ou
+coordenar, como for mais apropriado, um Planejamento de Resposta às Emergências (PRE),
+para garantir a continuidade da prestação dos serviços durante situações de emergência, ou em
+condições de degradação da infraestrutura de navegação aérea, e assegurar:
+a) a transição ordenada e eficiente das operações normais às operações de
+emergência;
+b) a delegação de autoridade e a atribuição de responsabilidades para a
+emergência;
+c) a designação das pessoas que deverão ser informadas da situação de
+emergência ou degradação;
+d) a coordenação dos esforços para atender às emergências;
+e) a manutenção das operações em condições seguras; e
+f) o retorno, com segurança, às operações normais, quando praticável.
+4.1.4.2 Os procedimentos estabelecidos no PRE devem ser regularmente testados, para
+garantir a prestação contínua dos serviços, de modo a manter a segurança operacional e a
+previsibilidade em todas as operações.
+4.1.4.3 O Planejamento de Resposta às Emergências (PRE) deve conter referências a cada
+documento já existente e que envolva o PSNA, direta ou indiretamente, com tarefas para
+enfrentamento da situação, tais como: o PLEM – Plano de Emergência em Aeroporto – ou
+PEAA – Plano de Emergência Aeronáutica em Aeródromo; Plano de Degradação; Plano de
+
+--- PÁGINA ---
+ICA 81-2/2022 27/47
+Contingência; Plano de Evacuação; Plano de Segurança Aeroportuária (PSA); Plano de
+Segurança e Defesa etc.
+4.2 DOCUMENTAÇÃO DO SMS
+4.2.1.1 Todas as atividades empreendidas no Sistema de Gerenciamento da Segurança
+Operacional devem ser formais, explícitas e baseadas em normas estabelecidas. A adoção de
+novos procedimentos deve ser formalizada e as rotinas de controle da documentação relevante
+devem considerar toda a cadeia administrativa do SMS para:
+a) aprovar documentos quanto à sua adequação, antes da sua emissão;
+b) analisar criticamente e atualizar, quando necessário, os documentos do
+SMS;
+c) assegurar que as alterações aos documentos sejam identificadas;
+d) garantir que as versões atualizadas dos documentos aplicáveis estejam
+disponíveis nos locais de uso;
+e) assegurar que os documentos permaneçam legíveis e prontamente
+identificáveis;
+f) assegurar o controle de documentos gerados eletronicamente; e
+g) garantir que documentos de origem externa sejam identificados.
+4.2.1.2 Todas as ações inerentes ao gerenciamento da segurança operacional devem ser
+formalizadas e possuir o devido registro, desde o planejamento até a conclusão da ação, de
+forma a se manterem as evidências do cumprimento dos requisitos do Sistema de
+Gerenciamento da Segurança Operacional.
+4.2.1.3 O controle dos registros relevantes deve incluir procedimentos documentados em toda
+a cadeia administrativa do SMS para:
+a) definir os controles necessários para a identificação dos registros;
+b) assegurar o armazenamento dos registros;
+c) garantir a retenção dos registros durante o prazo estabelecido;
+d) assegurar a proteção dos registros e das fontes dos dados e informações;
+e) possibilitar a recuperação dos registros durante o prazo estabelecido; e
+f) descartar os registros após o prazo estabelecido.
+
+--- PÁGINA ---
+28/47 ICA 81-2/2022
+4.2.1.4 Como parte da documentação do SMS, as Organizações e as Entidades Provedoras de
+Serviços de Navegação Aérea devem desenvolver e manter atualizado um Manual do Sistema
+de Gerenciamento de Segurança Operacional (MGSO), considerando todos os PSNA sob sua
+responsabilidade.
+4.2.1.5 O Manual do Sistema de Gerenciamento de Segurança Operacional deve ser
+submetido à aprovação do Executivo Responsável (ER).
+4.2.1.6 As Organizações e as Entidades Provedoras de Serviços de Navegação Aérea devem
+encaminhar à ASEGCEA, formalmente, uma cópia do MGSO aprovado pelo ER, bem como
+suas atualizações.
+4.2.1.7 O MGSO apresentará todos os aspectos do SMS da OPSNA ou EPSNA e deve
+descrever:
+a) sua política e seus objetivos da segurança operacional;
+b) os requisitos de seu Sistema de Gerenciamento da Segurança Operacional;
+c) os processos e procedimentos do seu SMS;
+d) a obrigatoriedade de prestação de contas, as responsabilidades e atribuições
+relacionadas aos processos e procedimentos do seu SMS.
+4.2.1.8 As OPSNA e EPSNA devem desenvolver e manter os registros operacionais de seus
+PSNA, como parte da documentação de seu SMS, tais como:
+a) Registro dos perigos identificados, suas fontes/origem, causas e avaliações
+dos riscos;
+b) Registro dos Reportes Mandatórios e Voluntários originados, recebidos e
+processados pelos PSNA;
+c) Indicadores de Desempenho da Segurança Operacional (IDSO) e respectivas
+MDSO e gráficos relacionados;
+d) Registro das Análises de Segurança Operacional concluídas;
+e) Registro das vistorias internas do SMS ou revisão de seus registros;
+f) Registros das inspeções e das vistorias de segurança;
+g) Registros de treinamento sobre segurança operacional;
+h) Atas das reuniões dos comitês de segurança operacional;
+i) Plano de implementação de SMS (durante o período de implementação
+inicial); e
+j) Análise do faltante em apoio ao plano de implementação do SMS.
+
+--- PÁGINA ---
+ICA 81-2/2022 29/47
+4.3 GERENCIAMENTO DOS RISCOS À SEGURANÇA OPERACIONAL
+4.3.1 Os Provedores de Serviços de Navegação Aérea devem garantir que os riscos associados
+aos perigos identificados em suas atividades estejam sob controle da organização, de modo a
+alcançar os objetivos de segurança operacional estabelecidos. Esse processo é conhecido
+como “Gerenciamento dos Riscos à Segurança Operacional”.
+4.3.2 PROCESSO DE GERENCIAMENTO DOS RISCOS À SEGURANÇA
+OPERACIONAL
+4.3.2.1 Os PSNA devem utilizar uma combinação de ferramentas e metodologias proativas e
+reativas para a identificação dos perigos presentes nas suas operações.
+4.3.2.2 Para o Gerenciamento dos Riscos à Segurança Operacional relativo às operações
+correntes, deve ser composto das seguintes etapas:
+a) Identificação dos perigos;
+b) Avaliação dos riscos;
+c) Classificação dos riscos;
+d) Mitigação dos riscos; e
+e) Controle dos riscos.
+4.3.3 IDENTIFICAÇÃO DE PERIGOS
+4.3.3.1 Os PSNA devem desenvolver e manter procedimentos e processos formais e eficazes
+para colher, registrar, atuar e gerar realimentação sobre os perigos nas operações correntes, as
+quais devem combinar métodos reativos e proativos de coleta de dados de segurança
+operacional.
+4.3.3.2 Os PSNA devem efetuar a análise da segurança operacional baseada em informações
+concretas obtidas através dos processos de identificação de perigos.
+4.3.3.3 Os PSNA devem manter registros dos perigos identificados, de modo a possibilitar a
+sua avaliação, bem como e a fonte de dados que sustentam tais perigos.
+4.3.3.4 Os PSNA devem documentar os perigos de modo a manter os seus registros e sua
+evolução ao longo do tempo.
+4.3.3.5 Os PSNA devem manter evidências de que todos os perigos que são documentados no
+registro de perigos sejam submetidos à uma avaliação de risco.
+4.3.3.6 Os PSNA devem estabelecer procedimento para garantir que todo risco que possa
+afetar a segurança operacional na prestação do ATS, incluindo aqueles que não são gerados
+pelo próprio PSNA, sejam analisados de forma a possibilitar a identificação de perigos
+potenciais ainda não registrados.
+4.3.3.7 Os PSNA devem manter evidências de todo processo de gerenciamento dos riscos,
+incluindo o monitoramento dos riscos residuais, de modo a possibilitar a avaliação da
+conformidade e do desempenho desses processos.
+4.3.3.8 Os PSNA devem ser desenvolver e manter mecanismos que possibilitem a verificação
+e avaliação do que estabelecem os subitens 4.3.3.1 , 4.3.3.2 , 4.3.3.3 , 4.3.3.4 , 4.3.3.5 ,
+
+--- PÁGINA ---
+30/47 ICA 81-2/2022
+4.3.3.6 e 4.3.3.7 . Tal verificação e avaliação deve ser realizada sob a coordenação da
+ASEGCEA, que poderá utilizar mecanismos como Vistorias, Inspeções ou outras ferramentas
+convencionais ou automatizadas.
+4.3.3.9 As SIPACEA, bem como os setores equivalentes de segurança operacional das
+EPSNA devem estabelecer procedimentos para assessorar, monitorar e supervisionar os
+processos de Gerenciamento do Riscos à Segurança Operacional relativos aos perigos
+identificados nas operações correntes de seus PSNA subordinados.
+4.3.4 AVALIAÇÃO E MITIGAÇÃO DOS RISCOS À SEGURANÇA OPERACIONAL.
+4.3.4.1 Os PSNA devem desenvolver e manter processos formais que assegure a análise, a
+avaliação e o controle dos riscos à segurança operacional.
+4.3.4.2 Os riscos associados a cada perigo identificado devem ser analisados e classificados
+em termos de severidade e probabilidade de ocorrência das consequenciais do perigo e
+avaliados quanto a sua aceitabilidade. Os PSNA devem utilizar as metodologias apresentadas
+nas normas do SEGCEA para avaliação e mitigação dos riscos.
+4.3.4.3 Os PSNA devem, com base na análise e avaliação dos riscos, implementar medidas
+mitigadoras para eliminar ou, quando não for possível, reduzir a um nível aceitável os riscos
+associados aos perigos identificados.
+4.4 GARANTIA DA SEGURANÇA OPERACIONAL
+4.4.1 CONTROLE E MEDIÇÃO DO DESEMPENHO DA SEGURANÇA OPERACIONAL
+4.4.1.1 Os PSNA devem estabelecer processos e atividades que garantam que o SMS funcione
+conforme concebido e produza os resultados esperados. Esse processo é conhecido como a
+“Garantia da Segurança Operacional” e contempla o controle contínuo dos processos internos,
+bem como o entorno das operações dos PSNA, de modo a detectar mudanças ou desvios que
+possam introduzir novos riscos à segurança operacional ou a degradação dos controles dos
+riscos existentes.
+4.4.1.2 As atividades de Garantia da Segurança Operacional devem incluir a seleção e a
+implementação de medidas para a solução das deficiências sistêmicas detectadas que possam
+ter um impacto adverso na segurança operacional.
+4.4.1.3 Os PSNA devem desenvolver e manter os meios para verificar o desempenho da
+segurança operacional da organização e para validar a eficácia dos controles dos riscos à
+segurança operacional.
+4.4.2 INDICADORES E METAS DE DESEMPENHO DA SEGURANÇA OPERACIONAL
+4.4.2.1 As Organizações e as Entidades Provedoras de Serviços de Navegação Aérea devem
+estabelecer, anualmente, para cada órgão ATS de sua subordinação, as Metas de Desempenho
+da Segurança Operacional (MDSO) que deverão estar relacionadas aos Indicadores de
+Desempenho de Segurança Operacional (IDSO) do SISCEAB estabelecidos e controlados
+pelo DECEA, por meio da ASEGCEA, os quais deverão compor os NADSO de cada órgão
+ATS para o ano seguinte.
+4.4.2.2 O estabelecimento dos IDSO e MDSO, conforme subitem 4.4.2.1 acima, devem
+
+--- PÁGINA ---
+ICA 81-2/2022 31/47
+monitorados constantemente, inclusive por meio dos níveis de alerta, e devem ser revisados e
+ou atualizados na medida do necessário, de forma a reflitam objetivos de segurança
+pertinentes, adequados ao real desempenho da segurança operacional.
+NOTA 1: As MDSO devem ser estabelecidas anualmente (em curto prazo), de modo que as
+Metas em médio prazo (3 ou 4 anos), definidas pelo DECEA, sejam
+continuamente monitoradas e cumpridas até o final do período.
+NOTA 2: Os IDSO de interesse do SISCEAB, controlados pelo DECEA, serão divulgados
+em Plano específico a ser publicado por meio de um PCA ou outro meio a ser
+definido pela ASEGCEA.
+4.4.2.3 As OPSNA e EPSNA devem enviar formalmente, até o último dia útil de fevereiro do
+ano corrente, para aprovação ou revisão do DECEA, por meio da ASEGCEA, as MDSO e os
+NADSO estabelecidos para o ano em curso, nos termos do subitem 4.4.2.1 , relativos aos
+seus órgãos ATS com movimento de tráfego aéreo maior ou igual a 50.000 movimentos/ano
+e/ou com operação de linha aérea regular internacional.
+NOTA: Excepcionalmente, as OPSNA e EPSNA poderão encaminhar solicitação formal
+ao DECEA, por meio da ASEGCEA, para a revisão de suas MDSO até o dia 31
+de julho do ano corrente.
+4.4.2.4 As OPSNA, as EPSNA e os PSNA Locais devem verificar continuamente o
+desempenho da segurança operacional de seus órgãos ATS, tendo-se como referência os
+Indicadores (IDSO) e Metas de Desempenho de Segurança Operacional (MDSO)
+estabelecidos, em apoio aos Objetivos de Segurança Operacional de suas organizações e,
+quando necessário, estabelecer as medidas necessárias para corrigir as tendências dos IDSO
+de modo a convergirem para alcançar as respectivas MDSO.
+4.4.3 GERENCIAMENTO DE MUDANÇAS
+4.4.3.1 Nenhuma mudança significativa nos Serviços de Navegação Aérea, que afete a
+segurança operacional na prestação do ATS, deve ser implementada, a menos que uma
+Avaliação de Segurança Operacional tenha demonstrado que, após a implementação da
+mudança, será assegurado um Nível Aceitável de Desempenho da Segurança Operacional.
+Quando apropriado, a autoridade responsável deve garantir que sejam tomadas medidas
+adequadas de monitoramento pós-implementação para controlar os riscos e verificar se o nível
+de segurança definido permanece sendo atendido.
+4.4.3.2 Qualquer mudança planejada para ser implementada nos Serviços de Navegação
+Aérea, nos termos do subitem 4.4.3.1 , dever ser formalizada por meio de ato administrativo
+da autoridade responsável pertinente, determinando a realização da Avaliação de Segurança
+Operacional (ASO) para a realização de tal mudança.
+NOTA: Tal ato administrativo deve conter os objetivos e ou os ganhos operacionais a
+serem auferidos com a implementação da mudança no ANS.
+4.4.3.3 A mudança planejada nos termos do subitem 4.4.3.1 , não deve se contrapor e ou
+descumprir as normas e procedimentos vigentes publicados pelo DECEA, aplicados aos
+Serviços de Navegação Aérea.
+4.4.3.4 O PSNA deve desenvolver e manter processos para identificar as mudanças que
+possam afetar o nível aceitável de risco associado a suas operações, de modo a identificar os
+perigos e gerenciar os riscos à segurança operacional consequentes, direta ou indiretamente,
+
+--- PÁGINA ---
+32/47 ICA 81-2/2022
+dessas mudanças.
+4.4.3.5 Os PSNA devem, antes de implementar uma mudança na prestação de seus serviços,
+realizar uma análise para verificar se a mudança tem potencial para acarretar risco para a
+segurança operacional na prestação do ATS.
+4.4.3.6 Caso, durante a fase da Análise Preliminar de Segurança Operacional (APSO), ficar
+evidente que a mudança pode acarretar risco para a segurança operacional, o PSNA deve
+realizar uma Avaliação de Segurança Operacional (ASO), empregando a metodologia
+apropriada para o Gerenciamento do Risco à Segurança Operacional (GRSO), conforme
+preconizado nas normas do SEGCEA, registrando e formalizando tal avaliação, por meio de
+documentação apropriada.
+4.4.3.7 Se, durante a análise preliminar, ficar evidente que a mudança, afetando ou não o
+ANS, não acarreta qualquer risco para a segurança operacional na prestação do ATS, o PSNA
+pode encerrar a ASO na APSO, registrando e formalizando tal análise.
+4.4.3.8 O Gerenciamento dos Riscos à Segurança Operacional relativo às mudanças que
+afetam a Segurança Operacional na prestação do ATS, nos termos do subitem 4.4.3.1 , deve
+ser composto, pelo menos, das seguintes etapas:
+a) Descrição do Sistema;
+b) Identificação dos perigos;
+c) Avaliação dos riscos;
+d) Classificação dos riscos;
+e) Mitigação dos riscos; e
+f) Controle dos riscos.
+4.4.3.9 O processo formal para o gerenciamento de mudança deve:
+a) identificar as mudanças dentro ou fora da organização que possam afetar os
+processos estabelecidos e/ou os serviços prestados;
+b) descrever o planejamento para assegurar a manutenção do NADSO, antes de
+implantar as mudanças; e
+c) eliminar ou modificar os controles de risco de segurança operacional que
+não sejam mais necessários devido a mudanças no ambiente operacional.
+4.4.3.10 As SIPACEA, bem como os setores equivalentes de segurança operacional das
+EPSNA devem estabelecer procedimentos para assessorar, monitorar e supervisionar os
+processos de Gerenciamento dos Riscos relativos às mudanças nos seus PSNA subordinados.
+4.4.4 MELHORIA CONTÍNUA DO SMS
+4.4.4.1 O aprimoramento dos processos e métodos de gerenciamento na provisão do ANS
+deve levar sempre em conta a aplicação das melhores práticas de gerenciamento da segurança
+operacional, buscando o índice zero de incidentes relacionados com a prestação dos Serviços
+de Tráfego Aéreo.
+4.4.4.2 O PSNA deve monitorar e avaliar seus processos a fim de manter e melhorar
+continuamente a eficácia de todos os componentes e elementos do seu SMS.
+
+--- PÁGINA ---
+ICA 81-2/2022 33/47
+4.4.4.3 A manutenção e melhoria contínua da eficácia do SMS dos PSNA deve ser suportada
+pelas atividades da Garantia, que incluem a verificação e acompanhamento dos processos e
+medidas de vistorias internas. A manutenção e melhoria contínua do SMS são atividades de
+segurança operacional que devem ser mantidas permanentemente, uma vez que a própria
+organização e seu ambiente operacional estarão em constante mudança.
+4.4.4.4 As vistorias internas devem avaliar as atividades do PSNA, que podem fornecer
+informações úteis para os processos de tomada de decisão da organização, e devem
+compreender a avaliação de todas as funções de gerenciamento de segurança em toda a
+organização.
+4.4.4.5 Os PSNA devem desenvolver e manter processos formais para identificar as causas de
+baixo desempenho do SMS, determinando as implicações para sua operação, buscando
+identificar e corrigir as situações que resultem em padrões de desempenho abaixo do previsto.
+4.4.4.6 A eficácia do SMS deve ser baseada tanto nos indicadores de segurança operacional,
+quanto na utilização de outras ferramentas como a avaliação da Maturidade e Efetividade do
+SMS, avaliação do Perfil de Risco do PSNA, de vistorias internas, monitoramento de
+ocorrências, erros, infrações e ou violações das normas do ANS, avaliações de segurança
+operacional, avaliação dos objetivos de segurança operacional da organização e avaliações de
+tendências de IDSO e MDSO.
+NOTA: O MCA 81-3 apresenta ferramentas e metodologias para a avaliação da
+Maturidade e do Nível de Efetividade do SMS, bem como para o cálculo do Perfil
+de Risco do PSNA.
+4.4.5 PROMOÇÃO DA SEGURANÇA OPERACIONAL
+4.4.5.1 Capacitação e Treinamento em Segurança Operacional
+4.4.5.1.1 As Organizações e as Entidades Provedoras de Serviços de Navegação Aérea devem
+assegurar que todo o efetivo da estrutura organizacional do SMS, trabalhando em cada nível e
+função, esteja:
+a) consciente da importância de suas atribuições e responsabilidades em atingir
+a conformidade com a política, processos e procedimentos do SMS;
+b) capacitado, por meio de treinamento, para desempenhar funções, tarefas e
+atividades do SMS; e
+c) preparado para responder a situações de emergência.
+4.4.5.1.2 As Organizações e as Entidades Provedoras de Serviços de Navegação Aérea devem
+estabelecer e executar um programa de capacitação e treinamento que assegure que o pessoal
+da organização receba cursos e treinamentos que o habilite a cumprir com suas funções e
+obrigações no SMS.
+4.4.5.1.3 O treinamento deve ser adequado aos diferentes níveis funcionais:
+a) Treinamento Estratégico, para os escalões mais elevados e intermediários
+das Organizações e Entidades;
+b) Treinamento Especializado, para os especialistas envolvidos com tarefas no
+SMS; e
+c) Treinamento Básico, para os demais integrantes das Entidades e
+Organizações.
+
+--- PÁGINA ---
+34/47 ICA 81-2/2022
+4.4.5.2 Comunicação da Segurança Operacional
+4.4.5.2.1 Os Provedores de Serviços de Navegação Aérea devem desenvolver e manter meios
+formais de comunicação de segurança operacional, proporcionando condições que permitam:
+a) assegurar que todos os profissionais da organização estejam familiarizados
+com o SMS;
+b) transmitir informações crítica de segurança operacional;
+c) compartilhar o resultado das investigações das ocorrências de tráfego aéreo;
+d) esclarecer o andamento de ações mitigadoras decorrentes de perigo
+identificado pelo monitoramento da segurança operacional;
+e) explicar o motivo das ações específicas de segurança operacional; e
+f) explicar as causas da modificação ou da introdução de novos procedimentos
+de segurança operacional.
+4.4.5.2.2 As Organizações e as Entidades Provedoras de Serviços de Navegação Aérea, além
+de manter o pessoal bem-informado, devem incentivar a promoção de eventos para o
+desenvolvimento da cultura de segurança operacional e assegurar que o aprendizado, relativo
+à segurança operacional, seja compartilhado com todo o pessoal dos PSNA envolvidos.
+4.4.5.2.3 Os Provedores de Serviços de Navegação Aérea devem estabelecer e implementar
+um Programa Anual de Promoção da Segurança Operacional compatível com a dimensão, a
+complexidade e a natureza dos serviços prestados por seus PSNA.
+
+--- PÁGINA ---
+ICA 81-2/2022 35/47
+5 IMPLEMENTAÇÃO DO SMS
+5.1 As organizações devem elaborar um Plano de Implementação do SMS, em conformidade
+com os requisitos e critérios constantes nesta Instrução.
+5.2 O Plano de Implementação deve considerar a implementação do SMS por fases, conforme
+a seguir:
+a) 1ª Fase: Planejamento;
+b) 2ª Fase: Gerenciamento dos Riscos à Segurança Operacional – Reativo;
+c) 3ª Fase: Gerenciamento dos Riscos à Segurança Operacional – Proativo; e
+d) 4ª Fase: Garantia e Promoção da Segurança Operacional.
+5.3 O dimensionamento da estrutura e dos recursos definidos para dar suporte ao SMS deve
+considerar organizações complexas e não complexas.
+5.4 Para efeito de SMS, a complexidade das organizações está relacionada com a dimensão da
+organização, a diversidade e a complexidade dos serviços prestados pelos seus PSNA.
+5.5 As Organizações Regionais do DECEA e a NAV Brasil são consideradas organizações
+complexas.
+5.6 Também serão consideradas organizações complexas as Entidades Provedoras de Serviços
+de Navegação Aérea (EPSNA) cujos PSNA subordinados apresentem as seguintes
+características:
+a) No mínimo 9 (nove) órgãos ATS, sendo, pelo menos, 1 (um) órgão ATC; ou
+b) 10 (dez) ou mais órgãos ATS.
+5.7 Os requisitos e critérios para implementação do SMS devem ser revisados
+periodicamente, de modo a refletir as necessidades que venham a surgir em razão da dinâmica
+da implementação e do nível de maturidade do SMS alcançados pelas OPSNA e EPSNA.
+5.8 A ASEGCEA deve estabelecer procedimentos para monitoramento da implementação do
+SMS, de modo a contribuir para a melhoria contínua e elevação do nível de maturidade do
+SMS dos PSNA.
+
+--- PÁGINA ---
+36/47 ICA 81-2/2022
+6 ACEITAÇÃO DO SMS
+6.1 O SMS das OPSNA e EPSNA devem ser aceitos pelo DECEA, por meio da Vistoria de
+Aceitação do SMS, a ser realizada pela ASEGCEA, conforme legislação específica de
+Vistorias de Segurança Operacional do SEGCEA.
+6.2 O processo de aceitação do SMS deve considerar a aprovação por fases de
+implementação, que deve constar do plano de implementação das OPSNA ou EPSNA.
+6.3 Os provedores ANS devem realizar a Análise do Faltante e desenvolver um Plano de
+Implementação do SMS executável, incluindo o processo de aceitação, como uma tarefa
+planejada.
+6.4 A ASEGCEA deve estabelecer e aplicar processos de aceitação de SMS que leve em
+consideração as organizações complexas e não complexas, de acordo com a dimensão e a
+complexidade de seus PSNA.
+6.5 ACEITAÇÃO E MONITORAMENTO CONTÍNUO DO SMS
+6.5.1 A ASEGCEA deve estabelecer processo específico de Vistoria de Aceitação (VSO
+SMS-ACT), de modo a contemplar critérios e protocolos distintos para as organizações
+complexas e não complexas.
+6.5.2 A ASEGCEA deve estabelecer processo específico de Vistoria de Segurança
+Operacional de Desempenho do SMS (VSO SMS-DSP), que deve ser realizada após à VSO
+SMS-ACT, com os seguintes objetivos:
+a) Verificar a manutenção do atendimento aos requisitos e critérios
+estabelecidos nesta Instrução e nas demais normas do SEGCEA, naquilo
+que for aplicável;
+b) Verificar a operacionalização e funcionamento dos processos,
+procedimentos e ferramentas do gerenciamento da segurança operacional
+dos PSNA;
+c) Verificar a manutenção da estrutura organizacional, do pessoal-chave e dos
+recursos necessários para o funcionamento dos componentes e elementos do
+SMS;
+d) Manter a supervisão do desempenho da segurança operacional dos
+provedores de serviços de navegação aérea do SISCEAB; e
+e) Verificar evidências de melhoramento contínuo da operacionalização e do
+nível de maturidade SMS.
+6.5.3 A ASEGCEA deve estabelecer processo para monitoramento e verificação da
+Maturidade e do Nível de Efetividade do SMS dos PSNA, conforme os requisitos constantes
+nas publicação pertinentes do SEGCEA.
+6.5.4 Os processos estabelecidos para as vistorias conforme os subitens 6.5.1 e 6.5.2 devem
+ser revisados oportunamente, quando aplicável, de modo a contemplar as atualizações dos
+requisitos e processos do SMS.
+
+--- PÁGINA ---
+ICA 81-2/2022 37/47
+6.6 SUSPENSÃO OU CANCELAMENTO DO SMS
+6.6.1 SUSPENSÃO DO SMS
+6.6.1.1 A Organização ou Entidade Provedora dos Serviços de Navegação Aérea poderá ter a
+Aceitação de seu SMS suspensa quando for constatado pela ASEGCEA, por meio de VSO
+SMS-DSP ou por outras formas de monitoramento, que os processos, ferramentas,
+procedimentos e ou processos organizacionais relativos ao SMS foram descontinuados ou
+apresentam deficiência ou ineficácia, comprometendo o desempenho da segurança
+operacional do PSNA.
+6.6.1.2 A Suspensão do SMS, nos termos do subitem 6.6.1.1 , pode ser aplicada à toda
+organização ou a um ou mais PSNA específicos, a critério da ASEGCEA.
+6.6.2 CANCELAMENTO DO SMS
+6.6.2.1 A Organização ou Entidade Provedora dos Serviços de Navegação Aérea poderá ter a
+Aceitação de seu SMS cancelada se:
+a) após ter o seu SMS suspenso, conforme o subitem 6.6.1 , deixar de cumprir
+o Plano de Ações Corretivas estabelecido para o PSNA, consoante os
+termos e prazos estabelecidos no PAC pela ASEGCEA; ou
+b) o PSNA for desativado por revogação da sua autorização para operação, por
+ato administrativo do DECEA, por motivo de natureza técnico-operacional
+e/ou administrativa, fazendo cessar definitivamente sua atividade.
+6.6.2.2 O cancelamento do SMS, conforme o subitem 6.6.2.1 , pode ser aplicado à toda
+organização ou a um ou mais PSNA específicos, a critério da ASEGCEA.
+6.7 REQUISITOS DE CAPACITAÇÃO PARA VISTORIADORES DO SMS
+6.7.1 O DECEA, por meio da ASEGCEA, deve garantir que o pessoal responsável pela
+aceitação e monitoramento contínuo do SMS das OPSNA e EPSNA desenvolva as
+competências necessárias para exercer a função de Vistoriador de Segurança Operacional.
+6.7.2 Os profissionais designados para compor a equipe de Vistoria para Aceitação (VSO
+SMS-ACT), bem como para as VSO de verificação do desempenho do SMS (VSO SMS-
+DSP), devem atender aos seguintes requisitos:
+a) possuir o Curso ASE 010 (Sistemas de Gerenciamento da Segurança
+Operacional no SISCEAB), ou curso de SMS equivalente, reconhecido pela
+ASEGCEA;
+b) ser designado pela ASEGCEA;
+c) atender às competências constantes em legislação específica de Vistorias de
+Segurança Operacional do SEGCEA e outras julgadas necessárias pela
+ASEGCEA;
+d) concluir com aproveitamento o Treinamento Padronizado específico
+conforme a VSO a ser realizada; e
+e) concluir com aproveitamento o Treinamento no Posto de Trabalho (TPT)
+supervisionado, se necessário.
+
+--- PÁGINA ---
+38/47 ICA 81-2/2022
+NOTA 1: É necessário, no mínimo, um Treinamento no Posto de Trabalho (TPT)
+supervisionado aos profissionais designados para compor a equipe de VSO
+que, mesmo atendendo aos outros requisitos, não possuam experiência no tipo
+específico de VSO a ser realizada.
+NOTA 2: Os profissionais que atenderem a esses requisitos estarão aptos a realizar
+Vistorias de Segurança Operacional e poderão ser designados pela ASEGCEA
+para compor as equipes de VSO.
+NOTA 3: Para a realização de VSO SMS-DSP nas SIPACEA, a equipe de vistoria deverá
+contar com profissional de Psicologia com o Curso ASE 002 (Fatores Humanos,
+Aspectos Psicológicos, no Controle do Espaço Aéreo).
+6.7.3 As competências necessárias para os profissionais vistoriadores devem ser revisadas
+periodicamente, com vistas a manter seus conhecimentos e habilidades para realizar as VSO
+atualizados com as normas, com os processos, com os procedimentos, com a aplicação das
+melhores práticas e com as ferramentas de vistoria.
+6.7.4 Para o atendimento das alíneas “c”, “d” e “e” do subitem 6.7.2 , deve ser elaborado e
+aprovado um Programa de Capacitação e Treinamento em VSO, composto de Treinamento
+Padronizado específico (treinamento recorrente) e Treinamento no Posto de Trabalho (TPT).
+6.7.5 O Programa de Capacitação e Treinamento em VSO deve estabelecer abordagens
+distintas para a VSO SMS-ACT e VSO SMS-DSP, bem como deve levar em consideração a
+complexidade e a dimensão da OPSNA ou EPSNA.
+6.7.6 De acordo com o nível de maturidade do SMS do PSNA, as VSO devem sofrer uma
+transição da abordagem prescritiva para uma abordagem baseada no desempenho do SMS.
+Assim, quando aplicável, o Programa de Capacitação e Treinamento em VSO deve considerar
+as competências necessárias para os vistoriadores realizarem tanto as VSO SMS-ACT, quanto
+as VSO SMS-DSP.
+6.8 VISTORIADOR DE SEGURANÇA OPERACIONAL
+6.8.1 O Vistoriador de Segurança Operacional é o profissional, capacitado pela ASEGCEA,
+conforme os requisitos constantes no subitem 6.7.2 , que tem por atribuição realizar as VSO,
+com vistas à aceitação ou ao monitoramento contínuo do SMS das Organizações e Entidades
+Provedoras do ANS, tendo por base a legislação vigente e as orientações emanadas da
+ASEGCEA.
+6.8.2 A ASEGCEA ministrará, conforme a necessidade verificada para o atendimento ao
+Programa Anual de Vistorias de Segurança Operacional do SISCEAB, treinamento recorrente
+para os Vistoriadores de Segurança Operacional, visando à atualização dos conhecimentos
+sobre a evolução da normatização e dos respectivos protocolos de vistoria e à padronização
+dos procedimentos a serem aplicados nos processos de vistoria.
+
+--- PÁGINA ---
+ICA 81-2/2022 39/47
+7 AUTORIZAÇÃO DE NOVAS ENTIDADES PROVEDORAS DO ANS
+7.1 REQUISITOS DO SMS PARA O INÍCIO DAS OPERAÇÕES
+7.1.1 A solicitação para autorização de funcionamento de uma nova EPSNA deve ser
+realizada em conformidade com o que estabelecem a ICA 63-10 e a ICA 63-46.
+7.1.2 Adicionalmente aos aspectos técnicos e operacionais estabelecidos nas normas citadas
+no subitem 7.1.1 no processo de autorização para o início das operações, o solicitante deve
+atender aos seguintes requisitos relativos aos aspectos da Segurança Operacional:
+a) Declaração formal de um profissional designado pela Entidade como
+Executivo Responsável;
+b) Declaração formal de um segundo profissional designado pela Entidade
+como Gerente de Segurança Operacional;
+c) Apresentar um Plano de Implementação do SMS e respectivo cronograma
+de implementação por fases, a sua estrutura organizacional e os recursos
+humanos e técnicos necessários à operacionalização e manutenção dos
+SMS; e
+NOTA: O plano supracitado deve conter o planejamento para a capacitação do pessoal-
+chave de segurança operacional.
+d) Receber parecer favorável, sob o aspecto da segurança operacional, da
+SIPACEA responsável pela jurisdição da EPTA, conforme o processo de
+implantação constante na ICA 63-10 e/ou ICA 63-46, no que for aplicável.
+7.1.3 MUDANÇA DE ORGANIZAÇÃO OU DE ENTIDADE PROVEDORA OU
+OPERADORA
+7.1.3.1 Mudança de Entidade ou Organização Provedora dos Serviços de Navegação
+Aérea
+7.1.3.1.1 Do ponto de vista da Segurança Operacional, a mudança de Organização ou
+Entidade Provedora dos Serviços de Navegação Aérea pode ocorrer sob duas circunstâncias:
+a) A nova Organização ou Entidade já possua um SMS aceito pelo DECEA;
+ou
+b) A nova Organização ou Entidade não possui um SMS aceito pelo DECEA.
+7.1.3.1.2 Caso ocorra a situação descrita na alínea “a”, o SMS da Organização ou Entidade
+mantem-se acreditado pelo DECEA, sendo necessário, porém, a atualização da documentação
+do SMS, revisando o Alcance, o Escopo, o MGSO e os demais aspectos do SMS que
+porventura venham a ser afetados pela absorção dos novos PSNA.
+7.1.3.1.3 Porém, caso ocorra a situação descrita na alínea “b”, em razão de não haver um
+SMS certificado pelo DECEA, a nova Organização ou Entidade Provedora, para receber a
+autorização de funcionamento, deve atender aos mesmos requisitos estabelecidos nos
+subitens 7.1.1 e 7.1.2 .
+7.1.3.1.4 Para os casos nos quais haja a troca da Entidade Operadora serão aplicados os
+mesmos requisitos e critérios prescritos nos subitens 7.1.3.1.1 , 7.1.3.1.2 e 7.1.3.1.3 .
+
+--- PÁGINA ---
+40/47 ICA 81-2/2022
+8 COLETA, ANÁLISE, PROTEÇÃO, COMPARTILHAMENTO E INTERCÂMBIO
+DE DADOS E DE INFORMAÇÕES DE SEGURANÇA OPERACIONAL
+8.1 SISTEMAS DE COLETA E PROCESSAMENTO DE DADOS DE SEGURANÇA
+OPERACIONAL
+8.1.1 A ASEGCEA, as OPSNA, as EPSNA e os PSNA Locais devem estabelecer seus
+Sistemas de Coleta e Processamento de Dados de Segurança (SDCPS) para capturar,
+armazenar, compilar e permitir a análise de dados e informações de segurança operacional.
+8.1.2 Os SDCPS estruturados conforme o subitem 8.1.1 , fazem parte e compõem o SDCPS
+do SISCEAB que por sua vez é parte integrante do SDCPS Brasil, nos termos da Portaria
+Conjunta (COMAER/ANAC) Nº 1, de 30 de abril de 2019.
+8.1.3 O SDCPS refere-se aos sistemas de reporte (mandatórios e voluntários), registro e
+processamento, bancos de dados de segurança operacional, procedimentos de intercâmbio de
+informações e inclui, entre outros:
+a) dados e informações relativos às investigações dos Incidentes de Tráfego
+Aéreo;
+b) dados e informações relativos às apurações das Ocorrências ATS;
+c) dados e informações relativos aos eventos caracterizados como de reporte
+mandatório, em conformidade com o que estabelece a ICA 81-1;
+d) Indicadores de desempenho da segurança operacional;
+e) dados e informações relativos aos sistemas de reporte voluntário –
+RELPREV, RCSV (vide ICA 81-1), Sistema de Reporte Voluntário da
+Organização (vide ICA 81-1) e RVF (vide MCA 81-1);
+f) banco de dados de Perigos identificados nos PSNA;
+g) banco de dados e informações dos processos de Gerenciamento do Risco à
+Segurança Operacional realizadas pelo PSNA ou que deles tenha
+participado (RAPSO, RASOp, DGRSO, Safety Case, etc);
+h) dados e informações das Pesquisas de Segurança Operacional (Pesquisa de
+Fatores Operacionais e Pesquisas de Fatores Humanos); e
+i) dados e informações sobre as Auditorias, Inspeções ou Vistorias de
+Segurança Operacional (PAC, prazos, estados do cumprimento,
+observações, etc)
+NOTA: O SDCPS pode contemplar informações fornecidas pelo Estado ou pelos PSNA e
+pode basear-se em dados de segurança de fontes reativas, proativas e preditivas.
+
+--- PÁGINA ---
+ICA 81-2/2022 41/47
+8.1.4 O Sistema de Reporte Mandatório e o Sistema de Reporte Voluntário do SISCEAB são
+partes integrantes do Sistema de Reporte para a Aviação Civil Brasileira, nos termos da
+Portaria Conjunta (COMAER/ANAC) Nº 5.754, de 23 de agosto de 2021.
+8.1.5 O Sistema de Reporte Mandatório do SISCEAB é constituído pelas ferramentas para
+notificação das ocorrências de caráter compulsório, pelos procedimentos e pelo
+processamento dessas notificações, conforme estabelecidos na ICA 81-1.
+8.1.6 O Sistema de Reporte Voluntário do SISCEAB é constituído pelas ferramentas para
+notificação voluntária, pelos procedimentos e pelo processamento dessas notificações,
+conforme estabelecidos na ICA 81-1.
+8.1.7 As OPSNA, as EPSNA e respectivos PSNA devem adotar as medidas necessárias,
+incluindo a promoção de uma Cultura Positiva de Segurança Operacional, para promover e
+incentivar as notificações de segurança operacional.
+8.2 ANÁLISE DE DADOS E INFORMAÇÕES DE SEGURANÇA OPERACIONAL
+8.2.1 Os dados e informações de segurança operacional, obtidos a partir dos SDCPS e
+respectivos bancos de dados, devem ser utilizados pela ASEGCEA, OPSNA, EPSNA e PSNA
+Locais, para análise e tomada de decisão orientadas por dados.
+8.2.2 A ASEGCEA deve estabelecer processo para, regularmente, monitorar e analisar as
+ocorrências de tráfego aéreo, incluindo os reportes mandatórios, voluntários e reportes
+voluntários internos, com vistas à tomada de decisões orientadas por dados.
+8.2.3 Todas as fontes de alimentação de dados relevantes devem ser otimizadas e utilizadas de
+forma eficaz, de modo a contribuir para a obtenção da imagem real do desempenho de
+segurança operacional dos PSNA.
+8.2.4 A ASEGCEA deve estabelecer procedimento para verificar, quando necessário, se as
+decisões, orientadas por dados, adotadas pelos PSNA foram apropriadas e afetaram
+positivamente o desempenho de segurança operacional.
+8.3 PROTEÇÃO DE DADOS E INFORMAÇÕES DE SEGURANÇA OPERACIONAL
+8.3.1 Os dados e informações de segurança operacional, obtidos por meio das ferramentas e
+processos dos sistemas de coleta e processamentos de dados de segurança operacional
+(SDCPS), bem como aquelas obtidas por meios dos sistemas de reporte mandatórios ou
+voluntários, devem ser protegidos, conforme as disposições prescritivas do Capítulo 9 . A
+proteção das fontes de informações inclui os indivíduos e as organizações.
+8.3.2 As proteções, referenciadas no item 9.7 , estendem-se aos dados coletados por meio de
+sistemas de reporte mandatório, às informações de segurança derivadas de tais sistemas, bem
+como às suas respectivas fontes.
+NOTA: Tendo em vista a necessidade de criar um ambiente propício, com o objetivo de
+incentivar o uso de reportes de segurança operacional, é fundamental que a
+organização desenvolva uma cultura de segurança operacional, na qual os
+funcionários e o pessoal operacional se sintam confiantes de que as ações ou
+omissões correspondentes a sua formação e experiência não serão objeto de
+sansões por parte de sua organização.
+
+--- PÁGINA ---
+42/47 ICA 81-2/2022
+8.3.3 Com relação às proteções, nos termos dos subitens 8.3.1 e 8.3.2 , tais restrições
+incluem o não fornecimento ou uso de dados e informações de segurança coletadas,
+armazenadas ou analisadas, consoantes os itens 8.1 ou 8.2 , para outros fins que não a
+manutenção ou melhoria contínua da segurança operacional, a menos que seja aplicado o
+princípio de exceção, nos termos do item 9.8 .
+8.3.4 Não obstante o contido no subitem 8.3.3 , os dados e informações de segurança
+operacional devem ser utilizados para que se tome quaisquer medidas preventivas ou
+corretivas que sejam necessárias para manter ou melhorar a segurança operacional.
+8.3.5 A ASEGCEA, as OPSNA, as EPSNA e os PSNA Locais devem tomar as medidas
+necessárias, incluindo a promoção de uma cultura de segurança positiva, para encorajar a
+notificação de segurança, nos termos do subitem 8.1.3 .
+8.4 COMPARTILHAMENTO E INTERCÂMBIO DE DADOS E INFORMAÇÕES DE
+SEGURANÇA OPERACIONAL
+8.4.1 Se, ao analisar as informações contidas em seus SDCPS, a ASEGCEA, as OPSNA, as
+EPSNA e os PSNA Locais identificarem questões relacionadas à segurança operacional,
+consideradas de interesse de outros PSNA, devem compartilhar tais informações de segurança
+o mais rápido possível.
+8.4.2 A ASEGCEA deve utilizar ferramentas e ou sistemas para promover o
+compartilhamento ou troca de informações de segurança, de modo a facilitar o intercâmbio de
+informações de segurança operacional entre os PSNA do SISCEAB e entre este e sistemas e
+organizações externas, de interesse do DECEA.
+NOTA: O compartilhamento e intercâmbio das informações de segurança operacional
+podem ser realizados por meio do SIGCEA ou sistemas semelhantes reconhecidos
+pelo DECEA, por meio da ASEGCEA.
+8.4.3 A ASEGCEA, as OPSNA e as EPSNA devem estabelecer ferramentas e processos para
+disponibilizar e promover o intercâmbio de informações de segurança operacional entre si.
+NOTA: Os PSNA que receberem o compartilhamento dessas questões de segurança
+devem dar o mesmo tratamento de proteção dos dados e informações de segurança
+operacional, nos termos do Capítulo 9 .
+8.4.4 A ASEGCEA deve estabelecer procedimentos para monitorar e supervisionar o
+desempenho da segurança operacional das OPSNA e das EPSNA, de modo a identificar suas
+necessidades de informações de segurança operacional.
+8.4.5 A ASEGCEA deve estabelecer procedimentos para avaliar regularmente a eficácia do
+intercâmbio e promoção de informações de segurança operacional.
+NOTA: Tal avaliação pode ser feita por meio das vistorias, pelo SIGCEA e ou outras
+ferramentas automatizadas para o monitoramento contínuo, acreditadas pela
+ASEGCEA.
+8.4.6 As OPSNA e as EPSNA devem estabelecer procedimentos para monitorar e
+supervisionar o desempenho da segurança operacional de seus PSNA, de modo a identificar
+suas necessidades de informações de segurança operacional.
+
+--- PÁGINA ---
+ICA 81-2/2022 43/47
+9 PRINCÍPIOS PARA A PROTEÇÃO DE DADOS E INFORMAÇÕES DE
+SEGURANÇA OPERACIONAL E RESPECTIVAS FONTES
+9.1 As informações e dados de segurança operacional e respectivas fontes, coletados ou
+derivados dos sistemas de notificação voluntária, dos sistemas de notificação compulsória,
+bem como dos SDCPS do SISCEAB, devem ser protegidos em conformidade com o que
+estabelece esta norma e demais legislações pertinentes do DECEA.
+9.2 As informações e dados de segurança de que trata o item 9.1 , incluem as gravações de
+áudio e respectivas transcrições do SMA (incluindo histórico CPDLC), do SFA, dos vídeos
+dos Sistemas de Vigilância ATS (RADAR, ADS-C, ADS-B, Multilateração etc.), gravações
+de câmeras de vigilância e áudio do ambiente operacional, onde houver.
+9.3 A proteção dos dados e informações de segurança operacionais do SISCEAB, bem como
+suas respectivas fontes, é essencial para garantir a sua disponibilidade contínua, uma vez que
+o uso desses dados e informações para outros fins, que não a manutenção ou melhoria da
+segurança, pode inibir a disponibilidade futura de tais dados e informações, com um efeito
+adverso significativo na segurança operacional.
+9.4 Os princípios aqui contidos se destinam a orientar as OPSNA, EPSNA e respectivos
+PSNA subordinados na proteção dos dados e informações de segurança operacional dos ANS,
+obtidos a partir de sistemas de coleta e processamento de dados de segurança (SDCPS) e
+respectivas fontes, permitindo a adequada administração das medidas necessárias para manter
+ou melhorar a segurança operacional no SISCEAB.
+9.5 O objetivo dos princípios descritos a seguir é assegurar a disponibilidade contínua dos
+dados e informações de segurança operacionais do SISCEAB, restringindo seu uso para
+outros fins que não a manutenção ou melhoria da segurança operacional.
+9.6 PRINCÍPIOS GERAIS
+9.6.1 As OPSNA, as EPSNA e seus PSNA devem proteger os dados e informações de
+segurança operacionais e respectivas fontes, de modo a garantir que:
+a) seja alcançado um equilíbrio entre a necessidade de proteção de dados e
+informações de segurança operacional e a necessidade de seu uso com
+outros propósitos, que não os de ações de prevenção de acidentes ou
+incidentes aeronáuticos;
+b) sejam especificadas as condições sob as quais os dados e as informações de
+segurança operacionais do SISCEAB e fontes relacionadas são
+classificadas;
+c) os dados e informações de segurança operacionais permaneçam disponíveis,
+com o propósito de manter ou melhorar a segurança operacional do
+SISCEAB; e
+d) os dados e informações de segurança operacionais do SISCEAB e
+respectivas fontes sejam protegidos, em conformidade com o que estabelece
+esta norma e demais legislações pertinentes do DECEA.
+
+--- PÁGINA ---
+44/47 ICA 81-2/2022
+9.6.2 Quando uma investigação tiver sido instituída, nos termos do Cap 5 do Anexo 13,
+(Acidentes e Incidentes Aeronáuticos), os registros estarão sujeitos às proteções estabelecidas
+pelo CENIPA.
+9.7 PRINCÍPIOS PARA PROTEÇÃO
+9.7.1 As OPSNA, as EPSNA e seus PSNA devem garantir que os dados ou informações de
+segurança não sejam usados conforme alíneas abaixo.
+a) Em processos disciplinares, administrativos, cíveis ou penais envolvendo
+empregados, pessoal operacional ou organizações;
+b) Para a divulgação pública; ou
+c) Para outros fins que não seja a manutenção ou aumento da segurança
+operacional no SISCEAB, a menos que se aplique um princípio de exceção,
+conforme item 9.8 .
+9.7.2 As OPSNA, as EPSNA e seus PSNA devem proporcionar proteção a dados e
+informações de segurança operacional do SISCEAB e respectivas fontes, conforme alíneas
+abaixo:
+a) Seja especificada a proteção com base na natureza dos dados e informações
+de segurança operacional;
+b) Seja estabelecido um procedimento formal para proteger os dados e
+informações de segurança e fontes relacionadas;
+c) Os dados e informações de segurança não sejam utilizados para outros fins
+que não os propósitos para os quais foram coletados, a menos que se aplique
+um princípio de exceção;
+d) Porquanto se aplique um princípio de exceção, o uso de dados e
+informações de segurança em processos disciplinares, cíveis,
+administrativos ou penais ocorrerá somente sob salvaguarda autorizada.
+NOTA 1: O procedimento formal deve incluir a exigência de que qualquer pessoa que
+solicite a divulgação de dados ou informações de segurança operacional do
+SISCEAB forneça justificativas para sua utilização.
+NOTA 2: As salvaguardas autorizadas incluem limitações ou restrições legais, tais como
+ordens judiciais, processos em segredo de justiça e descaracterização de dados
+para uso ou divulgação de informações de segurança em processos judiciais ou
+administrativos.
+9.8 PRINCÍPIOS DE EXCEÇÃO
+9.8.1 Exceções à proteção de dados e informações de segurança operacionais e fontes
+relacionadas só devem ser concedidas quando determinado por autoridade competente e
+autorizado pelo DECEA, em conformidade com os critérios abaixo:
+a) Quando uma autoridade competente conclui que existem fatos e
+circunstâncias que, razoavelmente, indicam que a ocorrência pode ter sido
+causada por um ato ou omissão considerados, de acordo com a legislação
+pertinente, como uma conduta que constitui negligência grave, conduta
+dolosa ou atividade criminosa;
+
+--- PÁGINA ---
+ICA 81-2/2022 45/47
+b) Após revisão e análise dos dados ou informações de segurança operacional,
+a autoridade competente conclua que sua divulgação é necessária para a
+utilização apropriada da justiça e que os benefícios de sua divulgação
+superam os impactos adversos que tal divulgação terá na coleta e
+disponibilidade futuras de dados e informações de segurança operacional; e
+ou
+c) Após revisão e análise dos dados ou informações de segurança operacional,
+a autoridade competente conclua que a sua divulgação é necessária para
+manter ou melhorar a segurança operacional e que os benefícios de sua
+divulgação superam os impactos adversos que tal divulgação terá na coleta e
+disponibilidade futuras de dados e informações de segurança operacional.
+NOTA 1: Ao tomar a decisão, a autoridade competente deve levar em consideração o
+consentimento das fontes dos dados e das informações de segurança
+operacional do SISCEAB.
+NOTA 2: Diferentes autoridades competentes podem ser designadas em diferentes
+circunstâncias. Autoridades competentes podem incluir (mas não se limitam às)
+as autoridades judiciais ou outras responsáveis por atividades de segurança
+operacional, segurança da aviação etc., designadas em consonância com a
+legislação pertinente.
+9.9 DIVULGAÇÃO AO PÚBLICO
+9.9.1 No contexto de solicitações de divulgação pública, com base na Lei de Acesso à
+Informação, devem ser observadas as exceções à divulgação pública para garantir a
+continuidade da confidencialidade dos dados e informações de segurança fornecidos
+voluntariamente, conforme a garantia de confidencialidade da Lei SIPAER.
+9.9.2 Quando concedida pelo DECEA, a divulgação pública nos termos do item 9.8 somente
+poderá ser realizada conforme os requisitos a seguir:
+a) A divulgação de informações pessoais relevantes incluídas nos dados ou
+informações de segurança operacionais do SISCEAB deve atender às leis de
+privacidade aplicáveis.
+b) A divulgação pública dos dados ou informações de segurança operacional
+do SISCEAB deve ser feita de modo a não revelar as identidades, de forma
+direta ou indireta.
+9.10 RESPONSABILIDADE PELA PROTEÇÃO DOS DADOS DE SEGURANÇA E
+INFORMAÇÕES DE SEGURANÇA
+9.10.1 A ASEGCEA, as OPSNA, as EPSNA e seus PSNA devem assegurar que seus sistemas
+de coleta e processamento de dados de segurança operacional tenham um profissional
+designado, responsável pela aplicação das disposições constantes nesta norma, relativas à
+guarda e proteção dos dados e informações de segurança operacional.
+NOTA: A designação de um profissional responsável não exime a sua organização das
+responsabilidades pela custódia dos dados e informações de segurança
+operacional.
+
+--- PÁGINA ---
+46/47 ICA 81-2/2022
+10 DISPOSIÇÕES FINAIS
+10.1 RECURSOS NECESSÁRIOS
+Sem prejuízo do preconizado na legislação vigente, a execução das ações
+estabelecidas nesta Instrução será custeada com recursos de cada Organização ou Entidade
+Provedora de Serviços de Navegação Aérea.
+10.2 SUPERVISÃO
+A supervisão do cumprimento desta Instrução é de competência do Diretor-
+Geral do DECEA, por intermédio da Assessoria de Segurança Operacional no Controle do
+Espaço Aéreo (ASEGCEA).
+10.3 CASOS NÃO PREVISTOS
+Os casos não previstos nesta Instrução serão submetidos à apreciação do
+Diretor- Geral do DECEA, por intermédio da ASEGCEA.
+
+--- PÁGINA ---
+ICA 81-2/2022 47/47
+REFERÊNCIAS
+BRASIL. Comando da Aeronáutica. Comando-Geral do Pessoal. Confecção, Controle e
+Numeração de Publicações Oficiais do Comando da Aeronáutica: NSCA 5-1. [Rio de
+Janeiro], 2011
+BRASIL. Comitê de Segurança Operacional da Aviação Civil Brasileira (COMAER/ANAC).
+Programa Brasileiro para a Segurança Operacional da Aviação Civil: PSO-BR (2019-2022).
+[Brasília], 2019.
+BRASIL. Comando da Aeronáutica. Programa de Segurança Operacional Específico do
+Comando da Aeronáutica (PSOE-COMAER): DCA 63-5. [Brasília], 2018.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Sistema de
+Gerenciamento da Segurança Operacional: DCA 63-3. [Rio de Janeiro], 2015.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Ocorrências
+de Tráfego Aéreo: ICA 81-1. [Rio de Janeiro], 2020.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Manual do
+Gerenciamento do Risco à Fadiga no ATC: MCA 81-1. [Rio de Janeiro], 2020.
+CANADÁ. Organização de Aviação Civil Internacional (ICAO). Anexo 19 à Convenção de
+Aviação Civil Internacional: Gerenciamento da Segurança Operacional. 2. ed. [Montreal],
+2016.
+CANADÁ. Organização de Aviação Civil Internacional (ICAO). Manual do Gerenciamento
+da Segurança Operacional. Doc 9859. 4. ed. [Montreal], 2018.

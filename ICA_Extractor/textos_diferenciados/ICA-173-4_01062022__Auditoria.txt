@@ -1,0 +1,1051 @@
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+AUDITORIA
+ICA 173-4
+AUDITORIA TÉCNICA NO SISCEAB
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+AUDITORIA
+ICA 173-4
+AUDITORIA TÉCNICA NO SISCEAB
+2022
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+MINISTÉRIO DA DEFESA
+COMANDO DA AERONÁUTICA
+DEPARTAMENTO DE CONTROLE DO ESPAÇO AÉREO
+PORTARIA DECEA Nº 183/SNOT, DE 12 DE MAIO DE 2022.
+Aprova a reedição da Instrução que
+disciplina os procedimentos de Auditoria
+Técnica no Sistema de Controle do
+Espaço Aéreo Brasileiro (SISCEAB).
+O DIRETOR-GERAL DO DEPARTAMENTO DE CONTROLE DO
+ESPAÇO AÉREO, de conformidade com o previsto no art. 19, inciso I, Anexo I, da
+Estrutura Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 6.834, de 30 de
+abril de 2009, de acordo com o art. 10, inciso IV, do Regulamento do DECEA, aprovado pela
+Portaria nº 2.030/GC3, de 22 de novembro de 2019, resolve:
+Art. 1º Aprovar a reedição da ICA 173-4 “Auditoria Técnica no SISCEAB”,
+que com esta baixa.
+Art. 2º Revogar a Portaria nº 228/DGCEA, de 23 de julho de 2015, publicada
+no BCA nº 141, de 30 de julho de 2015.
+Art. 3º Esta Instrução entra em vigor em 1º de junho de 2022.
+Ten Brig Ar JOÃO TADEU FIORENTINI
+Diretor-Geral do DECEA
+(Publicado no BCA nº 096, de 24 de maio de 2022)
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 173-4/2022
+SUMÁRIO
+1 DISPOSIÇÕES PRELIMINARES .................................................................................. 9
+1.1 FINALIDADE ..................................................................................................................... 9
+1.2 ÂMBITO ............................................................................................................................. 9
+1.3 COMPETÊNCIAS .............................................................................................................. 9
+1.4 ABREVIATURAS ............................................................................................................ 12
+1.5 DEFINICÕES .................................................................................................................... 13
+2 PRINCÍPIOS DO PROCESSO DE AVALIAÇÃO TÉCNICA .................................. 18
+3 DISPOSIÇÕES GERAIS ................................................................................................ 19
+3.1 ATRIBUIÇÕES ................................................................................................................. 19
+3.2 TIPOS DE AUDITORIAS ................................................................................................ 21
+3.3 CORPO DE AUDITORES TÉCNICOS ........................................................................... 22
+3.4 COMISSÃO ESPECIAL DE AVALIAÇÃO TÉCNICA .................................................. 23
+4 PROCESSO DE AVALIAÇÃO TÉCNICA .................................................................. 25
+4.1 DESCRIÇÃO DO PROCESSO ........................................................................................ 25
+4.2 INSUMOS PARA O PROCESSO DE AVALIAÇÃO ..................................................... 25
+5 PROCESSO DE AUDITORIA TÉCNICA ................................................................... 26
+5.1 ÁREAS TÉCNICAS CONSIDERADAS .......................................................................... 26
+5.2 PROTOCOLOS DE AUDITORIA TÉCNICA E FICHAS DE NÃO CONFORMIDADES 26
+5.3 ORGANIZAÇÕES SUBMETIDAS ÀS AUDITORIAS TÉCNICAS .............................. 28
+5.4 PERIODICIDADE DAS AUDITORIAS TÉCNICAS ...................................................... 28
+5.5 PLANEJAMENTO DAS AUDITORIAS PERIÓDICAS ................................................. 29
+5.6 FASES DO PROCESSO ................................................................................................... 30
+6 PRODUTOS DECORRENTES DO PROCESSO DE AUDITORIA TÉCNICA ..... 34
+7 DISPOSIÇÕES FINAIS .................................................................................................. 35
+REFERÊNCIAS............................................................................................................... 36
+Anexo A – Modelo de Credencial de Auditor Técnico ................................................. 37
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 173-4/2022
+PREFÁCIO
+A constante busca pela excelência na prestação dos serviços pelo Sistema de
+Controle do Espaço Aéreo (SISCEAB) faz com que o Subdepartamento Técnico do DECEA
+(SDTE), como Autoridade Reguladora de Manutenção (ARM), realize a gestão dos assuntos
+que lhe são pertinentes, voltados à filosofia da Qualidade, à Segurança dos meios técnicos
+implantados, à Capacitação de pessoas e às atividades de Manutenção e Logística.
+Em face desse desafio, em 2017, o DECEA publicou a DCA 66-3, que dispõe
+sobre a Governança para Manutenção do Sistema de Controle do Espaço Aéreo Brasileiro,
+adotando novos modelos para as atividades de manutenção e evoluindo seu sistema de gestão
+pelo emprego de modernos mecanismos e controles com vistas à redução de custos sem
+sacrifício dos ótimos índices de disponibilidade de sistema hoje observados.
+A partir do amadurecimento relativo ao modelo de gestão por processos,
+identificou-se a necessidade de fomentar uma padronização de normas, visando ao seu fiel
+cumprimento por todos os integrantes das organizações do SISCEAB, estabelecendo uma
+visão sistêmica com a troca de experiências e a implantação de boas práticas com a
+implementação da Auditoria Técnica. Assim, cada profissional assume sua parcela de
+responsabilidade no processo de realização dos produtos finais do Sistema como um todo.
+Através da comparação entre as referências normativas sistêmicas, por
+intermédio de observações criteriosas e protocolos aplicados durante as auditorias, realiza-se o
+delineamento de eventuais não conformidades, que serão alvo de ações corretivas, a serem
+planejadas e executadas de forma consistente e oportuna, sendo esse o plano adotado pelo
+SDTE para a completa identificação do real cenário da qualidade e segurança dos serviços
+prestados pelos meios técnicos ao SISCEAB.
+Diante dessa perspectiva, a Instrução de Auditoria Técnica foi concebida pelo
+Subdepartamento Técnico do DECEA como atividade sinérgica, na qual os seus produtos não
+se limitam à sua demanda primária, mas se expandem de forma multivalente e proativa. Sendo
+assim, pode ser considerada uma ferramenta fundamental à filosofia da Qualidade e Segurança
+do Controle e Defesa do Espaço Aéreo Brasileiro.
+
+--- PÁGINA ---
+
+--- PÁGINA ---
+ICA 173-4/2022
+1 DISPOSIÇÕES PRELIMINARES
+1.1 FINALIDADE
+Estabelecer orientações para o processo de Auditoria Técnica dentro do
+contexto de Avaliação Técnica aplicado no SISCEAB.
+1.2 ÂMBITO
+Esta Instrução aplica-se a todos os elos do SISCEAB e às empresas contratadas
+para prestação de suporte logístico.
+1.3 COMPETÊNCIAS
+1.3.1 Ao Subdepartamento Técnico do DECEA (SDTE) compete:
+1.3.1.1 Normatizar e emitir ações e diretrizes técnicas/logísticas para implantação e suporte
+aos equipamentos e sistemas requeridos para o DECEA.
+1.3.1.2 Planejar as necessidades e a definição dos requisitos técnicos e de suporte logístico a
+esses equipamentos e sistemas.
+1.3.1.3 Acompanhar o controle das atividades relacionadas ao suporte e à disponibilidade dos
+equipamentos e sistemas instalados.
+1.3.1.4 Supervisionar o funcionamento e o grau de desempenho dos sistemas e estruturas
+logísticas implantados, de acordo com as diretrizes estabelecidas, e as atribuições decorrentes
+da função de Elo de Coordenação Setorial do STI para o DECEA. O Elo de Coordenação do
+STI é o SDTE.
+1.3.2 À Divisão de Normas e Avaliação Técnica do SDTE (DNAT) compete:
+1.3.2.1 Identificar e informar à Divisão de Suporte à Navegação do SDTE (DNAV) e à
+Divisão de Tecnologia da Informação e Comunicações do SDTE (DTIC) as lacunas de normas
+e outros documentos necessários ao balizamento dos trabalhos da DNAT;
+1.3.2.2 Estabelecer e manter registros atualizados de indicadores para acompanhamento e
+aferição do desempenho técnico-operacional e logístico dos equipamentos e sistemas
+instalados no SISCEAB;
+1.3.2.3 Identificar as não conformidades no desempenho e propor a adoção de medidas de
+caráter preventivo e corretivo de falhas e/ou aprimoramentos dos processos e atividades de
+coordenação do SDTE;
+1.3.2.4 Elaborar e coordenar a execução do cronograma de auditorias técnicas e respectivas
+Instruções de Serviço do SDTE;
+1.3.2.5 Acompanhar e fiscalizar o cumprimento das orientações, ações e procedimentos
+estabelecidos nos planos, diretrizes, normas, pareceres e outras legislações de natureza técnica
+ou logística aplicáveis ao DECEA;
+
+--- PÁGINA ---
+10/37 ICA 173-4/2022
+1.3.2.6 Coordenar a participação do SDTE nas auditorias sistêmicas do DECEA aplicadas às
+OM subordinadas, consolidando os dados técnicos e logísticos nos relatórios de auditorias e
+monitorando as ações propostas;
+1.3.2.7 Consolidar o Plano Geral de Ações Corretivas do SDTE referente às não
+conformidades observadas nas auditorias técnicas;
+1.3.2.8 Emitir relatórios técnicos, análises, estudos, pareceres e projetos a respeito de assuntos
+relacionados à DNAT;
+1.3.2.9 Coordenar a confecção das normas técnicas de responsabilidade do SDTE;
+1.3.2.10 Incluir as normas técnicas do SDTE no PLANSET do DECEA;
+1.3.2.11 Coordenar com o órgão central do SISDOC a regulamentação, emissão e divulgação
+das normas técnicas do SDTE;
+1.3.2.12 Manter atualizada a relação de normas de responsabilidade de cada uma das Divisões
+do SDTE, coordenando as atualizações ou os cancelamentos de tais publicações, propiciando
+a aplicabilidade e a confiabilidade na base de dados referente aos instrumentos normativos do
+SDTE;
+1.3.2.13 Coordenar a emissão, atualização e revogação de normas com órgãos e setores do
+DECEA, com Organizações Militares e com instituições pertinentes;
+1.3.2.14 Informar o SDAD da necessidade de cursos técnicos para a composição do PAEAT
+do ano subsequente, por intermédio de antecipada coordenação entre as OM Subordinadas ao
+DECEA e o SDAD;
+1.3.2.15 Acompanhar a execução de cursos técnicos do PAEAT e pertinentes ao SDTE;
+1.3.2.16 Coordenar o planejamento das necessidades de missões técnicas do SDTE no
+PLAMTAX;
+1.3.2.17 Coordenar a identificação de necessidades de capacitação no Brasil e no exterior, por
+meio do PLAMENS e do PACESP;
+1.3.2.18 Coordenar com os órgãos de manutenção e com a CISCEA as ações necessárias para
+a adequada compra e execução de cursos e treinamentos junto aos fornecedores de
+equipamentos e sistemas;
+1.3.2.19 Receber, avaliar e encaminhar aos especialistas designados pelas chefias das Divisões
+do SDTE as propostas de emendas dos Anexos nº 5 e nº 10, da OACI;
+1.3.2.20 Coordenar, no âmbito do SDTE, as atividades dos especialistas designados pelas
+chefias das Divisões do SDTE para atualização permanente das Listas de Conformidades
+(Checklist Compliance) e do Arquivamento Eletrônico das Diferenças (Electronic Filing of
+Differences), ambos do Sistema Estruturado em Tempo Real (on line framework), e relativos
+aos Anexos nº 5 e nº 10, da OACI;
+
+--- PÁGINA ---
+ICA 173-4/2022 11/37
+1.3.2.21 Confeccionar e manter atualizada a norma relativa ao processo de concessão de
+licenças e Certificados de Habilitação Técnica para os técnicos que intervém nos
+equipamentos e sistemas do SISCEAB; e
+1.3.2.22 Coordenar, no âmbito do SDTE, as atividades dos especialistas designados pelas
+chefias das Divisões do SDTE em eventuais auditorias presenciais.
+1.3.3 À Seção de Auditoria e Avaliação Técnica do SDTE (SAAT) compete:
+1.3.3.1 Elaborar e coordenar a execução do cronograma de auditorias técnicas e respectivas
+Instruções de Serviço do SDTE;
+1.3.3.2 Auditar o desempenho dos processos de suporte técnico e logístico aos equipamentos e
+sistemas instalados no SISCEAB;
+1.3.3.3 Auditar o desempenho técnico-operacional desses equipamentos ou sistemas de
+acordo com as diretrizes emitidas pela DNAV e pela DTIC;
+1.3.3.4 Auditar o nível de qualificação dos recursos humanos alocados nas respectivas áreas
+técnicas do SISCEAB;
+1.3.3.5 Participar, juntamente com os especialistas designados pelo PAME-RJ, das auditorias
+sistêmicas do DECEA às OM subordinadas, consolidando os dados técnicos e logísticos para
+registro no Relatório de Avaliação Técnica do SDTE e monitorando as ações propostas;
+1.3.3.6 Auditar o cumprimento de orientações, procedimentos, ações e cronogramas
+estabelecidos nos planos, diretrizes, normas, programas e contratos de natureza técnica ou
+logística aplicáveis ao SISCEAB;
+1.3.3.7 Estabelecer e manter registros atualizados de indicadores para acompanhamento e
+aferição do desempenho técnico-operacional e logístico dos equipamentos e sistemas
+instalados no SISCEAB;
+1.3.3.8 Identificar as necessidades de atualizações técnicas existentes na rede de
+equipamentos, sistemas e infraestrutura do âmbito do SISCEAB; e
+1.3.3.9 Emitir relatórios técnicos de não conformidades, análises, estudos, pareceres e projetos
+a respeito de assuntos relacionados à SAAT.
+1.3.3.10 À DNAV e à DTIC compete:
+1.3.3.10.1 Apoiar a DNAT na análise dos Relatórios de Avaliação Técnica do SDTE e quanto
+à emissão de pareceres do PAC, relativos aos assuntos da sua área de atuação.
+1.3.3.10.2 Indicar Auditores das respectivas áreas técnicas, sob sua responsabilidade, para a
+formação da Equipe de Auditoria, acatando a programação estabelecida pelo SDTE para a
+realização das AUDTEC.
+1.3.3.10.3 Indicar representantes para realizar as revisões dos Protocolos de Auditoria Técnica
+sob suas responsabilidades.
+
+--- PÁGINA ---
+12/37 ICA 173-4/2022
+1.3.3.10.4 Acompanhar no SISAUDTEC, on-line, o andamento das AUDTEC, bem como
+verificar os óbices contidos no Relatório de Auditoria Técnica, acatando a programação
+estabelecida pelo SDTE.
+1.3.3.10.5 Avaliar o PLANAD e RAT, relativos aos assuntos da sua área de atuação, e
+atualizar no SISAUDTEC as ações corretivas, visando à solução dos problemas encontrados.
+1.3.3.10.6 Prover o assessoramento necessário para a elaboração da proposta de recursos
+orçamentários, no que tange aos projetos sob a coordenação do SDTE, com base nos produtos
+decorrentes das AUDTEC.
+1.3.3.10.7 Confeccionar e atualizar as normas e diretrizes técnicas e logísticas relativas aos
+processos sob responsabilidade, bem como elaborar e manter atualizadas as normas e
+diretrizes técnicas solicitadas pela DNAT.
+1.4 ABREVIATURAS
+ARM – Autoridade Reguladora de Manutenção.
+AUDTEC – Auditoria Técnica do SISCEAB.
+AUDITEC – Auditor Técnico do SISCEAB.
+CEM – Centro Especial de Manutenção.
+CINDACTA – Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo.
+CISCEA – Comissão de Implantação do Sistema de Controle do Espaço Aéreo.
+CRCEA-SE – Centro Regional de Controle do Espaço Aéreo Sudeste.
+CRM – Centro Regional de Manutenção.
+DNAT – Divisão de Normas e Avaliação Técnica do SDTE.
+DNAV – Divisão de Suporte à Navegação do SDTE.
+DTIC - Divisão de Tecnologia da Informação e Comunicações do SDTE.
+DECEA - Departamento de Controle do Espaço Aéreo.
+DTCEA - Destacamento de Controle do Espaço Aéreo.
+EM - Estação de Manutenção.
+GCC - Grupo de Comunicações e Controle.
+GEIV - Grupo Especial de Inspeção em Voo.
+OACI - Organização de Aviação Civil Internacional.
+OCM - Órgão Central de Manutenção.
+OMA - Órgão de Manutenção da Autorizada.
+PACESP - Programa Anual de Cursos Especiais.
+PACI - Plano Anual de Calibração de Instrumentos.
+PAME-RJ - Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro.
+PAEAT - Programa de Atividades de Ensino e Atualização Técnica.
+
+--- PÁGINA ---
+ICA 173-4/2022 13/37
+PLAMENS - Plano de Missões de Ensino.
+PLAMTAX - Plano de Missões Técnico-Administrativas no Exterior.
+PLANSET - Plano Setorial.
+PSM - Prestador de Serviço de Manutenção.
+SAAT - Seção de Auditoria e Avaliação Técnica do SDTE.
+SDTE - Subdepartamento Técnico do DECEA.
+STI - Sistema de Tecnologia da Informação da Aeronáutica.
+SISCEAB - Sistema de Controle do Espaço Aéreo Brasileiro.
+SISDOC - Sistema de Documentação do Comando da Aeronáutica.
+1.5 DEFINICÕES
+1.5.1 AUDITORIA
+É o exame cuidadoso e sistemático das atividades desenvolvidas em
+determinada empresa ou setor, cujo objetivo é averiguar se elas estão de acordo com as
+disposições planejadas e/ou estabelecidas previamente, se foram implementadas com eficácia
+e se estão adequadas (em conformidade) à consecução dos objetivos.
+1.5.2 AUDITORIA TÉCNICA
+1.5.2.1 É uma das etapas do processo de avaliação de um órgão técnico pertencente ao
+SISCEAB, através de parâmetros definidos em legislações e experiências da Equipe de
+Auditoria, usada como indicador da qualidade dos serviços prestados pelos meios técnicos do
+SISCEAB, detecção dos óbices existentes e delineamento de ações de correção.
+1.5.2.2 É aprovada e controlada pelo SDTE para ser cumprida em qualquer elo do SISCEAB
+por equipe composta de Auditores Técnicos do SISCEAB devidamente habilitados.
+1.5.3 AUDITORIA TÉCNICA ESPECIAL
+1.5.3.1 É a Auditoria não periódica, determinada para acompanhamento eventual da qualidade
+dos serviços prestados pelos meios técnicos do SISCEAB.
+1.5.3.2 É acionada pelo SDTE para ser cumprida em qualquer elo do SISCEAB. As equipes
+para esse tipo de auditoria serão escaladas, pelo SDTE, dentre o corpo de Auditores Técnicos
+do SISCEAB devidamente habilitados.
+1.5.4 AUDITORIA TÉCNICA PERIÓDICA
+1.5.4.1 É uma Auditoria regular, planejada anualmente, com antecedência em consideração a
+parâmetros definidos.
+1.5.4.2 É aprovada pelo SDTE para ser cumprida em qualquer elo do SISCEAB por equipe
+composta de Auditores Técnicos do SISCEAB devidamente habilitados.
+
+--- PÁGINA ---
+14/37 ICA 173-4/2022
+1.5.5 AUDITORIA TÉCNICA ORGÂNICA
+Realizada por Auditores de um determinado Centro Regional de Manutenção
+em seus Centros Especiais de Manutenção ou PSM.
+1.5.6 AUDITORIA TÉCNICA SISTÊMICA
+As Auditorias Técnicas Sistêmicas, realizadas pelo SDTE, são todas as
+auditorias cumpridas por Auditores externos ao efetivo do Órgão de Manutenção auditado.
+1.5.7 AUDITOR TÉCNICO
+É o profissional habilitado pelo SDTE para realizar as Auditorias Técnicas
+dentro do SISCEAB.
+1.5.8 AVALIAÇÃO TÉCNICA
+É o processo que visa a prover dados para o estabelecimento de ações
+necessárias à manutenção de índices aceitáveis de disponibilidade e qualidade dos serviços
+prestados pelo SISCEAB.
+1.5.9 CREDENCIAL DE AUDITOR TÉCNICO
+Credencial funcional do Auditor Técnico que confirma sua autoridade delegada
+pelo SDTE para o exercício de suas responsabilidades nas AUDTEC, bem como lhe
+proporciona o acesso irrestrito a locais e a documentos pertinentes ao processo de Auditoria,
+conforme modelo definido no Anexo A, da presente Instrução.
+1.5.10 CHEFE DE EQUIPE
+Componente hierarquicamente mais antigo da Equipe de Auditoria e que tem
+por atribuições, dentre outras, orientar e coordenar as ações de Auditoria Técnica.
+1.5.11 COMISSÃO ESPECIAL DE AVALIAÇÃO TÉCNICA
+1.5.11.1 Equipe especificamente formada para analisar, quando necessário, as informações de
+um Relatório de Auditoria Técnica, com vistas a compor o respectivo Programa de Ações
+Corretivas, concernente a um PSM auditado.
+1.5.11.2 É composta, dentre outros julgados necessários ao processo, de representantes do
+SDTE e do OCM e, eventualmente, de representantes do Centro Regional de Manutenção ao
+qual se subordina ou vincula o PSM auditado e da CISCEA.
+1.5.12 CONTRAPARTE
+É o representante do PSM auditado, com responsabilidade delegada pelo seu
+Comandante, Diretor ou Chefe, que deverá acompanhar toda a Auditoria e prestar os devidos
+esclarecimentos solicitados pelo Auditor.
+
+--- PÁGINA ---
+ICA 173-4/2022 15/37
+1.5.13 CRÍTICA AUDTEC
+Parte do procedimento de AUDTEC que visa, através da coleta de sugestões
+dos Auditores e dos PSM auditados, ao aperfeiçoamento do processo de avaliação técnica.
+1.5.14 ESTUDOS DE CASO
+Procedimento que permite a gestão logística e adquirir conhecimento com base
+nas experiências acumuladas ou depreendidas das Auditorias Técnicas realizadas nos diversos
+PSM do SISCEAB.
+1.5.15 EVIDÊNCIA
+É a comprovação de um procedimento adotado na contrapartida da comparação
+entre as atividades desenvolvidas e um parâmetro predefinido e esperado (Protocolo).
+1.5.16 FICHAS DE NÃO CONFORMIDADES
+Fichas de modelo padronizado, nas quais são descritas as não conformidades e
+respectivas recomendações, encontradas na AUDTEC de um ou mais meios técnicos
+pertencentes a um determinado PSM do SISCEAB.
+1.5.17 IMPACTO TÉCNICO (IT)
+Classificação da magnitude do risco de uma não conformidade técnica da qual
+se depreendem prazos máximos para a sua correção e, quando aplicável, sua mitigação.
+1.5.18 IMPACTO TÉCNICO RELATIVO (ITR)
+Conversão da magnitude do Impacto Técnico de uma não conformidade
+técnica, para fins de padronização com o processo de Auditoria Técnica do SISCEAB.
+1.5.19 INSUMOS
+São informações oriundas de diversas fontes consideradas pelo SDTE como
+fidedignas e suficientes para a abertura de um procedimento avaliatório de um meio técnico
+do SISCEAB.
+1.5.20 MATRIZ DE AVALIAÇÃO
+É a matriz que contém os aspectos de avaliação, utilizados nos Protocolos de
+Auditoria Técnica, que balizam a interpretação do Auditor e do auditado acerca da evidência
+buscada. Encontra-se detalhada na DCA 173-2 “Auditoria Técnica do SISCEAB”.
+1.5.21 MEIO TÉCNICO DE CONTROLE DO ESPAÇO AÉREO
+São, dentre outros, quaisquer sistemas elétricos, eletrônicos, mecânicos e de
+tecnologia da informação aplicados ao controle do espaço aéreo.
+
+--- PÁGINA ---
+16/37 ICA 173-4/2022
+1.5.22 NÃO CONFORMIDADE
+Aspecto observado de um meio técnico que difere do estabelecido em
+Protocolos da AUDTEC ou determinações emanadas do SDTE.
+1.5.23 NORMA
+É a definição escrita de procedimentos que devem ser seguidos pelos PSM.
+1.5.24 ÓBICE
+Aspecto observado de um meio técnico que pode provocar risco à integridade
+da segurança técnica, da segurança operacional ou da vida humana.
+1.5.25 ORDEM DE AVALIAÇÃO TÉCNICA
+Documento formal em que o SDTE determina uma Avaliação a meios técnicos
+de um determinado elo do SISCEAB.
+1.5.26 ÓRGÃO CENTRAL DE MANUTENÇÃO (OCM)
+É o Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro
+(PAME-RJ).
+1.5.27 CENTROS ESPECIAIS DE MANUTENÇÃO (CEM)
+1.5.27.1 São as estruturas organizacionais que supervisionam diretamente os meios técnicos,
+dotadas de Oficinas Locais Especializadas.
+1.5.27.2 São considerados CEM: os DTCEA, 1º/1º GCC, 2º/1º GCC, 3º/1º GCC, 4º/1º GCC e
+5º/1º GCC.
+1.5.28 CENTROS REGIONAIS DE MANUTENÇÃO (CRM)
+1.5.28.1 São as Organizações do SISCEAB dotadas de Oficinas Regionais Especializadas,
+com gestão sobre o acervo técnico de determinada região sob sua responsabilidade
+operacional ou técnica, com atribuição para executar a manutenção dos sistemas,
+equipamentos, cartões e módulos do SISCEAB, sob sua responsabilidade, assim como
+executar as manutenções preventivas no seu nível.
+1.5.28.2 São considerados CRM: os CINDACTA, CRCEA-SE e 1º GCC.
+1.5.29 PROGRAMA DE AÇÕES CORRETIVAS (PAC)
+Programa que contempla as atividades de correção das não conformidades
+encontradas nas Auditorias Técnicas.
+1.5.30 PLANO DE AÇÕES DELINEADAS (PLANAD)
+Plano que contém as informações extraídas das observações da AUDTEC, que
+requeiram, ou não, ações a serem programadas em um PAC. Caso as ações sejam de
+
+--- PÁGINA ---
+ICA 173-4/2022 17/37
+competência do SDTE ou OCM, serão chamadas PLANAD; caso sejam do CRM, serão
+chamadas PLANAD-R.
+1.5.31 PRÁTICA RECOMENDADA
+É a definição de procedimentos que devem ser observados, como, por exemplo,
+busca na melhoria da qualidade dos serviços prestados.
+1.5.32 PROCESSO DE AVALIAÇÃO TÉCNICA
+1.5.32.1 Parte do processo de tomada de decisão do SDTE.
+1.5.32.2 É a sequência de ações tomadas para se chegar à conclusão fundamentada acerca da
+qualidade do serviço prestado por determinado meio técnico e das possíveis ações corretivas
+cabíveis.
+1.5.33 PROTOCOLO DE AUDITORIA TÉCNICA
+Conjunto de questionamentos feitos ao PSM, através da sua contraparte,
+baseados em normas e legislação em vigor, nas quais o Auditor se baseará para efetuar a
+auditoria.
+1.5.34 RELATÓRIO DE ATUALIZAÇÕES TÉCNICAS (RAT)
+Planejamento que contempla as atividades de correção dos óbices avaliados
+pela DNAT, apurados pelo órgão inspecionado e apresentados à equipe de auditoria, que
+possam vir a resultar em elevados impactos técnicos ou operacionais. As ações programadas
+são de competência exclusiva do SDTE.
+1.5.35 RELATÓRIO DE AVALIAÇÃO TÉCNICA
+É a juntada dos fatores determinantes do processo (insumos), da Ordem de
+Avaliação Técnica, do Relatório de Auditoria Técnica, dos Programas de Ações Corretivas e
+de quaisquer outros documentos necessários e aplicáveis ao processo de avaliação de um
+determinado meio técnico.
+1.5.36 RELATÓRIO DE AUDITORIA TÉCNICA
+1.5.36.1 É o documento que fornece um panorama detalhado das informações oriundas da
+AUDTEC, descrevendo as observações e considerações feitas pela Equipe de Auditoria nos
+meios técnicos auditados.
+1.5.36.2 É juntado a outros documentos considerados relevantes, quando de sua remessa ao
+SDTE, ao término da Auditoria Técnica.
+1.5.37 RESPONSÁVEL TÉCNICO
+Representante do PSM auditado, com responsabilidade delegada pelo seu
+Comandante, Diretor ou Chefe, para assinar as Fichas de Não Conformidades, elaborar e
+encaminhar o Programa de Ações Corretivas ao SDTE, bem como apoiar e acompanhar a
+atividade de Auditoria Técnica em sua Organização.
+
+--- PÁGINA ---
+18/37 ICA 173-4/2022
+2 PRINCÍPIOS DO PROCESSO DE AVALIAÇÃO TÉCNICA
+No transcorrer dos processos de Avaliação Técnica do SISCEAB, neles inclusas as
+atividades de Auditoria Técnica, serão respeitados os princípios a seguir descritos, baseados
+nos princípios da Constituição Federal, promulgada em 5 de outubro de 1988 e
+complementada pela Emenda Constitucional nº 19, de 4 de julho 1998, que estabelece, no art.
+37, que as Administrações Públicas Direta, Indireta ou Fundacional, de qualquer dos Poderes
+da União, dos Estados, do Distrito Federal e dos Municípios, obedecerão aos princípios da
+Legalidade, da Impessoalidade, da Moralidade, da Publicidade e da Eficiência.
+2.1 O Princípio da Legalidade vincula as ações da Auditoria Técnica às leis e às normas
+vigentes.
+2.1.1 As auditorias deverão considerar as normas de referência. Caso ainda não existam, o
+processo indicará a necessidade do registro de instruções voltadas ao assunto.
+2.2 O princípio da Impessoalidade promove a imparcialidade e a isenção da opinião. Limita-
+se, com esse princípio, qualquer tratamento discriminatório ou preferencial.
+2.2.1 A utilização dos Protocolos como referência das atividades de Auditoria Técnica
+prestigia a impessoalidade do processo.
+2.3 O princípio da Moralidade produz, no processo de Auditoria Técnica, a correção na
+aplicação dos recursos disponíveis.
+2.4 O princípio da Publicidade preconiza a transparência de todo o processo de Auditoria
+Técnica, mediante ampla divulgação de todos os seus atos, para quem deles necessita ter
+conhecimento.
+2.5 O princípio da Eficiência impõe ao processo de Auditoria Técnica um caminho ótimo de
+atuação, com resultados favoráveis à consecução e à manutenção da excelência na prestação
+dos serviços de suporte logístico.
+
+--- PÁGINA ---
+ICA 173-4/2022 19/37
+3 DISPOSIÇÕES GERAIS
+3.1 ATRIBUIÇÕES
+3.1.1 VICE-DIRETOR DO DECEA
+3.1.1.1 Prover recursos creditícios para as atividades de Avaliação Técnica no SISCEAB.
+3.1.2 CHEFE DO SDTE
+3.1.2.1 Aprovar o Plano de Auditorias Técnicas Periódicas e determinar as Avaliações
+Especiais, quando necessário;
+3.1.2.2 Solicitar provisão oportuna de meios para a solução de não conformidades constantes
+dos Programas de Ações Corretivas.
+3.1.2.3 Solicitar a provisão oportuna dos recursos creditícios necessários à realização da
+atividade de Avaliação Técnica no SISCEAB;
+3.1.2.4 Definir a priorização das atividades e projetos da área do SDTE, que irão compor o
+PLANSET do DECEA, baseada nos produtos decorrentes do processo de Auditoria Técnica,
+no que for pertinente e em conformidade com o item 4.2.6, da DCA 173-2.
+3.1.3 DIRETOR DO OCM
+3.1.3.1 Assistir às orientações definidas pela ARM por meio do Plano de Auditorias Técnicas
+Periódicas e Ordens de Avaliações Especiais.
+3.1.3.2 Apoiar a atividade de Avaliação Técnica no OCM, designando pessoal qualificado
+para acompanhar as atividades previstas e para composição das equipes de Auditoria Técnica
+designadas pelo DECEA, dando-lhes suporte administrativo para a execução de suas
+atribuições.
+3.1.3.3 Designar representante para as Comissões Especiais de Avaliação Técnica, com
+delegação de competência para definir ações corretivas sistêmicas para os óbices técnicos
+encontrados no transcorrer das auditorias realizadas no SISCEAB.
+3.1.3.4 Promover a correção eficaz das não conformidades identificadas e registradas, através
+do PAC e PLANAD-R, cuja responsabilidade seja do OCM.
+3.1.3.5 Aprovar a Crítica AUDTEC, realizada pelo Responsável Técnico de sua Organização,
+após conclusão da Auditoria.
+3.1.3.6 Designar Responsável Técnico com delegação de competência para assinar as fichas
+de não conformidades, elaborar, encaminhar e acompanhar o Programa de Ações Corretivas
+ao SDTE.
+3.1.4 CHEFE DA DNAT
+3.1.4.1 Gerenciar a elaboração do Plano de Auditorias Técnicas Periódicas.
+
+--- PÁGINA ---
+20/37 ICA 173-4/2022
+3.1.4.2 Gerenciar a elaboração dos processos de habilitação e manutenção operacional do
+pessoal para as atividades de Auditoria Técnica do SISCEAB, provendo a capacitação
+necessária.
+3.1.4.3 Gerenciar a elaboração e atualização dos Protocolos de Auditoria Técnica para cada
+sistema considerado.
+3.1.4.4 Escalar as equipes de Auditorias Técnicas sistêmicas e aprovar as Equipes de
+Auditorias Técnicas Orgânicas encaminhadas pelos CRM.
+3.1.4.5 Gerenciar a disponibilização e atualização, através da página eletrônica do DECEA,
+dos arquivos dos documentos de interesse para o processo de Avaliação Técnica,
+especialmente as normas e os protocolos da AUDTEC.
+3.1.4.6 Gerenciar as atualizações das informações pertinentes ao processo de Avaliação
+Técnica inseridas no banco de dados da DNAT.
+3.1.4.7 Assessorar o SDTE, quando necessário, na realização de Auditoria Especial em um
+determinado PSM.
+3.1.5 COMANDANTE/CHEFE DOS CRM E CEM
+3.1.5.1 Cumprir as orientações definidas pelo SDTE por meio do Plano de Auditorias
+Técnicas Periódicas e Ordens de Avaliações Especiais.
+3.1.5.2 Apoiar a atividade de Auditoria Técnica em sua Organização, designando pessoal
+qualificado para acompanhar as atividades previstas e para a composição das equipes de
+Auditores designados pelo DECEA, dando-lhes suporte administrativo para a execução de
+suas atribuições.
+3.1.5.3 Promover a correção eficaz das não conformidades identificadas e registradas, através
+do PAC e do PLANAD-R. Para o PLANAD-R as ações programadas são de competência do
+CRM.
+3.1.5.4 Cumprir o planejamento das Auditorias Técnicas Periódicas Orgânicas, enviando ao
+SDTE os respectivos Relatórios e documentos pertinentes à AUDTEC.
+3.1.5.5 Cientificar-se dos produtos e planejamentos inerentes às AUDTEC em órgãos a si
+subordinados.
+3.1.5.6 Aprovar a Crítica AUDTEC, realizada pelo Responsável Técnico de sua Organização,
+após conclusão da Auditoria.
+3.1.5.7 Designar Responsável Técnico com delegação de competência para assinar as fichas
+de não conformidades, elaborar, encaminhar e acompanhar o Programa de Ações Corretivas
+ao SDTE.
+3.1.6 AUDITORES TÉCNICOS (AUDITEC)
+3.1.6.1 Identificar evidências objetivas, mediante comparação das observações do sistema
+auditado com o que consta nos Protocolos de Auditoria Técnica.
+
+--- PÁGINA ---
+ICA 173-4/2022 21/37
+3.1.6.2 O AUDITEC deve manter sua competência técnica, atualizando-se quanto ao avanço
+de normas técnicas, processos e procedimentos aplicáveis à Auditoria.
+3.1.6.3 Executar as auditorias nos prazos determinados, em conformidade com as normas em
+vigor, a fim de atingir os objetivos propostos nas AUDTEC.
+3.1.6.4 No preenchimento das Fichas de Não Conformidades, nas conclusões e na elaboração
+do Relatório, o AUDITEC necessita agir com a devida precaução e zelo profissional, bem
+como praticar o bom senso em seus atos e recomendações.
+3.1.6.5 Assinar e colher as assinaturas nas Fichas de Não Conformidades e anexá-las ao
+Relatório de Auditoria Técnica.
+3.1.6.6 Assinar o Relatório de Auditoria Técnica e remetê-lo ao órgão superior que
+posteriormente o encaminhará ao SDTE, quando na função de Auditor Chefe de Equipe.
+3.1.6.7 Determinar ação corretiva imediata de item considerado crítico para a segurança das
+operações e meios técnicos.
+3.1.6.8 Orientar o gestor de manutenção e suprimento do meio técnico auditado sobre a ampla
+divulgação interna de norma sistêmica emitida pelo DECEA, caso julgue necessário.
+3.1.6.9 Apontar a inadequação das normas orgânicas às normas sistêmicas emitidas pelo
+DECEA, no sentido de corrigi-las.
+3.1.6.10 Apontar a inexistência de normas aplicáveis ao aspecto avaliado do meio técnico
+auditado.
+3.1.6.11 Guardar a confidencialidade das informações obtidas, mantendo o respeito ao valor e
+ao direito de propriedade, assim como não as divulgar a terceiros, sem autorização apropriada,
+a não ser em caso de obrigação judicial, legal ou profissional.
+3.1.6.12 Sugerir eventual atualização dos Protocolos de Auditoria Técnica por meio do
+sistema informatizado AUDTEC.
+3.1.6.13 Realizar a Crítica AUDTEC, após conclusão da Auditoria.
+3.2 TIPOS DE AUDITORIAS
+As Auditorias Técnicas do SISCEAB serão classificadas de acordo com sua
+periodicidade e âmbito.
+3.2.1 Quanto à periodicidade, as auditorias são classificadas como periódicas ou especiais. As
+auditorias especiais podem também ser classificadas como específicas, de oportunidade e de
+seguimento.
+3.2.1.1 As Auditorias Periódicas são aquelas constantes do Plano de Auditorias Técnicas
+Periódicas.
+3.2.1.2 As Auditorias Especiais são planejadas extraordinariamente, considerando as
+eventuais demandas apresentadas, e são determinadas pelo SDTE.
+
+--- PÁGINA ---
+22/37 ICA 173-4/2022
+3.2.1.2.1 As Auditorias Especiais Específicas dizem respeito a um determinado sistema
+técnico que, eventualmente, necessite ser analisado de forma mais aproximada.
+3.2.1.2.2 As Auditorias Especiais de Seguimento são aquelas realizadas com o objetivo de
+verificar o cumprimento do Programa de Ações Corretivas, relativas a uma Auditoria Técnica
+anterior. Este tipo de AUDTEC só deve ser realizado em caráter excepcional e quando o
+cumprimento do Programa de Ações Corretivas não puder ser comprovado através de
+documentação.
+3.2.1.2.3 As Auditorias Especiais de Seguimento visam a atualizar os itens constantes dos
+Programas de Ações Corretivas, de âmbito orgânico ou sistêmico, e deverão ser feitas,
+preferencialmente, em conjunto a outras Auditorias Técnicas de caráter periódico ou especial,
+após atualizações dos assuntos em questão emitidas pelo PSM auditado ao SDTE.
+3.2.1.2.4 As Auditorias Especiais de Oportunidade ocorrem extraordinariamente, sempre que
+forem observadas não conformidades em áreas não planejadas para uma determinada
+Auditoria.
+3.2.1.2.5 As Auditorias Especiais serão efetuadas sempre que um fato motivador significativo
+seja observado. São, dentre outros, fatores motivadores de Auditoria Especial: baixa
+disponibilidade ou baixa qualidade observada no serviço prestado, sistemas que tenham sido
+considerados como fator contribuinte para acidente ou incidente aeronáutico e por
+determinação superior.
+3.2.2 Quanto ao âmbito, as auditorias são classificadas como orgânicas ou sistêmicas.
+3.2.2.1 As Auditorias Orgânicas são aquelas realizadas pelo Centro Regional de Manutenção
+em Unidades a si subordinadas ou vinculadas, em sua área de responsabilidade. A aplicação
+dos Auditores nessas atividades é planejamento do próprio Centro Regional de Manutenção,
+devidamente aprovado pelo SDTE.
+3.2.2.2 Todas as Auditorias Técnicas de caráter sistêmico do SISCEAB são planejadas e
+determinadas pelo SDTE.
+3.2.2.3 As Auditorias Sistêmicas são todas as Auditorias cumpridas por Auditores externos ao
+efetivo do Órgão auditado e realizadas pelo SDTE. A aplicação dos Auditores nessas
+atividades é planejamento da DNAT, devidamente aprovado pelo SDTE.
+3.3 CORPO DE AUDITORES TÉCNICOS
+3.3.1 O Corpo de Auditores Técnicos é composto de profissionais com notório conhecimento
+técnico nos sistemas considerados para Auditoria Técnica, oriundos das diversas
+Organizações componentes do SISCEAB.
+3.3.1.1 Concorrerão ao Corpo de Auditores Técnicos os Oficiais e Civis de logística das
+Organizações subordinadas ao DECEA, os Graduados e Civis devidamente indicados por seus
+Comando/Chefia /Direção e aprovados pelo SDTE.
+3.3.1.2 O Auditor Técnico, no exercício de suas funções, é a representação do SDTE perante o
+Órgão auditado.
+
+--- PÁGINA ---
+ICA 173-4/2022 23/37
+3.3.2 A equipe de Auditoria Técnica será composta de Auditores credenciados pelo SDTE
+para a execução da atividade de Auditoria Técnica.
+3.3.3 A habilitação do Auditor Técnico inicia-se com sua indicação ao corpo de AUDITEC e
+a respectiva aprovação pelo SDTE. Os indicados aprovados serão inscritos no processo de
+formação, que contempla um treinamento setorial composto de aulas teóricas e práticas. As
+aulas teóricas poderão ser presenciais ou na modalidade de aula teórica remota em tempo real
+ou na modalidade de Educação a Distância (EAD) com videoaulas gravadas, no entanto, as
+aulas práticas serão presenciais.
+3.3.3.1 As aulas teóricas são comuns para todas as áreas técnicas consideradas. A
+diferenciação entre especialidades far-se-á durante as aulas práticas, em que serão tratados
+procedimentos importantes para a atividade de Auditoria considerada.
+3.3.3.2 Os Treinamentos Setoriais serão realizados no OCM ou nos Centros Regionais de
+Manutenção, sob a coordenação do SDTE.
+3.3.3.3 Ao término do processo de formação dos Auditores Técnicos, a DNAT providenciará
+a publicação do item da inclusão desses profissionais no Corpo de Auditores Técnicos do
+SISCEAB, no BCA, e os CRM deverão publicar a transcrição nos respectivos Boletins
+Internos de cada Organização.
+3.3.3.4 As credenciais dos Auditores Técnicos serão emitidas pelo SDTE, podendo, a
+qualquer momento, ser revogada para o Auditor julgado inapto ao exercício de suas
+atribuições.
+3.3.3.5 O SDTE deverá manter atualizada publicação que balize as ações do Auditor Técnico
+durante suas atividades.
+3.3.3.6 Os Auditores Técnicos realizarão a Auditoria nas áreas consideradas, registrando as
+evidências e as eventuais não conformidades relativas aos respectivos Protocolos. Os Chefes
+de Equipes emitirão os decorrentes Relatórios de Auditoria das atividades desenvolvidas.
+3.3.3.7 A Ordem para a realização de Auditorias periódicas deverá ser depreendida pelo
+AUDITEC, do contido no Corpo do Plano de Auditorias Técnicas Periódicas do SISCEAB.
+3.3.4 A Ordem de Auditoria Técnica Especial será remetida diretamente ao Auditor por meio
+eletrônico ou físico, através de sua cadeia de comando.
+3.3.5 Os Auditores Técnicos deverão registrar nos Relatórios de Auditoria, além das não
+conformidades, as necessidades de atualizações técnicas por eles eventualmente identificadas.
+3.4 COMISSÃO ESPECIAL DE AVALIAÇÃO TÉCNICA
+3.4.1 O SDTE poderá, no transcorrer da Fase de Avaliação de um determinado meio técnico,
+convocar uma Comissão Especial de Avaliação Técnica para análise dos dados
+disponibilizados pelos Relatórios Finais de Auditoria Técnica.
+3.4.2 Comporão a Comissão Especial de Avaliação Técnica, dentre outros julgados
+interessantes ao processo de Avaliação Técnica, representantes do SDTE e do OCM e,
+
+--- PÁGINA ---
+24/37 ICA 173-4/2022
+eventualmente, representantes do Centro Regional de Manutenção ao qual se subordina ou
+vincula o órgão auditado e da CISCEA.
+3.4.3 As conclusões da Comissão Especial de Avaliação Técnica deverão ser redigidas e
+registradas em um planejamento que contemplará as Ações Corretivas, a ser aprovado pelo
+SDTE.
+
+--- PÁGINA ---
+ICA 173-4/2022 25/37
+4 PROCESSO DE AVALIAÇÃO TÉCNICA
+4.1 DESCRIÇÃO DO PROCESSO
+O processo de Avaliação Técnica no Sistema de Controle do Espaço Aéreo é
+composto das três fases a seguir.
+4.1.1 FASE 1
+4.1.1.1 É a busca ou identificação de eventuais insumos. É o momento em que o SDTE
+percebe a necessidade de composição do processo de Avaliação, por determinação superior ou
+em função de informação que determine relevante melhoria ou manutenção da qualidade do
+serviço técnico prestado.
+4.1.1.2 Nesta fase, a AUDTEC, dentro do processo de avaliação, limita-se ao planejamento e
+à emissão do Plano de Auditorias Técnicas Periódicas ou das Ordens de Avaliação Especial.
+4.1.2 FASE 2
+4.1.2.1 É a coleta de evidências. A AUDTEC, através da aplicação de Protocolos de Auditoria
+Técnica, é uma produção de conhecimento registrado no Relatório de Auditoria Técnica.
+4.1.2.2 Nesta fase, a AUDTEC, dentro do processo de avaliação, é limitada à consolidação do
+Relatório de Auditoria Técnica e emissão das Fichas de Não Conformidades.
+4.1.3 FASE 3
+4.1.3.1 É a análise dos dados coletados e correção das não conformidades. A AUDTEC
+fornece informações através do Relatório de Auditoria Técnica e do Programa de Ações
+Corretivas Sistêmico.
+4.1.3.2 Nesta fase, a AUDTEC, dentro do processo de avaliação, permite a elaboração de um
+Programa de Ações Corretivas cujas ações são de responsabilidade do órgão competente para
+a solução da não conformidade.
+4.2 INSUMOS PARA O PROCESSO DE AVALIAÇÃO
+4.2.1 São, dentre outros, insumos para o processo de Avaliação Técnica:
+a) Ordem Superior;
+b) Módulo de Controle de Inoperâncias (MCI);
+c) SILOMS;
+d) Sistema de Gerenciamento Técnico;
+e) Indicadores Técnicos;
+f) Ciclo de Vida Útil dos meios implantados; e
+g) Relatórios Finais de Auditorias Técnicas Periódicas.
+
+--- PÁGINA ---
+26/37 ICA 173-4/2022
+5 PROCESSO DE AUDITORIA TÉCNICA
+5.1 ÁREAS TÉCNICAS CONSIDERADAS
+5.1.1 São áreas técnicas consideradas para efeito de Auditoria Técnica, dentre outras, a
+critério do SDTE:
+a) Navegação (NAV);
+b) Infraestrutura (IES);
+c) Planejamento Técnico (PLT);
+d) Radiodeterminação (RAD);
+e) Suprimento (SUP);
+f) Sistemas de Tecnologia da Informação (STI);
+g) Telecomunicações (TEL); e
+h) Outros Meios Técnicos (MIS).
+5.2 PROTOCOLOS DE AUDITORIA TÉCNICA E FICHAS DE NÃO CONFORMIDADES
+5.2.1 Protocolos são documentos em que se listam aspectos a serem auditados no sistema
+considerado, permitindo determinar por comparação quais as evidências se esperam observar.
+A evidência esperada é o alvo do trabalho do Auditor.
+5.2.1.1 Os Protocolos de Auditoria Técnica são propostos pela DNAT e devem ser, quando do
+término de uma Auditoria, criticados pela equipe de Auditores Técnicos, no sentido de
+aperfeiçoar os processos específicos para aquele meio técnico auditado e fomentar a produção
+de conhecimento.
+5.2.1.2 As observações dos Auditores aos Protocolos deverão ser realizadas na ferramenta
+AUDTEC e, depois de avaliadas, poderão ser efetivadas no Plano de Ações Delineadas
+(PLANAD). Nelas, o Auditor poderá, até mesmo, propor inclusão ou modificação de itens
+auditados dispostos nos documentos considerados.
+5.2.1.3 Os Protocolos Técnicos sofrerão revisões anualmente ou quando houver mudança em
+sua base normativa. Essas revisões serão coordenadas pela DNAT.
+5.2.1.4 Na preparação da Auditoria, a DNAT deverá disponibilizar os Protocolos a serem
+utilizados a todos os participantes do processo, em sua forma eletrônica, através do Sistema
+AUDTEC, com indicação da versão vigente e data de sua aprovação.
+5.2.1.5 Os itens dos Protocolos serão numerados ordinalmente, precedidos da respectiva área
+de atuação e da numeração dos subsistemas, conforme descrito a seguir.
+5.2.1.5.1 Navegação (NAV):
+a) Subitem 0 – Área Específica;
+b) Subitem 1 – Auxílios à Navegação;
+
+--- PÁGINA ---
+ICA 173-4/2022 27/37
+c) Subitem 2 – Auxílios Meteorológicos; e
+d) Subitem 3 – Auxílios Visuais.
+5.2.1.5.2 Infraestrutura (IES):
+a) Subitem 0 – Área Específica;
+b) Subitem 1 – Climatização;
+c) Subitem 2 – Sistemas Elétricos;
+d) Subitem 3 – Sistemas Mecânicos;
+e) Subitem 4 – Estruturas Metálicas; e
+f) Subitem 5 – Sistema de Segurança Eletrônica.
+5.2.1.5.3 Planejamento (PLT):
+a) Subitem 0 – Área Específica;
+b) Subitem 1 – Biblioteca Técnica;
+c) Subitem 2 – Controle; e
+d) Subitem 3 – Laboratório.
+5.2.1.5.4 Radiodeterminação (RAD):
+a) Subitem 0 – Área Específica;
+b) Subitem 1 – Radares Tridimensionais;
+c) Subitem 2 – Radares Bidimensionais;
+d) Subitem 3 – Radares Secundários; e
+e) Subitem 4 – Radares Meteorológicos.
+5.2.1.5.5 Suprimento (SUP):
+a) Subitem 0 – Área Específica;
+b) Subitem 1 – Armazenamento;
+c) Subitem 2 – Controle de Estoque; e
+d) Subitem 3 – Recebimento e Expedição.
+5.2.1.5.6 Sistemas de Tecnologia da Informação (STI):
+a) Subitem 0 – Área Específica;
+b) Subitem 1 – Infraestrutura;
+c) Subitem 2 – Sistemas;
+d) Subitem 3 – Informática Administrativa; e
+e) Subitem 4 – Informática Operacional.
+5.2.1.5.7 Telecomunicações (TEL):
+a) Subitem 0 – Área Específica;
+
+--- PÁGINA ---
+28/37 ICA 173-4/2022
+b) Subitem 1 – Sala Técnica;
+c) Subitem 2 – Enlaces;
+d) Subitem 3 – Comunicações Móveis; e
+e) Subitem 4 – Telefonia e Áudio.
+5.2.1.5.8 Outros Meios Técnicos (MIS).
+5.2.1.6 Os aspectos considerados nos Protocolos de Auditoria deverão ser vinculados a
+determinados aspectos da Matriz de Avaliação, descritos na DCA 173-2 “Auditoria Técnica
+no SISCEAB”, com a finalidade de determinar qual o enfoque se deseja impor no transcorrer
+das atividades de Auditoria e avaliação.
+5.2.1.7 Para efeito de AUDTEC, os Protocolos não constituem um fim, mas um meio, para
+que o AUDITEC possa balizar-se, a fim de atingir os objetivos propostos pelo SDTE naquela
+AUDTEC.
+5.2.2 Fichas de Não Conformidades são documentos nos quais se listam aspectos cujas
+evidências não foram encontradas durante a auditoria no meio técnico.
+5.2.2.1 As Auditorias considerarão “conformes” ou “não conformes” aqueles itens que,
+respectivamente, apresentarem ou não evidências ou observações positivas em relação a um
+padrão esperado e definido no protocolo de auditoria.
+5.2.2.2 Uma Ficha de Não Conformidade deve ser preenchida, em duas vias, para cada
+conjunto de perguntas do Protocolo que implique uma recomendação corretiva e, quando
+aplicável, medida mitigadora.
+5.2.2.3 Nas Auditorias, as Fichas de Não Conformidades devem ser preenchidas pela Equipe
+de Auditores, com base na análise das evidências apresentadas pelo PSM auditado.
+5.2.2.4 As Fichas de Não Conformidade conterão a gradação do ITR, de acordo com o grau de
+IT, atribuído pelo AUDITEC. Conforme o grau do ITR, o PSM auditado deverá adotar uma
+medida mitigadora, enquanto não se corrige a deficiência identificada.
+5.2.2.5 O detalhamento dos diferentes níveis de ITR, incluindo as respectivas exigências
+quanto à adoção de medidas mitigadoras e aos prazos máximos para a correção das Não
+Conformidades, deve seguir o disposto em norma específica elaborada pelo DECEA.
+5.3 ORGANIZAÇÕES SUBMETIDAS ÀS AUDITORIAS TÉCNICAS
+5.3.1 Deverão ser submetidos às Auditorias Técnicas todos os PSM do SISCEAB, seus elos
+eventuais e os serviços prestados por empresas contratadas para prestação de suporte logístico.
+5.4 PERIODICIDADE DAS AUDITORIAS TÉCNICAS
+5.4.1 As Auditorias Periódicas deverão ser programadas de forma a permitir amostragem de
+recorrência mínima descrita na tabela 1 a seguir.
+
+--- PÁGINA ---
+ICA 173-4/2022 29/37
+TABELA 1
+Periodicidade das Auditorias
+ORGANIZAÇÃO PERIODICIDADE
+OCM e CRM 2 anos
+CEM situado em DTCEA categoria
+especial e Esquadrões subordinados 3 anos
+ao 1° GCC
+Demais CEM 4 anos
+5.4.2 Independentemente da periodicidade acima descrita, o SDTE poderá determinar a
+realização de Auditorias Especiais a qualquer organização do SISCEAB.
+5.5 PLANEJAMENTO DAS AUDITORIAS PERIÓDICAS
+5.5.1 Os Centros Regionais de Manutenção deverão encaminhar à DNAT as propostas para o
+cumprimento do Plano de Auditorias Técnicas Periódicas, no âmbito Orgânico, no período
+compreendido entre os dias 1º e 30 de setembro de cada ano.
+5.5.2 O Plano de Auditorias Técnicas Periódicas contemplará um ciclo regular de Auditorias
+Técnicas, que se inicia em fevereiro e se encerra, preferencialmente, no mês de outubro de
+cada ano. O Plano do ano subsequente poderá ser disponibilizado na página eletrônica do
+SDTE, através de modelo próprio, até o dia 30 de outubro de cada ano.
+5.5.3 As Auditorias Periódicas planejadas para o ano subsequente deverão contemplar os
+meios técnicos que porventura tenham apresentado variações de disponibilidade ou da
+qualidade de serviços, ou ainda aqueles que, por motivação estratégica do SDTE, sejam alvo
+de um acompanhamento mais acurado.
+5.5.4 As auditorias serão numeradas de forma cronológica de execução.
+5.5.5 A DNAT deverá consolidar e, após aprovação do SDTE, tornar público o Plano de
+Auditorias Técnicas Periódicas, com a definição dos elos e meios técnicos a serem auditados.
+5.5.6 Na composição do Plano de Auditorias Técnicas Periódicas, deverão ser determinados
+os elos do SISCEAB a serem auditados sistemicamente, pelo SDTE, e organicamente, pelos
+CRM, dentre aqueles que não requeiram premência de Auditoria, sendo estas consideradas
+Auditorias Especiais.
+5.5.7 Os CRM e OCM serão auditados por Auditores Técnicos que não sejam de seu próprio
+efetivo.
+5.5.8 Serão considerados os insumos descritos no item 4.2 para a composição do Plano de
+Auditorias Técnicas Periódicas.
+
+--- PÁGINA ---
+30/37 ICA 173-4/2022
+5.6 FASES DO PROCESSO
+5.6.1 FASE 1 – BUSCA
+Nesta fase, o SDTE inicia o processo de planejamento das AUDTEC, conforme
+o previsto no item 5.5, que deverão ocorrer no ano seguinte, elaborando o Plano de Auditorias
+Técnicas Periódicas e detectando as eventuais necessidades de Auditorias Especiais.
+5.6.1.1 O Plano de Auditorias Técnicas Periódicas servirá como Ordem de Avaliação.
+5.6.1.2 Assim que tome conhecimento do fato motivacional que demande Auditoria Especial,
+o SDTE determinará a abertura do processo através da emissão de uma Ordem de Avaliação
+Técnica Especial.
+5.6.1.2.1 Ao ser determinado pelo SDTE a abertura do processo de Avaliação Técnica
+Especial, a DNAT deverá escalar a equipe de AUDITEC e informar, via cadeia de Comando,
+aos elos envolvidos. A equipe de AUDITEC deverá, quando escalada, atualizar-se com
+relação à Ordem de Auditoria Especial, com os parâmetros da missão a ser cumprida,
+principalmente quanto aos Protocolos indicados.
+5.6.1.3 Tão logo receba a determinação de abertura do processo de Auditoria Especial, a
+DNAT deverá abrir arquivo (físico ou eletrônico) no banco de dados da Divisão, para o
+registro de todas as informações relativas ao sistema avaliado.
+5.6.1.3.1 As ações da DNAT deverão permitir o despacho da Ordem de Auditoria Técnica até
+5 (cinco) dias úteis após a determinação de abertura do processo pelo SDTE.
+5.6.2 FASE 2 – COLETA DE EVIDÊNCIAS
+O objetivo da fase 2 do processo de Auditoria Técnica é a busca de evidências
+que materializem as observações do Auditor. O julgamento pessoal nos itens em que
+evidências não puderem ser encontradas poderá ser aplicado, porém com justificativa
+fundamentada.
+5.6.2.1 Ao tomar conhecimento de seu envolvimento em uma atividade de Auditoria, o
+Auditor deverá buscar informações relativas ao meio técnico a ser auditado, tais como os itens
+constantes dos Protocolos e a sua base normativa, localização e estruturação da Organização a
+ser auditada e outras informações diversas relevantes.
+5.6.2.2 Os elos do SISCEAB envolvidos, assim especificados na Ordem de Auditoria Técnica,
+deverão tomar providências no sentido de assistir as atividades de Auditoria Técnica,
+disponibilizando os meios necessários conforme determinação da DNAT.
+5.6.2.2.1 As necessidades da Equipe de Auditoria deverão ser descritas em mensagem a ser
+remetida antecipadamente pelo Chefe da Equipe de auditoria ao PSM a ser auditado.
+5.6.2.3 A duração das missões de Auditoria Técnica considerará a complexidade do meio
+técnico a ser auditado e deverá ser descrita na Ordem de Auditoria Técnica.
+5.6.2.4 As Auditorias Técnicas deverão ser controladas pelo SDTE, recebendo as mesmas
+numerações de referência das Ordens de Auditoria que lhes deram origem. No caso das
+
+--- PÁGINA ---
+ICA 173-4/2022 31/37
+Auditorias Especiais, ou aquelas não constantes do Plano de Auditorias Técnicas Periódicas,
+deverão receber a numeração sequencial, conforme cronologia de execução, a partir da última
+Auditoria Técnica Periódica.
+5.6.2.4.1 As designações de controle das Ordens de Auditoria Especial ou do Plano de
+Auditorias Técnicas Periódicas serão compostas pela numeração sequencial prevista no item
+5.6.2.10 desta Instrução, pela indicação da OM auditada, seguida de “/” e ano de referência
+Por exemplo: 001/CINDACTA I/2021; 002/CINDACTA II/2021; 003/DTCEA-SRO/2021.
+5.6.2.5 Na execução de sua atividade nesta fase, o Auditor Técnico deverá utilizar-se de sua
+experiência profissional para, à luz das normas e padrões vigentes, identificar aspectos de
+“conformidade” ou “não conformidade”, assim como propor alterações de procedimento
+julgadas pertinentes. Poderá também propor que aqueles procedimentos ótimos preconizados
+pela gestão local do meio técnico auditado sejam sistemicamente normatizados.
+5.6.2.5.1 Caso julgue necessário, o Auditor poderá anexar qualquer documento ou arquivo aos
+seus apontamentos, remetendo-os posteriormente ao SDTE, junto com o Relatório de
+Auditoria Técnica.
+5.6.2.6 Todas as informações deverão ser prestadas pela contraparte da gestão do meio técnico
+auditado. Informações obtidas por outras fontes deverão ter confirmação da contraparte.
+5.6.2.7 O Auditor poderá, no transcorrer da Auditoria, sugerir à contraparte procedimentos
+corretivos às não conformidades encontradas.
+5.6.2.8 Uma cópia do Relatório de Auditoria Técnica deverá ser disponibilizada ao PSM
+auditado, após análise de seu conteúdo pelo SDTE.
+5.6.2.9 A programação das correções das “não conformidades” pelo PSM auditado deverá
+compor um Programa de Ações Corretivas.
+5.6.2.10 A numeração do Relatório de Auditoria Técnica seguirá a numeração da Auditoria
+Técnica que lhe deu origem.
+5.6.2.10.1 A numeração do Relatório de Auditoria Técnica será composta de numeração
+sequencial, seguida pela indicação “/SDTE/” e ano de referência. Por exemplo:
+001/SDTE/2021; 002/SDTE/2021; 003/SDTE/2021.
+5.6.2.11 Relatórios Finais de Auditoria, que não tenham sido tomados como insumos
+aplicáveis em um processo de Avaliação Técnica, deverão ser arquivados pelo SDTE, de
+forma a permitir o acompanhamento e o registro das evidências levantadas nas diversas
+auditorias realizadas.
+5.6.2.12 O Auditor Técnico deverá estar plenamente familiarizado com os padrões, normas e
+instruções afetos aos meios que irá auditar. De igual forma, é importante que o Auditor tenha
+plena segurança sobre as perguntas que irá apresentar ao Auditado, previstas ou não nos
+Protocolos.
+5.6.2.13 O Auditor deverá atuar no transcorrer das Auditorias de maneira isenta e
+transparente, observando os princípios preconizados para a atividade de auditoria, permitindo
+que a contraparte do PSM auditado possa expor as evidências de forma objetiva.
+
+--- PÁGINA ---
+32/37 ICA 173-4/2022
+5.6.2.14 A contraparte do PSM auditado deverá ser investida de autonomia, de forma que com
+ela se possa coordenar de maneira positiva ações corretivas de âmbito orgânico, que serão
+definidas no respectivo Programa de Ações Corretivas Orgânico.
+5.6.2.15 O Chefe da Equipe deverá realizar, em espaço adequado no PSM auditado, uma
+reunião preliminar com sua Equipe de Auditores, na qual sejam abordados formalmente os
+assuntos concernentes às atividades a serem realizadas no transcorrer da auditoria.
+5.6.2.16 A efetiva Auditoria ao PSM deverá ser precedida de uma reunião inicial com a
+presença dos Auditores e dos representantes do PSM a ser auditado, na qual deverão ser
+abordados os principais aspectos da Auditoria e ser solicitados documentos ou outras
+evidências pertinentes à atividade.
+5.6.2.17 Ao término da Auditoria deverá ser realizada uma reunião final, na qual os aspectos
+observados são relatados à gestão logística dos meios técnicos auditados. Além disso, o Chefe
+da Equipe deverá orientar o PSM auditado acerca das ações posteriores.
+5.6.2.18 As reuniões inicial e final de cada Auditoria são formais. Também o transcorrer das
+Auditorias deverá ser formal, respeitando-se os princípios descritos na presente Instrução.
+5.6.2.19 A atividade de Auditoria não desobriga o Auditor militar e a contraparte militar do
+cumprimento de todas as formalidades previstas nos regulamentos, instruções e normas do
+Comando da Aeronáutica, principalmente aquelas referentes à disciplina e à hierarquia.
+5.6.2.20 O SDTE poderá determinar o acompanhamento de supervisores, consultores,
+observadores ou assessores no transcorrer das auditorias.
+5.6.2.20.1 Os supervisores são auditores escalados para a verificação da normalidade
+processual das Auditorias.
+5.6.2.20.2 Caso necessário, a DNAT, nas auditorias sistêmicas, poderá indicar um consultor
+para apoiar o Chefe de Equipe nas suas atribuições.
+5.6.2.20.3 Os observadores não desempenham função ativa durante as Auditorias. São
+normalmente Auditores em formação.
+5.6.2.20.4 Os assessores cumprirão atribuição de, a qualquer momento, fornecer informações
+ao Auditor acerca do meio técnico auditado.
+5.6.2.21 O Chefe da Equipe de Auditoria deverá selecionar as observações propostas pelos
+membros da equipe de AUDITEC, encaminhando as relevantes para o PLANAD, PLANAD-
+R ou RAT.
+5.6.2.22 O Chefe da Equipe de Auditoria deverá remeter à DNAT, num prazo máximo de 15
+(quinze) dias úteis após o término da Auditoria, o respectivo Relatório de Auditoria Técnica.
+5.6.2.23 O PSM auditado, através do seu Responsável Técnico, deverá, num prazo máximo de
+15 (quinze) dias úteis após o término da Auditoria, planejar e encaminhar o PAC à DNAT.
+
+--- PÁGINA ---
+ICA 173-4/2022 33/37
+5.6.3 FASE 3 – AVALIAÇÃO
+Na etapa da avaliação, após o recebimento do Relatório de Auditoria e demais
+produtos, a DNAT deverá incorporá-los ao arquivo de registro e, caso pertinente, dar
+continuidade ao processo de Avaliação Técnica como se segue:
+5.6.3.1 Propor a criação de uma Comissão Especial de Avaliação, conforme o previsto no
+item 3.4, que deverá se reunir num prazo máximo de cinco dias úteis após convocação.
+5.6.3.2 Para a reunião programada com a Comissão Especial de Avaliação Técnica, a DNAT
+deverá disponibilizar a juntada de todas as informações até então levantadas.
+5.6.3.3 O relator da reunião da Comissão Especial de Avaliação Técnica registrará os assuntos
+abordados.
+5.6.3.4 Como produto primário da reunião, deverá ser lavrado um PAC, com a mesma
+referência da Ordem de Auditoria Especial ou do Plano de Auditorias Técnicas Periódicas. O
+PAC deverá indicar uma contextualização do item avaliado e apresentar possíveis soluções
+sistêmicas.
+5.6.3.5 Tão logo disponíveis, as conclusões da Comissão Especial de Avaliação Técnica
+(Programa de Ações Corretivas), o Relatório de Auditoria Técnica, o fato motivador e demais
+informações deverão ser remetidas à apreciação do SDTE. Será designada como Relatório de
+Avaliação Técnica a juntada desses documentos.
+5.6.3.6 Após considerar o exposto no RAT, o SDTE determinará as ações corretivas cabíveis
+aos sistemas avaliados.
+5.6.3.7 O SDTE deverá regulamentar o trato e o processamento dos aspectos observados
+considerados como Atualização Técnica.
+5.6.3.8 A DNAT deverá efetuar uma juntada de casos relevantes identificados nos processos
+de Avaliação Técnica para que estejam disponíveis aos elos do SISCEAB, viabilizando a
+realização de Estudos de Casos posteriores.
+5.6.3.9 A DNAT deverá delinear, distribuir e controlar as propostas encaminhadas pelo Chefe
+de equipe, referentes ao PLANAD, PLANAD-R ou RAT, visando à solução dos problemas
+encontrados.
+5.6.3.10 Os processos de Avaliação Técnica deverão garantir a ampla rastreabilidade das
+informações neles inseridas.
+
+--- PÁGINA ---
+34/37 ICA 173-4/2022
+6 PRODUTOS DECORRENTES DO PROCESSO DE AUDITORIA TÉCNICA
+6.1 Dentre outros, são esperados os seguintes produtos do processo de Auditoria Técnica no
+SISCEAB:
+a) Relatório Final de Auditoria Técnica;
+b) Relatório de Atualização Técnica do DECEA (RAT);
+c) Programa de Ações Corretivas (PAC);
+d) Planos de Ações Delineadas (PLANAD);
+e) Relatório da Comissão Especial de Avaliação Técnica; e
+f) Revisão dos Protocolos.
+6.2 O SDTE deverá oferecer tratamento processual a cada um desses produtos, com vistas à
+determinação dos resultados esperados para cada um deles.
+6.3 Os produtos mencionados deverão ser considerados como parâmetros para a elaboração e
+priorização das atividades e projetos do SDTE que irão compor o PLANSET do DECEA.
+
+--- PÁGINA ---
+ICA 173-4/2022 35/37
+7 DISPOSIÇÕES FINAIS
+7.1 A presente Instrução é referenciada, na composição dos procedimentos nela descritos, pela
+Diretriz de Avaliação DCA 173-2, emitida pelo DECEA.
+7.2 O processo de Auditoria Técnica deverá ser conduzido conforme esta Instrução.
+7.3 Os casos não previstos nesta Instrução deverão ser submetidos à apreciação do Senhor
+Chefe do SDTE.
+
+--- PÁGINA ---
+36/37 ICA 173-4/2022
+REFERÊNCIAS
+BRASIL. Comando da Aeronáutica. Assessoria de Segurança Operacional do Controle do
+Espaço Aéreo. Inspeções de Segurança Operacional do SISCEAB: ICA 121-10. Brasília, DF,
+2017.
+BRASIL. Comando da Aeronáutica. Comando Geral do Pessoal. Confecção, Controle e
+Numeração de Publicações Oficiais do Comando da Aeronáutica: NSCA 5-1. Brasília, DF,
+2011.
+BRASIL. Comando da Aeronáutica. Departamento de Controle do Espaço Aéreo. Licenças e
+Certificados de Habilitação Técnica para o Pessoal Técnico do SISCEAB: ICA 66-23. Rio de
+Janeiro, RJ, 2019.
+BRASIL. Comando da Aeronáutica. Comando Geral do Pessoal. Governança para
+Manutenção do Sistema de Controle do Espaço Aéreo Brasileiro: DCA 66-3. Brasília, DF,
+2017.
+BRASIL. Comando da Aeronáutica. Comando Geral do Pessoal. Auditoria Técnica no
+SISCEAB: DCA 173-2. Brasília, DF, 2021.
+BRASIL. Conselho Federal de Administração. Manual de auditoria do administrador. Minas
+Gerais: CFA, 2014. Disponível em: <http://www.cfa.org.br/>. Acesso em: 12 jul. 2021.
+
+--- PÁGINA ---
+ICA 173-4/2022 37/37
+Anexo A – Modelo de Credencial de Auditor Técnico
